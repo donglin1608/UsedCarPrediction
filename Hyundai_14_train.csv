@@ -1,0 +1,63 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+295,Hyundai,Genesis Coupe 3.8 Base,14,45303,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,19500
+906,Hyundai,Genesis Coupe 2.0T R-Spec,14,55000,260.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,28000
+979,Hyundai,Genesis Coupe 2.0T,14,71000,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,10995
+2439,Hyundai,Genesis Coupe 2.0T,14,118000,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5900
+3495,Hyundai,Sonata Hybrid Base,14,67482,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,22000
+3843,Hyundai,Genesis Coupe 3.8 Track,14,58000,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,38000
+5615,Hyundai,Accent GLS,14,117500,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,6000
+5939,Hyundai,Sonata GLS,14,135000,198.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13995
+6295,Hyundai,Sonata SE,14,70000,200.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15900
+6697,Hyundai,Tucson Limited,14,120321,173.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6950
+6922,Hyundai,Genesis 3.8,14,98300,311.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,15900
+7292,Hyundai,Genesis 4.6,14,120321,378.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,15500
+7415,Hyundai,Sonata GLS,14,67900,168.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4500
+8670,Hyundai,Genesis 4.6,14,125559,378.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,11200
+10514,Hyundai,Genesis Coupe 2.0T,14,65000,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,8900
+10772,Hyundai,Tucson Limited,14,107481,120.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,78350
+11368,Hyundai,Genesis Coupe 3.8 Track,14,89000,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,17900
+11853,Hyundai,Genesis Coupe 2.0T,14,57852,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12980
+12401,Hyundai,Veloster Base,14,223824,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,10000
+12594,Hyundai,Sonata Hybrid Base,14,33812,206.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,14999
+12634,Hyundai,Tucson Limited,14,137790,173.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,7000
+12916,Hyundai,Genesis Coupe 3.8 Track,14,89000,344.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12500
+13544,Hyundai,Accent GL,14,92800,104.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13900
+14228,Hyundai,Tucson SE,14,149000,173.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,3950
+15108,Hyundai,Sonata GLS,14,135000,168.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14500
+16580,Hyundai,Equus Signature,14,143898,378.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,9900
+17519,Hyundai,Genesis Coupe 3.8 Track,14,71924,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,30000
+18875,Hyundai,Sonata GLS,14,135000,168.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,3200
+20756,Hyundai,Elantra GLS,14,145000,138.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,9000
+20936,Hyundai,Accent GLS,14,125500,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9450
+21850,Hyundai,Genesis Coupe 2.0T,14,73000,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,7900
+24402,Hyundai,Genesis Coupe 2.0T,14,61675,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,8500
+25709,Hyundai,Genesis 4.6,14,120321,378.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,17000
+26188,Hyundai,Genesis 4.6,14,125000,378.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,10500
+26646,Hyundai,Veloster Base,14,142400,132.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,13450
+27462,Hyundai,Sonata GLS,14,135000,168.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,3999
+28652,Hyundai,Genesis Coupe 3.8 Track,14,127500,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,7700
+29913,Hyundai,Accent GLS,14,107000,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,9250
+30950,Hyundai,Genesis 4.6,14,120321,378.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,18950
+32528,Hyundai,Genesis Coupe 3.8 Track,14,130000,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,9250
+33311,Hyundai,Sonata GLS,14,135000,168.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,12000
+33548,Hyundai,Elantra GLS,14,107000,138.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,6250
+34085,Hyundai,Sonata GLS,14,98313,168.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,13450
+36099,Hyundai,Genesis Coupe 2.0T,14,65000,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13900
+37035,Hyundai,Sonata GLS,14,135000,168.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,5999
+37925,Hyundai,Genesis Coupe 3.8 Grand Touring,14,185000,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6300
+39344,Hyundai,Genesis Coupe 3.8 Track,14,89000,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,12500
+40821,Hyundai,Genesis 4.6,14,1090,378.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,9000
+41232,Hyundai,Genesis Coupe 3.8 Track,14,127500,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,9900
+41959,Hyundai,Genesis Coupe 2.0T,14,87000,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8900
+42041,Hyundai,Genesis Coupe 3.8 Track,14,75000,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,12000
+43917,Hyundai,Genesis 3.8,14,148949,290.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,2300
+46328,Hyundai,Tucson Limited,14,152000,173.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,5800
+47184,Hyundai,Sonata GLS,14,135000,168.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6000
+47768,Hyundai,Sonata GLS,14,68364,198.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+48071,Hyundai,Santa Fe SE,14,239000,242.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7000
+48128,Hyundai,Tucson Limited,14,48500,173.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,2300
+50405,Hyundai,Genesis Coupe 3.8 Track,14,127500,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,11000
+50859,Hyundai,Genesis Coupe 3.8 Track,14,117697,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,6500
+51229,Hyundai,Genesis Coupe 3.8 Track,14,127500,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,7000
+52130,Hyundai,Elantra GLS,14,72000,136.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10300
+52365,Hyundai,Santa Fe Sport 2.0L Turbo Ultimate,14,71669,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,20000

@@ -1,0 +1,72 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+54932,GMC,Yukon SLT,5,67865,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+55061,GMC,Acadia SLE,5,48549,3.6L V6 24V GDI DOHC,9-Speed Automatic,None reported,0
+55677,GMC,Terrain SLT-1,5,24500,170.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+56240,GMC,Yukon XL SLT,5,65212,5.3L V8 16V GDI OHV,10-Speed Automatic,At least 1 accident or damage reported,0
+56476,GMC,Sierra 1500 Limited Elevation,5,24900,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+56524,GMC,Yukon XL SLT,5,55000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+56651,GMC,Sierra 1500 SLT,5,95000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+56745,GMC,Yukon XL SLT,5,11250,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+57290,GMC,Yukon Denali,5,36526,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+57328,GMC,Sierra 1500 SLT,5,49105,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+58580,GMC,Canyon Denali,5,49000,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,0
+58834,GMC,Sierra 2500 Denali,5,85000,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,0
+60407,GMC,Canyon Denali,5,26339,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+60950,GMC,Yukon Denali,5,88450,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+61378,GMC,Terrain SLT,5,60807,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,At least 1 accident or damage reported,0
+62103,GMC,Sierra 3500 Denali,5,73091,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,0
+62336,GMC,Suburban Premier,5,51338,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+62677,GMC,Yukon XL AT4,5,57800,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+62849,GMC,Yukon Denali,5,52000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+63073,GMC,Sierra 2500 Denali,5,86000,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+63111,GMC,Canyon Denali,5,26339,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,0
+63304,GMC,Sierra 2500 Base,5,52673,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+64434,GMC,Sierra 2500 Denali,5,31681,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+64688,GMC,Canyon Elevation Standard,5,35500,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+64750,GMC,Sierra 1500 SLT,5,52300,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+64874,GMC,Acadia Denali,5,48500,288.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,0
+65149,GMC,Sierra 2500 Denali,5,13828,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,0
+65886,GMC,Sierra 1500 SLE,5,23400,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+65904,GMC,Yukon XL SLT,5,23400,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+67888,GMC,Yukon SLT,5,92031,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+68234,GMC,Yukon Denali,5,60000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+69257,GMC,Yukon Denali,5,88450,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+69797,GMC,Yukon Denali,5,36526,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+70986,GMC,Yukon XL SLT,5,45617,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+71105,GMC,Sierra 2500 Base,5,58000,360.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,0
+71141,GMC,Yukon XL SLT,5,33500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+71991,GMC,Yukon Denali,5,4500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+72679,GMC,Sierra 1500 SLT,5,53450,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+72943,GMC,Terrain SLT,5,55018,170.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,0
+73135,GMC,Sierra 1500 Denali,5,43433,6.2L V8 16V GDI OHV,6-Speed Automatic,None reported,0
+73283,GMC,Acadia SLE,5,26000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+74651,GMC,Sierra 2500 Denali,5,85000,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+74846,GMC,Yukon SLT,5,53433,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+74949,GMC,Yukon Denali,5,44168,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,0
+75145,GMC,Yukon Denali,5,76000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+75154,GMC,Yukon XL SLT,5,26339,5.3L V8 16V GDI OHV,Automatic,None reported,0
+76152,GMC,Yukon SLT,5,64517,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+76915,GMC,Yukon SLT,5,53433,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+77708,GMC,Acadia SLT-1,5,51300,193.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+78049,GMC,Yukon Denali,5,36526,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+78765,GMC,Yukon XL SLT,5,25000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+78878,GMC,Yukon Denali,5,98500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+79204,GMC,Acadia SLT-1,5,36500,193.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+79291,GMC,Yukon Denali,5,23292,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+80072,GMC,Yukon SLT,5,85000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+80611,GMC,Yukon Denali,5,107750,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+81392,GMC,Yukon Denali,5,36526,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+82767,GMC,Sierra 1500 SLT,5,99500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+83258,GMC,Terrain SLT,5,60807,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,At least 1 accident or damage reported,0
+83733,GMC,Yukon Denali,5,74582,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+84128,GMC,Sierra 3500 Denali,5,73091,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+84213,GMC,Yukon XL SLT,5,48879,5.3L V8 16V GDI OHV,10-Speed Automatic,None reported,0
+86126,GMC,Yukon XL Denali,5,94650,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+86753,GMC,Sierra 2500 Base,5,55000,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+87708,GMC,Yukon SLT,5,49688,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+87717,GMC,Yukon XL SLT,5,52000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+88164,GMC,Sierra 2500 Base,5,95000,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+88220,GMC,Yukon SLT,5,48613,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+88248,GMC,Acadia SLE,5,64800,193.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+89151,GMC,Yukon XL SLT,5,33499,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+90451,GMC,Yukon Denali,5,4500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0

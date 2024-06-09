@@ -1,0 +1,111 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+261,Toyota,Tacoma SR5,10,24915,3.5L V6 24V PDI DOHC,6-Speed Automatic,At least 1 accident or damage reported,13715
+600,Toyota,FJ Cruiser Base,10,86000,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+666,Toyota,Camry Hybrid Base,10,112180,208.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,None reported,8900
+1273,Toyota,Camry Hybrid XLE,10,84681,188.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,11500
+1292,Toyota,Prius Touring,10,69000,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,18995
+2253,Toyota,Camry Hybrid XLE,10,119000,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,11000
+3135,Toyota,Tundra SR5,10,119000,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,14500
+3305,Toyota,Prius Plug-in Base,10,106000,134.0HP 1.8L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,16000
+4323,Toyota,Prius v Three,10,96000,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,5-Speed A/T,At least 1 accident or damage reported,19000
+4610,Toyota,Tundra SR5,10,125559,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11200
+4617,Toyota,Highlander Limited,10,65290,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,22999
+5003,Toyota,RAV4 SE,10,74600,176.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+6549,Toyota,RAV4 Base,10,85000,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,18300
+7128,Toyota,Camry Hybrid XLE,10,79800,208.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,15900
+7300,Toyota,Prius Plug-in Base,10,106000,134.0HP 1.8L 4 Cylinder Engine Plug-In Electric/Gas,6-Speed M/T,At least 1 accident or damage reported,18700
+7681,Toyota,Sequoia Platinum,10,124838,381.0HP 5.7L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,33000
+7775,Toyota,Tundra Hybrid Capstone,10,93400,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,17999
+8262,Toyota,Tundra SR5,10,95200,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12499
+8319,Toyota,Sequoia Platinum,10,124838,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,36727
+8736,Toyota,4Runner Limited,10,68500,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+9321,Toyota,4Runner Limited,10,65000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,17900
+9386,Toyota,Tacoma PreRunner,10,76000,159.0HP 2.7L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+11488,Toyota,Prius Plug-in Base,10,124705,134.0HP 1.8L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,11900
+11891,Toyota,FJ Cruiser Base,10,86281,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,99000
+12315,Toyota,Tundra SR5,10,119000,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12500
+12346,Toyota,FJ Cruiser Base,10,86000,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,22550
+13723,Toyota,Camry Hybrid XLE,10,161000,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,11500
+14107,Toyota,FJ Cruiser Base,10,67522,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28250
+14639,Toyota,Camry SE,10,112630,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+14782,Toyota,Sequoia Platinum,10,150900,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,28500
+16146,Toyota,Tundra SR5,10,68000,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18000
+17734,Toyota,Prius Touring,10,123000,76.0HP 1.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,18000
+18044,Toyota,Highlander XLE,10,115000,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19000
+19441,Toyota,Prius Two,10,80354,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,11800
+20280,Toyota,4Runner Limited,10,146700,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,18500
+20290,Toyota,4Runner Limited,10,65000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,28000
+20503,Toyota,FJ Cruiser Base,10,86000,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,34700
+20678,Toyota,Prius v Three,10,127600,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,13715
+20717,Toyota,4Runner Limited,10,95000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,20900
+20737,Toyota,4Runner TRD Pro,10,87600,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+20761,Toyota,4Runner Trail,10,79800,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,19950
+21167,Toyota,4Runner Limited,10,186117,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+21268,Toyota,RAV4 Base,10,103814,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,15990
+21571,Toyota,Avalon Hybrid XLE Premium,10,161000,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,11200
+21801,Toyota,Highlander XLE,10,87500,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,26900
+21998,Toyota,Highlander Limited,10,125900,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,22800
+22324,Toyota,4Runner SR5,10,139804,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,26500
+22848,Toyota,4Runner Trail,10,179000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,30000
+24223,Toyota,Camry Hybrid XLE,10,69350,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,24995
+24585,Toyota,Highlander Hybrid Limited Platinum,10,76000,306.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,None reported,21000
+25746,Toyota,Avalon XLE,10,85253,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21000
+25854,Toyota,FJ Cruiser Base,10,162000,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,38000
+26310,Toyota,Tacoma SR,10,84351,3.5L V6 24V PDI DOHC,5-Speed A/T,None reported,15363
+26448,Toyota,Land Cruiser Base,10,61000,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,37000
+27233,Toyota,Highlander Hybrid Limited Platinum,10,13828,306.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,22999
+27821,Toyota,Prius v Three,10,138450,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,10700
+28016,Toyota,FJ Cruiser Base,10,136000,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+29247,Toyota,4Runner SR5,10,135000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,14500
+30069,Toyota,4Runner Trail,10,124700,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,23450
+30828,Toyota,Camry Solara SLE,10,149000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11495
+31628,Toyota,Tundra SR5,10,45000,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,20995
+32810,Toyota,Corolla LE,10,161000,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,17500
+32949,Toyota,Sequoia Limited,10,144860,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,33000
+33303,Toyota,Highlander Hybrid Limited Platinum,10,69641,306.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,None reported,21000
+33357,Toyota,Tacoma SR5,10,85385,3.5L V6 24V PDI DOHC,6-Speed Automatic,At least 1 accident or damage reported,14311
+33604,Toyota,Camry SE,10,149000,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7850
+34175,Toyota,Sequoia Limited,10,76163,381.0HP 5.7L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,15995
+34550,Toyota,4Runner SR5,10,123500,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15500
+35156,Toyota,FJ Cruiser Base,10,86000,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,27950
+35351,Toyota,Tundra SR5,10,229450,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,24950
+35526,Toyota,Tundra Hybrid Limited,10,84352,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,6-Speed A/T,None reported,10998
+36159,Toyota,4Runner TRD Off Road,10,155000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15599
+36319,Toyota,4Runner SR5 Premium,10,16983,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7390
+36575,Toyota,C-HR LE,10,14065,2.0L I4 16V MPFI DOHC,CVT Transmission,At least 1 accident or damage reported,15363
+36936,Toyota,Prius Touring,10,118000,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+37475,Toyota,Camry Hybrid XLE,10,94448,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,15999
+38065,Toyota,4Runner Limited,10,102665,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,15000
+38173,Toyota,Avalon Touring,10,96600,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17000
+39033,Toyota,Highlander XLE,10,68575,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15000
+39989,Toyota,Corolla LE,10,79876,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13900
+40223,Toyota,Corolla LE,10,72348,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9500
+41670,Toyota,4Runner SR5,10,138700,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17900
+41786,Toyota,4Runner Limited,10,161000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,18000
+42023,Toyota,Avalon Hybrid XLE Premium,10,125559,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,11000
+42084,Toyota,Prius Two,10,96800,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,9995
+42452,Toyota,Tundra SR5,10,26300,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18000
+42634,Toyota,Land Cruiser Base,10,269885,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,22500
+42683,Toyota,FJ Cruiser Base,10,86000,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+43982,Toyota,Camry XLE,10,95500,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14950
+44034,Toyota,Sequoia Limited,10,67000,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37000
+44065,Toyota,Prius Two,10,81400,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,26000
+44320,Toyota,Tundra SR5 Access Cab,10,153818,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,11000
+44660,Toyota,Supra 3.0 Premium,10,120000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,20000
+44844,Toyota,tC Anniversary Edition,10,112180,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15450
+45329,Toyota,FJ Cruiser Base,10,86000,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,22945
+47015,Toyota,Tacoma PreRunner,10,149000,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18995
+47175,Toyota,GR86 Premium,10,41997,228.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16999
+48291,Toyota,4Runner Limited,10,161000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,27000
+48341,Toyota,Camry Hybrid XLE,10,88900,208.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,17700
+48975,Toyota,Highlander Hybrid Limited Platinum,10,96400,306.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,None reported,15999
+49300,Toyota,RAV4 SE,10,90625,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9500
+49469,Toyota,4Runner SR5,10,103500,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+50084,Toyota,Corolla S Plus,10,86121,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,18900
+50224,Toyota,Camry Hybrid XLE,10,68653,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,15900
+50716,Toyota,350Z Touring,10,74600,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,22000
+51255,Toyota,Highlander Limited,10,165520,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16500
+52419,Toyota,Corolla CE,10,95200,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12499
+53416,Toyota,4Runner Limited,10,149000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,18995
+53932,Toyota,GR86 Premium,10,1275,228.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,9650
+54238,Toyota,Highlander XLE,10,122945,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16999

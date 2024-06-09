@@ -1,0 +1,301 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+49,Ford,Taurus SHO,10,138415,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+197,Ford,Thunderbird Deluxe,10,63250,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18650
+233,Ford,Mustang GT Premium,10,63460,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,25215
+326,Ford,F-150 XL,10,24000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21500
+459,Ford,Fusion SE,10,75600,181.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14950
+1166,Ford,F-150 XLT,10,115000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12000
+1323,Ford,F-150 XL,10,25880,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,15995
+1341,Ford,Mustang GT Premium,10,102000,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21500
+1575,Ford,F-150 XL,10,93400,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,27200
+1650,Ford,Mustang V6,10,118500,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15999
+1832,Ford,Mustang GT,10,51400,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,29600
+2173,Ford,Taurus SHO,10,138415,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17500
+2190,Ford,F-150 XLT,10,207100,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15000
+2442,Ford,Explorer XLT,10,161000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18900
+2531,Ford,Fusion SE,10,80800,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,16900
+2659,Ford,Mustang V6 Premium,10,70503,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,18955
+2826,Ford,F-150 FX4,10,81327,411.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,19500
+3111,Ford,F-150 Lariat,10,182000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13700
+3448,Ford,F-150 XLT,10,53500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21000
+3682,Ford,Mustang V6,10,140200,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,7500
+3759,Ford,Focus ST Base,10,90000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,14500
+3787,Ford,Mustang GT Premium,10,74500,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,20000
+4559,Ford,Mustang GT Premium,10,123000,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,24995
+4903,Ford,F-250 XLT,10,59459,400.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,40999
+5014,Ford,Mustang GT Premium,10,37060,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27500
+5016,Ford,Mustang GT Premium,10,62660,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21500
+5256,Ford,F-250 Lariat,10,122650,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,55000
+5525,Ford,Mustang GT Premium,10,37060,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,23800
+5596,Ford,F-150 XL,10,107000,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,22000
+5635,Ford,Transit-350 Base,10,104000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17500
+5733,Ford,Focus ST Base,10,110000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21500
+5786,Ford,Fusion SE,10,80800,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,10000
+5995,Ford,Mustang V6,10,122000,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,13200
+6210,Ford,Mustang GT Premium,10,73500,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,25990
+6226,Ford,Fusion SE,10,71000,240.0HP 3.0L V6 Cylinder Engine Flex Fuel Capability,A/T,None reported,16900
+6240,Ford,Focus SE,10,107500,132.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9500
+6882,Ford,F-250 XLT,10,84421,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,19000
+7135,Ford,Mustang V6,10,99499,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+7161,Ford,F-150 XLT,10,88750,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15900
+7225,Ford,F-150 XLT,10,82975,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+7411,Ford,F-250 XLT,10,169613,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,15000
+7513,Ford,F-150 FX4,10,85500,411.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,26900
+7638,Ford,F-150 Raptor,10,78717,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,26599
+8336,Ford,Mustang Shelby GT500,10,59000,500.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,40999
+8562,Ford,Fusion SE,10,107000,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+8683,Ford,Transit-350 XL,10,98000,275.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,23300
+9116,Ford,F-150 XLT,10,92000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,20995
+9177,Ford,Fusion SE,10,87500,181.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,18700
+9249,Ford,Mustang GT Premium,10,37060,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,28300
+9306,Ford,F-250 XLT,10,87500,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,39985
+9341,Ford,F-250 XL,10,92000,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,36000
+9711,Ford,Focus ST Base,10,110000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,9500
+10004,Ford,Fusion SE,10,90742,181.0HP 1.5L 3 Cylinder Engine Gasoline Fuel,A/T,None reported,17000
+10428,Ford,Focus SE,10,107500,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,15995
+10441,Ford,Focus SE,10,84352,160.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15500
+10584,Ford,F-150 XLT,10,59459,400.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,40999
+11277,Ford,Mustang V6,10,87500,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17000
+11294,Ford,Mustang GT Premium,10,45000,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,30000
+11605,Ford,F-250 Lariat,10,92671,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,19999
+12147,Ford,F-250 Lariat,10,123500,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,21000
+12224,Ford,Explorer Limited,10,86000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26900
+12771,Ford,Mustang V6,10,147191,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8500
+12858,Ford,F-150 Lariat,10,117000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,24200
+12933,Ford,Focus ST Base,10,1025,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,33000
+13195,Ford,F-350 Lariat,10,117878,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,Transmission w/Dual Shift Mode,None reported,29000
+13237,Ford,Mustang GT Premium,10,40570,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,26999
+13256,Ford,F-150 Lariat,10,123500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17000
+13304,Ford,F-150 SVT Raptor,10,89988,411.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,24995
+13369,Ford,F-150 XL,10,75466,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,33500
+13543,Ford,F-150 XLT,10,124000,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,24850
+13611,Ford,Utility Police Interceptor Base,10,169500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15000
+14160,Ford,F-150 XLT,10,67650,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,30000
+14192,Ford,Mustang GT Premium,10,102000,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21500
+14226,Ford,Mustang V6 Premium,10,123000,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,15000
+14242,Ford,Focus SE,10,84000,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,12000
+14538,Ford,Cayman Base,10,28000,275.0HP 2.7L Flat 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,40995
+14699,Ford,F-150 XLT,10,104000,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,17800
+14905,Ford,Mustang GT,10,142666,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,17800
+15005,Ford,Explorer XLT,10,87500,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,13800
+15089,Ford,Mustang Shelby GT500,10,28560,650.0HP 5.8L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,52590
+15153,Ford,Focus SE,10,60109,160.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17500
+15185,Ford,Focus SE,10,102604,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,12500
+15338,Ford,Fusion SE,10,84709,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,22500
+15734,Ford,Expedition Max Limited,10,67500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,40500
+15924,Ford,F-250 XLT,10,123000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15000
+15994,Ford,Explorer XLT,10,112000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15000
+16038,Ford,F-150 Lariat,10,87500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,28700
+16208,Ford,Explorer XLT,10,152000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,24000
+16460,Ford,F-150 XLT,10,117200,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15900
+16690,Ford,Explorer XLT,10,93500,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27800
+16811,Ford,F-150 XLT,10,121212,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,27999
+17088,Ford,Focus ST Base,10,63398,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,21500
+17121,Ford,C-Max Energi SE,10,74500,188.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,CVT Transmission,At least 1 accident or damage reported,11499
+17151,Ford,Mustang EcoBoost Premium,10,125575,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,3999
+17196,Ford,Utility Police Interceptor Base,10,93009,300.0HP 3.7L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,21499
+17420,Ford,Expedition EL King Ranch,10,169500,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,15000
+17461,Ford,Focus SE,10,80800,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,None reported,6500
+17687,Ford,Mustang V6,10,87092,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,14000
+18273,Ford,Transit Connect XLT,10,142215,169.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12500
+18381,Ford,F-150 Lariat,10,112000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+18506,Ford,Escape SE,10,153350,173.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9800
+18515,Ford,F-250 Lariat,10,100080,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,22989
+19373,Ford,F-150 Lariat,10,102000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,23000
+19405,Ford,Utility Police Interceptor Base,10,136000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,10500
+19430,Ford,F-150 Lariat,10,69001,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19000
+19471,Ford,F-150 Lariat,10,164500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+19534,Ford,Focus SE,10,110000,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,15499
+20076,Ford,Mustang GT,10,160900,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15000
+20629,Ford,Transit-350 XLT,10,115000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18400
+20794,Ford,Fusion SE,10,89726,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15999
+20871,Ford,3500 Laramie,10,177000,385.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,40500
+20909,Ford,F-150 XLT,10,87500,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,22800
+21025,Ford,E150 XLT,10,120250,255.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,15999
+21283,Ford,F-150 Lariat,10,120000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+21508,Ford,F-150 XLT,10,112000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,16499
+21625,Ford,Expedition EL XLT,10,162000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,27999
+21854,Ford,F-150 XLT,10,163500,282.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,14500
+22310,Ford,Mustang V6,10,96653,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,14999
+22478,Ford,F-150 XLT,10,49872,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,21500
+22639,Ford,Fusion Hybrid SE Hybrid,10,112000,188.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,17999
+22774,Ford,Fusion SE,10,132272,175.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9900
+23006,Ford,F-350 XLT,10,59459,400.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,40999
+23083,Ford,F-150 XL,10,95212,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17000
+23118,Ford,Mustang Shelby GT500,10,6400,650.0HP 5.8L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,80000
+23213,Ford,F-150 XLT,10,74582,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,9495
+23234,Ford,E350 Super Duty Base,10,84421,255.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,31000
+23260,Ford,E250 Cargo,10,140401,225.0HP 4.6L 8 Cylinder Engine Flex Fuel Capability,4-Speed A/T,None reported,10500
+23449,Ford,E350 Super Duty XLT,10,163000,255.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,19550
+23509,Ford,Focus ST Base,10,49000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,20995
+23929,Ford,F-250 XLT,10,143000,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,22500
+24252,Ford,Focus RS Base,10,79635,350.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,8995
+24669,Ford,F-250 XLT,10,94300,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,19000
+24670,Ford,F-250 XLT,10,149460,400.0HP 6.7L 8 Cylinder Engine Diesel Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,26900
+25042,Ford,F-150 Lariat,10,87500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28000
+25150,Ford,Taurus SHO,10,98000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,9500
+25277,Ford,Fusion Energi Titanium,10,67482,188.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,A/T,At least 1 accident or damage reported,15500
+25296,Ford,F-150 XLT,10,87500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16500
+25542,Ford,Mustang GT,10,82975,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18900
+25560,Ford,F-250 XLT,10,177000,400.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,40500
+25954,Ford,Mustang GT Premium,10,53600,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,34900
+26039,Ford,Focus SE,10,60109,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,None reported,15995
+26063,Ford,F-250 Lariat,10,157272,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,7-Speed A/T,At least 1 accident or damage reported,26000
+26429,Ford,F-150 Lariat,10,85000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,24500
+26516,Ford,F-250 XL,10,94300,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,22500
+26707,Ford,F-250 XLT,10,94634,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,51999
+26780,Ford,Mustang GT,10,1295,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15999
+26798,Ford,Edge Sport,10,86000,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18500
+27198,Ford,Mustang GT Premium,10,81219,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,53000
+27253,Ford,Mustang GT Premium,10,500,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27999
+27620,Ford,Focus SE,10,60000,160.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+27731,Ford,F-150 Lariat,10,126500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27000
+28094,Ford,F-150 XLT,10,115000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,16499
+28346,Ford,F-150 Lariat,10,149000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17950
+28459,Ford,Fusion SE,10,80800,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13800
+28516,Ford,Mustang GT Premium,10,66500,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28500
+28521,Ford,F-250 XL,10,117000,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,27000
+28649,Ford,Fusion SE,10,160000,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11495
+28785,Ford,Mustang V6 Premium,10,84200,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27899
+28821,Ford,Focus SE,10,60109,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,18995
+28941,Ford,Taurus SHO,10,138415,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14995
+29096,Ford,F-150 XLT,10,118000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26900
+29253,Ford,Mustang V6,10,134000,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21500
+29464,Ford,F-150 Lariat,10,95500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28000
+29741,Ford,Fusion Hybrid Base,10,158366,156.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,10000
+29760,Ford,F-150 XLT,10,96273,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,24350
+29949,Ford,F-250 XLT,10,153818,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,34999
+29964,Ford,F-150 XLT,10,207100,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,18999
+30303,Ford,F-150 XLT,10,207100,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15495
+30411,Ford,Fusion SE,10,75600,181.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14950
+30659,Ford,Mustang GT Premium,10,37060,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28500
+30857,Ford,Focus SE,10,116157,132.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,10000
+30960,Ford,Mustang GT Premium,10,128000,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,32900
+31014,Ford,Explorer XLT,10,96653,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15000
+31198,Ford,Fusion SE,10,115000,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11495
+31993,Ford,Expedition EL King Ranch,10,100080,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,15750
+32196,Ford,Taurus SHO,10,138415,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16500
+32702,Ford,F-250 XLT,10,53000,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,25000
+32721,Ford,Focus RS Base,10,96000,350.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,18200
+33231,Ford,F-150 XL,10,27000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27499
+33377,Ford,F-150 Lariat,10,162000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,14000
+33557,Ford,Mustang GT Premium,10,126000,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,9000
+33714,Ford,Mustang GT Premium,10,37060,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,26000
+33717,Ford,Edge Titanium,10,101387,245.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16000
+33743,Ford,Mustang GT,10,133500,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,16000
+33917,Ford,Focus SE,10,102665,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,9250
+34079,Ford,F-150 XLT,10,207100,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15000
+34508,Ford,Fusion SE,10,71400,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9999
+34608,Ford,F-250 XLT,10,123500,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,16000
+34662,Ford,Taurus SHO,10,160000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16500
+34699,Ford,Mustang EcoBoost Premium,10,70500,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,23000
+34869,Ford,Taurus SHO,10,138415,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15500
+35448,Ford,Transit-350 Base,10,122000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+35515,Ford,Transit-350 Base,10,143000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,11495
+35523,Ford,Utility Police Interceptor Base,10,53000,300.0HP 3.7L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,20000
+35761,Ford,F-150 XL,10,27300,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21500
+35945,Ford,Mustang GT Premium,10,105500,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,22000
+35987,Ford,Mustang GT Premium,10,106700,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,53000
+36004,Ford,F-350 XLT,10,136000,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,12500
+36056,Ford,F-150 XLT,10,112000,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,14599
+36062,Ford,Explorer Limited,10,86000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26900
+36463,Ford,Transit Connect XLT,10,112000,169.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11400
+36597,Ford,Mustang Shelby GT500,10,67500,540.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+36634,Ford,F-150 XLT,10,136000,282.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,15700
+37088,Ford,Transit Connect XLT,10,85000,169.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11250
+37179,Ford,Mustang EcoBoost Premium,10,80400,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,24000
+37198,Ford,F-250 Lariat,10,15167,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,51500
+37510,Ford,F-150 XLT,10,207100,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16000
+37511,Ford,F-150 XL,10,84421,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,15000
+37528,Ford,Mustang GT Premium,10,25717,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,42800
+37541,Ford,F-250 XLT,10,106000,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,37500
+37675,Ford,Fusion SE,10,80800,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+37750,Ford,Mustang GT Premium,10,26000,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21500
+37815,Ford,F-150 Lariat,10,78000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21800
+37842,Ford,Focus SE,10,91000,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,12500
+38069,Ford,Mustang EcoBoost Premium,10,95500,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15499
+38218,Ford,Taurus SHO,10,138415,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+38604,Ford,Focus SE,10,102750,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,17495
+38954,Ford,Mustang Bullitt,10,48500,480.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18750
+39146,Ford,Fusion SE,10,160000,240.0HP 3.0L V6 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,12500
+39158,Ford,Mustang V6,10,126700,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,17000
+39724,Ford,F-150 XLT,10,118000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18900
+39793,Ford,Taurus SHO,10,128000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19500
+39813,Ford,Expedition EL XLT,10,182000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+40047,Ford,Focus SE,10,60109,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,7450
+40359,Ford,Fusion SE,10,80800,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+40368,Ford,F-150 XLT,10,79000,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,None reported,15499
+40408,Ford,F-150 XL,10,27300,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21500
+40441,Ford,Edge Sport,10,102000,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18900
+40512,Ford,F-250 XLT,10,71448,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,16000
+40978,Ford,Edge Sport,10,63400,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15300
+41249,Ford,Fusion SE,10,68000,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+41650,Ford,Mustang Shelby GT500,10,22000,650.0HP 5.8L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,159000
+41766,Ford,Transit-350 XLT,10,97724,210.0HP 2.0L 4 Cylinder Engine Diesel Fuel,A/T,None reported,19000
+42299,Ford,F-150 Lariat,10,60000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,33000
+42385,Ford,F-250 Lariat,10,106731,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,35000
+42647,Ford,F-250 Lariat,10,149460,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,24900
+43168,Ford,F-150 SVT Raptor,10,89988,411.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,34900
+43211,Ford,F-250 XLT,10,59459,400.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,37000
+43669,Ford,Mustang V6,10,27839,5.8L V8 32V MPFI DOHC Supercharged,6-Speed Manual,At least 1 accident or damage reported,22999
+43884,Ford,Mustang GT Premium,10,18500,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28500
+43933,Ford,Focus RS Base,10,90601,350.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,8500
+44084,Ford,Explorer XLT,10,85253,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,20999
+44378,Ford,Explorer XLT,10,89148,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17495
+44420,Ford,Mustang V6 Premium,10,89190,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,15499
+44516,Ford,Taurus SHO,10,68000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15500
+44639,Ford,F-150 XLT,10,126000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,13000
+44648,Ford,Utility Police Interceptor Base,10,116000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12500
+45021,Ford,F-150 Lariat,10,207100,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+45101,Ford,Mustang V6,10,105500,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+45161,Ford,F-150 XLT,10,86500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,35999
+45834,Ford,Focus SE,10,91000,160.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12500
+46051,Ford,Expedition EL XLT,10,81778,3.5L V6 24V PDI DOHC Twin Turbo,5-Speed Automatic,None reported,17550
+46081,Ford,Explorer XLT,10,98000,290.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,17100
+46369,Ford,F-150 XL,10,75200,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+46503,Ford,F-150 Platinum,10,67500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21500
+46923,Ford,F-150 Lariat,10,157000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+47005,Ford,Explorer XLT,10,846,290.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,30000
+47054,Ford,Mustang Shelby GT500,10,87500,650.0HP 5.8L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,46999
+47205,Ford,F-250 Lariat,10,126500,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,18999
+47224,Ford,F-150 XLT,10,115000,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,13715
+47314,Ford,Mustang V6,10,105000,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,23300
+47482,Ford,750 Li xDrive,10,97700,407.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,12000
+47631,Ford,Fusion Hybrid Base,10,158366,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,8500
+47858,Ford,Mustang V6 Premium,10,126700,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,17000
+47864,Ford,Bronco Sport Outer Banks,10,31654,1.5L I3 12V PDI DOHC Turbo,A/T,None reported,15363
+48059,Ford,Mustang GT,10,52673,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28000
+48084,Ford,Focus ST Base,10,89000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,14500
+48202,Ford,F-150 XLT,10,152000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17995
+48309,Ford,Transit Connect XLT,10,66770,169.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,11250
+48610,Ford,Mustang Premium,10,125470,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+48635,Ford,Fusion SE,10,107000,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+48712,Ford,Mustang GT Premium,10,38560,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,29500
+48841,Ford,F-150 Lariat,10,117000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,23000
+49227,Ford,Focus SE,10,80150,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,18000
+49276,Ford,Focus SE,10,80134,2.0L I4 16V GDI DOHC Flexible Fuel,6-Speed Automatic with Auto-Shift,None reported,9450
+49309,Ford,F-250 Platinum,10,92000,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,28000
+49611,Ford,Fusion SE,10,83700,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15500
+50188,Ford,MKZ Hybrid Base,10,78568,188.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,15500
+50523,Ford,F-150 Lariat,10,134000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16500
+50594,Ford,F-150 XL,10,179000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,21000
+50749,Ford,F-250 XL,10,75200,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,22000
+50839,Ford,Mustang GT Premium,10,56000,315.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+51198,Ford,Mustang V6 Premium,10,53600,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,32500
+51237,Ford,Mustang GT Premium,10,37060,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,28000
+51306,Ford,F-250 XLT,10,122650,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21500
+51399,Ford,F-250 XL,10,35900,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,37000
+51476,Ford,F-250 XLT,10,94300,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,5949
+51743,Ford,F-250 Lariat,10,85000,400.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,24999
+52018,Ford,MKZ Hybrid Base,10,78568,188.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,15500
+52020,Ford,F-250 XLT,10,124000,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,15000
+52047,Ford,F-150 Lariat,10,92671,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,14000
+52110,Ford,Expedition EL King Ranch,10,38900,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,21500
+52202,Ford,F-150 Lariat,10,102000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,35000
+52577,Ford,F-150 FX4,10,85500,411.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,47000
+52889,Ford,Mustang GT Premium,10,68860,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,22000
+52979,Ford,Utility Police Interceptor Base,10,113395,300.0HP 3.7L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,14999
+53096,Ford,Fusion SE,10,114323,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9000
+53258,Ford,Mustang GT Premium,10,37060,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21500
+53743,Ford,F-150 XLT,10,124000,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,130000
+53916,Ford,Mustang V6,10,112000,350.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,26800

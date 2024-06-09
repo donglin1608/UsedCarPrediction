@@ -1,0 +1,5 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+59515,Jaguar,XJ8 L,21,87500,294.0HP 4.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+70313,Jaguar,XJ8 L,21,75000,300.0HP 4.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+77016,Jaguar,XKR Base,21,50000,420.0HP 4.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+84806,Jaguar,XJ8 Base,21,112000,294.0HP 4.2L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0

@@ -1,0 +1,63 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+618,Hyundai,Veloster Turbo R-Spec,10,128000,201.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,11000
+1052,Hyundai,Genesis Coupe 3.8 Grand Touring,10,190120,344.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15100
+2410,Hyundai,Elantra SE,10,125519,145.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,11200
+3642,Hyundai,Accent GLS,10,82900,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16500
+4812,Hyundai,Genesis 5,10,72000,429.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,24000
+8445,Hyundai,Accent GLS,10,80354,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,13310
+9072,Hyundai,Genesis Coupe 3.8 Track,10,98600,344.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,30000
+9151,Hyundai,Accent GLS,10,111000,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,7900
+10606,Hyundai,Accent GLS,10,127941,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+13810,Hyundai,Genesis Coupe 3.8 R-Spec,10,89000,348.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18000
+14137,Hyundai,Genesis 3.8,10,153332,311.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12433
+14367,Hyundai,Accent GLS,10,117500,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12999
+15066,Hyundai,Accent GLS,10,127980,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,17238
+16289,Hyundai,Accent GLS,10,98500,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17500
+16414,Hyundai,Accent GLS,10,127941,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,7000
+18320,Hyundai,Genesis 3.8,10,87500,311.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,17777
+19126,Hyundai,Genesis Coupe 2.0T R-Spec,10,79000,260.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,16488
+20251,Hyundai,Genesis Coupe 3.8 Grand Touring,10,106500,344.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,27633
+20443,Hyundai,Sonata SE,10,100331,200.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14000
+20954,Hyundai,Sonata Hybrid Limited,10,134000,199.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,15900
+21164,Hyundai,Genesis Coupe 3.8 R-Spec,10,52060,348.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18900
+22390,Hyundai,Santa Fe GLS,10,49500,290.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,25500
+22580,Hyundai,Genesis Coupe 3.8 R-Spec,10,55000,348.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,18000
+22864,Hyundai,Equus Signature,10,71000,429.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,13310
+23117,Hyundai,Genesis 4.6,10,127770,378.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,13800
+23244,Hyundai,Genesis 4.6,10,153332,378.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,10000
+26715,Hyundai,Genesis Coupe 3.8 Track,10,70000,348.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,27000
+28243,Hyundai,Genesis Coupe 3.8 R-Spec,10,79000,348.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,19998
+29006,Hyundai,Tucson SE,10,123000,173.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12900
+29424,Hyundai,Genesis 3.8,10,92225,311.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,18000
+29577,Hyundai,Sonata GLS,10,136991,198.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,11000
+29912,Hyundai,Veloster Base,10,800,132.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15900
+31578,Hyundai,Sonata SE,10,55000,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12700
+32364,Hyundai,Accent GL,10,125519,250.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,M/T,None reported,16900
+35352,Hyundai,Genesis Coupe 3.8 R-Spec,10,52060,348.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,18000
+35438,Hyundai,Elantra SE,10,120250,145.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6300
+35525,Hyundai,Genesis 3.8,10,96476,311.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,13000
+35693,Hyundai,Sonata Sport 2.0T,10,97724,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14995
+35815,Hyundai,Veloster Turbo R-Spec,10,96476,201.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15495
+36277,Hyundai,Genesis Coupe 2.0T,10,84000,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,11500
+37099,Hyundai,Sonata GLS,10,136991,198.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,11000
+37902,Hyundai,Veloster Base,10,800,132.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,9500
+39603,Hyundai,Accent GLS,10,128000,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19500
+40196,Hyundai,Genesis Coupe 3.8 R-Spec,10,52060,344.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,30000
+40228,Hyundai,Accent GLS,10,117500,138.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,26500
+41256,Hyundai,Genesis 3.8,10,116612,311.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,12700
+42185,Hyundai,Sonata SE,10,62930,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15995
+44264,Hyundai,Dakota SLT Quad Cab,10,232492,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,28500
+44827,Hyundai,Genesis Coupe 3.8 Track,10,83858,344.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,15397
+45056,Hyundai,Veloster Turbo R-Spec,10,70500,201.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13995
+46414,Hyundai,Genesis Coupe 3.8 Base,10,125575,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11250
+47260,Hyundai,Sonata Hybrid Limited,10,96419,199.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,16500
+49376,Hyundai,Veloster Turbo R-Spec,10,128000,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,10200
+50555,Hyundai,Sonata Sport 2.0T,10,136991,245.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+50845,Hyundai,Veloster Base,10,75000,132.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,18300
+51465,Hyundai,Sonata Hybrid Limited,10,138415,199.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,6-Speed A/T,None reported,10500
+51958,Hyundai,Palisade SEL,10,47000,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,20995
+52477,Hyundai,Genesis Coupe 3.8 Base,10,25000,348.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,25000
+52762,Hyundai,Genesis Coupe 3.8 Track,10,45303,348.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42500
+53466,Hyundai,Sonata GLS,10,136991,168.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,17999
+53828,Hyundai,Sonata Hybrid Limited,10,96419,199.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,14599
+53962,Hyundai,Genesis Coupe 3.8 Track,10,89000,344.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,12500

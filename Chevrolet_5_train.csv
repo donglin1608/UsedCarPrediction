@@ -1,0 +1,267 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+194,Chevrolet,Camaro 2SS,5,8660,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45000
+285,Chevrolet,Tahoe Premier,5,44800,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,51500
+521,Chevrolet,Suburban LT,5,51338,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,47900
+714,Chevrolet,Express 1500 Cargo,5,49098,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,47900
+882,Chevrolet,Camaro 1LT,5,139105,3.6L V6 24V GDI DOHC,Automatic,None reported,18688
+915,Chevrolet,Silverado 1500 LTZ,5,56654,3.6L V6 24V GDI DOHC,6-Speed Automatic,None reported,43860
+1120,Chevrolet,Camaro 1SS,5,35000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,63997
+1432,Chevrolet,Suburban LT,5,65000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,37000
+1950,Chevrolet,Suburban Premier,5,107714,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,34918
+2180,Chevrolet,Suburban Premier,5,73846,5.3L V8 16V GDI OHV,10-Speed Automatic,At least 1 accident or damage reported,19950
+2191,Chevrolet,Silverado 1500 LT,5,65441,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,54000
+2319,Chevrolet,Corvette Grand Sport,5,20200,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,51000
+2337,Chevrolet,Camaro 1SS,5,23151,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,35500
+2767,Chevrolet,Suburban Premier,5,53433,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,42900
+2801,Chevrolet,Malibu Premier,5,33000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,34999
+3304,Chevrolet,Silverado 1500 1LT,5,45000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39750
+3388,Chevrolet,Camaro 1LT,5,18000,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,31450
+3438,Chevrolet,Suburban Premier,5,179000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,179000
+3617,Chevrolet,Suburban Premier,5,51500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27900
+3874,Chevrolet,Camaro 1SS,5,45000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,41900
+3954,Chevrolet,Silverado 1500 1LT,5,81000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,44000
+3985,Chevrolet,Corvette Stingray Z51,5,63866,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47995
+4218,Chevrolet,Colorado Z71,5,20909,3.6L V6 24V GDI DOHC,Automatic,None reported,35670
+4371,Chevrolet,Camaro LT1,5,6900,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39500
+4506,Chevrolet,Corvette Stingray Z51,5,16850,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,57900
+4849,Chevrolet,Tahoe LT,5,37100,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,51900
+4951,Chevrolet,Corvette Stingray w/2LT,5,75800,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,45023
+5700,Chevrolet,Camaro 2LT,5,66500,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,27500
+6042,Chevrolet,Traverse LS,5,8025,3.6L V6 24V GDI DOHC,Automatic,None reported,35670
+6272,Chevrolet,Suburban Premier,5,44500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,24900
+6708,Chevrolet,Silverado 1500 Limited LT Trail Boss,5,53433,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,43500
+6761,Chevrolet,Suburban LT,5,35250,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,29500
+6886,Chevrolet,Suburban RST,5,27000,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,10-Speed A/T,None reported,45950
+6903,Chevrolet,Impala 1LT,5,70000,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,36000
+7072,Chevrolet,Camaro 1LT,5,9111,3.6L V6 GDI DOHC,8-Speed Automatic,None reported,27599
+7204,Chevrolet,Camaro 1SS,5,43500,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43500
+7511,Chevrolet,Corvette Stingray w/2LT,5,38000,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41999
+7519,Chevrolet,Corvette Z06,5,63866,650.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,34500
+7627,Chevrolet,Camaro 1SS,5,50000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,37000
+7646,Chevrolet,Suburban Premier,5,51338,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,24500
+8225,Chevrolet,Camaro 1LT,5,98888,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26750
+8614,Chevrolet,Suburban Premier,5,44800,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,51900
+8636,Chevrolet,Camaro 2SS,5,56000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,29000
+8752,Chevrolet,Camaro 2LT,5,34672,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,79999
+8821,Chevrolet,Suburban Premier,5,51351,6.0L V8 16V MPFI OHV,8-Speed Automatic,At least 1 accident or damage reported,29444
+8998,Chevrolet,Traverse Premier,5,52000,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,49900
+9171,Chevrolet,Suburban Premier,5,73500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,54995
+10504,Chevrolet,Suburban Premier,5,51890,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28900
+10856,Chevrolet,Suburban Premier,5,92000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,50000
+11103,Chevrolet,Suburban Premier,5,73049,5.3L V8 16V GDI OHV,10-Speed Automatic,None reported,60995
+11502,Chevrolet,Express 3500 Base,5,57000,323.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,31900
+11624,Chevrolet,Corvette Grand Sport,5,13300,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,45000
+12302,Chevrolet,Colorado ZR2,5,56778,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,33500
+12397,Chevrolet,Camaro 2SS,5,12500,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,54500
+12580,Chevrolet,Corvette Grand Sport,5,13100,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32000
+12664,Chevrolet,Silverado 1500 LT,5,64855,5.3L V8 16V GDI OHV,Automatic,None reported,36750
+13306,Chevrolet,Suburban Premier,5,40000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,27499
+13308,Chevrolet,Suburban Premier,5,27340,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,36750
+13394,Chevrolet,Suburban Premier,5,51338,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,47999
+13457,Chevrolet,Suburban LT,5,72000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,38000
+13844,Chevrolet,Suburban Premier,5,51338,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,72999
+14003,Chevrolet,Corvette Stingray w/2LT,5,53500,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49995
+14299,Chevrolet,Camaro 2SS,5,32000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44900
+14770,Chevrolet,Blazer 1LT,5,37161,2.5L I4 16V GDI DOHC,9-Speed Automatic,At least 1 accident or damage reported,26990
+14917,Chevrolet,Camaro 1SS,5,13935,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,66400
+15044,Chevrolet,Suburban LT,5,50000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27000
+15046,Chevrolet,Suburban LT,5,117000,6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27000
+15058,Chevrolet,Suburban LT,5,72000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,39000
+15312,Chevrolet,Camaro 1SS,5,57912,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,27500
+15465,Chevrolet,Corvette Stingray w/1LT,5,13100,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,41950
+15492,Chevrolet,Suburban Premier,5,49273,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,49000
+15934,Chevrolet,Tahoe LT,5,36500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,25500
+16125,Chevrolet,Camaro 2SS,5,33500,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32300
+16186,Chevrolet,Suburban Premier,5,64517,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,46995
+16340,Chevrolet,Suburban Premier,5,105667,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,46900
+16506,Chevrolet,Silverado 1500 LT Trail Boss,5,48000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,35900
+16604,Chevrolet,Suburban LT,5,72000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39000
+16633,Chevrolet,Silverado 1500 2LT,5,65000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,65000
+17183,Chevrolet,Suburban LT,5,51338,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39500
+17620,Chevrolet,Camaro ZL1,5,13500,650.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,53000
+17732,Chevrolet,Camaro 1LT,5,9100,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,M/T,None reported,34500
+18459,Chevrolet,Silverado 1500 LTZ,5,64517,5.3L V8 16V GDI OHV,Automatic,None reported,41885
+18472,Chevrolet,Suburban LT,5,72000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39000
+18485,Chevrolet,Suburban Premier,5,92728,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,22999
+18554,Chevrolet,Blazer Premier,5,81880,3.6L V6 24V GDI DOHC,9-Speed Automatic,None reported,32063
+18608,Chevrolet,Camaro 2SS,5,31000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38000
+18857,Chevrolet,Suburban Premier,5,92728,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,34500
+19374,Chevrolet,Suburban LT,5,63750,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,26900
+19439,Chevrolet,Suburban RST,5,52000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,54995
+19761,Chevrolet,Tahoe LT,5,53433,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,36950
+19861,Chevrolet,Silverado 1500 LT,5,97000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,43500
+19932,Chevrolet,Suburban LT,5,16000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,30500
+20658,Chevrolet,Traverse RS,5,19200,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,39000
+20832,Chevrolet,Suburban Premier,5,95000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,39100
+21046,Chevrolet,Suburban RST,5,60000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,47000
+21681,Chevrolet,Silverado 1500 LTZ,5,19200,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,58500
+22045,Chevrolet,Suburban Premier,5,103338,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,25000
+22430,Chevrolet,Camaro 1LT,5,5400,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,39900
+22472,Chevrolet,Silverado 1500 LTZ,5,103866,5.3L V8 16V GDI OHV,6-Speed Automatic,None reported,26485
+22519,Chevrolet,Camaro 2SS,5,42780,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,43000
+22529,Chevrolet,Suburban Premier,5,74600,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,32300
+22974,Chevrolet,Tahoe Premier,5,11500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44500
+23084,Chevrolet,Colorado Z71,5,56247,3.6L V6 24V GDI DOHC,Automatic,None reported,22389
+23163,Chevrolet,Corvette Grand Sport,5,13300,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,50000
+23224,Chevrolet,Suburban Premier,5,35515,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,39000
+23720,Chevrolet,Corvette Grand Sport,5,13100,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,62500
+23737,Chevrolet,Suburban Premier,5,45000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,41500
+23931,Chevrolet,Colorado ZR2,5,48879,3.6L V6 24V GDI DOHC,Automatic,None reported,26816
+24092,Chevrolet,Tahoe LT,5,85000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,35900
+24413,Chevrolet,Suburban LT,5,37806,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,75500
+24830,Chevrolet,Tahoe Premier,5,30951,5.3L V8 16V GDI OHV,8-Speed Automatic,None reported,80140
+24995,Chevrolet,Silverado 1500 LT,5,53433,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,35900
+25060,Chevrolet,Silverado 1500 LT,5,53433,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,30900
+25308,Chevrolet,Corvette Grand Sport,5,13100,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,48000
+25525,Chevrolet,Suburban Premier,5,54357,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18500
+25862,Chevrolet,Colorado Z71,5,4283,3.6L V6 24V GDI DOHC,6-Speed Automatic,None reported,449995
+25895,Chevrolet,Suburban LT,5,105667,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,36500
+25978,Chevrolet,Suburban LT,5,40208,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,38000
+26069,Chevrolet,Camaro 2SS,5,51808,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,60500
+26138,Chevrolet,Suburban Premier,5,51338,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,62500
+26528,Chevrolet,Silverado 1500 LT Trail Boss,5,51351,5.3L V8 16V GDI OHV,Automatic,None reported,22389
+26565,Chevrolet,Suburban Premier,5,45900,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,41500
+26600,Chevrolet,Corvette Grand Sport,5,13100,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,50000
+26753,Chevrolet,Suburban Premier,5,43875,6.2L V8 16V GDI OHV,10-Speed Automatic,None reported,209900
+27944,Chevrolet,Blazer Premier,5,51351,2.5L I4 16V GDI DOHC,9-Speed Automatic,None reported,27875
+28108,Chevrolet,Corvette Z06,5,17500,650.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,78000
+28983,Chevrolet,Camaro 1SS,5,75151,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,52500
+29149,Chevrolet,Camaro 2SS,5,75151,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,49500
+29164,Chevrolet,Suburban Premier,5,37000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,47500
+29296,Chevrolet,Suburban Premier,5,96000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,20989
+29486,Chevrolet,Express 3500 Base,5,74000,323.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,37000
+29876,Chevrolet,Corvette Z06,5,21000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,47500
+29881,Chevrolet,Camaro LT1,5,53401,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,36800
+30065,Chevrolet,Corvette Stingray Z51,5,48500,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43900
+30292,Chevrolet,Camaro 1LT,5,49273,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,64995
+30331,Chevrolet,Silverado 1500 LT Trail Boss,5,51338,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,46500
+30423,Chevrolet,Suburban LT,5,85000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,23999
+30611,Chevrolet,Suburban Premier,5,105667,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,39000
+30734,Chevrolet,Impala Base,5,73800,3.6L V6 24V GDI DOHC,6-Speed Automatic,None reported,28616
+30803,Chevrolet,Silverado 1500 LTZ,5,36021,5.3L V8 16V GDI OHV,Automatic,None reported,27875
+30945,Chevrolet,Tahoe Premier,5,51351,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,45999
+31129,Chevrolet,Silverado 1500 Limited LT Trail Boss,5,51338,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,34918
+31185,Chevrolet,Camaro 1SS,5,19200,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,41500
+31209,Chevrolet,Suburban Premier,5,51808,5.3L V8 16V GDI OHV,6-Speed Automatic,None reported,33610
+31306,Chevrolet,Suburban Premier,5,50000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27900
+31414,Chevrolet,Suburban LT,5,9980,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,48000
+31746,Chevrolet,Colorado Z71,5,32117,3.6L V6 24V GDI DOHC,Automatic,None reported,50927
+31816,Chevrolet,Silverado 1500 LT,5,85000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+32083,Chevrolet,Silverado 1500 LT,5,88883,5.3L V8 16V GDI OHV,Automatic,None reported,49883
+32159,Chevrolet,Traverse Premier,5,58100,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27500
+32251,Chevrolet,Traverse Premier,5,67852,3.6L V6 24V GDI DOHC,9-Speed Automatic,None reported,33885
+32298,Chevrolet,Suburban Premier,5,76249,5.3L V8 16V GDI OHV,9-Speed Automatic,None reported,26288
+32389,Chevrolet,Tahoe LTZ,5,52000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,37000
+32626,Chevrolet,Camaro 1SS,5,92000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,36000
+32928,Chevrolet,Suburban LT,5,92728,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28500
+32987,Chevrolet,Tahoe LT,5,27981,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,61350
+33005,Chevrolet,Tahoe Premier,5,123280,5.3L V8 16V GDI OHV,Automatic,None reported,32368
+33032,Chevrolet,Suburban LT,5,7600,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27900
+33137,Chevrolet,Camaro 1SS,5,10400,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,55000
+33181,Chevrolet,Suburban Premier,5,98888,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,52500
+33216,Chevrolet,Silverado 1500 1LT,5,81000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28000
+33978,Chevrolet,Suburban LT,5,64552,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,47850
+34016,Chevrolet,LaCrosse Base,5,57000,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,36900
+34363,Chevrolet,Corvette Stingray w/2LT,5,3158,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45023
+34493,Chevrolet,Canyon Denali,5,26339,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,38000
+34563,Chevrolet,Tahoe Premier,5,25568,5.3L V8 16V GDI OHV,10-Speed Automatic,None reported,67900
+34622,Chevrolet,Camaro 1LT,5,74000,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+34742,Chevrolet,Suburban LT,5,52000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,37500
+35426,Chevrolet,Colorado ZR2,5,38900,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,34700
+35495,Chevrolet,Silverado 1500 LT Trail Boss,5,80200,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,32300
+35660,Chevrolet,Camaro 1SS,5,45000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,37000
+36049,Chevrolet,Suburban Premier,5,44800,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,42500
+36083,Chevrolet,Camaro 1LT,5,18000,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,30000
+36121,Chevrolet,Silverado 2500 LT,5,52000,360.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,36500
+36207,Chevrolet,Suburban LT,5,92000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,34000
+36217,Chevrolet,Camaro 1LT,5,55000,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,49995
+36417,Chevrolet,Suburban Premier,5,52694,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,36800
+36620,Chevrolet,Camaro LT1,5,73800,5.3L V8 16V GDI OHV,6-Speed Automatic,None reported,34562
+37027,Chevrolet,Blazer Premier,5,37161,2.5L I4 16V PDI DOHC Turbo,8-Speed Automatic,None reported,26299
+37332,Chevrolet,Suburban Premier,5,35566,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,21999
+37342,Chevrolet,Camaro ZL1,5,19200,650.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,36995
+37731,Chevrolet,Impala 1LT,5,70000,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,26000
+37771,Chevrolet,Camaro 1LT,5,65750,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,27500
+37948,Chevrolet,Impala 1LT,5,70000,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,18795
+38241,Chevrolet,Suburban Premier,5,102200,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,51899
+38257,Chevrolet,Suburban Premier,5,105667,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,30000
+38394,Chevrolet,Camaro 1SS,5,33000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,38000
+38561,Chevrolet,Camaro 1SS,5,15000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,45000
+38919,Chevrolet,Suburban LT,5,52000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,29990
+38921,Chevrolet,Silverado 1500 LTZ,5,73846,6.2L V8 16V GDI OHV,10-Speed Automatic,None reported,41885
+39216,Chevrolet,Suburban LT,5,53782,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,Transmission Overdrive Switch,None reported,41000
+39746,Chevrolet,Suburban Premier,5,105667,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,24500
+39756,Chevrolet,Camaro 1SS,5,19200,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,36750
+40287,Chevrolet,Suburban LT,5,52500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,27499
+40655,Chevrolet,Traverse RS,5,44373,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,38000
+40801,Chevrolet,Camaro 1LT,5,69000,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,36800
+41032,Chevrolet,Colorado LT,5,139116,3.6L V6 24V GDI DOHC,Automatic CVT,At least 1 accident or damage reported,24899
+41054,Chevrolet,Grand Cherokee Limited,5,48842,3.6L V6 24V GDI DOHC,Automatic,At least 1 accident or damage reported,39857
+41056,Chevrolet,Suburban LT,5,72000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39000
+41125,Chevrolet,Colorado Z71,5,21165,3.6L V6 24V GDI DOHC,Automatic,At least 1 accident or damage reported,43449
+41215,Chevrolet,Suburban Premier,5,40000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,53000
+41226,Chevrolet,Suburban Premier,5,39960,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39900
+41379,Chevrolet,Silverado 1500 1LT,5,89000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,43000
+41407,Chevrolet,Tahoe Premier,5,4753,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39750
+41795,Chevrolet,Camaro 1SS,5,16425,6.2L V8 16V GDI OHV,8-Speed Automatic,None reported,40995
+42135,Chevrolet,Camaro 2SS,5,75151,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34999
+42187,Chevrolet,Silverado 1500 LTZ,5,73846,6.2L V8 16V GDI OHV,Automatic,None reported,27518
+42461,Chevrolet,Suburban LT,5,72000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,39000
+42628,Chevrolet,Suburban LT,5,67874,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,31950
+42797,Chevrolet,Colorado LT,5,46711,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,39777
+42817,Chevrolet,Silverado 1500 RST,5,40929,6.2L V8 16V GDI OHV,Automatic,None reported,29182
+43137,Chevrolet,Silverado 1500 LT,5,36021,2.7L I4 16V GDI DOHC Turbo,Automatic,None reported,36570
+43319,Chevrolet,Suburban Premier,5,159000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,26900
+43719,Chevrolet,Suburban Premier,5,85766,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28300
+44020,Chevrolet,Tahoe Premier,5,56000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,39000
+44063,Chevrolet,Traverse Premier,5,88161,3.6L V6 24V GDI DOHC,9-Speed Automatic,None reported,30989
+44449,Chevrolet,Tahoe Premier,5,36000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,44500
+44512,Chevrolet,Suburban LT,5,92000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,51999
+44754,Chevrolet,Silverado 1500 LTZ,5,36021,5.3L V8 16V GDI OHV,Automatic,At least 1 accident or damage reported,22495
+44922,Chevrolet,Suburban Premier,5,51890,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,32300
+45096,Chevrolet,Corvette Stingray Z51,5,7033,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,53900
+45204,Chevrolet,Corvette Stingray,5,4100,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45985
+45248,Chevrolet,Suburban Premier,5,66500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,35850
+45298,Chevrolet,Silverado 1500 LT,5,53433,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,46750
+45547,Chevrolet,Silverado 1500 LT,5,133598,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,32471
+45683,Chevrolet,Suburban Premier,5,105667,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,55000
+45844,Chevrolet,Camaro 1SS,5,19200,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,41500
+46165,Chevrolet,Tahoe Premier,5,51400,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,43000
+46171,Chevrolet,Suburban RST,5,52000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,31950
+46757,Chevrolet,Suburban Premier,5,51338,5.3L V8 16V GDI OHV,6-Speed Automatic,At least 1 accident or damage reported,27999
+47014,Chevrolet,Silverado 1500 LT Trail Boss,5,77634,6.2L V8 16V GDI OHV,Automatic,None reported,25884
+47072,Chevrolet,Tahoe LT,5,55000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,37900
+47432,Chevrolet,Suburban Premier,5,92031,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,30000
+47632,Chevrolet,Tahoe LT,5,48613,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,32500
+47888,Chevrolet,Suburban LT,5,72000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,39000
+48295,Chevrolet,Camaro 2SS,5,124000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,32000
+48788,Chevrolet,Silverado 1500 2LT,5,58800,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,10-Speed A/T,None reported,89000
+48903,Chevrolet,Tahoe LTZ,5,500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,37000
+48988,Chevrolet,Camaro 1LT,5,23600,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+49223,Chevrolet,Suburban Premier,5,58816,5.3L V8 16V GDI OHV,6-Speed Automatic,None reported,27875
+49320,Chevrolet,Suburban Premier,5,75466,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,33500
+49324,Chevrolet,Suburban Premier,5,20200,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,47995
+49580,Chevrolet,Camaro 1SS,5,19200,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,41500
+49933,Chevrolet,Corvette Stingray Z51,5,51984,460.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,51700
+50020,Chevrolet,Suburban Premier,5,38012,5.3L V8 16V GDI OHV,Automatic,None reported,33610
+50430,Chevrolet,Silverado 1500 LT,5,53433,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,37950
+50545,Chevrolet,Colorado ZR2,5,43875,3.6L V6 24V GDI DOHC,Automatic,At least 1 accident or damage reported,25987
+50587,Chevrolet,Suburban Premier,5,110000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,49999
+50837,Chevrolet,Silverado 1500 LT,5,20200,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,37999
+51170,Chevrolet,Impala 1LT,5,57912,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,25925
+51219,Chevrolet,Colorado LT,5,77634,3.6L V6 24V GDI DOHC,Automatic,None reported,40655
+51478,Chevrolet,Suburban Premier,5,73091,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,60995
+51596,Chevrolet,Suburban Premier,5,105667,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,39000
+51874,Chevrolet,Suburban Premier,5,51338,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,25500
+52027,Chevrolet,Suburban Premier,5,105667,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,30000
+52207,Chevrolet,Silverado 1500 LT,5,459,5.3L V8 16V GDI OHV,Transmission w/Dual Shift Mode,None reported,85989
+52222,Chevrolet,Suburban LT,5,39000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,39750
+52296,Chevrolet,Suburban LT,5,75466,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+52756,Chevrolet,Silverado 1500 W/T,5,57918,5.3L V8 16V GDI OHV,Automatic,At least 1 accident or damage reported,31300
+52977,Chevrolet,Suburban Premier,5,53433,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39900
+53311,Chevrolet,Corvette Stingray w/2LT,5,24670,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,55000
+53354,Chevrolet,Camaro 1SS,5,19200,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39499
+53461,Chevrolet,Sierra 1500 SLT,5,48000,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,62479
+53566,Chevrolet,Camaro 1LT,5,59678,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,33700
+53751,Chevrolet,Suburban Premier,5,63750,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,36590
+53842,Chevrolet,Camaro 2SS,5,25882,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,38000

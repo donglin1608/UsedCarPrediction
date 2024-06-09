@@ -1,0 +1,337 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+54303,Ford,F-150 Raptor,4,25000,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+54373,Ford,F-150 XLT,4,25000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+54401,Ford,F-150 XLT,4,45000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+54475,Ford,Explorer XLT,4,82900,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+54495,Ford,F-150 XLT,4,58500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+54518,Ford,F-150 XLT,4,62950,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+54537,Ford,Mustang GT Premium,4,25000,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+54608,Ford,Mustang GT Premium,4,26840,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+54658,Ford,Expedition Max King Ranch,4,450,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+54750,Ford,F-250 XLT,4,38514,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,0
+54843,Ford,Transit-350 XLT,4,25000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+54854,Ford,Mustang Premium,4,23442,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+55040,Ford,Explorer sport,4,49208,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+55059,Ford,Explorer XLT,4,49700,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+55197,Ford,F-150 Raptor,4,59419,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+55253,Ford,Expedition XLT,4,67516,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+55440,Ford,F-150 XLT,4,53433,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+55518,Ford,Expedition Limited,4,37100,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+55545,Ford,Expedition Max XLT,4,51808,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+55597,Ford,Explorer XLT,4,43000,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+56467,Ford,F-150 Raptor,4,64500,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+56499,Ford,Maverick XLT,4,53000,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,0
+56515,Ford,Explorer XLT,4,53000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+56641,Ford,Mustang GT Premium,4,28220,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+56693,Ford,F-150 XLT,4,34068,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+56881,Ford,Explorer XLT,4,64552,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,At least 1 accident or damage reported,0
+56886,Ford,Explorer XLT,4,49814,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,At least 1 accident or damage reported,0
+56913,Ford,F-150 XLT,4,92000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+57114,Ford,F-150 XLT,4,38900,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+57423,Ford,Transit-350 Base,4,94650,275.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+57484,Ford,F-150 XLT,4,53401,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+57549,Ford,F-150 Lariat,4,27000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+57571,Ford,F-250 Lariat,4,39000,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+57721,Ford,F-150 XLT,4,69849,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,0
+57865,Ford,Mustang GT Premium,4,2300,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+57931,Ford,Mustang EcoBoost Premium,4,48000,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+58140,Ford,Explorer XLT,4,23400,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+58189,Ford,F-250 King Ranch,4,63875,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+58277,Ford,Explorer XLT,4,82000,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+58282,Ford,Escape SEL,4,42000,181.0HP 1.5L 3 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+58298,Ford,F-150 XLT,4,43433,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+58486,Ford,F-250 King Ranch,4,39500,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+58657,Ford,Transit Connect XLT,4,119000,136.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+58804,Ford,F-350 Lariat,4,22600,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+58959,Ford,F-150 Tremor,4,28260,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+59011,Ford,F-150 Platinum,4,28260,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+59028,Ford,F-150 XLT,4,51808,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+59181,Ford,F-150 XLT,4,59000,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+59684,Ford,F-150 XLT,4,77516,5.0L V8 32V PDI DOHC,10-Speed Automatic,None reported,0
+59867,Ford,Explorer XLT,4,68000,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+60008,Ford,F-150 Platinum,4,51700,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+60041,Ford,F-150 Lariat,4,31000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+60082,Ford,F-150 Raptor,4,33000,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+60416,Ford,F-250 King Ranch,4,156453,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,0
+60445,Ford,Explorer XLT,4,62377,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,0
+60674,Ford,F-250 Lariat,4,49279,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,0
+60687,Ford,F-150 Platinum,4,51902,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+60719,Ford,F-150 XLT,4,31250,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+60739,Ford,F-150 Raptor,4,18000,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+60789,Ford,F-150 Lariat,4,32500,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+60831,Ford,Transit Connect XL w/Rear Symmetrical Doors,4,19300,169.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+60843,Ford,F-150 XLT,4,12500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+60894,Ford,F-150 XLT,4,17836,3.5L V6 24V PDI DOHC Twin Turbo,8-Speed Automatic,None reported,0
+61014,Ford,F-150 Platinum,4,92000,250.0HP 3.0L V6 Cylinder Engine Diesel Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+61258,Ford,Expedition Max King Ranch,4,53750,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+61317,Ford,F-150 XLT,4,52500,395.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,10-Speed A/T,None reported,0
+61346,Ford,F-150 Raptor,4,64517,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+61367,Ford,Expedition Max King Ranch,4,37500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+61503,Ford,Transit-250 Base,4,66500,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+61586,Ford,Mustang GT Premium,4,26840,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+61708,Ford,F-250 Platinum,4,73091,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+61798,Ford,F-150 Lariat,4,64855,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+61842,Ford,F-150 Lariat,4,92000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+61939,Ford,F-150 Lariat,4,81000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+62105,Ford,Expedition Max Limited,4,51300,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+62166,Ford,Transit-350 XLT,4,24360,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+62197,Ford,Expedition XLT,4,68166,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,0
+62277,Ford,F-150 XLT,4,67650,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+62559,Ford,F-150 Platinum,4,92000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+62662,Ford,Expedition Platinum,4,13895,3.5L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+62676,Ford,F-TYPE R,4,37000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+62914,Ford,F-250 King Ranch,4,43000,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+62981,Ford,F-150 Raptor,4,38612,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,At least 1 accident or damage reported,0
+63370,Ford,F-150 XLT,4,92000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+63636,Ford,Explorer XLT,4,42609,2.0L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,0
+63652,Ford,F-250 Lariat,4,26000,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+63696,Ford,F-150 XLT,4,16850,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+63727,Ford,F-150 XLT,4,26465,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,0
+63872,Ford,F-150 XLT,4,53401,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+64026,Ford,F-350 Platinum,4,18997,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,0
+64243,Ford,Bronco Sport Outer Banks,4,30301,1.5L I3 12V PDI DOHC Turbo,8-Speed Automatic,None reported,0
+64415,Ford,F-150 XLT,4,67072,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+64437,Ford,F-150 XLT,4,134000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+64445,Ford,Explorer XLT,4,33000,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+64488,Ford,F-150 XLT,4,77107,2.7L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+64577,Ford,F-150 XLT,4,44460,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+64839,Ford,Expedition Limited,4,49208,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+64917,Ford,Mustang GT Premium,4,40000,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+64987,Ford,F-150 Lariat,4,9142,430.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,0
+65041,Ford,F-150 XLT,4,41250,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+65049,Ford,F-250 King Ranch,4,36500,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+65261,Ford,Maverick XLT,4,13000,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,0
+65362,Ford,Explorer XLT,4,82146,2.3L I4 16V GDI DOHC Turbo,6-Speed Automatic,At least 1 accident or damage reported,0
+65431,Ford,F-150 Lariat,4,17000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+65461,Ford,Mustang GT Premium,4,67800,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+65559,Ford,F-250 XLT,4,54225,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,0
+65610,Ford,Mustang GT Premium,4,16850,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+65632,Ford,Transit-350 XL,4,18000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+65686,Ford,F-150 XLT,4,23842,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+66099,Ford,Transit-350 Base,4,45163,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+66247,Ford,Explorer XLT,4,59692,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,0
+66426,Ford,Explorer XLT,4,68325,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+66438,Ford,Explorer XLT,4,53433,290.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,A/T,None reported,0
+66510,Ford,F-150 Lariat,4,53000,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+66601,Ford,F-150 Lariat,4,69641,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,0
+66651,Ford,F-150 XLT,4,53500,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+67263,Ford,Bronco Badlands Advanced,4,14000,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+67309,Ford,Transit-350 Base,4,94650,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+67530,Ford,Explorer Limited,4,82146,2.3L I4 16V GDI DOHC Turbo,6-Speed Automatic,None reported,0
+67576,Ford,Expedition Max Limited,4,53169,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+67741,Ford,Transit-350 XLT,4,52000,275.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+67885,Ford,Explorer XLT,4,71536,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,0
+68552,Ford,F-150 Lariat,4,81000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+68725,Ford,Explorer Platinum,4,64552,3.0L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,At least 1 accident or damage reported,0
+68786,Ford,Transit Connect XLT,4,112000,169.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+68853,Ford,Explorer ST,4,58000,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+68863,Ford,F-150 Raptor,4,22000,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+68932,Ford,F-150 XLT,4,67516,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,0
+68958,Ford,Fusion Energi Titanium,4,35000,188.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,CVT Transmission,At least 1 accident or damage reported,0
+68991,Ford,Expedition King Ranch,4,58700,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+69044,Ford,F-150 XLT,4,23292,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+69076,Ford,Mustang GT,4,28886,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+69152,Ford,F-150 Lariat,4,51400,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+69177,Ford,Transit Connect XLT,4,119000,169.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+69476,Ford,F-150 XLT,4,53401,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+69562,Ford,F-150 Platinum,4,26500,5.0L 8 Cylinder,10-Speed Automatic,None reported,0
+69829,Ford,Transit-350 XLT,4,120000,275.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+70149,Ford,F-150 XL,4,47523,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+70183,Ford,F-150 XLT,4,27300,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+70190,Ford,F-150 Lariat,4,25500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+70281,Ford,F-150 Lariat,4,33080,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+70297,Ford,Mustang Boss 302,4,1295,444.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,0
+70437,Ford,Rover Range Rover HSE SWB,4,41200,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,10-Speed A/T,None reported,0
+70464,Ford,F-250 Platinum,4,58000,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+70612,Ford,Expedition Platinum,4,51300,3.5L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+70613,Ford,F-150 Lightning LARIAT,4,52694,563.0HP Electric Motor Electric Fuel System,1-Speed A/T,None reported,0
+70661,Ford,Explorer XLT,4,45000,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+70837,Ford,F-250 King Ranch,4,36500,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+71307,Ford,Mustang EcoBoost Premium,4,47523,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+71435,Ford,F-150 XLT,4,57000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+71508,Ford,Expedition Max Limited,4,53750,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+71671,Ford,Mustang GT Premium,4,3000,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,0
+71770,Ford,Transit-350 XLT,4,16000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+72027,Ford,F-150 XLT,4,19000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+72069,Ford,F-150 XLT,4,57000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+72139,Ford,Expedition Max Limited,4,45090,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+72147,Ford,Expedition Max Limited,4,19200,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+72217,Ford,F-150 Lariat,4,81000,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+72298,Ford,F-250 XL,4,23292,430.0HP 7.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+72328,Ford,Explorer Limited,4,82146,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,0
+72488,Ford,Escape SEL,4,42000,181.0HP 1.5L 3 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+72533,Ford,F-150 Lariat,4,81000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+72763,Ford,Explorer Limited,4,45163,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,0
+72775,Ford,Mustang V6,4,59271,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+72930,Ford,F-250 King Ranch,4,93400,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+73216,Ford,Edge SEL,4,42609,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,0
+73317,Ford,F-150 XLT,4,23292,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+73431,Ford,GT-R Premium,4,3000,565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+73440,Ford,Mustang EcoBoost Premium,4,38100,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+73490,Ford,Transit-350 XLT,4,49000,275.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+73546,Ford,F-150 Lariat,4,85000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+73644,Ford,Explorer Platinum,4,48879,3.5L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+73649,Ford,F-250 Lariat,4,28220,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+73804,Ford,Explorer XLT,4,67726,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+74007,Ford,F-250 XLT,4,46200,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+74070,Ford,F-150 Platinum,4,48619,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+74188,Ford,Bronco Wildtrak Advanced,4,9500,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+74337,Ford,F-150 XLT,4,67072,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+74349,Ford,Expedition Limited,4,52253,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+74388,Ford,F-150 Raptor,4,33705,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+74685,Ford,Edge Sport,4,53750,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+74763,Ford,Transit Connect XL,4,119000,169.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+74828,Ford,Explorer XLT,4,35569,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,0
+74877,Ford,F-150 Lariat,4,28000,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+75061,Ford,Expedition Max XLT,4,67500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+75283,Ford,Mustang GT Premium,4,37000,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+75320,Ford,Mustang GT Premium,4,42094,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+75371,Ford,F-150 XLT,4,33818,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,0
+75429,Ford,Mustang EcoBoost Premium,4,42728,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+75605,Ford,F-150 Lariat,4,42596,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+75699,Ford,Transit-350 XLT,4,23400,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+75732,Ford,Explorer XLT,4,64552,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+75842,Ford,F-150 Lariat,4,31250,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+75865,Ford,Expedition Max Limited,4,53401,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+76010,Ford,F-150 XLT,4,44000,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,0
+76121,Ford,Expedition Max King Ranch,4,67072,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+76164,Ford,F-350 King Ranch,4,25991,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+76225,Ford,F-150 XLT,4,59500,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+76227,Ford,Mustang EcoBoost Premium,4,26000,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+76281,Ford,F-250 XLT,4,2800,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,0
+76291,Ford,F-150 Lariat,4,64517,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+76330,Ford,Expedition Max King Ranch,4,37594,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+76786,Ford,Expedition Max Limited,4,450,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+76907,Ford,F-150 Lariat,4,48500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+76910,Ford,Transit-350 Base,4,58000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+76998,Ford,Edge SE,4,71200,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+77003,Ford,Expedition Platinum,4,73049,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+77078,Ford,F-150 XLT,4,31250,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+77160,Ford,Expedition Max King Ranch,4,52253,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,At least 1 accident or damage reported,0
+77279,Ford,F-250 King Ranch,4,36526,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+77308,Ford,F-150 XLT,4,44460,5.0L V8 32V PDI DOHC,10-Speed Automatic,None reported,0
+77310,Ford,Bronco Sport Base,4,16500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+77313,Ford,Transit-350 XLT,4,53433,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+77360,Ford,Explorer XLT,4,45163,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,0
+77364,Ford,F-150 XLT,4,44741,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+77474,Ford,F-150 XLT,4,49131,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+77485,Ford,Explorer XLT,4,42609,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,At least 1 accident or damage reported,0
+77725,Ford,F-350 Platinum,4,41800,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+77741,Ford,F-150 Lariat,4,26600,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+77750,Ford,Expedition Max XLT,4,30918,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+78068,Ford,Expedition Max XLT,4,27123,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+78164,Ford,F-150 XLT,4,67650,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+78168,Ford,Transit-250 Base,4,12900,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+78184,Ford,F-250 Lariat,4,22000,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+78374,Ford,F-150 Raptor,4,39105,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+78431,Ford,Explorer XLT,4,27000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+78590,Ford,F-150 XLT,4,28000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+78600,Ford,F-150 Lariat,4,33080,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+78995,Ford,F-150 Platinum,4,53500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+79405,Ford,F-150 Lariat,4,48000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+79501,Ford,Bronco Badlands Advanced,4,46150,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+79738,Ford,F-150 XLT,4,73549,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+79773,Ford,Explorer XLT,4,61001,2.3L I4 16V GDI DOHC Turbo,Automatic CVT,At least 1 accident or damage reported,0
+79810,Ford,Explorer XLT,4,53100,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+79880,Ford,F-150 XLT,4,44460,385.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,0
+79893,Ford,Transit-350 Base,4,119000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+80141,Ford,F-150 XLT,4,25240,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+80373,Ford,F-150 XLT,4,67500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+80413,Ford,F-150 Lariat,4,25000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+80430,Ford,F-150 XLT,4,92000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+80493,Ford,Expedition Max Limited,4,54000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+80615,Ford,Mustang GT Premium,4,18500,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+80685,Ford,Expedition Max Limited,4,53401,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+80711,Ford,Transit Connect XLT,4,52000,169.0HP 2.5L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,0
+80785,Ford,Mustang GT Premium,4,31600,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,0
+80890,Ford,F-150 Lariat,4,45000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+80907,Ford,Focus RS Base,4,500,350.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+80923,Ford,Mustang EcoBoost Premium,4,20800,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+80958,Ford,Lancer DE,4,52000,191.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+81039,Ford,Explorer XLT,4,45000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+81282,Ford,F-250 XLT,4,35597,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,0
+81590,Ford,F-150 Lariat,4,32500,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+81639,Ford,F-250 XLT,4,244000,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,0
+81780,Ford,F-150 XLT,4,25000,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+82090,Ford,F-150 Raptor,4,23500,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+82141,Ford,F-150 Platinum,4,81000,395.0HP 5.0L 8 Cylinder Engine Flex Fuel Capability,10-Speed A/T,None reported,0
+82180,Ford,F-250 King Ranch,4,36500,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,0
+82217,Ford,F-150 XLT,4,92000,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+82235,Ford,F-150 XLT,4,92000,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+82268,Ford,F-150 Lariat,4,53401,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+82394,Ford,Explorer XLT,4,53000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+82760,Ford,Expedition Max Limited,4,19500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+82829,Ford,Expedition Max King Ranch,4,74414,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+82843,Ford,F-150 XLT,4,83853,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,0
+82928,Ford,F-150 Lariat,4,27300,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+83047,Ford,Transit-350 XLT,4,48000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+83227,Ford,F-150 Lariat,4,44460,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+83519,Ford,Mustang Shelby GT500,4,5500,650.0HP 5.8L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+83560,Ford,Expedition Max King Ranch,4,52000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+83592,Ford,F-150 XLT,4,44460,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+83696,Ford,Transit-350 Base,4,19400,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+83759,Ford,Transit-350 XLT,4,32000,210.0HP 2.0L 4 Cylinder Engine Diesel Fuel,A/T,None reported,0
+83969,Ford,Transit-350 XLT,4,54000,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+84046,Ford,F-150 Lariat,4,34300,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+84257,Ford,Escape SEL,4,31000,181.0HP 1.5L 3 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+84375,Ford,F-250 Lariat,4,85000,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,0
+84582,Ford,Explorer XLT,4,45000,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+84668,Ford,F-150 XLT,4,52300,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+84716,Ford,Transit-350 XLT,4,53000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+84802,Ford,Expedition XLT,4,67522,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+84822,Ford,Explorer XLT,4,23600,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+84862,Ford,F-150 Lariat,4,42717,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+84899,Ford,Explorer XLT,4,27000,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+84982,Ford,Maverick XLT,4,52000,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,0
+85070,Ford,F-250 XLT,4,20200,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+85226,Ford,F-150 XLT,4,39000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+85260,Ford,F-150 Lariat,4,30918,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+85379,Ford,Explorer XLT,4,169000,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+85482,Ford,F-150 XLT,4,53401,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+85512,Ford,F-150 XLT,4,92000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+85711,Ford,Edge SEL,4,31015,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,0
+85801,Ford,F-150 Lariat,4,67500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+85823,Ford,F-150 Lariat,4,31250,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+85830,Ford,F-150 Lariat,4,56006,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+85892,Ford,Explorer Limited,4,30950,2.3L I4 16V GDI DOHC Turbo,6-Speed Automatic,None reported,0
+86172,Ford,Transit-250 Base,4,12000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+86301,Ford,Expedition Max Limited,4,50400,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+86340,Ford,F-150 XLT,4,45468,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+86347,Ford,Transit-350 XLT,4,19700,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+86403,Ford,Explorer sport,4,28886,3.0L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+86563,Ford,F-150 Lariat,4,81000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+86677,Ford,Expedition King Ranch,4,58700,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+86755,Ford,F-150 Lariat,4,41000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+86843,Ford,Shelby GT350 Base,4,18500,526.0HP 5.2L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,0
+86947,Ford,F-150 Raptor,4,2823,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0
+86951,Ford,Explorer XLT,4,53000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+87013,Ford,Expedition Max Limited,4,67072,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+87270,Ford,F-150 Limited,4,42750,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+87333,Ford,Mustang GT Premium,4,38100,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+87538,Ford,Explorer XLT,4,61001,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,At least 1 accident or damage reported,0
+87549,Ford,F-150 XLT,4,92149,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+87709,Ford,F-150 Raptor,4,64517,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+87906,Ford,F-150 Lariat,4,45000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+88012,Ford,F-150 Lariat,4,37000,430.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,0
+88120,Ford,F-250 Lariat,4,43000,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,0
+88390,Ford,F-150 Lariat,4,27000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+88907,Ford,Explorer Limited,4,59000,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+88937,Ford,Explorer XLT,4,64552,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+89040,Ford,F-150 Lariat,4,26540,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+89157,Ford,Expedition King Ranch,4,57000,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,0
+89228,Ford,Transit-350 XL,4,39000,275.0HP 3.7L V6 Cylinder Engine Flex Fuel Capability,A/T,None reported,0
+89443,Ford,Transit-350 XLT,4,53000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+89473,Ford,F-150 Lariat,4,31250,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+89554,Ford,F-150 Lariat,4,456,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+89575,Ford,Explorer XLT,4,45163,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,0
+89592,Ford,Explorer Limited,4,112630,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,At least 1 accident or damage reported,0
+89675,Ford,F-150 Lariat,4,33500,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+89687,Ford,Shelby GT500 Base,4,4500,670.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+89750,Ford,Expedition Max Limited,4,30918,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+89900,Ford,Bronco Outer Banks Advanced,4,4500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+90024,Ford,Escape SEL,4,42000,181.0HP 1.5L 3 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+90093,Ford,F-150 XLT,4,44460,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+90153,Ford,Edge SE,4,71200,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+90226,Ford,Mustang GT Premium,4,16000,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,0
+90231,Ford,Transit Connect XLT,4,111700,169.0HP 2.5L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,0
+90359,Ford,F-150 XLT,4,29500,2.7L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,0

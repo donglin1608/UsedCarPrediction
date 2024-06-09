@@ -1,0 +1,286 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+176,Audi,RS 7 4.0T Prestige,9,59950,560.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,69000
+329,Audi,Q3 2.0T Premium Plus,9,96273,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+434,Audi,A7 3.0T Premium Plus,9,63450,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,18000
+644,Audi,TT 2.0T Premium,9,64549,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,19000
+655,Audi,Q7 3.0T Premium Plus,9,70773,280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,61599
+665,Audi,A4 2.0T Titanium Premium,9,25300,188.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,40000
+965,Audi,A6 3.0T Prestige,9,89500,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26500
+1296,Audi,Q5 2.0T Premium Plus,9,85500,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,7-Speed A/T,At least 1 accident or damage reported,7450
+1435,Audi,A4 2.0T Premium,9,99700,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14995
+1974,Audi,Q5 2.0T Premium Plus,9,110000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,7-Speed A/T,At least 1 accident or damage reported,17999
+1994,Audi,RS 7 4.0T Prestige,9,59715,560.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,29000
+2086,Audi,Q3 2.0T Premium Plus,9,155382,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11900
+2206,Audi,Q5 2.0T Premium Plus,9,58375,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,20990
+2372,Audi,A4 2.0T Premium,9,83420,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,20000
+2899,Audi,A6 3.0T Premium Plus,9,41059,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11100
+3633,Audi,A5 2.0T Premium Plus,9,119750,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,13500
+3698,Audi,A7 3.0T Prestige,9,36905,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,26000
+3772,Audi,A3 2.0T Premium,9,90360,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5899
+3978,Audi,A7 3.0T Prestige,9,111000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,25000
+4332,Audi,A7 3.0T Prestige,9,108000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,11995
+4334,Audi,A3 2.0T Premium,9,83000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,14995
+4457,Audi,A5 2.0T Premium,9,55564,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14500
+4464,Audi,S4 3.0 Prestige,9,54000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,33000
+4945,Audi,Q5 2.0T Premium Plus,9,118500,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,None reported,15400
+5064,Audi,A7 3.0T Premium Plus,9,74000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,24000
+5290,Audi,TT 2.0T,9,126760,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15000
+5293,Audi,Q5 2.0T Premium Plus,9,61830,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,None reported,27499
+5327,Audi,A3 2.0T Premium,9,102000,150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16500
+5654,Audi,S5 3.0T Prestige,9,44000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,32900
+6287,Audi,A3 2.0T Premium,9,95500,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,18995
+6308,Audi,TT 2.0T,9,66200,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,16499
+6723,Audi,S5 3.0T Premium Plus,9,87000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19000
+6740,Audi,A5 2.0T Premium Plus,9,68000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24500
+6798,Audi,A6 3.0T Prestige,9,108000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26500
+6801,Audi,A3 2.0T Premium,9,112000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6699
+6830,Audi,A4 2.0T Premium,9,83420,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,24000
+6934,Audi,S5 3.0T Prestige,9,70500,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,15999
+6992,Audi,A5 2.0T Premium Plus,9,57800,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,13000
+7020,Audi,A6 3.0T Prestige,9,87066,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17000
+7129,Audi,A7 3.0T Prestige,9,70500,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,27500
+7162,Audi,Q5 3.0T Premium Plus,9,122200,240.0HP 3.0L V6 Cylinder Engine Flex Fuel Capability,8-Speed A/T,At least 1 accident or damage reported,21500
+7231,Audi,A4 2.0T Premium Plus,9,83400,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,26499
+7371,Audi,Q5 2.0T Premium Plus,9,122770,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,10999
+7798,Audi,A4 2.0T Premium,9,95428,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,16500
+7934,Audi,R8 5.2 quattro Spyder,9,75000,525.0HP 5.2L 10 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,24999
+7941,Audi,A7 3.0T Prestige,9,97700,240.0HP 3.0L V6 Cylinder Engine Diesel Fuel,8-Speed A/T,None reported,17900
+8033,Audi,A4 2.0T Premium,9,118500,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,11500
+8178,Audi,A7 3.0T Prestige,9,97700,240.0HP 3.0L V6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,22000
+8359,Audi,Q5 2.0T Premium Plus,9,126760,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,14000
+8984,Audi,TT 2.0T Premium,9,99524,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,25500
+9003,Audi,Q5 3.0T Premium Plus,9,117292,272.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,19000
+9069,Audi,A3 2.0T Premium,9,67035,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,22500
+9242,Audi,A4 2.0T Premium,9,102000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,17000
+9410,Audi,A8 L 55,9,143250,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,11250
+9688,Audi,A3 2.0T Premium,9,96653,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,13800
+9741,Audi,A4 2.0T Premium,9,92203,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+10191,Audi,Q5 3.0 TDI Premium Plus,9,55564,240.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,None reported,22500
+10475,Audi,Q5 2.0T Premium Plus,9,54700,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,28300
+10904,Audi,Q5 2.0T Premium Plus,9,118500,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,15000
+10905,Audi,A6 3.0 TDI Premium Plus,9,198868,240.0HP 3.0L V6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,17500
+11048,Audi,Q7 3.0T Premium Plus,9,98527,280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,18000
+11069,Audi,A6 2.0T Premium Plus,9,108000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,10099
+11147,Audi,A5 2.0T Premium Plus,9,125000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,17500
+11160,Audi,A4 2.0T Premium,9,83420,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,16500
+11540,Audi,Q7 3.0T Premium Plus,9,98527,280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24900
+11622,Audi,Q5 2.0T Premium Plus,9,118500,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15400
+11977,Audi,S4 3.0 Prestige,9,98400,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,18000
+12070,Audi,S5 3.0T Prestige,9,55000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,58000
+12096,Audi,Q5 2.0T Premium Plus,9,54900,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,18900
+12115,Audi,A6 3.0T Prestige,9,98400,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,15000
+12339,Audi,A4 2.0T Titanium Premium,9,98400,188.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,6-Speed A/T,None reported,17900
+12748,Audi,S4 3.0T Premium Plus,9,98400,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,20150
+13127,Audi,RS 7 4.0T,9,24882,560.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,52999
+13351,Audi,A5 2.0T Premium Plus,9,120000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,29900
+13645,Audi,TL 3.2,9,124756,270.0HP 3.2L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11900
+13778,Audi,S5 3.0T Prestige,9,75466,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21990
+13893,Audi,Q3 2.0T Premium Plus,9,123256,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+14515,Audi,A4 2.0T Premium Plus,9,71200,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,At least 1 accident or damage reported,27900
+14521,Audi,Q5 2.0T Premium Plus,9,123500,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,10500
+14686,Audi,Q5 2.0T Premium Plus,9,78000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,27998
+14923,Audi,A6 2.0T Premium Plus,9,98000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,22500
+14956,Audi,A6 3.0T Premium Plus,9,72865,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,18500
+15107,Audi,S5 3.0T Premium Plus,9,14442,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29000
+15187,Audi,S6 4.0T Premium Plus,9,56000,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,32900
+15526,Audi,S3 2.0T Premium Plus,9,82900,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,19977
+15830,Audi,A5 2.0T Premium Plus,9,74000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,25700
+15873,Audi,A3 2.0T Premium,9,90818,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,14500
+15987,Audi,A4 2.0T Premium,9,97700,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,10995
+16297,Audi,A3 2.0T Premium,9,83500,186.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,18000
+16345,Audi,A4 2.0T Premium,9,98527,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,None reported,9995
+16436,Audi,A4 2.0T Premium Plus,9,73000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed M/T,None reported,17200
+16761,Audi,A4 2.0T Premium Plus,9,71000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,None reported,19500
+16865,Audi,A6 3.0T Premium Plus,9,92530,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13000
+17087,Audi,A4 2.0T Premium Plus,9,83420,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,At least 1 accident or damage reported,26600
+17213,Audi,Q7 3.0T Premium Plus,9,83400,280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,21990
+17245,Audi,A6 3.0T Prestige,9,108000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,22500
+17550,Audi,A6 3.0T Prestige,9,98000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,27000
+17680,Audi,Q5 2.0T Premium Plus,9,129567,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,21900
+18087,Audi,A5 2.0T Premium Plus,9,82000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26600
+18095,Audi,SQ5 3.0T Premium Plus,9,60000,354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,26000
+18181,Audi,A5 2.0T Premium Plus,9,77000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,25000
+18647,Audi,TT 2.0T,9,64549,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28000
+19077,Audi,A4 2.0T Premium Plus,9,83420,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,22999
+19094,Audi,S3 2.0T Premium Plus,9,78124,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,28000
+19506,Audi,A6 3.0T Prestige,9,108000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+19556,Audi,A8 4.0T,9,96238,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28000
+19625,Audi,A3 2.0T Premium,9,110450,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12000
+19677,Audi,TTS 2.0T Premium Plus,9,83765,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,26500
+19988,Audi,R8 5.2 V10 plus,9,83000,610.0HP 5.2L 10 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,14500
+20036,Audi,Q7 3.0T Prestige,9,47000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29900
+20067,Audi,TT 2.0T,9,126760,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13000
+20475,Audi,A3 2.0T Premium,9,96000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,16500
+20937,Audi,TT 2.0T,9,126760,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,9995
+21517,Audi,A4 2.0T Premium Plus,9,86818,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+21551,Audi,S5 4.2 Premium Plus,9,92421,354.0HP 4.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26000
+21609,Audi,S8 4.0T Plus,9,67800,605.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,18000
+21889,Audi,A4 2.0T Premium Plus quattro,9,84000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,20000
+21912,Audi,A7 3.0T Prestige,9,54000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,25000
+21933,Audi,A3 2.0T Premium,9,90400,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+22366,Audi,S6 4.0T Premium Plus,9,59715,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28000
+22370,Audi,A3 2.0T Premium,9,92203,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,20500
+22627,Audi,Q5 2.0T Premium Plus,9,118500,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,15000
+22962,Audi,S6 4.0T,9,37000,450.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,45950
+23027,Audi,Q5 2.0T Premium Plus,9,118500,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11900
+23166,Audi,Q5 2.0T Premium Plus,9,125575,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17000
+23453,Audi,A4 2.0T Premium,9,119000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19000
+23499,Audi,A4 2.0T Premium,9,98527,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,9995
+23614,Audi,Q5 2.0T Premium Plus,9,118500,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,20000
+23856,Audi,Q5 2.0T Premium Plus,9,29000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,29000
+23893,Audi,A6 3.0T Prestige,9,99769,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,17500
+23952,Audi,A4 2.0T Premium Plus,9,52000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,None reported,17500
+24039,Audi,Q5 2.0T Premium Plus,9,52105,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,30500
+24297,Audi,Q5 2.0T Premium Plus,9,124000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19995
+24467,Audi,R8 5.2,9,51000,525.0HP 5.2L 10 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,21000
+25002,Audi,S6 4.0T,9,74000,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,36000
+25028,Audi,Q5 2.0T Premium Plus,9,79000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,19995
+25102,Audi,A6 3.0T Prestige,9,111000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11500
+25132,Audi,Q5 2.0T Premium Plus,9,54700,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,15995
+25336,Audi,TT 2.0T,9,171000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22000
+25350,Audi,S3 2.0T Premium Plus,9,110380,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12350
+25641,Audi,S3 2.0T Premium Plus,9,61454,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+25658,Audi,RS 5 2.9T,9,125575,444.0HP 2.9L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,8950
+25725,Audi,RS 7 4.0T Prestige,9,65680,560.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,39985
+25741,Audi,Q7 3.0T Premium Plus,9,76170,280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,17900
+25824,Audi,Q5 2.0T Premium Plus,9,83420,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,At least 1 accident or damage reported,15000
+25917,Audi,A4 2.0T Premium,9,90818,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17000
+26291,Audi,A7 55 Premium Plus,9,54900,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,At least 1 accident or damage reported,29500
+26596,Audi,A4 2.0T Premium,9,90360,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,17999
+26949,Audi,A5 2.0T Premium Plus,9,53000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,25999
+26954,Audi,A4 2.0T Premium Plus,9,111700,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,None reported,26500
+27773,Audi,A6 2.0T Premium Plus,9,80500,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26000
+28055,Audi,Q5 2.0T Premium Plus,9,115872,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,7-Speed A/T,None reported,20900
+28225,Audi,S5 3.0T Premium Plus,9,59715,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,23800
+28427,Audi,A4 2.0T Tech Premium,9,86818,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,14000
+28705,Audi,A4 2.0T Premium,9,55000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,18500
+28710,Audi,R8 5.2,9,25000,550.0HP 5.2L 10 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,38000
+28762,Audi,R8 5.2 quattro Spyder,9,71290,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,13750
+28811,Audi,Q7 3.0T Premium Plus,9,68000,280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,13349
+28817,Audi,S3 2.0T Premium Plus,9,72922,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,7995
+28956,Audi,A4 2.0T Premium Plus,9,73000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,At least 1 accident or damage reported,16995
+29165,Audi,S4 3.0T Premium Plus,9,60500,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26000
+29262,Audi,S4 3.0T Premium Plus,9,45000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,57999
+29417,Audi,S6 4.0T,9,74000,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,29995
+29507,Audi,A8 L 4.0T,9,96238,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,53000
+30050,Audi,S5 3.0T Premium Plus,9,74000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,19800
+30341,Audi,A4 2.0T Premium Plus,9,63496,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,15995
+30539,Audi,Q5 3.0T Premium Plus,9,84000,272.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,22999
+30560,Audi,A4 2.0T Premium,9,61145,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,At least 1 accident or damage reported,25500
+30622,Audi,TTS 2.0T Premium Plus,9,102000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17000
+30912,Audi,A6 2.0T Premium Plus,9,63398,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,24000
+31013,Audi,A5 2.0T Premium Plus,9,82000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24000
+31026,Audi,A3 2.0T Premium,9,92000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,27000
+31189,Audi,S6 4.0T,9,74000,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,76000
+31207,Audi,Q3 45 S line Premium Plus,9,108000,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,19998
+31319,Audi,GL-Class GL 450 4MATIC,9,80300,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,17500
+31350,Audi,S4 3.0T Premium Plus,9,91877,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,29000
+31640,Audi,A3 2.0T Premium,9,83420,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16000
+31900,Audi,A4 2.0T Premium,9,120000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+32037,Audi,A6 3.0T Prestige,9,73000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,23000
+32237,Audi,A6 3.0T Prestige,9,89500,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26000
+32458,Audi,A5 2.0T Premium,9,74000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27000
+32845,Audi,Q5 2.0T Premium Plus,9,118500,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,None reported,13000
+33053,Audi,A7 3.0T Premium Plus,9,83000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,17999
+33150,Audi,A5 2.0T Premium Plus,9,68000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,None reported,22999
+33444,Audi,S3 2.0T Premium Plus,9,91877,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15500
+33466,Audi,A5 2.0T Premium Plus,9,68000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,None reported,24900
+33513,Audi,R8 5.2,9,51000,525.0HP 5.2L 10 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,144900
+34137,Audi,A5 2.0T Premium Plus,9,73000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11500
+34354,Audi,TT 1.8T,9,79500,180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14000
+34524,Audi,A8 L 4.0T,9,96238,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,24000
+34682,Audi,S4 3.0 Prestige,9,120000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,18000
+34718,Audi,Q5 2.0T Premium Plus,9,54700,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,None reported,20995
+34774,Audi,Q5 2.0T Premium Plus,9,118500,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,7-Speed A/T,At least 1 accident or damage reported,58000
+35101,Audi,A4 2.0T Premium,9,90236,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,None reported,22500
+35224,Audi,A5 2.0T Premium Plus,9,53000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,28000
+35810,Audi,Q3 2.0T Premium Plus,9,70500,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,23995
+35911,Audi,A6 3.0T Premium Plus,9,98400,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17000
+36189,Audi,S6 4.0T,9,91877,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,28000
+36196,Audi,Q5 2.0T Premium Plus,9,52105,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,20000
+36335,Audi,Q7 3.0T Prestige,9,108000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,19995
+36546,Audi,S3 2.0T Premium Plus,9,73549,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,None reported,18749
+36813,Audi,Q5 2.0T Premium Plus,9,82975,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,19977
+38056,Audi,A4 2.0T Premium,9,90236,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,None reported,13999
+38109,Audi,Q5 3.0T Premium Plus,9,96273,272.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,9985
+38774,Audi,Q5 2.0T Premium Plus,9,54700,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,None reported,20995
+38845,Audi,A4 2.0T Tech Premium,9,87066,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14000
+38940,Audi,Q5 2.0T Premium Plus,9,125000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,None reported,12000
+39398,Audi,A3 2.0T Premium,9,99700,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+39486,Audi,Q5 2.0T Premium Plus,9,119000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+39648,Audi,RS 5 2.9T,9,83400,444.0HP 2.9L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,29995
+39723,Audi,A5 2.0T Premium Plus,9,140000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,7-Speed A/T,At least 1 accident or damage reported,25500
+40074,Audi,A6 2.0T Premium Plus,9,96000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,17500
+40399,Audi,TT 2.0T,9,126760,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14000
+40631,Audi,Q3 2.0T Premium Plus,9,155382,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22000
+40712,Audi,Q5 2.0T Premium Plus,9,91403,2.0L I4 16V GDI DOHC Flexible Fuel,8-Speed Automatic,None reported,29995
+41027,Audi,A4 2.0T Premium Plus,9,83420,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,18000
+41103,Audi,S5 3.0T Prestige,9,70500,354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,35500
+41310,Audi,S4 3.0T Premium Plus,9,108206,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,12468
+41344,Audi,TT 2.0T,9,126760,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14000
+41837,Audi,Q5 3.0 TDI Premium Plus,9,55564,240.0HP 3.0L V6 Cylinder Engine Diesel Fuel,8-Speed A/T,At least 1 accident or damage reported,23995
+42112,Audi,Q5 2.0T Premium Plus,9,54700,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,None reported,22495
+42351,Audi,Q5 2.0T Premium Plus,9,112552,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,24440
+42398,Audi,Q5 2.0T Premium Plus,9,78007,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,8-Speed A/T,None reported,24950
+42631,Audi,A6 3.0 TDI Premium Plus,9,134207,240.0HP 3.0L V6 Cylinder Engine Diesel Fuel,8-Speed A/T,None reported,7500
+43220,Audi,Q7 3.0T Premium,9,98527,280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,10995
+43396,Audi,S6 4.0T,9,96000,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,34000
+43499,Audi,Q5 2.0T Premium Plus,9,118500,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15400
+43671,Audi,S5 3.0T Prestige,9,59715,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+43709,Audi,S5 3.0T Premium Plus,9,61450,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,24999
+44074,Audi,A5 2.0T Premium,9,91239,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,17900
+44128,Audi,Q5 3.0T Premium Plus,9,118500,240.0HP 3.0L V6 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,15000
+44172,Audi,Q5 2.0T Premium Plus,9,62285,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,Transmission w/Dual Shift Mode,None reported,19000
+44519,Audi,A7 3.0T Prestige,9,145565,240.0HP 3.0L V6 Cylinder Engine Diesel Fuel,8-Speed A/T,At least 1 accident or damage reported,14500
+44548,Audi,Q5 2.0T Premium Plus,9,52105,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,14500
+44724,Audi,S3 2.0T Premium Plus,9,84000,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+45407,Audi,A7 3.0T Premium Plus,9,106000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,14500
+45549,Audi,Q5 2.0T Premium Plus,9,115000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,6499
+46479,Audi,A4 2.0T Premium,9,69750,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19000
+46649,Audi,A6 2.0T Premium Plus,9,83400,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,22999
+46787,Audi,A4 2.0T Premium,9,93400,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,None reported,24500
+47031,Audi,A3 2.0T Tech Premium,9,60000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,24950
+47469,Audi,SQ5 3.0T Premium Plus,9,60000,354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,29000
+47497,Audi,A4 2.0T Premium,9,125000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+47697,Audi,R8 Base,9,49000,420.0HP 4.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,36995
+47887,Audi,Q5 2.0T Premium Plus,9,83420,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,14599
+47943,Audi,Q5 3.0 TDI Premium Plus,9,124250,240.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,None reported,8900
+48158,Audi,S5 3.0T Prestige,9,73000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,16500
+48242,Audi,S5 3.0T Premium Plus,9,61454,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29000
+48407,Audi,A7 3.0T Prestige,9,55000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,40000
+48412,Audi,A8 L 55,9,816,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,10499
+48440,Audi,Q7 3.0T Premium Plus,9,98527,280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,9995
+48738,Audi,A5 2.0T Premium Plus,9,87500,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,24000
+48791,Audi,S5 3.0T Prestige,9,22500,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,78990
+48835,Audi,TT 2.0T,9,64549,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,9995
+49123,Audi,RS 7 4.0T Prestige,9,59715,560.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,24900
+49231,Audi,Q5 2.0T Premium Plus,9,74000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22500
+49258,Audi,A4 2.0T Premium,9,73000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,17000
+49381,Audi,A4 2.0T Premium Plus,9,52105,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,None reported,17500
+49434,Audi,A5 2.0T Premium Plus,9,74000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,24000
+49441,Audi,TT RS Base,9,123256,360.0HP 2.5L 5 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,15999
+49668,Audi,A6 3.0T Prestige,9,108000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,25500
+49699,Audi,SQ5 3.0T Premium Plus,9,39000,354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,26600
+50028,Audi,Q5 2.0T Premium Plus,9,54700,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,28500
+50121,Audi,S5 3.0T Premium Plus,9,50000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,34000
+50983,Audi,A4 2.0T Premium Plus,9,73000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17200
+51004,Audi,A6 3.0T Prestige,9,108000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,21500
+51163,Audi,A3 2.0T Premium,9,90818,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18000
+51256,Audi,A7 3.0T Prestige,9,106000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8900
+51301,Audi,Q5 2.0T Premium Plus,9,118500,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,13000
+51419,Audi,A3 2.0T Premium,9,93500,184.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,24000
+51512,Audi,S6 4.0T,9,59715,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,23000
+51518,Audi,A6 3.0T Prestige,9,57500,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,29990
+51811,Audi,Q7 3.0T Premium Plus,9,70773,280.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19750
+51813,Audi,A7 3.0T Prestige,9,103272,240.0HP 3.0L V6 Cylinder Engine Diesel Fuel,8-Speed A/T,None reported,40000
+52191,Audi,TT 2.0T Premium,9,224000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,5499
+52310,Audi,A4 2.0T Premium Plus,9,73000,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,25500
+52393,Audi,A7 3.0T Premium Plus,9,110000,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,35000
+52815,Audi,S5 3.0T Premium Plus,9,38718,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,29500
+52845,Audi,Q7 3.0T Prestige,9,58000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17900
+53079,Audi,S5 3.0T Prestige,9,37500,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,26000
+53140,Audi,A6 3.0T Prestige,9,108000,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,24000
+53300,Audi,TT 2.0T,9,126760,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,14000
+53478,Audi,A8 4.0T,9,96238,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,22500
+54021,Audi,Q5 2.0T Premium Plus,9,54700,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,15995
+54269,Audi,A4 2.0T Premium,9,94634,220.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,6500

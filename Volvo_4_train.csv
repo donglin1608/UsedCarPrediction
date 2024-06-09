@@ -1,0 +1,42 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+742,Volvo,S60 T6 Momentum,4,46250,2.0L I4 16V GDI DOHC,8-Speed A/T,At least 1 accident or damage reported,32000
+976,Volvo,XC90 T6 Inscription,4,60000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,226000
+1211,Volvo,XC60 T6 Inscription,4,15903,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,25500
+2874,Volvo,XC40 T5 Momentum,4,60000,2.0L I4 16V GDI DOHC,A/T,None reported,149900
+2888,Volvo,XC90 T6 Momentum,4,18000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,83000
+3862,Volvo,S60 T6 Momentum,4,39000,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,31500
+4917,Volvo,V60 Cross Country T5,4,10500,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,36500
+5944,Volvo,XC90 T6 Momentum,4,38360,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,26499
+6978,Volvo,V60 Cross Country T5,4,15500,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38500
+7936,Volvo,XC90 T6 Inscription,4,22500,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13250
+13136,Volvo,XC90 T6 Inscription,4,35000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37499
+13505,Volvo,XC90 T6 Inscription,4,36500,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,68000
+13942,Volvo,S90 T5 Momentum,4,14700,237.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26900
+15915,Volvo,XC90 T6 Inscription,4,22500,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,40000
+16266,Volvo,XC90 Recharge Plug-In Hybrid T8 Inscription 7 Passenger,4,7800,455.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,None reported,130000
+17505,Volvo,XC90 Hybrid T8 Inscription,4,24158,400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,36000
+23642,Volvo,XC90 Hybrid T8 Inscription,4,62378,400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,None reported,38000
+24388,Volvo,XC90 T6 Inscription,4,44487,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,60995
+24611,Volvo,XC60 T6 Inscription,4,21832,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,57999
+26141,Volvo,S60 T6 Momentum,4,46250,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,29000
+26630,Volvo,XC90 T6 Momentum,4,54002,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,132900
+29237,Volvo,S60 T6 Momentum,4,46250,2.0L I4 16V GDI DOHC,8-Speed Automatic,None reported,27800
+29928,Volvo,XC90 Hybrid T8 Inscription,4,44487,400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,None reported,27000
+30066,Volvo,S60 T6 Momentum,4,46250,2.0L I4 16V GDI DOHC,8-Speed Automatic,None reported,38000
+32033,Volvo,XC60 T6 Inscription,4,58600,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15900
+34527,Volvo,XC40 T5 Momentum,4,60000,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,55000
+34933,Volvo,XC90 Hybrid T8 Inscription,4,16000,455.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,39990
+35048,Volvo,XC90 Hybrid T8 Inscription,4,64532,400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,20000
+36515,Volvo,XC90 T6 Momentum,4,12000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,87000
+37246,Volvo,XC90 T6 Inscription,4,22500,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,50000
+39383,Volvo,V60 Cross Country T5,4,23900,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30900
+39479,Volvo,XC90 T6 Inscription,4,45000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,50000
+39818,Volvo,XC60 T6 Inscription,4,49899,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,33500
+40918,Volvo,XC60 T6 Inscription,4,52000,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,21800
+41418,Volvo,S60 T6 Momentum,4,55000,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49700
+43553,Volvo,XC90 T6 Inscription,4,69000,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,27500
+44410,Volvo,XC90 Recharge Plug-In Hybrid T8 Inscription 7 Passenger,4,17500,455.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,None reported,44000
+45855,Volvo,XC90 T6 Inscription,4,50000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,53000
+46141,Volvo,XC90 T6 Inscription,4,22500,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+46248,Volvo,XC60 T6 Inscription,4,22500,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,53999
+53629,Volvo,XC90 T6 Inscription,4,22500,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46000

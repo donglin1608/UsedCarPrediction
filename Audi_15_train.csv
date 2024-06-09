@@ -1,0 +1,17 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1588,Audi,A4 2.0T Premium quattro,15,145000,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14500
+2116,Audi,A4 2.0T Premium,15,129567,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+3938,Audi,TT 1.8T,15,152270,180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,9800
+12402,Audi,A4 2.0T Premium,15,136400,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,11600
+12928,Audi,A4 3.2 Premium Plus quattro,15,153000,265.0HP 3.2L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,9995
+15619,Audi,TTS 2.0T Premium Plus,15,152000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,5499
+17408,Audi,S6 4.0T,15,74000,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,27000
+21692,Audi,A4 2.0T Premium,15,99700,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,8500
+22626,Audi,TT 1.8L,15,125500,180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7850
+22931,Audi,R8 5.2 quattro Spyder,15,15000,525.0HP 5.2L 10 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,90000
+35378,Audi,A6 3.2 quattro,15,153000,255.0HP 3.2L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17500
+36829,Audi,TT 3.2 Cabriolet quattro,15,151000,250.0HP 3.2L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,6500
+43028,Audi,A4 3.2 Premium Plus quattro,15,153000,265.0HP 3.2L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,8700
+44069,Audi,TT 2.0T Premium,15,78124,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,19795
+45920,Audi,TT 1.8T,15,122000,180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,7999
+50904,Audi,Continental GTC Base,15,7960,552.0HP 6.0L 12 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,79950

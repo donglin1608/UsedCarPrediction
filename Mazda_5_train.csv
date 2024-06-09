@@ -1,0 +1,56 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+3055,Mazda,CX-30 2.5 S Select Package,5,4004,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,25500
+3159,Mazda,Mazda6 Touring,5,19000,187.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,28900
+3314,Mazda,CX-30 2.5 S Select Package,5,4004,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28900
+3709,Mazda,Mazda6 Grand Touring,5,47839,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,26125
+4295,Mazda,CX-9 Signature,5,69771,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,19950
+8160,Mazda,CX-9 Grand Touring,5,71962,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19395
+8162,Mazda,CX-30 2.5 S Select Package,5,40069,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18795
+8822,Mazda,CX-9 Carbon Edition,5,51351,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,29444
+10139,Mazda,CX-30 2.5 S Select Package,5,40069,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+10649,Mazda,CX-9 Signature,5,69771,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+13880,Mazda,Mazda3 FWD w/Premium Package,5,81000,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,35000
+15445,Mazda,CX-5 Grand Touring,5,75466,2.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,None reported,28995
+16199,Mazda,CX-30 Premium Package,5,35569,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,26772
+17297,Mazda,Mazda6 Grand Touring Reserve,5,76474,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21865
+17340,Mazda,CX-30 Preferred,5,26000,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,31933
+17703,Mazda,Mazda3 FWD w/Preferred Package,5,46500,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,33200
+18908,Mazda,CX-9 Signature,5,19500,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,29500
+19167,Mazda,CX-30 Premium Package,5,29558,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,25884
+20052,Mazda,Mazda6 Touring,5,23162,187.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,43000
+20820,Mazda,Mazda3 FWD w/Preferred Package,5,60800,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21800
+21355,Mazda,CX-9 Signature,5,53900,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+21887,Mazda,CX-9 Signature,5,46452,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,18200
+23106,Mazda,CX-30 2.5 S Select Package,5,73043,2.5L I4 16V GDI DOHC,6-Speed Automatic,At least 1 accident or damage reported,25307
+23516,Mazda,CX-9 Signature,5,69771,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+23879,Mazda,CX-50 2.5 Turbo Premium Package,5,16200,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,36900
+24549,Mazda,CX-30 2.5 S Select Package,5,4004,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,25500
+24863,Mazda,CX-9 Signature,5,69771,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28000
+25718,Mazda,CX-30 2.5 S Select Package,5,4004,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,25500
+26017,Mazda,Mazda3 FWD w/Preferred Package,5,36900,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,26500
+28263,Mazda,CX-9 Carbon Edition,5,26000,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,39777
+28353,Mazda,MX-5 Miata Grand Touring,5,36568,167.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,40000
+31109,Mazda,CX-30 Premium Package,5,55359,2.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,None reported,19425
+32351,Mazda,CX-9 Signature,5,26000,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37000
+32564,Mazda,CX-9 Signature,5,69771,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,27500
+33705,Mazda,Mazda3 FWD w/Preferred Package,5,40000,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,45000
+34141,Mazda,CX-5 Grand Touring,5,59692,2.5L I4 16V GDI DOHC,6-Speed Automatic,At least 1 accident or damage reported,26288
+34181,Mazda,Mazda6 Touring,5,15500,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,31700
+35309,Mazda,CX-9 Grand Touring,5,62662,244.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,33950
+38166,Mazda,Mazda6 Touring,5,19500,187.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,25000
+38362,Mazda,CX-9 Grand Touring,5,48842,2.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,At least 1 accident or damage reported,30999
+38431,Mazda,CX-30 2.5 S Select Package,5,4004,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27000
+40334,Mazda,CX-9 Grand Touring,5,25240,2.5L I4 16V,6-Speed Automatic,None reported,47950
+40961,Mazda,Mazda3 Touring,5,71273,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,23000
+42110,Mazda,CX-5 Grand Touring,5,61830,3.6L V6 24V GDI DOHC,6-Speed Automatic,None reported,35387
+42537,Mazda,CX-5 Grand Touring,5,62377,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,32063
+42702,Mazda,Mazda6 Grand Touring Reserve,5,56837,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27899
+42758,Mazda,Mazda3 FWD w/Preferred Package,5,56910,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,34900
+43877,Mazda,CX-5 Grand Touring,5,61117,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,27599
+44228,Mazda,CX-9 Signature,5,69771,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19995
+44284,Mazda,CX-30 Base,5,41997,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,31700
+48281,Mazda,CX-9 Signature,5,27836,2.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,None reported,20995
+49688,Mazda,Mazda3 FWD w/Preferred Package,5,78700,187.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,17599
+50566,Mazda,CX-30 Base,5,108206,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,24980
+51393,Mazda,Mazda6 Grand Touring Reserve,5,68860,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,26000
+53188,Mazda,Mazda3 FWD w/Preferred Package,5,7900,186.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,129900

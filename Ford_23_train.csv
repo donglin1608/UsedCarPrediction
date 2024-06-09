@@ -1,0 +1,61 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+902,Ford,Excursion Limited,23,239000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,8000
+1014,Ford,Mustang Premium,23,16000,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+2736,Ford,F-250 XLT Super Duty,23,161000,260.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+4265,Ford,Mustang GT,23,66500,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21000
+5389,Ford,Excursion Limited,23,109357,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+5866,Ford,Firebird Trans Am,23,71448,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,9500
+6548,Ford,F-250 XLT Crew Cab Super Duty,23,165454,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+8400,Ford,F-250 XLT Crew Cab Super Duty,23,315000,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7200
+8526,Ford,F-250 XLT Crew Cab Super Duty,23,215000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,None reported,15900
+8883,Ford,Excursion Limited,23,61874,305.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,32750
+8950,Ford,Excursion Limited,23,239000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,7000
+9073,Ford,Excursion Limited,23,96273,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,5995
+9074,Ford,Excursion XLT 4WD,23,170000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5499
+9615,Ford,F-250 XLT Super Duty,23,162000,260.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+11666,Ford,Excursion Limited,23,235000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,3000
+11739,Ford,F-250 XLT Crew Cab Super Duty,23,130200,350.0HP 6.4L 8 Cylinder Engine Diesel Fuel,A/T,None reported,8000
+12838,Ford,Excursion Limited,23,109357,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,5899
+13687,Ford,Excursion Limited,23,239000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,8000
+14777,Ford,F-250 XL SuperCab H/D,23,115000,–,A/T,None reported,7500
+15191,Ford,F-250 XLT Super Duty,23,64309,260.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+16782,Ford,F-150 XLT SuperCab,23,70000,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,15500
+17504,Ford,Mustang GT,23,167000,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,8000
+17913,Ford,Eurovan MV,23,111000,140.0HP 2.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11000
+18905,Ford,F-250 XLT Super Duty,23,21450,260.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21000
+19629,Ford,Excursion Limited,23,239000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+19908,Ford,Mustang GT,23,52675,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,21999
+23795,Ford,Excursion Limited,23,145000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,30990
+24515,Ford,F-150 XLT SuperCab,23,48054,220.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,5500
+24644,Ford,Excursion Limited,23,167000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,8000
+27172,Ford,Excursion Limited,23,239000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,13500
+28843,Ford,Excursion XLT 4WD,23,205000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+29680,Ford,Mustang GT,23,87500,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,31450
+30395,Ford,Excursion Limited,23,239000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,6500
+31546,Ford,Excursion Limited,23,333361,250.0HP 7.3L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,21000
+31836,Ford,F-250 XL Crew Cab Super Duty,23,188000,190.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,4500
+32797,Ford,Excursion Limited,23,94000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,26500
+32971,Ford,Excursion Limited,23,333361,250.0HP 7.3L 8 Cylinder Engine Diesel Fuel,A/T,None reported,16999
+33646,Ford,Mustang Premium,23,165000,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,3000
+33770,Ford,Excursion Limited,23,111000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,10400
+37740,Ford,Tundra SR5 Double Cab,23,145000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,15000
+39397,Ford,F-250 XLT Super Duty,23,170000,260.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+40232,Ford,Excursion XLT 4WD,23,205000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,3750
+40535,Ford,Excursion Limited,23,239000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,8000
+41045,Ford,F-250 XLT Super Duty,23,64309,260.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,21000
+43131,Ford,Mustang GT,23,77400,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,16800
+43321,Ford,F-250 XLT SuperCab Super Duty,23,2894,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,46000
+43725,Ford,Excursion Limited,23,169000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,22500
+45511,Ford,Excursion Limited,23,109357,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,21999
+46316,Ford,Excursion Limited,23,127000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+46407,Ford,F-250 XLT Super Duty,23,64309,260.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,12995
+47313,Ford,Excursion Limited,23,333361,250.0HP 7.3L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,19000
+47739,Ford,F-250 Base,23,67499,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,21000
+48842,Ford,F-150 XLT SuperCab,23,192100,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,7500
+48899,Ford,Excursion Limited,23,103000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+49451,Ford,Mustang GT,23,96000,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,7500
+49504,Ford,Excursion Limited,23,133255,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,15000
+50591,Ford,Excursion Limited,23,239000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+51057,Ford,Excursion Limited,23,64000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,6800
+51738,Ford,Expedition EL XLT,23,195500,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,10300
+52251,Ford,Excursion Limited,23,169000,250.0HP 7.3L 8 Cylinder Engine Diesel Fuel,A/T,None reported,11000

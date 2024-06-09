@@ -1,0 +1,49 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1644,RAM,3500 Tradesman,9,53500,400.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,25650
+1884,RAM,2500 Big Horn,9,84220,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,30500
+2417,RAM,1500 SLT,9,153250,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17800
+2537,RAM,1500 Big Horn,9,140500,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16500
+6597,RAM,1500 Big Horn,9,63750,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,36000
+6780,RAM,2500 SLT,9,84500,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39500
+6985,RAM,2500 SLT,9,149130,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,22500
+10716,RAM,2500 Longhorn,9,72200,370.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,52500
+13315,RAM,3500 Laramie,9,20000,385.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,85000
+13652,RAM,1500 Laramie,9,16616,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,43775
+14027,RAM,1500 Big Horn,9,124000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,19900
+14537,RAM,ProMaster 2500 Window Van High Roof,9,55000,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19500
+14955,RAM,1500 Classic Tradesman,9,113500,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,19950
+17959,RAM,2500 SLT,9,147191,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,20990
+20406,RAM,1500 Big Horn,9,140500,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,14000
+22358,RAM,2500 Big Horn,9,123500,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15550
+22531,RAM,1500 SLT,9,140500,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,14000
+22711,RAM,1500 Sport,9,124000,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,13900
+24685,RAM,3500 Tradesman,9,57000,400.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,48995
+25523,RAM,2500 Longhorn,9,72200,370.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,A/T,None reported,52500
+27514,RAM,1500 Rebel,9,54300,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,44900
+30597,RAM,1500 Big Horn,9,120000,260.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,None reported,47000
+32019,RAM,1500 Big Horn,9,157000,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,18750
+33603,RAM,2500 Laramie,9,99499,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,20995
+34041,RAM,1500 Sport,9,71750,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,20470
+34265,RAM,1500 Limited,9,46000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,52500
+35757,RAM,2500 Big Horn,9,149130,370.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,16000
+36541,RAM,2500 SLT,9,74000,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,27500
+36648,RAM,1500 SLT,9,122650,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,18900
+37295,RAM,2500 Longhorn,9,72200,370.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,8-Speed A/T,None reported,52500
+39419,RAM,1500 Big Horn,9,143390,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36800
+39463,RAM,2500 SLT,9,127770,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,13888
+40708,RAM,1500 Rebel,9,75151,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,At least 1 accident or damage reported,9495
+41719,RAM,1500 Tradesman/Express,9,110000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15500
+43711,RAM,2500 Longhorn,9,72200,370.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,52500
+45303,RAM,1500 Big Horn,9,140500,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16000
+45525,RAM,2500 SLT,9,81000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,38500
+45707,RAM,2500 SLT,9,86000,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,15000
+45791,RAM,1500 Laramie,9,13464,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,11995
+45897,RAM,2500 SLT,9,149130,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,27000
+46925,RAM,3500 Laramie,9,102200,385.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,22500
+48755,RAM,2500 Big Horn,9,107000,370.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,22500
+48833,RAM,2500 SLT,9,149130,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,35000
+49097,RAM,2500 SLT,9,149130,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,27000
+49406,RAM,2500 Big Horn,9,96000,370.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,34000
+50438,RAM,2500 Big Horn,9,143390,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,13000
+51388,RAM,2500 Big Horn,9,122770,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,18750
+53226,RAM,2500 Powerwagon,9,124000,383.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,24950

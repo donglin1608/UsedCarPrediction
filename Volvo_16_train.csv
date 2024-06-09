@@ -1,0 +1,41 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+2492,Volvo,XC70 3.2,16,88300,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,30000
+2954,Volvo,XC70 3.2,16,60000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,36750
+3139,Volvo,XC70 3.2,16,160000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,4000
+5698,Volvo,XC70 3.2,16,95798,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,14000
+6623,Volvo,XC70 3.2,16,46700,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27000
+6928,Volvo,XC70 3.2,16,170000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,41000
+7093,Volvo,XC90 3.2,16,170000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7750
+7729,Volvo,XC90 3.2,16,75965,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17500
+8026,Volvo,XC90 3.2,16,97700,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+8502,Volvo,XC70 3.2,16,46628,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12000
+11734,Volvo,XC70 3.2,16,90000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15400
+13161,Volvo,XC70 3.2,16,170000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8900
+13734,Volvo,XC60 3.2,16,102000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,31000
+14325,Volvo,XC70 3.2,16,170000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+14501,Volvo,C30 T5 Premier Plus,16,73000,227.0HP 2.5L 5 Cylinder Engine Gasoline Fuel,A/T,None reported,13900
+14557,Volvo,XC90 3.2,16,187000,–,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,7999
+15911,Volvo,C70 T5,16,100780,300.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13250
+16521,Volvo,XC70 3.2,16,160000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+18403,Volvo,XC90 3.2,16,193783,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12500
+18724,Volvo,XC70 3.2,16,99700,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+26040,Volvo,XC90 3.2,16,196000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,23500
+26868,Volvo,XC90 3.2,16,196000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,6499
+26905,Volvo,XC90 3.2,16,170000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8550
+27683,Volvo,XC90 3.2,16,99700,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,18500
+31075,Volvo,C30 T5 Premier Plus,16,122000,227.0HP 2.5L 5 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+32225,Volvo,XC90 3.2,16,99700,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+32729,Volvo,XC70 3.2,16,196000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+35002,Volvo,XC70 3.2,16,196000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,10200
+35010,Volvo,XC90 3.2,16,88300,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,12900
+35591,Volvo,S40 T5,16,104000,227.0HP 2.5L 5 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,18500
+37755,Volvo,XC90 3.2,16,122000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,4300
+38669,Volvo,XC70 3.2,16,196000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7850
+39112,Volvo,XC60 3.2,16,100331,240.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+42833,Volvo,S80 3.2,16,58800,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,26800
+44455,Volvo,S80 3.2,16,90050,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,5800
+45587,Volvo,XC70 3.2,16,220000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,29999
+49220,Volvo,XC60 3.2,16,40000,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,11500
+49990,Volvo,S80 3.2,16,143390,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8400
+51991,Volvo,XC90 3.2,16,156350,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+53740,Volvo,XC60 3.2,16,193783,235.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,6500

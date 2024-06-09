@@ -1,0 +1,77 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+54774,Chevrolet,Liberty Sport,16,135465,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+55793,Chevrolet,Malibu 1LT,16,147589,160.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+55959,Chevrolet,Corvette Base,16,49000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+58636,Chevrolet,Camaro Z28,16,121630,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+59225,Chevrolet,Avalanche 1500 LTZ,16,140500,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+59512,Chevrolet,Camaro Z28,16,170000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+60122,Chevrolet,Corvette Base,16,80000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+61094,Chevrolet,Corvette Base,16,2800,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+61440,Chevrolet,Silverado 1500 LT Extended Cab,16,123815,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+62330,Chevrolet,Camaro 2LT,16,107000,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+62568,Chevrolet,Suburban 1500 LTZ,16,162750,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+62836,Chevrolet,Corvette Base,16,38900,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+63504,Chevrolet,Suburban 1500 LTZ,16,162482,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,0
+63909,Chevrolet,Silverado 1500 LT Extended Cab,16,208864,285.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+63974,Chevrolet,Corvette Base,16,64517,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+64112,Chevrolet,Corvette Base,16,51855,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+64665,Chevrolet,Trailblazer SS,16,161000,390.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+65316,Chevrolet,Tahoe LTZ,16,500,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+65529,Chevrolet,Camaro 2SS,16,86200,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+65538,Chevrolet,Suburban 1500 LT,16,162750,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,Transmission Overdrive Switch,At least 1 accident or damage reported,0
+65823,Chevrolet,Suburban 1500 LTZ,16,162750,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+66578,Chevrolet,Corvette Base,16,51855,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+66632,Chevrolet,Corvette Base,16,97500,300.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+66646,Chevrolet,Camaro LT1,16,36000,312.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+68336,Chevrolet,Tahoe LT,16,162750,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+69073,Chevrolet,Corvette Base,16,53814,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+70533,Chevrolet,Corvette Base,16,25500,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+71075,Chevrolet,Camaro 1LT,16,112000,312.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+71281,Chevrolet,Camaro Base,16,85000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+71661,Chevrolet,Camaro 2SS,16,103000,400.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+71686,Chevrolet,Suburban 1500 LT,16,121630,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,Transmission Overdrive Switch,At least 1 accident or damage reported,0
+72594,Chevrolet,Suburban 1500 LT,16,190000,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+73452,Chevrolet,Cruze LT,16,194000,138.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+74465,Chevrolet,Liberty Renegade,16,148740,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0
+74562,Chevrolet,Express 3500 Base,16,57800,323.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+74960,Chevrolet,Silverado 2500 LT H/D Extended Cab,16,169000,360.0HP 6.6L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+76475,Chevrolet,Monte Carlo SS,16,66840,303.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+76781,Chevrolet,Corvette Base,16,27407,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+77070,Chevrolet,Tahoe LTZ,16,104733,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+77292,Chevrolet,Corvette Base,16,140000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+77695,Chevrolet,Corvette Base,16,93000,340.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+78276,Chevrolet,Camaro 1LT,16,122000,312.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+78361,Chevrolet,Camaro 1LT,16,106500,312.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+78386,Chevrolet,Express 3500 Base,16,144000,319.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+78482,Chevrolet,Corvette Base,16,51808,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+78988,Chevrolet,Corvette Base,16,51855,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+79836,Chevrolet,Tahoe LTZ,16,196300,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,0
+80082,Chevrolet,Avalanche 1500 LTZ,16,160000,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+80088,Chevrolet,Trailblazer SS,16,161000,390.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+80090,Chevrolet,Silverado 2500 LTZ H/D Extended Cab,16,53850,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+82102,Chevrolet,Sequoia SR5,16,160265,273.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+82345,Chevrolet,Corvette Base,16,15500,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+82407,Chevrolet,Silverado 1500 Hybrid 1HY,16,100545,332.0HP 6.0L 8 Cylinder Engine Gas/Electric Hybrid,4-Speed A/T,None reported,0
+82509,Chevrolet,Corvette Stingray w/3LT,16,3000,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+82728,Chevrolet,Silverado 1500 LT Extended Cab,16,97579,285.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+83132,Chevrolet,Corvette Base,16,39132,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+83301,Chevrolet,Trailblazer SS,16,111887,395.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+83668,Chevrolet,SSR Base,16,98000,300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+84555,Chevrolet,Camaro 2LT,16,86170,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+84683,Chevrolet,Avalanche 1500 LTZ,16,98313,310.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,0
+84751,Chevrolet,Malibu 1LT,16,170000,160.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+84831,Chevrolet,Caprice Classic Base,16,160000,260.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+85303,Chevrolet,Camaro 1LT,16,70000,300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+85368,Chevrolet,Corvette Grand Sport,16,40000,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+85794,Chevrolet,Corvette Base,16,64500,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+86345,Chevrolet,Impala Base,16,86000,260.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+86641,Chevrolet,Avalanche 1500 LT,16,68500,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,0
+86892,Chevrolet,Trailblazer SS,16,8700,390.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+87215,Chevrolet,Corvette Base,16,185963,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+87614,Chevrolet,Corvette Base,16,80000,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+88195,Chevrolet,Corvette Base,16,51000,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+88417,Chevrolet,Corvette Base,16,23133,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+88446,Chevrolet,Corvette Base,16,152000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+89333,Chevrolet,Suburban 1500 LT,16,162750,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,Transmission Overdrive Switch,At least 1 accident or damage reported,0
+89515,Chevrolet,Corvette Base,16,80000,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+89642,Chevrolet,Corvette Base,16,63400,430.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0

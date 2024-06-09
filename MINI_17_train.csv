@@ -1,0 +1,62 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+48,MINI,Cooper Base,17,79000,118.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,8999
+769,MINI,Cooper S Base,17,95798,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,7200
+1699,MINI,Cooper S Base,17,103726,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,7750
+1986,MINI,Cooper S Base,17,102681,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,10600
+3105,MINI,Cooper S Base,17,91700,181.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,6500
+4710,MINI,Cooper S Base,17,118000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,10900
+4796,MINI,Cooper S Base,17,125575,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6999
+9551,MINI,Cooper S Base,17,45000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,7900
+10025,MINI,Cooper S Base,17,80000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8500
+10309,MINI,Cooper S Base,17,125900,181.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,11500
+11133,MINI,Cooper S Base,17,123000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+12759,MINI,Cooper S Base,17,110022,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,3500
+15147,MINI,Cooper S Base,17,110022,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6950
+15198,MINI,Cooper S Base,17,110022,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,9650
+15481,MINI,Cooper S Base,17,110022,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6700
+15493,MINI,Cooper Base,17,118000,118.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12990
+16191,MINI,Cooper S Base,17,97395,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,8500
+17873,MINI,Cooper S Base,17,122000,168.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,11000
+20403,MINI,Cooper S Base,17,118000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,11100
+22963,MINI,Cooper S Base,17,63500,181.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,5000
+23816,MINI,Cooper S Base,17,99000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,3500
+25749,MINI,Cooper S Clubman Base,17,227010,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,3850
+26676,MINI,Cooper S Base,17,115000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,4400
+26927,MINI,Cooper S Base,17,125575,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,7850
+26985,MINI,Cooper Base,17,108045,118.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,7200
+28853,MINI,Cooper S Base,17,127600,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,6950
+28914,MINI,Cooper S Base,17,99000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,4399
+29461,MINI,Cooper S Base,17,80300,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,8900
+30736,MINI,Cooper S Base,17,141800,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4800
+30859,MINI,Cooper S Base,17,40698,181.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,11500
+32014,MINI,Cooper S Base,17,110000,168.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,45000
+32625,MINI,Cooper S Base,17,178000,181.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,3850
+32768,MINI,Cooper S Base,17,106000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,9900
+33277,MINI,Cooper S Base,17,121250,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6700
+33383,MINI,Cooper S Base,17,123720,181.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,11000
+35318,MINI,Cooper Base,17,124542,118.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,7450
+37042,MINI,Cooper S Base,17,118000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,4800
+37181,MINI,Cooper S Base,17,70000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28000
+37914,MINI,Cooper S Base,17,83853,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,6950
+37960,MINI,Cooper S Base,17,83853,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,9000
+41587,MINI,Cooper S Base,17,97395,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,9850
+43069,MINI,Cooper S Base,17,118000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,5000
+43435,MINI,Cooper S Base,17,110022,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,8250
+44036,MINI,Cooper S Clubman Base,17,83853,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,6950
+44297,MINI,Cooper S Base,17,110500,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,11500
+44761,MINI,Cooper S Base,17,99999,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,7899
+44931,MINI,Cooper S Base,17,118000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,5900
+45449,MINI,Cooper S Base,17,120000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,10995
+45619,MINI,Cooper S Base,17,74000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,4400
+45712,MINI,Cooper S Base,17,110022,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,6250
+45781,MINI,Cooper Base,17,169613,118.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3900
+46911,MINI,Cooper Base,17,190640,118.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8100
+47802,MINI,Cooper S Base,17,118000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,4300
+49082,MINI,Cooper S Base,17,110022,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,6750
+49334,MINI,Cooper S Base,17,118000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,3900
+49971,MINI,Cooper S Base,17,137600,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6880
+50009,MINI,Cooper S Base,17,63500,181.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,10500
+50099,MINI,Cooper S Base,17,123921,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6900
+50652,MINI,Cooper S Base,17,135465,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,10950
+51135,MINI,Cooper Base,17,137600,118.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6880
+53611,MINI,Cooper S Base,17,185000,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,9950

@@ -1,0 +1,80 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+55335,INFINITI,QX70 Base,10,72348,325.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+55426,INFINITI,Q70 3.7,10,70612,330.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+55579,INFINITI,QX80 Base,10,140401,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+56367,INFINITI,QX60 Base,10,92700,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+56697,INFINITI,QX60 Base,10,103466,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+57676,INFINITI,QX80 Base,10,126000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+59794,INFINITI,Q50 Premium,10,127356,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+60415,INFINITI,QX60 Base,10,143250,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,0
+60484,INFINITI,QX60 Base,10,89106,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+60782,INFINITI,QX80 Base,10,121525,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+61218,INFINITI,Q50 Premium,10,86101,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+61543,INFINITI,Q50 Premium,10,103726,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+61548,INFINITI,QX60 Base,10,76296,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+62252,INFINITI,QX60 Base,10,71000,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+62353,INFINITI,Q50 3.0T Premium,10,87501,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+62839,INFINITI,Q70 3.7X,10,70312,330.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+63586,INFINITI,QX70 Base,10,103010,325.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,0
+63646,INFINITI,QX80 Base,10,86500,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+64023,INFINITI,G37 x,10,71280,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+64095,INFINITI,QX60 Base,10,95400,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+64311,INFINITI,QX80 Base,10,103010,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,0
+64815,INFINITI,Q70 3.7,10,70312,330.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+64958,INFINITI,QX70 Base,10,135603,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,M/T,None reported,0
+65105,INFINITI,QX56 Base,10,141775,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+65548,INFINITI,Q50 3.0t Red Sport 400,10,117500,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+66185,INFINITI,QX30 Premium,10,149460,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+66348,INFINITI,Q50 Premium,10,127356,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,0
+66653,INFINITI,QX70 Base,10,91000,325.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+67003,INFINITI,QX60 Base,10,169000,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+67049,INFINITI,QX70 Base,10,87009,325.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,0
+67476,INFINITI,QX60 Base,10,93500,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+67554,INFINITI,QX60 Base,10,71000,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+67643,INFINITI,QX80 Base,10,87500,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+68492,INFINITI,QX80 Base,10,161894,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+68539,INFINITI,G37 x,10,73000,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+68567,INFINITI,QX80 Base,10,141775,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+68614,INFINITI,Q70 3.7X,10,33500,330.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+68815,INFINITI,QX70 Base,10,87009,325.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,0
+68947,INFINITI,G37 x,10,14806,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+69141,INFINITI,Q70 3.7X,10,33500,330.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+69510,INFINITI,Q50 Premium,10,149800,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+71104,INFINITI,QX60 Base,10,59271,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,0
+72286,INFINITI,QX60 Base,10,152000,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+72368,INFINITI,QX60 Base,10,120000,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+73647,INFINITI,G35 Sport,10,123000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+73686,INFINITI,Q70 3.7X,10,37500,330.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,0
+73819,INFINITI,Q70 3.7X,10,49000,330.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+73877,INFINITI,QX60 Base,10,126760,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+74743,INFINITI,Q50 3.0t Signature Edition,10,67000,300.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+75058,INFINITI,QX60 Base,10,112000,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,0
+75186,INFINITI,QX80 Base,10,121525,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+75560,INFINITI,Q50 Hybrid Premium,10,88900,354.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,7-Speed A/T,None reported,0
+75691,INFINITI,QX60 Base,10,154247,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+76968,INFINITI,QX60 Base,10,121250,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+77901,INFINITI,QX60 Base,10,122200,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+77905,INFINITI,QX60 Base,10,127941,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+78886,INFINITI,G37 x,10,134500,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+79079,INFINITI,QX60 Base,10,70000,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+79687,INFINITI,QX70 Base,10,130000,325.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+79792,INFINITI,QX80 Base,10,167300,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+80319,INFINITI,G35 Base,10,104000,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+81280,INFINITI,QX80 Base,10,112465,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+82656,INFINITI,Q50 3.0T Premium,10,49872,300.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+83252,INFINITI,Q70 3.7X,10,70312,330.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+83340,INFINITI,G37 S Sport,10,116451,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+83379,INFINITI,QX80 Base,10,89563,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+84064,INFINITI,QX60 Base,10,93500,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+84764,INFINITI,QX70 Base,10,162000,325.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,0
+85497,INFINITI,QX60 Base,10,95500,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+85527,INFINITI,Q50 3.0t Signature Edition,10,1156,300.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+85584,INFINITI,Q50 3.0t Red Sport 400,10,51850,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+87461,INFINITI,Q50 Premium,10,128000,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,0
+87573,INFINITI,QX56 Base,10,60000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+87786,INFINITI,G37 x,10,120000,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+88047,INFINITI,Q50 Premium,10,78500,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,0
+88498,INFINITI,Q50 Premium,10,81696,328.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,0
+88506,INFINITI,QX60 Base,10,89106,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+88775,INFINITI,Q70 3.7X,10,57918,330.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+89067,INFINITI,QX60 Base,10,80300,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0

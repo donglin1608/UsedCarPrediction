@@ -1,0 +1,77 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+196,Chevrolet,Camaro Z28,22,58800,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10000
+850,Chevrolet,Camaro Z28,22,98000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,17900
+3931,Chevrolet,Camaro Z28,22,120000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+4024,Chevrolet,Camaro Base,22,45000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+4571,Chevrolet,Cruze LTZ,22,103111,138.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12500
+4584,Chevrolet,S-10 LS Crew Cab,22,139000,190.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,69000
+5239,Chevrolet,Silverado 1500 Base,22,229450,255.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,3850
+6002,Chevrolet,Camaro Base,22,89000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10400
+6689,Chevrolet,Camaro Z28,22,75000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,15000
+6941,Chevrolet,Camaro ZL1,22,126000,650.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6499
+8290,Chevrolet,Camaro Base,22,151896,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7900
+8556,Chevrolet,Corvette Base,22,63450,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,15000
+8810,Chevrolet,Camaro Base,22,125575,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,16999
+9285,Chevrolet,Camaro Base,22,119000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,3900
+11187,Chevrolet,Camaro Z28,22,48000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,21999
+11501,Chevrolet,Camaro Base,22,95170,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,10900
+12711,Chevrolet,Silverado 1500 LT Extended Cab,22,186000,285.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+14734,Chevrolet,Camaro 2SS,22,95200,300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,12499
+16610,Chevrolet,Camaro Z28,22,229000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,3850
+17001,Chevrolet,Corvette Base,22,39132,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,55000
+17927,Chevrolet,Camaro Base,22,105667,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7900
+18783,Chevrolet,Silverado 1500 LT Extended Cab,22,118500,285.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+18867,Chevrolet,Camaro Z28,22,35515,305.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3500
+19210,Chevrolet,Camaro ZL1,22,137600,300.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,33580
+19467,Chevrolet,Corvette Base,22,48000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,18500
+20110,Chevrolet,Silverado 1500 LT Extended Cab,22,229450,285.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+20494,Chevrolet,Colorado Z85,22,107000,220.0HP 3.5L 5 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15000
+21616,Chevrolet,Camaro Z28,22,35515,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,28000
+21992,Chevrolet,Camaro Base,22,130000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+22215,Chevrolet,Corvette Z06,22,44168,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,33000
+22936,Chevrolet,Camaro Z28,22,48000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,21999
+23007,Chevrolet,Camaro Base,22,64776,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+23654,Chevrolet,Silverado 1500 LT Extended Cab,22,231500,285.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,5230
+23656,Chevrolet,Silverado 1500 Z71 Extended Cab,22,121630,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,11400
+24573,Chevrolet,Camaro ZL1,22,126000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9995
+24966,Chevrolet,Camaro Z28,22,35515,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6750
+25495,Chevrolet,Silverado 1500 High Country,22,169000,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11800
+25693,Chevrolet,Malibu 1LT,22,77750,179.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+25914,Chevrolet,Corvette Base,22,44168,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,21999
+25969,Chevrolet,Camaro ZL1,22,12454,650.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,9000
+26892,Chevrolet,Silverado 1500 LT Extended Cab,22,169000,285.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,41500
+26982,Chevrolet,Corvette Z06,22,17300,405.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21000
+27232,Chevrolet,Camaro Z28,22,229000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9750
+27486,Chevrolet,Silverado 1500 LT Extended Cab,22,160265,285.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12900
+27708,Chevrolet,Corvette Z06,22,20500,405.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,7-Speed M/T,At least 1 accident or damage reported,68000
+27823,Chevrolet,Monte Carlo SS,22,144900,240.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,6500
+28480,Chevrolet,Camaro Base,22,64776,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,17000
+29052,Chevrolet,Camaro Base,22,149800,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11600
+29774,Chevrolet,Express 3500 Base,22,119500,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4900
+30279,Chevrolet,Silverado 1500 LT Extended Cab,22,118500,285.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,24500
+30368,Chevrolet,Camaro 1LT,22,96000,323.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,12500
+30847,Chevrolet,Corvette Base,22,44168,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,30000
+33704,Chevrolet,Silverado 3500 High Country,22,245000,300.0HP 6.6L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,16999
+33929,Chevrolet,Camaro Z28,22,99600,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6348
+34260,Chevrolet,Camaro Base,22,130000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4100
+34588,Chevrolet,Camaro Z28,22,72865,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,27450
+37562,Chevrolet,Camaro Base,22,89000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5199
+38733,Chevrolet,Camaro ZL1,22,179200,650.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,6500
+39081,Chevrolet,1500 Cheyenne Extended Cab,22,136731,–,4-Speed A/T,At least 1 accident or damage reported,27500
+39116,Chevrolet,Camry LE,22,141800,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,3500
+39156,Chevrolet,Camaro Z28,22,89200,215.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9499
+39567,Chevrolet,Camaro Z28,22,48000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21999
+39775,Chevrolet,Camaro Z28,22,170000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,6000
+40079,Chevrolet,Corvette Base,22,44168,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,16500
+43382,Chevrolet,Silverado 2500 LT H/D Extended Cab,22,169000,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,6500
+43683,Chevrolet,Corvette Z06,22,3000,405.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,59950
+43787,Chevrolet,Camaro Z28,22,14900,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,27500
+44217,Chevrolet,Colorado Z85,22,227000,220.0HP 3.5L 5 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,3850
+44275,Chevrolet,Corvette Z06,22,150000,405.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,16800
+45222,Chevrolet,Silverado 1500 LS,22,110000,275.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+46497,Chevrolet,Corvette Base,22,80000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15900
+46842,Chevrolet,Corvette Base,22,16100,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+50166,Chevrolet,Corvette Base,22,95000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15900
+51289,Chevrolet,Camaro Z28,22,48000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,21999
+52831,Chevrolet,Camaro Z28,22,90000,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,25500
+52841,Chevrolet,Camaro Z28,22,118500,310.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8000

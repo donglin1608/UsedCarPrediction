@@ -1,0 +1,42 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+161,Hummer,H3 Base,18,106000,242.0HP 3.7L 5 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+1064,Hummer,H2 Base,18,63750,393.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,14900
+1324,Hummer,H2 Base,18,171000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8999
+2043,Hummer,H2 Base,18,145000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+2059,Hummer,H2 Base,18,179400,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,22495
+2159,Hummer,H2 Base,18,92421,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+2738,Hummer,H2 Base,18,159500,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+4199,Hummer,H2 Base,18,89900,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,39860
+5029,Hummer,H3 Base,18,179400,220.0HP 3.5L 5 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,2500
+5878,Hummer,H2 Base,18,130000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,9500
+8687,Hummer,H2 Base,18,106000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,20500
+10183,Hummer,H2 Base,18,119000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+11049,Hummer,H2 Base,18,149460,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,7995
+11466,Hummer,H2 Base,18,107481,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+11786,Hummer,H2 Base,18,169900,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17000
+14996,Hummer,H2 Base,18,179400,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+15518,Hummer,H2 SUT,18,96600,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,29900
+20698,Hummer,H2 Base,18,69431,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,15900
+21319,Hummer,H2 Base,18,97700,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,18995
+25351,Hummer,H2 Base,18,170000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9995
+26431,Hummer,H2 Base,18,145000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,15000
+27816,Hummer,H2 SUT,18,89900,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,29994
+28567,Hummer,H3 Base,18,118000,220.0HP 3.5L 5 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16900
+28743,Hummer,H3 Base,18,201000,220.0HP 3.5L 5 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7300
+32245,Hummer,H2 Base,18,130000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,35000
+33431,Hummer,H3 Base,18,201000,242.0HP 3.7L 5 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,9500
+33543,Hummer,H2 Base,18,215000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12500
+34706,Hummer,H2 Base,18,169900,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16900
+35480,Hummer,H3 Base,18,152000,239.0HP 3.7L 5 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13995
+36133,Hummer,H3 Base,18,41059,242.0HP 3.7L 5 Cylinder Engine Gasoline Fuel,A/T,None reported,22500
+36176,Hummer,H2 Base,18,153818,316.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13000
+37533,Hummer,H2 Base,18,169900,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16900
+39890,Hummer,H2 Base,18,107481,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,18500
+42383,Hummer,H2 Base,18,170000,316.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7495
+44637,Hummer,H2 Base,18,235000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,16250
+44932,Hummer,H2 Base,18,69423,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,63000
+45810,Hummer,H2 Base,18,300183,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10900
+47510,Hummer,H3 Base,18,201000,242.0HP 3.7L 5 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7200
+48468,Hummer,H2 Base,18,162482,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+48538,Hummer,H2 Base,18,155000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16900
+49234,Hummer,H2 Base,18,149961,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,5000

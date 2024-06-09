@@ -1,0 +1,15 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+6489,Lincoln,Navigator Base,15,150000,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,16500
+7716,Lincoln,Navigator Base,15,134000,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,21500
+9766,Lincoln,Navigator Base,15,191775,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,12700
+12871,Lincoln,Navigator Base,15,134000,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,9500
+17142,Lincoln,Navigator Base,15,191775,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,9750
+22244,Lincoln,Navigator Base,15,191775,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,8750
+23525,Lincoln,Navigator L Reserve,15,191775,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,8750
+24415,Lincoln,Town Car Base,15,170000,239.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+25810,Lincoln,MKS Base,15,124400,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,9500
+34908,Lincoln,Navigator Base,15,191775,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,8800
+36588,Lincoln,Navigator Base,15,191775,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,9950
+40375,Lincoln,Navigator Base,15,191775,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,9750
+46366,Lincoln,Navigator Base,15,191775,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,9950
+48237,Lincoln,LS V8,15,178000,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,65700

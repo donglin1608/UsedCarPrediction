@@ -1,0 +1,67 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+19,Kia,Telluride LX,2,14269,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,234000
+563,Kia,K5 GT-Line,2,22101,1.6L I4 16V GDI DOHC Turbo,Automatic,None reported,23998
+869,Kia,Sorento SXL,2,16400,290.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,89000
+1269,Kia,Forte GT-Line,2,500,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,25500
+2386,Kia,Sportage Nightfall,2,9686,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,None reported,30990
+2610,Kia,Sorento Hybrid EX,2,16800,227.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid,8-Speed A/T,None reported,61000
+2721,Kia,Telluride EX,2,14676,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44249
+3788,Kia,Sorento LX,2,28000,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,50999
+4410,Kia,K5 GT-Line,2,11154,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,46120
+4937,Kia,Telluride S,2,44000,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54995
+6216,Kia,Telluride EX X-Line,2,38000,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47500
+9302,Kia,Telluride SX,2,10971,3.8L V6 24V GDI DOHC,8-Speed Automatic,None reported,68362
+10217,Kia,Sorento Hybrid EX,2,36100,227.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,23400
+12692,Kia,Stinger GT1,2,17500,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,31900
+12767,Kia,K5 EX,2,22101,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,46552
+14398,Kia,Forte Koup EX,2,87000,169.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+14513,Kia,Forte Koup EX,2,134207,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+14933,Kia,Forte GT-Line,2,14950,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14980
+15781,Kia,Stinger GT1,2,15000,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,32999
+16974,Kia,Telluride SX,2,38000,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,53000
+17364,Kia,Niro EV EX,2,11000,180.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,48950
+18134,Kia,Stinger GT1,2,56300,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,59200
+18799,Kia,Telluride SX,2,8263,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31999
+19102,Kia,Sorento Hybrid EX,2,16400,227.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid,6-Speed A/T,None reported,36900
+19108,Kia,Niro Plug-In Hybrid EX,2,9400,1.6L I4 16V GDI DOHC Hybrid,8-Speed Automatic,None reported,61999
+19452,Kia,K5 GT-Line,2,12940,180.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,86999
+20490,Kia,Sportage Nightfall,2,9686,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,30900
+20915,Kia,Telluride S,2,14700,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45900
+23565,Kia,Sportage Nightfall,2,9686,2.5L I4 16V PDI DOHC Turbo,8-Speed Automatic,At least 1 accident or damage reported,31621
+23602,Kia,Telluride S,2,11700,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,64000
+24035,Kia,Sorento Hybrid EX,2,16400,261.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid,6-Speed A/T,None reported,75000
+24125,Kia,Sorento Hybrid EX,2,36100,227.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid,6-Speed A/T,At least 1 accident or damage reported,34000
+24707,Kia,Stinger GT1,2,8288,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,75900
+25156,Kia,Telluride SX,2,9978,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,74999
+26550,Kia,Forte GT-Line,2,14950,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8995
+26732,Kia,Sorento Hybrid EX,2,2284,227.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid,6-Speed A/T,None reported,44000
+27622,Kia,Sorento Plug-In Hybrid SX Prestige,2,10101,261.0HP 1.6L 4 Cylinder Engine Plug-In Electric/Gas,6-Speed A/T,None reported,44000
+28559,Kia,Telluride EX X-Line,2,10400,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47000
+28651,Kia,Telluride EX,2,14676,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48950
+29862,Kia,Forte GT-Line,2,14950,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,26750
+30188,Kia,Telluride SX,2,9400,311.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27000
+30252,Kia,Telluride SX,2,6440,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,52500
+31107,Kia,Telluride S,2,12700,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,131000
+31905,Kia,Telluride SX,2,5020,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49999
+32983,Kia,Sorento Plug-In Hybrid SX Prestige,2,16269,261.0HP 1.6L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,51500
+33325,Kia,Telluride SX,2,10500,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,91000
+34620,Kia,Forte GT-Line,2,14950,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10995
+35420,Kia,Sportage Nightfall,2,19238,2.4L I4 16V GDI DOHC,6-Speed Automatic,At least 1 accident or damage reported,43860
+35859,Kia,Telluride SX,2,7661,5.3L V8 16V GDI OHV,8-Speed Automatic,None reported,48190
+36767,Kia,Sorento Hybrid EX,2,36100,227.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid,6-Speed A/T,None reported,36900
+36924,Kia,Telluride SX,2,16500,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,94995
+37192,Kia,Forte GT-Line,2,24500,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,35000
+38966,Kia,Telluride SX,2,46347,3.8L V6 24V GDI DOHC,8-Speed Automatic,None reported,48219
+39517,Kia,Niro Plug-In Hybrid EX Premium,2,36602,1.6L I4 16V GDI DOHC Hybrid,6-Speed Automatic with Auto-Shift,None reported,31999
+41582,Kia,Sorento Plug-In Hybrid SX Prestige,2,10101,261.0HP 1.6L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,29900
+43886,Kia,Niro Plug-In Hybrid EX Premium,2,36602,2.5L I4 16V PDI DOHC Hybrid,6-Speed Automatic with Auto-Shift,None reported,31995
+44082,Kia,Telluride EX,2,137600,3.8L V6 24V GDI DOHC,8-Speed Automatic,At least 1 accident or damage reported,16488
+44206,Kia,Telluride SX,2,16000,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,53000
+45957,Kia,Forte LXS,2,25420,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,22999
+46109,Kia,Stinger GT1,2,5040,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54000
+47290,Kia,Forte GT-Line,2,24534,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,24980
+48926,Kia,Sportage Nightfall,2,30069,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,At least 1 accident or damage reported,32750
+49147,Kia,Telluride SX,2,4102,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,144664
+51265,Kia,Telluride SX,2,23850,311.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,42500
+51390,Kia,K5 GT-Line,2,10971,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,39650
+54210,Kia,Sportage Nightfall,2,26468,2.4L I4 16V GDI DOHC,Automatic,None reported,27875

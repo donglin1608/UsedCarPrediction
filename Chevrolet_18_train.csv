@@ -1,0 +1,124 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+294,Chevrolet,Silverado 1500 LT Crew Cab,18,57800,345.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17900
+865,Chevrolet,Tahoe LS,18,74139,285.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,30500
+1037,Chevrolet,Colorado Z85,18,110000,220.0HP 3.5L 5 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6000
+1054,Chevrolet,Suburban 2500 LS,18,162750,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,12490
+1681,Chevrolet,Monte Carlo SS,18,85766,303.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,7500
+4188,Chevrolet,Corvette Base,18,75000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,18900
+4388,Chevrolet,Silverado 1500 LT Extended Cab,18,128000,285.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18900
+5569,Chevrolet,H2 SUT,18,75466,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,34500
+5628,Chevrolet,Corvette Base,18,53433,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,34500
+6199,Chevrolet,H2 Base,18,169900,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,4800
+6338,Chevrolet,Corvette Base,18,134033,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16370
+6550,Chevrolet,Corvette Z06,18,42000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,75000
+7960,Chevrolet,Corvette Z06,18,11025,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,44850
+8057,Chevrolet,Corvette Base,18,70000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,14500
+8566,Chevrolet,Corvette Base,18,97579,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,33000
+8706,Chevrolet,Corvette Z06,18,11025,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,26999
+9524,Chevrolet,Camaro Base,18,100331,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,68995
+9903,Chevrolet,SSR Base,18,126000,300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,5000
+10535,Chevrolet,Monte Carlo SS,18,130000,303.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+11317,Chevrolet,Silverado 1500 LT Crew Cab,18,248000,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,31000
+11553,Chevrolet,Silverado 1500 W/T,18,111228,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,4000
+13174,Chevrolet,Monte Carlo SS,18,218000,303.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,12990
+13913,Chevrolet,Tahoe LTZ,18,110000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,2954083
+14934,Chevrolet,Impala Base,18,147589,180.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,5995
+15258,Chevrolet,Corvette Z06,18,23133,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,42800
+15341,Chevrolet,Corvette Z06,18,11025,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28000
+15527,Chevrolet,Corvette Base,18,137000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,10995
+15620,Chevrolet,Tahoe LS,18,170000,295.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,4-Speed A/T,At least 1 accident or damage reported,11000
+16116,Chevrolet,Colorado Z85,18,75000,220.0HP 3.5L 5 Cylinder Engine Gasoline Fuel,A/T,None reported,10900
+16562,Chevrolet,Corvette Z06,18,65000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,35999
+16942,Chevrolet,Camaro 2SS,18,93000,426.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,10995
+17019,Chevrolet,Corvette Base,18,140000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,30000
+17181,Chevrolet,Monte Carlo SS,18,75000,303.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,12995
+17278,Chevrolet,Silverado 1500 Z71 Extended Cab,18,300183,295.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,10900
+17431,Chevrolet,Silverado 2500 LT H/D Extended Cab,18,169000,360.0HP 6.6L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,12500
+18289,Chevrolet,Silverado 1500 LT Crew Cab,18,139000,345.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15000
+20239,Chevrolet,Caprice Classic Base,18,79635,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,10995
+20843,Chevrolet,Avalanche 1500 LTZ,18,244000,310.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,16900
+20904,Chevrolet,Corvette Base,18,87500,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22000
+21456,Chevrolet,Corvette Z06,18,43500,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,61500
+21503,Chevrolet,S-10 LS Crew Cab,18,93000,345.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10995
+21556,Chevrolet,Corvette Z06,18,21000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,65000
+21901,Chevrolet,Corvette Z06,18,51000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,54995
+23741,Chevrolet,Corvette Base,18,40011,325.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11000
+24197,Chevrolet,Trailblazer SS,18,128000,390.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+24393,Chevrolet,Monte Carlo SS,18,110000,240.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9500
+24486,Chevrolet,Silverado 1500 LT Crew Cab,18,215000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,28000
+24771,Chevrolet,Camaro Z28,18,146000,305.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5499
+24805,Chevrolet,Silverado 1500 W/T,18,111095,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,20500
+24955,Chevrolet,Corvette Base,18,36500,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15900
+25357,Chevrolet,Suburban 1500 LS,18,170000,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+25594,Chevrolet,Corvette Z06,18,20200,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27633
+26024,Chevrolet,Silverado 1500 LT Crew Cab,18,201509,300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+26064,Chevrolet,Monte Carlo Supercharged SS,18,148800,240.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+26457,Chevrolet,Corvette Z06,18,94000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12000
+26509,Chevrolet,Tahoe LS,18,186117,275.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,5500
+26571,Chevrolet,Silverado 1500 LT Crew Cab,18,215000,345.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission Overdrive Switch,At least 1 accident or damage reported,7999
+27215,Chevrolet,Corvette Base,18,51855,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,35500
+28089,Chevrolet,Silverado 2500 LT H/D Extended Cab,18,130200,250.0HP 7.3L 8 Cylinder Engine Diesel Fuel,A/T,None reported,4300
+28270,Chevrolet,Silverado 1500 LT Crew Cab,18,215000,345.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+28396,Chevrolet,Silverado 1500 ZR2,18,115000,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,4995
+28503,Chevrolet,Corvette Z06,18,21000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,35000
+28572,Chevrolet,Camaro Base,18,136000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7200
+28634,Chevrolet,Monte Carlo SS,18,96000,303.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,9995
+28975,Chevrolet,Avalanche 1500 LTZ,18,129000,366.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,10500
+29234,Chevrolet,Corvette Z06,18,26000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,36000
+30865,Chevrolet,Corvette Base,18,14300,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,39500
+31314,Chevrolet,Corvette Base,18,145000,340.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,10995
+31334,Chevrolet,Corvette Base,18,145000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,22000
+32509,Chevrolet,Corvette Base,18,105760,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12900
+32558,Chevrolet,Silverado 1500 LT Extended Cab,18,215000,285.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10750
+32606,Chevrolet,Corvette Z06,18,42000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,65000
+32805,Chevrolet,Silverado 1500 W/T,18,162482,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+33506,Chevrolet,Camaro Base,18,64776,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12900
+34096,Chevrolet,Corvette Base,18,113395,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,18000
+34310,Chevrolet,Corvette Base,18,72500,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27499
+34397,Chevrolet,Express 1500 Cargo,18,107818,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15900
+34427,Chevrolet,Tahoe LS,18,87600,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,12500
+34855,Chevrolet,Silverado 1500 LT Crew Cab,18,215000,345.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,6995
+35297,Chevrolet,Corvette Base,18,63400,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,34500
+35696,Chevrolet,Corvette Base,18,39132,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,35000
+36011,Chevrolet,Corvette Z06,18,28150,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,64500
+36327,Chevrolet,Corvette Base,18,300183,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,5900
+37858,Chevrolet,Corvette Z06,18,21000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,45000
+37979,Chevrolet,Corvette Z06,18,65000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,65000
+38493,Chevrolet,Silverado 1500 LT Crew Cab,18,134000,345.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+38825,Chevrolet,Silverado 1500 LT Crew Cab,18,215000,345.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11000
+39114,Chevrolet,Corvette Base,18,300183,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,7200
+39662,Chevrolet,Corvette Base,18,173452,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,7900
+40742,Chevrolet,Express 1500 Cargo,18,107818,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+40930,Chevrolet,Corvette Z06,18,67800,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,19550
+41094,Chevrolet,Monte Carlo SS,18,147000,300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,12990
+41283,Chevrolet,Tahoe LS,18,97000,285.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,2500
+41833,Chevrolet,Corvette Base,18,40000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+42305,Chevrolet,Suburban 2500 LS,18,67499,325.0HP 8.1L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,19750
+42369,Chevrolet,Corvette Base,18,86000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,9999
+42485,Chevrolet,Colorado Z85,18,110000,220.0HP 3.5L 5 Cylinder Engine Gasoline Fuel,A/T,None reported,5000
+43151,Chevrolet,Corvette Base,18,110000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,11000
+43243,Chevrolet,Silverado 1500 LT Crew Cab,18,111228,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+43362,Chevrolet,Silverado 1500 W/T,18,143095,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+43520,Chevrolet,Camaro 2LT,18,117000,312.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,10995
+43750,Chevrolet,Corvette Base,18,140000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8995
+44933,Chevrolet,Corvette Base,18,18000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,21500
+46278,Chevrolet,Camaro 1LT,18,97500,312.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,10995
+46546,Chevrolet,Corvette Z06,18,42000,505.0HP 7.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,41500
+46617,Chevrolet,Silverado 1500 W/T,18,111228,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,16800
+46990,Chevrolet,Monte Carlo SS,18,87500,303.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,34900
+48367,Chevrolet,Silverado 1500 W/T,18,146000,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8995
+49035,Chevrolet,SSR Base,18,87500,300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10900
+49284,Chevrolet,Silverado 2500 LT H/D Extended Cab,18,169000,360.0HP 6.6L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,6995
+49304,Chevrolet,Monte Carlo SS,18,110000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6000
+49656,Chevrolet,Avalanche 1500 LT,18,244000,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,16900
+49713,Chevrolet,Corvette Base,18,145000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+49752,Chevrolet,Avalanche 1500 LS,18,89150,295.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,37050
+50331,Chevrolet,Corvette Base,18,39132,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,35000
+51052,Chevrolet,Monte Carlo SS,18,137333,240.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5900
+51073,Chevrolet,SSR Base,18,87500,300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,25999
+51648,Chevrolet,Silverado 2500 LT H/D Extended Cab,18,169000,360.0HP 6.6L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,28995
+51918,Chevrolet,Corvette Base,18,51855,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,69995
+52280,Chevrolet,Monte Carlo SS,18,227010,303.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,3850
+52430,Chevrolet,Corvette Base,18,145000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,22000
+52864,Chevrolet,Suburban 2500 LS,18,85000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,21500
+53331,Chevrolet,Avalanche 1500 LS,18,130000,295.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,5000

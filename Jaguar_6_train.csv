@@ -1,0 +1,84 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+936,Jaguar,F-TYPE R,6,49650,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41500
+957,Jaguar,F-TYPE R,6,58000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,63500
+1280,Jaguar,F-TYPE R,6,4500,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,159500
+1288,Jaguar,XF 25t Premium,6,37777,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+1574,Jaguar,XF 35t R-Sport,6,120000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,37000
+1580,Jaguar,F-TYPE R,6,70891,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,33000
+1591,Jaguar,F-TYPE R,6,26000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,49000
+2343,Jaguar,F-TYPE R,6,58000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32500
+4124,Jaguar,XF 25t Prestige,6,37777,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32500
+4185,Jaguar,F-TYPE R,6,19200,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39000
+5761,Jaguar,XF 25t Premium,6,41452,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,19000
+5833,Jaguar,XE 25t,6,67000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,34250
+8111,Jaguar,F-TYPE R,6,22000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,73000
+8713,Jaguar,XF 25t Premium,6,45000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,20999
+8715,Jaguar,F-TYPE R,6,54293,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,64990
+9694,Jaguar,XF 25t Prestige,6,37777,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,33000
+9839,Jaguar,XF 25t Premium,6,16000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,30500
+11108,Jaguar,F-TYPE S British Design Edition,6,34300,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32000
+11390,Jaguar,F-TYPE R,6,38800,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,104500
+11526,Jaguar,F-TYPE S British Design Edition,6,25786,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35899
+12537,Jaguar,XE 25t,6,35000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29998
+12938,Jaguar,F-TYPE R,6,25997,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,79999
+13916,Jaguar,F-TYPE R,6,26000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44900
+14298,Jaguar,F-TYPE R,6,58000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,32500
+15282,Jaguar,XF 25t Premium,6,18800,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,19000
+16218,Jaguar,F-TYPE R,6,6200,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,69500
+16777,Jaguar,F-TYPE R,6,44000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,53500
+17815,Jaguar,F-TYPE R,6,12500,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38500
+18166,Jaguar,XJ Base,6,120000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,37000
+18385,Jaguar,F-TYPE R,6,58000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,60000
+18726,Jaguar,F-TYPE R,6,22000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48000
+18760,Jaguar,F-TYPE R,6,38800,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,56500
+19175,Jaguar,F-TYPE R,6,35250,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,62499
+20266,Jaguar,XF 35t Prestige,6,101453,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15900
+20353,Jaguar,XF 25t Prestige,6,40989,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,61599
+22445,Jaguar,F-TYPE R,6,25250,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45900
+22641,Jaguar,XF 25t Premium,6,44000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,50000
+23146,Jaguar,F-TYPE R,6,58600,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32000
+25295,Jaguar,F-TYPE R,6,4590,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,489000
+25419,Jaguar,XF 25t Prestige,6,18000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,34000
+25856,Jaguar,F-TYPE R,6,58000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,80000
+26440,Jaguar,XF 25t Prestige,6,37900,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,21900
+28612,Jaguar,XF 35t R-Sport,6,56000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,36800
+29166,Jaguar,XF 35t R-Sport,6,68425,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,36500
+29601,Jaguar,F-TYPE R,6,25000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,55000
+30130,Jaguar,XF 25t Premium,6,37777,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28500
+30963,Jaguar,F-TYPE R,6,39900,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32500
+31894,Jaguar,F-TYPE R,6,7500,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41500
+31913,Jaguar,F-TYPE R,6,39900,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47124
+32016,Jaguar,F-TYPE R,6,58000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32500
+32264,Jaguar,E-PACE S,6,23600,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,44500
+32287,Jaguar,XF 25t Prestige,6,40000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32500
+33562,Jaguar,XF 25t Premium,6,26000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,34000
+33616,Jaguar,XF 25t Prestige,6,18800,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,45000
+34057,Jaguar,F-PACE SVR,6,38800,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,57500
+36015,Jaguar,XF 25t Premium,6,40000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,32000
+36185,Jaguar,F-PACE 35t Premium,6,73500,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,32085
+39159,Jaguar,F-TYPE R,6,39900,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32500
+39214,Jaguar,F-TYPE R,6,38000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,89750
+39926,Jaguar,XF 25t Prestige,6,77690,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,34250
+40121,Jaguar,XF 25t Premium,6,18800,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29000
+40610,Jaguar,F-TYPE R,6,12758,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,154900
+42465,Jaguar,XE 35t Premium,6,45090,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30500
+42696,Jaguar,XF 25t Premium,6,18300,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,34900
+43576,Jaguar,F-PACE 35t Premium,6,58000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38000
+44435,Jaguar,F-TYPE R,6,4786,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,92888
+44517,Jaguar,Rover Range Rover Velar P250 SE R-Dynamic,6,31000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34700
+44731,Jaguar,XF 25t Premium,6,46250,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,26000
+46066,Jaguar,XF 35t R-Sport,6,38560,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,35000
+46704,Jaguar,F-TYPE R,6,57000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49500
+48401,Jaguar,F-TYPE S British Design Edition,6,61773,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46750
+49064,Jaguar,F-TYPE R,6,58000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,31500
+49652,Jaguar,F-TYPE R,6,39000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48500
+49817,Jaguar,F-TYPE R,6,38000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54500
+49828,Jaguar,XE 25t,6,102000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+49912,Jaguar,F-TYPE R,6,60000,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37000
+50403,Jaguar,XF 25t Premium,6,29500,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+50464,Jaguar,F-TYPE R,6,31090,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,68000
+50596,Jaguar,F-TYPE R,6,13895,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54490
+50753,Jaguar,F-TYPE R,6,39960,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38900
+52699,Jaguar,F-TYPE R,6,35250,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+53413,Jaguar,XF XFR-S,6,23230,550.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,44870
+53711,Jaguar,F-TYPE R,6,35400,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,74900

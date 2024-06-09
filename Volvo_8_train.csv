@@ -1,0 +1,18 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+2999,Volvo,S60 R,8,25000,300.0HP 2.5L 5 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31300
+4152,Volvo,XC70 T6 Platinum,8,110000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14000
+6129,Volvo,XC90 T6 Momentum,8,110380,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+9932,Volvo,V60 T6 R-Design Platinum,8,59271,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29900
+10991,Volvo,XC90 T6 Momentum,8,110380,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,21000
+11720,Volvo,XC90 Hybrid T8 R-Design,8,40000,400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,Transmission w/Dual Shift Mode,None reported,34999
+16371,Volvo,V60 Cross Country T5,8,75000,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+16400,Volvo,XC90 Hybrid T8 R-Design,8,846,400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,Transmission w/Dual Shift Mode,None reported,12500
+20666,Volvo,XC60 T6 Inscription,8,20623,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36800
+21272,Volvo,XC90 Hybrid T8 R-Design,8,64532,400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,13000
+35608,Volvo,XC90 T6 Momentum,8,14700,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31500
+37462,Volvo,XC60 T6 Inscription,8,79500,300.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,28500
+41190,Volvo,XC70 T6 Platinum,8,65750,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,26497
+44424,Volvo,S90 T5 Momentum,8,95000,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,25000
+44989,Volvo,XC60 T5 R-Design,8,102000,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,30000
+49455,Volvo,XC90 T6 Momentum,8,70582,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,At least 1 accident or damage reported,30990
+49512,Volvo,XC90 Hybrid T8 Inscription,8,63398,400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,22000

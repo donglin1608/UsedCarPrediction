@@ -1,0 +1,72 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1016,Toyota,Sequoia Platinum,1,600,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,68750
+1388,Toyota,Tundra Limited,1,1300,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,71000
+3018,Toyota,4Runner SR5 Premium,1,1400,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,40000
+3295,Toyota,Sequoia Platinum,1,500,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,52590
+5701,Toyota,Tundra Hybrid Capstone,1,5200,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,59750
+5738,Toyota,Highlander XLE,1,61341,3.5L V6 24V PDI DOHC,8-Speed Automatic,None reported,44775
+6267,Toyota,GR86 Premium,1,1075,228.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,36800
+7403,Toyota,Camry XSE,1,299,147.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,115000
+7756,Toyota,Sequoia Limited,1,8200,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,54000
+8433,Toyota,Highlander Hybrid Limited Platinum,1,3099,306.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,None reported,82950
+8729,Toyota,Tundra Platinum,1,8500,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,133500
+9621,Toyota,Mirai Limited,1,29553,182.0HP Electric Motor Hydrogen Fuel,A/T,None reported,9995
+10238,Toyota,Tundra Limited,1,19500,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,47000
+10785,Toyota,Sequoia TRD Pro,1,3959,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,48000
+10800,Toyota,Highlander XLE,1,7000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,96000
+11144,Toyota,Supra 3.0 Premium,1,24850,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,53500
+12549,Toyota,4Runner TRD Sport,1,3959,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,52000
+13083,Toyota,Sequoia TRD Pro,1,3402,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,124000
+13636,Toyota,4Runner TRD Sport,1,17500,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46000
+15163,Toyota,Supra A91 Edition,1,25500,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,85000
+16642,Toyota,GR86 Premium,1,1075,228.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,48000
+18454,Toyota,Supra A91 Edition,1,1500,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,62450
+19976,Toyota,Tundra Limited,1,1023,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,155000
+21073,Toyota,Tundra Limited,1,8200,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,92888
+22333,Toyota,Sequoia Platinum,1,35340,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,68750
+22338,Toyota,Tundra Hybrid Capstone,1,820,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,82500
+25282,Toyota,Tundra Platinum,1,15500,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,65000
+27069,Toyota,Sequoia Platinum,1,2100,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,6-Speed A/T,None reported,94900
+28335,Toyota,CX-30 Premium Package,1,61341,2.4L I4 16V GDI DOHC,6-Speed Automatic,None reported,43775
+28727,Toyota,Land Cruiser Base,1,19513,4.0L V6 24V MPFI DOHC,8-Speed Automatic,None reported,84645
+29639,Toyota,Sequoia Platinum,1,325,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,84997
+29679,Toyota,Tacoma Base,1,1500,159.0HP 2.7L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,124999
+30015,Toyota,Sequoia Platinum,1,1075,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,96850
+31008,Toyota,Tundra Hybrid Capstone,1,2500,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,58000
+32634,Toyota,Tundra Hybrid Capstone,1,200,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,67500
+32794,Toyota,Sequoia Platinum,1,8200,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,92000
+33992,Toyota,Sequoia Limited,1,1539,3.4L V6 24V PDI DOHC Twin Turbo Hybrid,Automatic,None reported,41741
+34376,Toyota,Tundra Hybrid TRD Pro,1,1025,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,85500
+35171,Toyota,Sienna XSE 25th Anniversary,1,8200,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,129000
+35439,Toyota,Tundra Hybrid Capstone,1,14360,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,68420
+36837,Toyota,Highlander XLE,1,2500,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,89000
+37199,Toyota,Sequoia Platinum,1,250,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,84997
+38149,Toyota,Tundra Hybrid Capstone,1,29800,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,75500
+38483,Toyota,Tundra Limited,1,8200,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,68969
+38735,Toyota,Tundra Limited,1,44000,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,75000
+38762,Toyota,Land Cruiser Base,1,1500,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,143900
+39721,Toyota,Supra A91-MT Edition,1,1500,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,89900
+40706,Toyota,Sequoia Limited,1,8800,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,48500
+40748,Toyota,Tundra Platinum,1,5800,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,37950
+41608,Toyota,Tundra Platinum,1,1500,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,78500
+41688,Toyota,Highlander XLE,1,14700,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,82000
+41847,Toyota,Tundra Limited,1,44101,3.4L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,84645
+41907,Toyota,Sequoia TRD Pro,1,1500,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,92500
+43126,Toyota,GR86 Premium,1,1075,228.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,50900
+43314,Toyota,Sequoia Platinum,1,325,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,39500
+43587,Toyota,Tundra Limited,1,44101,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,92888
+43596,Toyota,Tundra Platinum,1,24500,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,155000
+43712,Toyota,GR86 Premium,1,15000,228.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,59200
+43974,Toyota,Supra A91 Edition,1,299,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,66400
+44123,Toyota,Land Cruiser Base,1,2800,–,A/T,None reported,104999
+44725,Toyota,Sequoia Platinum,1,1798,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,94900
+46130,Toyota,Sequoia Platinum,1,12500,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,81000
+47694,Toyota,Highlander XLE,1,20220,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,78000
+48451,Toyota,Sequoia Platinum,1,35035,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,56750
+48569,Toyota,GR Corolla Circuit Edition,1,952,300.0HP 1.6L 3 Cylinder Engine Gasoline Fuel,A/T,None reported,65000
+48813,Toyota,Sequoia Limited,1,7800,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,30999
+49739,Toyota,Sequoia Platinum,1,1025,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,85000
+49836,Toyota,Tundra Platinum,1,2300,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,73500
+51395,Toyota,Tundra Limited,1,3959,389.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,59000
+52060,Toyota,Sequoia Platinum,1,325,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,48500
+53117,Toyota,Sequoia Platinum,1,325,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,84997

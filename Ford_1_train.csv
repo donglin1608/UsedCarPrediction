@@ -1,0 +1,215 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+332,Ford,Bronco Big Bend Advanced,1,18000,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,99000
+585,Ford,Expedition Timberline,1,3421,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,84620
+719,Ford,F-150 Raptor,1,3400,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,69645
+1244,Ford,F-150 Raptor,1,2823,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,84620
+1367,Ford,F-150 Tremor,1,5500,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,35200
+1506,Ford,F-150 Tremor,1,4000,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,82000
+2112,Ford,F-250 King Ranch,1,44000,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,92000
+2360,Ford,Bronco Big Bend Advanced,1,15600,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,108000
+2550,Ford,Expedition Timberline,1,8911,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,749950
+2551,Ford,Bronco Outer Banks Advanced,1,35500,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,92000
+2663,Ford,Expedition Limited,1,9281,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,53000
+2701,Ford,Bronco Outer Banks,1,4500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,95000
+3256,Ford,F-250 Platinum,1,89980,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,None reported,749950
+3329,Ford,Bronco Outer Banks Advanced,1,12000,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,44400
+3607,Ford,Expedition Limited,1,15998,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,18051
+3937,Ford,F-250 Lariat,1,3763,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,67800
+3959,Ford,Expedition Max Limited,1,2800,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,143900
+4014,Ford,F-250 Lariat,1,24500,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,254900
+4021,Ford,Bronco Big Bend Advanced,1,11500,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,53500
+4072,Ford,Transit-350 Base,1,15500,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,65000
+4107,Ford,F-150 Tremor,1,5500,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,55000
+4532,Ford,Expedition Timberline,1,30301,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,At least 1 accident or damage reported,77430
+4681,Ford,Bronco Outer Banks,1,1800,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,162950
+5424,Ford,F-250 Lariat,1,1500,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,69000
+5498,Ford,Transit-350 XLT,1,6000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,57999
+5512,Ford,Transit-350 XLT,1,195,275.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,49000
+5625,Ford,F-150 Lightning XLT,1,159,563.0HP Electric Motor Electric Fuel System,A/T,None reported,69900
+5707,Ford,Expedition Limited,1,9281,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,90000
+5717,Ford,F-150 Raptor,1,1025,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,75000
+6291,Ford,Expedition Timberline,1,23300,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,87500
+6593,Ford,Bronco Outer Banks,1,2500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,93999
+6629,Ford,F-150 Raptor,1,8911,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic with Overdrive,None reported,73600
+6793,Ford,F-250 Platinum,1,2800,430.0HP 7.3L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,36995
+6976,Ford,F-250 XLT,1,9095,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,89000
+7112,Ford,Bronco Outer Banks Advanced,1,12500,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,68750
+7167,Ford,Bronco Outer Banks,1,1800,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,54900
+8318,Ford,Bronco Wildtrak Advanced,1,4700,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,62500
+8438,Ford,Expedition Max XLT,1,28500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,64250
+8517,Ford,Bronco Outer Banks Advanced,1,1500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,83000
+8559,Ford,F-250 XLT,1,7388,6.7L V8 32V DDI OHV Turbo Diesel,Automatic,None reported,41950
+8786,Ford,Bronco Base,1,1800,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,59000
+9004,Ford,Ranger Lariat,1,2415,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,64250
+9064,Ford,F-350 Platinum,1,7500,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,60000
+9455,Ford,Expedition Timberline,1,8911,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,45423
+10073,Ford,F-150 Raptor,1,9281,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,50000
+10775,Ford,Bronco Big Bend Advanced,1,15600,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,93999
+10827,Ford,Expedition Limited,1,11700,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,92900
+10993,Ford,Mustang Mach-E Premium,1,2900,266.0HP Electric Motor Electric Fuel System,6-Speed A/T,None reported,83499
+11569,Ford,Bronco Outer Banks Advanced,1,16000,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,31000
+11836,Ford,F-350 Platinum,1,23850,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,73500
+11880,Ford,F-150 Lariat,1,10400,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,129000
+11984,Ford,Transit-350 Base,1,2500,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,68500
+12163,Ford,Bronco Wildtrak Advanced,1,220000,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,179900
+12396,Ford,Bronco Heritage Edition Advanced,1,10000,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,48000
+12617,Ford,F-250 Lariat,1,3534,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,Transmission w/Dual Shift Mode,None reported,68969
+13625,Ford,Bronco Outer Banks Advanced,1,3400,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,69950
+13794,Ford,Bronco Outer Banks Advanced,1,40000,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,36000
+13856,Ford,Bronco Outer Banks Advanced,1,3400,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,54000
+13886,Ford,Bronco Outer Banks Advanced,1,2500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,73600
+14108,Ford,F-150 SVT Raptor,1,2523,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,91000
+14181,Ford,Expedition Limited,1,30424,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,44605
+14255,Ford,F-150 XLT,1,63900,2.7L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,35345
+14546,Ford,Expedition Timberline,1,8911,5.0L 8 Cylinder,10-Speed Automatic,At least 1 accident or damage reported,77430
+14749,Ford,Bronco Outer Banks Advanced,1,3400,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,57000
+15578,Ford,Explorer ST,1,5200,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,76500
+15702,Ford,Transit-350 XL,1,197,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,99000
+15855,Ford,Bronco Big Bend Advanced,1,12000,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,54000
+15886,Ford,Expedition Limited,1,9281,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,40999
+16048,Ford,F-150 XLT,1,9100,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,71400
+16235,Ford,Bronco Big Bend Advanced,1,11500,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,52000
+16619,Ford,Bronco Outer Banks Advanced,1,1563,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,62500
+16776,Ford,Bronco Badlands Advanced,1,4200,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,54900
+17935,Ford,F-150 Platinum,1,2823,5.0L 8 Cylinder,Automatic,None reported,62890
+18804,Ford,Expedition Limited,1,9978,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,93999
+19449,Ford,F-150 Tremor,1,11500,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,47000
+19494,Ford,Transit-350 Base,1,195,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,77500
+19565,Ford,F-250 King Ranch,1,3678,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,195000
+19689,Ford,Bronco Outer Banks Advanced,1,16500,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,69250
+20122,Ford,Expedition Timberline,1,8911,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,At least 1 accident or damage reported,122950
+20763,Ford,Expedition Limited,1,19200,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,54800
+21307,Ford,F-150 XLT,1,10400,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,103500
+21494,Ford,F-150 Platinum,1,2823,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,74900
+21646,Ford,F-250 King Ranch,1,3763,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,73000
+21803,Ford,Transit-350 Base,1,15000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,38490
+22397,Ford,Transit-350 Base,1,195,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,74500
+22955,Ford,Expedition Timberline,1,8911,3.5L V6 24V PDI DOHC Twin Turbo,8-Speed Automatic,None reported,68420
+23434,Ford,F-350 Lariat,1,3763,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,75500
+23461,Ford,Bronco Badlands Advanced,1,4200,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,54000
+24011,Ford,Expedition Limited,1,5200,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,48990
+24045,Ford,F-350 King Ranch,1,5200,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,A/T,None reported,69900
+24136,Ford,F-350 Lariat,1,1500,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,143900
+24289,Ford,Bronco Big Bend Advanced,1,11100,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,45000
+24379,Ford,Transit-350 Base,1,28500,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,83500
+25708,Ford,Expedition Limited,1,2415,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,47500
+25811,Ford,Bronco Heritage Edition Advanced,1,10500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,64000
+26057,Ford,Bronco Big Bend Advanced,1,57912,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,42500
+26259,Ford,F-250 King Ranch,1,36500,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,59950
+26531,Ford,Bronco Raptor,1,2489,3.0L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,None reported,89000
+26924,Ford,Focus RS Base,1,299,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,91995
+27148,Ford,Bronco Wildtrak Advanced,1,1400,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,44800
+27429,Ford,Bronco Raptor,1,2489,3.0L V6 24V GDI DOHC Twin Turbo,10-Speed A/T,None reported,74500
+28150,Ford,Expedition EL XLT,1,195500,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,69500
+28265,Ford,Expedition Max King Ranch,1,3752,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,65990
+28392,Ford,Bronco Wildtrak Advanced,1,9990,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,87150
+28400,Ford,Expedition Limited,1,93400,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,749950
+28532,Ford,F-250 King Ranch,1,3763,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,105900
+28573,Ford,F-150 XLT,1,4283,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,109499
+28758,Ford,Transit-350 Base,1,169000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,119900
+28784,Ford,Mustang GT Premium,1,3000,460.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,55000
+28910,Ford,Transit-350 Base,1,195,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,87500
+29218,Ford,Bronco Outer Banks,1,52300,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,53500
+29497,Ford,F-250 XLT,1,1025,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,92000
+29684,Ford,Expedition Limited,1,1500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,109900
+29935,Ford,F-150 Raptor,1,7388,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,44850
+30464,Ford,Expedition Limited,1,9500,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,67000
+30513,Ford,Bronco Wildtrak Advanced,1,2000,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,65000
+30761,Ford,Bronco Outer Banks Advanced,1,6400,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,42000
+31150,Ford,Expedition Timberline,1,30301,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,87500
+31203,Ford,Expedition Timberline,1,23300,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,74500
+31533,Ford,Explorer ST,1,94100,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,9499
+31729,Ford,Expedition Max Limited,1,2500,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,63900
+32269,Ford,F-350 Platinum,1,23850,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,73500
+32377,Ford,F-150 Tremor,1,71962,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,51000
+32425,Ford,Transit-350 Base,1,1090,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,82000
+32855,Ford,F-150 Lightning XLT,1,2950,563.0HP Electric Motor Electric Fuel System,1-Speed A/T,None reported,94000
+33246,Ford,Maverick XLT,1,5700,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,57900
+33397,Ford,Expedition Timberline,1,8911,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed Automatic,None reported,67963
+33429,Ford,F-150 Raptor,1,28260,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,122950
+33678,Ford,Bronco Outer Banks Advanced,1,15200,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,8950
+34133,Ford,Bronco Big Bend Advanced,1,15200,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,79995
+34224,Ford,Bronco Big Bend Advanced,1,15500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,34999
+34658,Ford,Shelby GT500 Base,1,19200,760.0HP 5.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,82950
+34759,Ford,Expedition Max Limited,1,45578,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,49500
+34837,Ford,Explorer XLT,1,1094,300.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,45000
+34936,Ford,Bronco Big Bend Advanced,1,7500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,74995
+35500,Ford,Expedition Limited,1,6200,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,55000
+35533,Ford,F-150 Tremor,1,25991,3.5L V6 24V PDI DOHC Twin Turbo,Automatic,None reported,69995
+35778,Ford,Bronco Outer Banks,1,1800,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,48500
+36163,Ford,Bronco Outer Banks Advanced,1,3950,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,185000
+36629,Ford,F-150 XLT,1,2823,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,48999
+36977,Ford,Maverick XLT,1,9400,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,44400
+37286,Ford,Mustang EcoBoost Premium,1,15200,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36000
+37304,Ford,Expedition Max Limited,1,9281,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,75000
+37700,Ford,Transit-350 XLT,1,9980,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,349950
+38215,Ford,F-250 King Ranch,1,3763,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,63900
+38962,Ford,Bronco Big Bend Advanced,1,17000,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,150000
+39091,Ford,Bronco Wildtrak Advanced,1,1500,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,66400
+39340,Ford,Bronco Raptor,1,3421,4.0L V8 32V GDI DOHC Twin Turbo,10-Speed Automatic,None reported,69645
+39524,Ford,Transit-350 XLT,1,20000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,48000
+39798,Ford,Mustang Shelby GT500,1,2950,650.0HP 5.8L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,74500
+40141,Ford,Bronco Raptor,1,2489,3.0L V6 24V GDI DOHC Twin Turbo,10-Speed A/T,None reported,62999
+40469,Ford,Expedition Max XLT,1,10400,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,75000
+40843,Ford,Bronco Raptor,1,1500,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,71400
+40975,Ford,F-150 XLT,1,535,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,39500
+41069,Ford,F-150 Lariat,1,3763,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,27500
+41622,Ford,Explorer Limited,1,9281,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,169000
+41810,Ford,F-150 XLT,1,2523,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,62500
+41865,Ford,Bronco Outer Banks Advanced,1,17000,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,42000
+42044,Ford,Tundra Hybrid Limited,1,7000,437.0HP 3.4L V6 Cylinder Engine Gas/Electric Hybrid,10-Speed A/T,None reported,80000
+42245,Ford,Expedition Limited,1,9281,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,36000
+42583,Ford,F-350 Platinum,1,7000,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,93500
+42795,Ford,Expedition EL Limited,1,30500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,45000
+42927,Ford,Expedition Max XLT,1,1185,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,51499
+43041,Ford,Bronco Outer Banks,1,1800,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,94000
+43226,Ford,Bronco Outer Banks Advanced,1,14700,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,91000
+44175,Ford,Transit-350 XLT,1,8000,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,94995
+44500,Ford,F-250 King Ranch,1,3763,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,68000
+45095,Ford,Bronco Big Bend Advanced,1,5040,1.5L I3 12V PDI DOHC Turbo,10-Speed Automatic,None reported,175000
+45149,Ford,F-150 Lariat,1,2823,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,204900
+45227,Ford,Expedition Limited,1,2990,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,144900
+45287,Ford,Explorer ST,1,13232,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,47000
+45591,Ford,Expedition Timberline,1,915,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,159000
+45916,Ford,Expedition Limited,1,9500,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,40000
+45923,Ford,F-350 Lariat,1,2990,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,35000
+46031,Ford,Bronco Raptor,1,5989,1.5L I3 12V PDI DOHC Turbo,6-Speed M/T,None reported,78900
+46592,Ford,Bronco Big Bend Advanced,1,500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,84500
+46736,Ford,Transit-350 XLT,1,17500,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,46000
+47180,Ford,F-150 Tremor,1,6200,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,103500
+47846,Ford,Bronco Outer Banks,1,1800,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,55000
+48380,Ford,Expedition Timberline,1,8532,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,87500
+48605,Ford,Bronco Wildtrak Advanced,1,27500,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,77430
+48627,Ford,Expedition Platinum,1,18160,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,123999
+49102,Ford,Transit-350 XLT,1,9281,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,179000
+49106,Ford,Bronco Outer Banks Advanced,1,31917,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,63500
+49195,Ford,Bronco Wildtrak Advanced,1,1400,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46500
+49205,Ford,Transit-350 Base,1,195,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,48500
+49342,Ford,Bronco Big Bend Advanced,1,11500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,73600
+49638,Ford,Expedition Limited,1,9500,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,83000
+49830,Ford,F-150 Tremor,1,14600,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,86999
+50159,Ford,Transit-350 Base,1,1500,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,195000
+50760,Ford,Expedition Limited,1,3752,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,84620
+51278,Ford,Expedition Limited,1,9281,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,67900
+51436,Ford,Expedition Limited,1,48000,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,67800
+51597,Ford,Shelby GT500 Base,1,2050,760.0HP 5.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,599000
+51662,Ford,Expedition Timberline,1,23300,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,53000
+51693,Ford,Expedition Limited,1,2958,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,None reported,58504
+51730,Ford,F-250 Lariat,1,3763,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,Transmission w/Dual Shift Mode,None reported,85000
+51807,Ford,Bronco Outer Banks Advanced,1,15000,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,83999
+51915,Ford,Bronco Badlands Advanced,1,10200,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,187900
+51989,Ford,Bronco Big Bend Advanced,1,28570,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,84500
+52181,Ford,Maverick XLT,1,500,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,None reported,60000
+52182,Ford,Bronco Big Bend Advanced,1,4500,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,115000
+52368,Ford,Expedition Limited,1,9281,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,85000
+52435,Ford,Bronco Outer Banks Advanced,1,74000,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,16499
+52633,Ford,F-150 Lariat,1,9142,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,51500
+52790,Ford,Bronco Big Bend Advanced,1,2010,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,90000
+53042,Ford,Bronco Outer Banks,1,1800,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,59000
+53104,Ford,Bronco Outer Banks Advanced,1,65000,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,65000
+53391,Ford,Expedition Timberline,1,30022,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,78499
+53583,Ford,F-350 Lariat,1,3763,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,59950
+53705,Ford,Escalade Premium Luxury Platinum,1,72843,6.2L V8 16V GDI OHV,10-Speed Automatic,At least 1 accident or damage reported,77430
+53840,Ford,Bronco Outer Banks,1,16500,275.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,54000
+54133,Ford,Bronco Wildtrak Advanced,1,1800,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,179900
+54199,Ford,F-250 Platinum,1,3763,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,92000

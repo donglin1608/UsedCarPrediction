@@ -1,0 +1,70 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+401,Jeep,Commander Sport,17,161900,235.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,9950
+1283,Jeep,Commander Sport,17,161900,235.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,4400
+1400,Jeep,Wrangler SE,17,115402,120.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12499
+1695,Jeep,Wrangler Unlimited X,17,87500,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,17900
+1769,Jeep,Wrangler Unlimited X,17,170552,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7100
+2257,Jeep,Liberty Sport,17,103000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9999
+2421,Jeep,Liberty Sport,17,136400,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6800
+3664,Jeep,Liberty Limited,17,107000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+4039,Jeep,Wrangler Unlimited X,17,170000,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9400
+5362,Jeep,Commander Sport,17,161900,235.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,5700
+5438,Jeep,Wrangler X,17,189719,190.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9950
+5921,Jeep,Commander Sport,17,161900,235.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,4800
+6174,Jeep,Liberty Limited,17,107000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19500
+6467,Jeep,Compass Sport,17,228000,172.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,3850
+7560,Jeep,Wrangler Unlimited X,17,85325,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15900
+9703,Jeep,Liberty Sport,17,170000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+9779,Jeep,Liberty Renegade,17,144770,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,4200
+11621,Jeep,Liberty Renegade,17,141485,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,6800
+11711,Jeep,Wrangler Unlimited,17,146000,190.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,12500
+12298,Jeep,Wrangler Unlimited Sport,17,135465,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+13197,Jeep,Liberty Renegade,17,171000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,15000
+13660,Jeep,Wrangler Sport,17,141800,210.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,2300
+14168,Jeep,Liberty Sport,17,149000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,5995
+14603,Jeep,Liberty Renegade,17,170000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,7350
+14914,Jeep,Liberty Sport,17,149000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,3000
+15451,Jeep,Liberty Sport,17,141485,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6500
+15604,Jeep,Liberty Sport,17,136400,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,4999
+16887,Jeep,Commander Sport,17,160000,235.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,6800
+19029,Jeep,Wrangler Unlimited,17,96000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,12000
+19604,Jeep,Wrangler Unlimited X,17,135465,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15750
+21189,Jeep,Liberty Renegade,17,116157,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7599
+22688,Jeep,Wrangler Sahara,17,111000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8900
+22749,Jeep,Liberty Sport,17,133300,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,3000
+24686,Jeep,Wrangler X,17,116157,210.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+26324,Jeep,Compass Sport,17,99000,172.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,3500
+26612,Jeep,Wrangler Unlimited X,17,170000,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7200
+26738,Jeep,Commander Sport,17,161900,235.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+27242,Jeep,Liberty Renegade,17,269885,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6700
+27537,Jeep,Liberty Renegade,17,137000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,12000
+27594,Jeep,Wrangler Sport,17,149460,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6995
+27824,Jeep,Liberty Sport,17,140000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5000
+28012,Jeep,Liberty Limited,17,132000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8700
+28206,Jeep,Liberty Sport,17,103000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12900
+29160,Jeep,Liberty Sport,17,113000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12599
+29319,Jeep,Liberty Renegade,17,136731,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,6500
+31103,Jeep,Wrangler Sport,17,130000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+32135,Jeep,Liberty Sport,17,103000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7200
+33385,Jeep,Commander Sport,17,170000,235.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,4800
+33489,Jeep,Dakota SLT Quad Cab,17,130000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7000
+33781,Jeep,Liberty Limited,17,107000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12800
+34942,Jeep,Wrangler Unlimited Sport,17,149000,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6750
+35549,Jeep,Wrangler Unlimited X,17,121630,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9450
+37857,Jeep,Liberty Sport,17,122000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,12490
+38897,Jeep,Liberty Limited,17,107000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7100
+39371,Jeep,Wrangler Sport,17,149460,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,10700
+39815,Jeep,Liberty Sport,17,107000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11200
+41199,Jeep,Wrangler Unlimited Sahara,17,132700,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12900
+41885,Jeep,Wrangler Sport,17,135465,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17000
+43228,Jeep,Wrangler Sport,17,123500,181.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,12500
+44649,Jeep,Wrangler Sahara,17,170000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+44843,Jeep,Wrangler Sport,17,135465,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,15750
+45697,Jeep,Liberty Sport,17,138700,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7000
+46798,Jeep,Liberty Sport,17,170000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5000
+48970,Jeep,Commander Sport,17,107000,235.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,10900
+51109,Jeep,Wrangler Sahara,17,140000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,8000
+51883,Jeep,Wrangler Unlimited X,17,96653,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22500
+52925,Jeep,Commander Base,17,107000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17800
+53616,Jeep,Commander Sport,17,161900,235.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,9200
+53905,Jeep,Liberty Sport,17,91500,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12499

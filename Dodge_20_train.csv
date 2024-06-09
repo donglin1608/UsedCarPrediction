@@ -1,0 +1,56 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+2565,Dodge,Ram 2500 Quad Cab,20,141209,245.0HP 5.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+4150,Dodge,Ram 2500 ST,20,151450,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7999
+4178,Dodge,Ram 1500 Laramie,20,131000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+4691,Dodge,Ram 1500 Laramie,20,170000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+6957,Dodge,Ram 2500 SLT Quad Cab,20,148000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,25500
+7952,Dodge,Ram 2500 Laramie Quad Cab,20,218000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,21000
+7981,Dodge,Ram 1500 SRT-10 Quad Cab,20,153692,500.0HP 8.3L 10 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,179000
+8031,Dodge,Dakota SLT Quad Cab,20,148000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,14200
+8749,Dodge,Dakota SLT Quad Cab,20,256000,4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,3750
+10981,Dodge,Ram 1500 ST,20,142400,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+11215,Dodge,Ram 2500 ST,20,130000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+11514,Dodge,Ram 2500 Laramie Quad Cab,20,142000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,4999
+13294,Dodge,Ram 1500 SRT-10 Quad Cab,20,138450,500.0HP 8.3L 10 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,5500
+13598,Dodge,Ram 1500 SRT-10 Quad Cab,20,135350,500.0HP 8.3L 10 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,11500
+13984,Dodge,Ram 1500 Laramie Mega Cab,20,213000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,17495
+14251,Dodge,Ram 2500 Laramie Quad Cab,20,148000,250.0HP 5.9L Straight 6 Cylinder Engine Diesel Fuel,4-Speed A/T,None reported,9000
+14735,Dodge,Dakota Sport,20,141209,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6500
+14823,Dodge,Sprinter 2500 High Roof,20,171079,154.0HP 2.7L 5 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,4500
+16346,Dodge,Magnum Base,20,46000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,28000
+16727,Dodge,Ram 2500 ST,20,130000,250.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,None reported,6000
+17980,Dodge,Ram 2500 Laramie Quad Cab,20,218000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6500
+20244,Dodge,Matrix XRS,20,17836,180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,5750
+20641,Dodge,Ram 1500 Quad Cab,20,130000,245.0HP 5.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16500
+21123,Dodge,Grand Caravan R/T,20,95000,305.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+21339,Dodge,Ram 1500 Laramie Mega Cab,20,227010,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6950
+22033,Dodge,Ram 1500 Laramie,20,114000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7450
+22467,Dodge,Ram 1500 Laramie,20,145000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9500
+23930,Dodge,Ram 1500 ST,20,152068,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+24226,Dodge,Ram 1500 Laramie,20,141209,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,19000
+24812,Dodge,Ram 1500 SRT-10 Quad Cab,20,138450,500.0HP 8.3L 10 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,115000
+25838,Dodge,Charger R/T,20,133500,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,13000
+26947,Dodge,Ram 1500 Quad Cab,20,165520,245.0HP 5.9L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,30500
+27295,Dodge,Ram 2500 Laramie Quad Cab,20,114000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+28139,Dodge,Ram 1500 ST,20,170000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10750
+28148,Dodge,Ram 1500 Laramie Mega Cab,20,163000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+29059,Dodge,Ram 2500 Laramie Quad Cab,20,185000,250.0HP 5.9L Straight 6 Cylinder Engine Diesel Fuel,4-Speed A/T,At least 1 accident or damage reported,5000
+30647,Dodge,Ram 1500 Laramie,20,141209,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,3500
+30989,Dodge,Ram 1500 Laramie,20,150000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+31776,Dodge,Ram 1500 ST,20,74582,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,20995
+31794,Dodge,Durango SLT,20,143000,335.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+36331,Dodge,Dakota SLT,20,170000,230.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7999
+38999,Dodge,Ram 1500 Laramie Mega Cab,20,201509,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+40026,Dodge,Ram 2500 Laramie Quad Cab,20,97500,250.0HP 5.9L Straight 6 Cylinder Engine Diesel Fuel,4-Speed A/T,None reported,9000
+42450,Dodge,Challenger SRT8,20,99000,425.0HP 6.1L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7999
+43832,Dodge,Ram 2500 ST,20,201509,340.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,13000
+44619,Dodge,Ram 2500 Laramie Quad Cab,20,80000,250.0HP 5.9L Straight 6 Cylinder Engine Diesel Fuel,A/T,None reported,23000
+45554,Dodge,Ram Van 1500,20,201509,175.0HP 3.9L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,10500
+46265,Dodge,Ram 2500 Laramie Quad Cab,20,148000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6500
+47636,Dodge,Ram 1500 ST,20,160000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3900
+48383,Dodge,Ram 2500 Laramie Quad Cab,20,37622,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,25500
+49249,Dodge,Ram 1500 ST,20,165454,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+50657,Dodge,Ram 1500 ST,20,120000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,4000
+50813,Dodge,Viper SRT-10,20,3763,550.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,695000
+51477,Dodge,Ram 1500 Laramie,20,141209,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6450
+53800,Dodge,Ram 1500 ST,20,102000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500

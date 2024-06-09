@@ -1,0 +1,70 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+905,Acura,MDX Sport,11,183455,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,5500
+1061,Acura,MDX 3.7L Advance,11,106700,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16000
+1726,Acura,MDX 3.7L Advance,11,20750,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15999
+2388,Acura,TL Technology,11,62500,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18795
+2912,Acura,TL Technology,11,70000,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+5028,Acura,TL Technology,11,89190,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,20499
+5049,Acura,MDX 3.7L Advance,11,95000,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11990
+5456,Acura,TL Technology,11,70000,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15500
+6482,Acura,ILX 2.0L w/Premium Package,11,198000,150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,15500
+7701,Acura,MDX 3.7L Advance,11,65000,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17999
+9681,Acura,ILX Premium Package,11,113294,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6499
+10728,Acura,MDX 3.7L Advance,11,109000,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,13599
+10973,Acura,TL Technology,11,154247,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8500
+12789,Acura,TSX 2.4,11,116000,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,16750
+12886,Acura,MDX 3.7L Advance,11,100600,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17500
+12989,Acura,TSX Technology,11,90400,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,14750
+14400,Acura,RL Technology,11,68000,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37900
+14742,Acura,MDX 3.7L Advance,11,103272,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19500
+15502,Acura,MDX 3.7L Advance,11,120000,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16995
+15909,Acura,ILX Technology Plus Package,11,61000,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,21000
+16512,Acura,TSX 2.4,11,116000,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,11000
+18526,Acura,ILX 2.0L w/Premium Package,11,198000,150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,14000
+19039,Acura,MDX 3.7L Advance,11,103272,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,13800
+19231,Acura,RSX Type S,11,71400,201.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,11900
+19978,Acura,Integra LS,11,120000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,5500
+20858,Acura,ZDX Base,11,89190,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19999
+21630,Acura,MDX 3.7L Advance,11,140200,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,14000
+21822,Acura,TL Technology,11,86818,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16800
+23018,Acura,ILX 2.0L w/Premium Package,11,122000,148.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,11000
+23563,Acura,TL Technology,11,40000,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,7500
+24267,Acura,ILX 2.0L w/Premium Package,11,82000,150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15999
+24339,Acura,ILX 2.0L w/Premium Package,11,198000,150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16000
+24806,Acura,TL Technology,11,89190,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15499
+25183,Acura,ILX 2.0L w/Premium Package,11,136000,150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,14800
+25440,Acura,TLX V6 Tech,11,50000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19000
+26393,Acura,TSX 2.4,11,68200,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17700
+27209,Acura,BRZ Limited,11,70582,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,17900
+28681,Acura,MDX 3.7L Advance,11,46200,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,24000
+28747,Acura,MDX 3.7L Advance,11,68000,300.0HP 3.7L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,21500
+28805,Acura,ILX 2.0L w/Premium Package,11,116157,150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17899
+28919,Acura,MDX 3.7L Advance,11,107543,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,12900
+31523,Acura,MDX 3.7L Advance,11,33362,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,34999
+34748,Acura,Focus SE,11,101387,160.0HP 2.0L 4 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,12500
+38275,Acura,TLX V6 Tech,11,105760,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,11990
+38343,Acura,TL 3.7,11,52744,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27450
+38406,Acura,TL Technology,11,90000,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17000
+38832,Acura,MDX 3.7L Advance,11,69423,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27000
+40061,Acura,TL Technology,11,90000,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16750
+41193,Acura,ILX 2.0L w/Premium Package,11,90305,150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17500
+41917,Acura,TL Technology,11,56837,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,31000
+42270,Acura,TLX V6 Advance,11,162000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+42617,Acura,TL Technology,11,89190,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12500
+42841,Acura,TSX 2.4,11,86000,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,20900
+45028,Acura,MDX 3.7L Advance,11,209500,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12500
+47396,Acura,RL Technology,11,123200,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,12449
+47404,Acura,ILX Technology Plus Package,11,107818,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14900
+47905,Acura,ILX 2.0L w/Premium Package,11,153600,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+48097,Acura,ZDX Base,11,101750,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16000
+48642,Acura,TL Technology,11,112000,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,14599
+49842,Acura,TL Technology,11,69750,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15999
+50585,Acura,ILX 2.0L w/Premium Package,11,159890,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7500
+51031,Acura,ILX Technology Plus Package,11,111000,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+51655,Acura,ILX 2.0L w/Premium Package,11,140200,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,8500
+51942,Acura,MDX 3.5L Technology Package,11,126700,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,13800
+52656,Acura,ILX 2.0L w/Premium Package,11,65000,150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11900
+53309,Acura,ILX 2.0L w/Premium Package,11,87000,150.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12499
+53434,Acura,ZDX Base,11,87500,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26500
+53536,Acura,MDX 3.7L Advance,11,75965,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,25999
+53872,Acura,ILX Technology Plus Package,11,103466,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11600

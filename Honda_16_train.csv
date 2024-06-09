@@ -1,0 +1,82 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+151,Honda,Civic LX,16,111300,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+698,Honda,Civic EX,16,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,2000
+889,Honda,Element EX,16,138415,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,10500
+1407,Honda,Accord EX-L,16,167300,190.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,6250
+1865,Honda,CR-V EX,16,98888,200.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,8995
+2308,Honda,Element EX,16,106000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11000
+2760,Honda,Civic EX,16,90200,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9499
+3307,Honda,S2000 CR,16,82323,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28900
+3913,Honda,Element EX,16,122000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14500
+4213,Honda,Civic EX,16,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,4500
+4372,Honda,Accord EX-L,16,133510,190.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+4810,Honda,Element EX,16,122000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12500
+5977,Honda,S2000 CR,16,95000,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,14900
+6219,Honda,S2000 CR,16,135603,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,9999
+6831,Honda,Civic EX,16,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,10500
+7012,Honda,Pilot EX,16,175000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,9000
+7452,Honda,Civic EX,16,137333,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+8104,Honda,Crosstour EX-L,16,90742,192.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,2990
+8244,Honda,Pilot EX-L,16,175000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,18000
+9096,Honda,Element EX,16,110000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15500
+9797,Honda,Element EX,16,187450,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,10900
+10569,Honda,Civic EX,16,152000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8900
+11366,Honda,S2000 CR,16,44300,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,51000
+11907,Honda,S2000 CR,16,76500,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,25980
+11948,Honda,Element EX,16,115402,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,5000
+12273,Honda,Element EX,16,155000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,17500
+12705,Honda,Civic EX,16,199000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,5500
+13512,Honda,Civic EX,16,107000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11250
+14088,Honda,Civic EX,16,107000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,11900
+14892,Honda,Element EX,16,170000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,4000
+15072,Honda,Pilot EX,16,160000,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11500
+15310,Honda,Civic EX,16,169000,–,A/T,At least 1 accident or damage reported,5100
+15904,Honda,350Z Touring,16,123500,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,6000
+15966,Honda,S2000 CR,16,44300,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,33000
+16634,Honda,Element EX,16,110000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,7999
+17120,Honda,S2000 CR,16,62377,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21800
+18796,Honda,Pilot EX-L,16,175000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,10500
+18840,Honda,Element EX,16,46200,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11500
+19443,Honda,Impreza 2.0i Premium,16,190640,148.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,5500
+19525,Honda,Xterra S,16,227010,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,3850
+19783,Honda,Odyssey EX-L,16,18385,244.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17900
+20132,Honda,Civic EX,16,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,6800
+21631,Honda,Element EX,16,122000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,12000
+22043,Honda,Element EX,16,61491,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,14990
+23289,Honda,Element EX,16,192000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,10500
+25562,Honda,Element EX,16,192000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17000
+26854,Honda,Civic LX,16,190395,115.0HP 1.7L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,5100
+30928,Honda,Element EX,16,18069,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,5500
+31421,Honda,Element EX,16,151544,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,17900
+31934,Honda,Element EX,16,145000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,2500
+32581,Honda,Element EX,16,92861,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,10950
+32834,Honda,Civic EX,16,120000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,5000
+34430,Honda,Civic EX,16,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,5500
+35781,Honda,Civic EX,16,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,7100
+36109,Honda,Element EX,16,156111,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4200
+37350,Honda,Civic EX,16,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,5500
+39408,Honda,Civic EX,16,109357,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9499
+39469,Honda,Civic EX,16,141209,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6000
+42531,Honda,CR-V EX,16,176261,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6299
+44099,Honda,S2000 CR,16,83112,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,34000
+44151,Honda,Civic Si,16,123500,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,6000
+45099,Honda,Element EX,16,127875,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5000
+45174,Honda,Element EX,16,106000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19500
+45262,Honda,Civic EX,16,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12500
+45677,Honda,Civic EX,16,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14500
+46525,Honda,Element EX,16,98888,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,16500
+47065,Honda,Civic LX,16,131986,115.0HP 1.7L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,9000
+47134,Honda,S2000 CR,16,82323,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,21500
+49204,Honda,Element EX,16,27407,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,7200
+49672,Honda,Fit Sport,16,185963,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5100
+50255,Honda,CR-V EX,16,189500,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,10000
+50393,Honda,Clarity Plug-In Hybrid Base,16,142500,212.0HP 1.5L 4 Cylinder Engine Plug-In Electric/Gas,A/T,At least 1 accident or damage reported,4900
+51371,Honda,Prelude Type SH,16,125000,200.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,8900
+51420,Honda,Element EX,16,122000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,10500
+51866,Honda,Civic EX,16,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+51907,Honda,Element EX,16,192000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15995
+52281,Honda,Element EX,16,137483,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,14500
+52903,Honda,Fit Sport,16,59700,109.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,13500
+52939,Honda,Civic EX,16,167506,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3499
+53645,Honda,S2000 CR,16,87009,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,23800
+53687,Honda,Element EX,16,162000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7200

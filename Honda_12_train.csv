@@ -1,0 +1,44 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1302,Honda,S2000 Base,12,67500,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+1529,Honda,Pilot EX,12,160000,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+3386,Honda,Pilot EX-L,12,64500,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,31700
+4831,Honda,Civic EX,12,167506,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+5360,Honda,Pilot EX-L,12,110000,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,8300
+8300,Honda,Element EX,12,143390,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8400
+8759,Honda,Civic LX,12,109000,2.0L I4 16V MPFI DOHC,Automatic CVT,At least 1 accident or damage reported,14945
+8820,Honda,Camry SE,12,160000,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7750
+8931,Honda,Civic EX,12,170000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9000
+11537,Honda,Civic LX,12,122000,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11100
+12392,Honda,Accord EX-L,12,149800,190.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,8500
+12939,Honda,Civic LX,12,111000,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14999
+13710,Honda,Civic EX,12,154247,143.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,12000
+14189,Honda,Accord Crosstour EX-L,12,120000,271.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+14260,Honda,Clarity Plug-In Hybrid Base,12,118000,212.0HP 1.5L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,10500
+17438,Honda,Fusion Hybrid Base,12,158366,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,8250
+17477,Honda,Civic Type R Touring,12,142215,306.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,6000
+18319,Honda,Element EX,12,110000,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+18767,Honda,Civic EX,12,107000,143.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,15000
+18775,Honda,Civic Si,12,54000,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,20199
+18950,Honda,Civic Si,12,26000,205.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,35500
+20699,Honda,Civic EX,12,67289,143.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,22500
+23061,Honda,Civic LX,12,51300,143.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,22000
+24556,Honda,Civic EX,12,122000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+25526,Honda,Pilot EX-L,12,160000,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12000
+26761,Honda,Crosstour EX-L,12,90742,192.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12980
+28370,Honda,Civic EX,12,107000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+29200,Honda,Civic EX,12,137483,143.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,10000
+29242,Honda,Civic EX,12,82500,143.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,15500
+29332,Honda,Civic Si,12,47245,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,19600
+30229,Honda,Civic LX,12,51300,143.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9495
+35361,Honda,Civic EX,12,110000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,11495
+35821,Honda,Civic LX,12,109000,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+37760,Honda,Civic Sport,12,167506,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,24500
+38868,Honda,Odyssey LX,12,167000,248.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19470
+38953,Honda,Element EX,12,153332,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+48190,Honda,Civic EX,12,105760,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+48543,Honda,Civic Si,12,55000,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,19500
+48855,Honda,Crosstour EX-L,12,90742,192.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11499
+48985,Honda,Civic EX,12,167506,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6000
+49448,Honda,Civic EX,12,190640,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17999
+49675,Honda,Odyssey LX,12,134000,248.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+49875,Honda,Civic EX,12,167506,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,5500

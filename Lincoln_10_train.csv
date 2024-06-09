@@ -1,0 +1,25 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+4752,Lincoln,MKZ Base,10,103272,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16000
+5020,Lincoln,MKZ Base,10,196300,300.0HP 3.7L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,10995
+8299,Lincoln,MKZ Hybrid Base,10,107000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,14900
+10466,Lincoln,MKS Base,10,56675,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,30000
+13765,Lincoln,300 Base,10,85000,292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,11250
+17118,Lincoln,Navigator Base,10,191775,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,9750
+18813,Lincoln,MKX Base,10,81500,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,13599
+23587,Lincoln,MKZ Reserve,10,140000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,9000
+29987,Lincoln,MKZ Base,10,128000,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12999
+31580,Lincoln,MKZ Hybrid Base,10,78568,188.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,15500
+34269,Lincoln,MKZ Base,10,106700,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,24900
+37142,Lincoln,MKZ Reserve I,10,67500,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19500
+38613,Lincoln,MKZ Base,10,59500,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18400
+41523,Lincoln,MKZ Reserve I,10,118000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11000
+42950,Lincoln,Aviator Reserve AWD,10,125519,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,None reported,491836
+45315,Lincoln,MKZ Base,10,126700,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+46784,Lincoln,MKC Base,10,95000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9995
+47529,Lincoln,MKZ Hybrid Base,10,78568,188.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,15500
+47989,Lincoln,MKZ Base,10,119000,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19500
+49829,Lincoln,MKZ Base,10,123200,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12449
+51481,Lincoln,MKZ Base,10,155000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,10000
+52005,Lincoln,MKZ Reserve,10,118000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,10000
+53966,Lincoln,MKS EcoBoost,10,38100,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+54141,Lincoln,MKZ Hybrid Base,10,78568,188.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,CVT Transmission,None reported,15500

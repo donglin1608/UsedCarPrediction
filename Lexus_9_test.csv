@@ -1,0 +1,142 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+54274,Lexus,RX 350 Base,9,128032,275.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+54411,Lexus,RX 350 Base,9,154860,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+54675,Lexus,RX 450h Base,9,123500,295.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,0
+54686,Lexus,RX 450h Base,9,89000,306.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,0
+54883,Lexus,RC 350 Base,9,124000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+55478,Lexus,ES 350 Base,9,90000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+55754,Lexus,GX 460 Base,9,123256,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+55757,Lexus,IS 350 Base,9,62600,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+55961,Lexus,RC 350 Base,9,62600,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+56046,Lexus,LS 460 Crafted Line,9,74500,386.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+56650,Lexus,RC 350 Base,9,53782,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+57583,Lexus,GX 460 Base,9,96653,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+57641,Lexus,GS 350 Base,9,62500,3.5L V6 24V PDI DOHC,6-Speed Automatic,At least 1 accident or damage reported,0
+58001,Lexus,ES 350 Base,9,39000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+58370,Lexus,RX 350 F Sport Performance,9,54000,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+58788,Lexus,ES 350 Base,9,113500,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+59027,Lexus,LS 460 Crafted Line,9,128032,360.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+59107,Lexus,IS 350 Base,9,62600,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+59117,Lexus,RX 350 F Sport,9,81400,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,0
+59419,Lexus,RX 350 Crafted Line F Sport,9,67000,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+59563,Lexus,IS 350 Base,9,98000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+59569,Lexus,RC 350 Base,9,48000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+59607,Lexus,RX 350 Base,9,81400,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+59808,Lexus,NX 200t Base,9,124250,235.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+60977,Lexus,GX 460 Premium,9,86281,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+61101,Lexus,GX 460 Base,9,91700,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+61431,Lexus,LX 570 Base,9,59419,383.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+62323,Lexus,ES 350 Base,9,117500,311.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+62457,Lexus,GX 460 Base,9,106000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+62489,Lexus,CT 200h Premium,9,101000,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,0
+62573,Lexus,RC F Base,9,25470,467.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+62621,Lexus,GX 460 Base,9,75000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+63029,Lexus,IS 350 Base,9,67874,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+63142,Lexus,IS 250 Base,9,91700,204.0HP 2.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+63575,Lexus,IS 350 Base,9,104000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+63778,Lexus,LS 460 Crafted Line,9,89150,360.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+64325,Lexus,RC F Base,9,70773,467.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+64664,Lexus,LX 570 Base,9,59419,383.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+64880,Lexus,RC 350 Base,9,53600,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+64885,Lexus,GX 460 Base,9,86000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+64972,Lexus,RC 350 Base,9,77300,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+65045,Lexus,GX 460 Base,9,82975,4.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+65205,Lexus,CT 200h Premium,9,125519,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,None reported,0
+65273,Lexus,RX 350 Crafted Line F Sport,9,75000,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+65412,Lexus,GX 460 Luxury,9,114000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+65692,Lexus,IS 300 Base,9,106731,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,0
+66373,Lexus,RC 350 Base,9,76296,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+66444,Lexus,LS 460 Crafted Line,9,74500,360.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+66543,Lexus,LX 570 Three-Row,9,37000,383.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+66967,Lexus,IS 300 Base,9,66770,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+67454,Lexus,IS 350 Base,9,143250,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+67559,Lexus,LS 460 Crafted Line,9,89150,360.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+67615,Lexus,GX 460 Premium,9,82000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+67835,Lexus,GX 460 Base,9,106000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+68381,Lexus,ES 300h Base,9,100868,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,0
+68457,Lexus,NX 200t Base,9,83500,235.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+68675,Lexus,GX 460 Base,9,167000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+68864,Lexus,RC 350 Base,9,134000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+68927,Lexus,GX 460 Base,9,75000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+69007,Lexus,RC F Base,9,74500,467.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+69043,Lexus,RC 350 Base,9,96476,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+69386,Lexus,GX 460 Base,9,72922,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+69629,Lexus,GX 460 Base,9,48210,4.6L V8 32V MPFI DOHC,6-Speed Automatic,None reported,0
+69856,Lexus,LS 460 Base,9,74593,386.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+69870,Lexus,RX 350 Crafted Line F Sport,9,101750,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+69967,Lexus,GX 460 Base,9,100680,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+70088,Lexus,RX 450h Base,9,70780,295.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,0
+70361,Lexus,RX 350 Crafted Line F Sport,9,110000,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+70462,Lexus,RX 350 Base,9,198000,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+70654,Lexus,RC F Base,9,70700,467.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+70663,Lexus,GX 460 Base,9,142792,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+70709,Lexus,IS 350 Base,9,119000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+70799,Lexus,RX 350 Base,9,91545,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+70895,Lexus,RC 350 Base,9,47147,3.5L V6 24V PDI DOHC,6-Speed Automatic,At least 1 accident or damage reported,0
+71153,Lexus,NX 300 Base,9,168422,235.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+71269,Lexus,GS 350 Base,9,128032,311.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+71482,Lexus,RC 350 Base,9,161894,311.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+71534,Lexus,RX 350 Crafted Line F Sport,9,61454,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+72667,Lexus,IS 250 Base,9,103400,204.0HP 2.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+72950,Lexus,RC 350 Base,9,128032,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+73074,Lexus,LS 460 Crafted Line,9,74500,386.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+73338,Lexus,LS 460 Base,9,99524,386.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,0
+73433,Lexus,LX 570 Three-Row,9,120000,383.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+73753,Lexus,GX 460 Base,9,89000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+74222,Lexus,RX 350 Crafted Line F Sport,9,8700,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+75026,Lexus,GX 460 Luxury,9,2533,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+75254,Lexus,RC 350 Base,9,134500,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+75337,Lexus,RX 450h Base,9,56778,308.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,None reported,0
+75378,Lexus,GX 460 Premium,9,72922,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+75640,Lexus,IS 350 Base,9,53900,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+75871,Lexus,CT 200h Premium,9,125519,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,0
+76022,Lexus,CT 200h Premium,9,101000,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,0
+76326,Lexus,GX 460 Base,9,106731,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+76698,Lexus,ES 350 Base,9,126760,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,0
+77962,Lexus,RC 350 Base,9,32000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+78757,Lexus,GX 460 Base,9,75000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+78797,Lexus,IS 350 Base,9,62200,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+79151,Lexus,IS 350 Base,9,89500,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+79190,Lexus,ES 350 Base,9,63300,272.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+79451,Lexus,GX 460 Base,9,97097,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+79718,Lexus,LS 460 Base,9,140000,380.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+79919,Lexus,GS 350 Base,9,99000,311.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+80231,Lexus,SL-Class SL 550,9,56654,429.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+80400,Lexus,ES 350 Base,9,42000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+80853,Lexus,LX 570 Three-Row,9,70000,383.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+81079,Lexus,GX 460 Base,9,106731,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+81331,Lexus,GX 460 Premium,9,48000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+81823,Lexus,RC F Base,9,119000,467.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+81988,Lexus,ES 350 Base,9,78980,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+82353,Lexus,GX 460 Base,9,167000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+82911,Lexus,LS 460 Crafted Line,9,76500,360.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+82965,Lexus,GX 460 Base,9,75000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+82987,Lexus,RX 350 F Sport Performance,9,82849,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+83027,Lexus,GX 460 Base,9,92000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+83087,Lexus,RX 350 Crafted Line F Sport,9,61300,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+83656,Lexus,GX 460 Base,9,97097,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+83909,Lexus,GX 460 Base,9,106000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+84106,Lexus,RC F Base,9,51400,467.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+84844,Lexus,GX 460 Base,9,106000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+84901,Lexus,GX 460 Base,9,82975,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+84904,Lexus,CT 200h Premium,9,109000,134.0HP 1.8L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,0
+85407,Lexus,NX 200t Base,9,124250,235.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+85613,Lexus,RX 350 Crafted Line F Sport,9,110000,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+85765,Lexus,RX 300 4WD,9,110900,220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+85804,Lexus,RX 350 Crafted Line F Sport,9,51400,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+86095,Lexus,ES 350 Base,9,119850,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+86612,Lexus,GX 460 Base,9,55900,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+86768,Lexus,GX 460 Base,9,87500,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+86930,Lexus,LS 500 F Sport,9,89563,416.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+87143,Lexus,GX 460 Base,9,97097,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+87675,Lexus,RX 350 Base,9,90601,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+87861,Lexus,GX 460 Luxury,9,17710,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+88313,Lexus,ES 350 Base,9,68000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+88406,Lexus,GX 460 Base,9,48000,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+88541,Lexus,RC F Base,9,74500,467.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+88847,Lexus,LS 460 Crafted Line,9,89150,360.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+89252,Lexus,GX 460 Base,9,51902,4.6L V8 32V MPFI DOHC,6-Speed Automatic,At least 1 accident or damage reported,0
+89477,Lexus,RC 350 Base,9,73800,3.5L V6 24V PDI DOHC,6-Speed A/T,None reported,0
+89771,Lexus,RX 350 Crafted Line F Sport,9,110000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+90000,Lexus,IS 350 Base,9,72900,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+90128,Lexus,ES 350 Base,9,113500,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,0

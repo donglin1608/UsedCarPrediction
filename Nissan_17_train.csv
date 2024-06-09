@@ -1,0 +1,87 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+85,Nissan,Murano SL,17,190120,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,12900
+96,Nissan,Maxima SL,17,105000,255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,13300
+534,Nissan,350Z Enthusiast,17,117000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9975
+872,Nissan,Armada LE,17,126700,305.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14000
+1579,Nissan,Xterra S,17,132272,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,M/T,None reported,6700
+2465,Nissan,350Z Touring,17,90000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,6000
+3555,Nissan,Quest SL,17,103400,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+4826,Nissan,Expedition XLT,17,123921,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,6900
+5071,Nissan,350Z Touring,17,123500,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+8974,Nissan,350Z NISMO,17,53750,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,19995
+9052,Nissan,Maxima SL,17,101600,255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6700
+9850,Nissan,Maxima SL,17,101600,255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6700
+9904,Nissan,350Z Enthusiast,17,105000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,M/T,None reported,4200
+10721,Nissan,350Z Enthusiast,17,117000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9500
+10776,Nissan,350Z Touring,17,79635,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,20900
+11101,Nissan,Murano SL,17,127600,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8750
+11134,Nissan,Xterra S,17,227010,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3850
+11177,Nissan,GT-R Premium,17,109357,3.8L V6 24V MPFI DOHC Twin Turbo,6-Speed Automatic with Auto-Shift,None reported,14945
+11349,Nissan,350Z Enthusiast,17,118000,287.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8000
+11436,Nissan,Murano SL,17,170000,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7100
+11475,Nissan,350Z NISMO,17,76500,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,29995
+11971,Nissan,Xterra S,17,170000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,5200
+12167,Nissan,Xterra S,17,96600,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,6900
+15137,Nissan,350Z Enthusiast,17,136000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+15718,Nissan,Mustang SVT Cobra,17,162000,390.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,12000
+16337,Nissan,Xterra S,17,169613,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19500
+17322,Nissan,Rogue SL,17,146000,170.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4200
+17675,Nissan,Maxima SL,17,132269,255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7900
+17839,Nissan,350Z Touring,17,160000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12240
+20016,Nissan,350Z Enthusiast,17,98528,287.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,17900
+20066,Nissan,Maxima SL,17,111000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,14000
+20963,Nissan,Quest SL,17,185000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+21269,Nissan,350Z Touring,17,123000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+21353,Nissan,GT-R Premium,17,60747,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,27000
+21575,Nissan,Quest SL,17,100472,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9875
+21863,Nissan,Xterra S,17,285000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,279950
+22185,Nissan,350Z Touring,17,90000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,12000
+23496,Nissan,350Z Touring,17,74000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,21500
+23515,Nissan,350Z Enthusiast,17,117000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,17000
+23859,Nissan,Xterra S,17,132272,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,6700
+25399,Nissan,Armada Platinum,17,101600,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,349950
+26027,Nissan,350Z Touring,17,90000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,13995
+26035,Nissan,Cube 1.8 S,17,72500,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6750
+26514,Nissan,350Z Touring,17,53850,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,23300
+27107,Nissan,370Z Touring,17,90000,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,29995
+27212,Nissan,350Z Touring,17,67000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+28136,Nissan,Xterra S,17,132272,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,M/T,None reported,11000
+28399,Nissan,Quest SL,17,159870,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,6750
+31756,Nissan,Xterra S,17,100900,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8200
+32843,Nissan,Xterra S,17,114000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,11000
+33306,Nissan,Versa 1.8 S,17,109902,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8250
+33901,Nissan,Quest SL,17,167000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+33925,Nissan,Cube 1.8 S,17,72500,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6750
+34035,Nissan,350Z Enthusiast,17,117000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,9975
+35380,Nissan,350Z Touring,17,113000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,6950
+35663,Nissan,350Z Touring,17,135140,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,7999
+35760,Nissan,Frontier SE Crew Cab,17,134000,265.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+36138,Nissan,GT-R Premium,17,138700,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,6880
+36478,Nissan,Xterra S,17,100900,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11000
+36610,Nissan,Murano SL,17,120000,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,6750
+37132,Nissan,350Z Touring,17,101600,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,13450
+38123,Nissan,Quest SL,17,132272,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+38664,Nissan,Pathfinder SL,17,112630,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,11995
+39864,Nissan,Xterra S,17,132272,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,M/T,None reported,5000
+40534,Nissan,Maxima SL,17,101600,255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7850
+40677,Nissan,350Z Enthusiast,17,117000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9975
+41618,Nissan,Armada LE,17,152270,305.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6900
+41753,Nissan,350Z Enthusiast,17,74000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,30000
+42474,Nissan,Frontier SV,17,103990,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9995
+42843,Nissan,350Z Enthusiast,17,130307,287.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,6750
+43288,Nissan,350Z Touring,17,76500,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,15000
+43300,Nissan,Maxima SL,17,101600,255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9995
+43334,Nissan,Murano SL,17,127941,245.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,13980
+43647,Nissan,350Z Enthusiast,17,117000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+44808,Nissan,350Z Touring,17,90000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,12000
+45354,Nissan,Xterra S,17,227010,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,10750
+47140,Nissan,350Z Touring,17,90000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,12000
+47691,Nissan,370Z Touring,17,152000,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7999
+49001,Nissan,Xterra S,17,132272,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6900
+49022,Nissan,350Z Enthusiast,17,144000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,12300
+49505,Nissan,Maxima SL,17,152270,255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6700
+51293,Nissan,Xterra S,17,170000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,3500
+52480,Nissan,GT-R Premium,17,46100,485.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,72999
+52723,Nissan,Altima 2.5 S,17,194277,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,5750
+53484,Nissan,Maxima SL,17,115000,255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+54122,Nissan,Murano SL,17,130000,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,7000

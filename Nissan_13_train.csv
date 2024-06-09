@@ -1,0 +1,127 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1831,Nissan,Frontier SV,13,138000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+1836,Nissan,Xterra S,13,100900,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+2237,Nissan,Frontier SV,13,267000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8000
+3466,Nissan,Juke SV,13,96000,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,12500
+3490,Nissan,Pathfinder SL,13,106500,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,38500
+4836,Nissan,Altima 2.5 SL,13,170000,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4500
+5332,Nissan,Maxima SV,13,187000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,4000
+5470,Nissan,Quest SL,13,229450,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,4900
+5779,Nissan,Xterra S,13,132272,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,11000
+5893,Nissan,Quest SL,13,185000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+6461,Nissan,Cube 1.8 S,13,90050,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,5800
+6523,Nissan,Frontier SV,13,170000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6900
+6888,Nissan,Armada Platinum,13,119950,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,17000
+7220,Nissan,Frontier SV,13,103400,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,12500
+7465,Nissan,Versa 1.8 S,13,162000,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+7522,Nissan,Quest SL,13,185000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+7713,Nissan,Frontier SL,13,90601,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,5500
+7933,Nissan,350Z NISMO,13,106000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,25000
+8208,Nissan,Versa 1.8 S,13,165000,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4200
+8839,Nissan,Xterra Pro-4X,13,183000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,12000
+9329,Nissan,Quest SL,13,185000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+9496,Nissan,Xterra S,13,122000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,13000
+9756,Nissan,Frontier SV,13,110000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22000
+10242,Nissan,Cube 1.8 S,13,85766,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,8250
+10344,Nissan,Xterra S,13,155000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8300
+10384,Nissan,Titan S,13,80000,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,17500
+10393,Nissan,Xterra Pro-4X,13,110000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6000
+10801,Nissan,Frontier SV,13,165454,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+11364,Nissan,350Z Enthusiast,13,188000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13000
+11406,Nissan,Xterra Pro-4X,13,126700,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14000
+12018,Nissan,Versa 1.8 S,13,170000,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+12679,Nissan,350Z Touring,13,206000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,6500
+12925,Nissan,Versa 1.8 S,13,85768,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8250
+13651,Nissan,Genesis Coupe 3.8 Track,13,60000,306.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,17000
+13668,Nissan,Quest SL,13,183000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+13752,Nissan,Xterra S,13,119900,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,6900
+14687,Nissan,Xterra Pro-4X,13,183000,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12490
+14700,Nissan,Frontier SV,13,130000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5899
+14708,Nissan,Xterra Pro-4X,13,171000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4500
+15434,Nissan,Frontier SL,13,103400,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16500
+15681,Nissan,Pathfinder Silver,13,149000,266.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,Transmission Overdrive Switch,At least 1 accident or damage reported,9995
+15902,Nissan,Xterra Pro-4X,13,170000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+15907,Nissan,Pathfinder SL,13,167000,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5200
+16124,Nissan,Quest SL,13,148000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+16487,Nissan,370Z Touring,13,49700,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,35000
+16998,Nissan,Armada LE,13,87305,317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,19975
+17320,Nissan,Juke SV,13,137483,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,12000
+17577,Nissan,Xterra S,13,170000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9950
+17898,Nissan,Xterra Pro-4X,13,96800,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,13599
+18021,Nissan,Frontier SL,13,96600,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12500
+18220,Nissan,Xterra Pro-4X,13,137000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,14000
+18824,Nissan,Frontier SL,13,80000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+18967,Nissan,Frontier SV,13,96600,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+18975,Nissan,Juke SV,13,107000,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,19977
+19182,Nissan,Pathfinder SL,13,135000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9999
+19408,Nissan,Murano SL,13,138700,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,7000
+20033,Nissan,Altima 2.5 SL,13,91545,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,8999
+20558,Nissan,Murano SL,13,98527,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,42999
+20953,Nissan,Juke SL,13,137483,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,4500
+21721,Nissan,Frontier SV,13,153350,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+21735,Nissan,Versa 1.8 S,13,109902,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+22342,Nissan,Versa 1.8 S,13,30000,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9200
+22671,Nissan,Juke SL,13,146000,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15900
+22792,Nissan,Xterra S,13,88300,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,17999
+22867,Nissan,Versa 1.8 S,13,165000,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12500
+23421,Nissan,350Z Touring,13,91500,300.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13599
+23591,Nissan,Xterra Pro-4X,13,170000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,11000
+23966,Nissan,Frontier SV,13,103400,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+25940,Nissan,Pathfinder S,13,135000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9200
+26118,Nissan,Quest SL,13,186117,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+26391,Nissan,Versa 1.8 S,13,109902,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,5500
+26564,Nissan,Altima 2.5 SL,13,135000,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9999
+26714,Nissan,Quest SL,13,170000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+26723,Nissan,Xterra S,13,40000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,6000
+26937,Nissan,370Z Touring,13,65000,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+27125,Nissan,Quest SL,13,106000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,3900
+28881,Nissan,Xterra Pro-4X,13,185000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+29630,Nissan,Pathfinder SL,13,114000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3500
+29843,Nissan,Titan S,13,114287,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,9975
+30336,Nissan,Quest SL,13,185000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+30980,Nissan,Xterra Pro-4X,13,183000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17000
+31360,Nissan,Xterra Pro-4X,13,123620,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11200
+31423,Nissan,Quest SL,13,185000,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+31517,Nissan,Versa 1.8 S,13,109902,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4500
+32025,Nissan,Versa 1.8 S,13,109902,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9500
+33073,Nissan,Frontier SV,13,95798,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9450
+33124,Nissan,Frontier SV,13,145000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7900
+33185,Nissan,Juke SV,13,137483,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,17000
+33382,Nissan,Xterra S,13,143000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8700
+33563,Nissan,Maxima SV,13,186268,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+33690,Nissan,Versa 1.8 S,13,170000,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+34209,Nissan,Pathfinder SV,13,146000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,7495
+34610,Nissan,Quest SL,13,185000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+34762,Nissan,Juke SL,13,74750,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,6900
+34826,Nissan,Juke SV,13,47144,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,29800
+36060,Nissan,350Z Touring,13,116000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,7000
+37372,Nissan,Versa 1.8 S,13,107500,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,9500
+37437,Nissan,Juke SL,13,120010,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,6500
+37457,Nissan,Xterra S,13,65750,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,26000
+37554,Nissan,Frontier SV,13,135000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10900
+38391,Nissan,Xterra S,13,65750,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+38801,Nissan,Versa 1.8 S,13,109902,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4500
+39135,Nissan,Titan XD SV,13,148000,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,7999
+39601,Nissan,Pathfinder SL,13,111000,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,20900
+39620,Nissan,Juke SV,13,137483,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,3200
+40054,Nissan,Frontier SV,13,138450,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7500
+42578,Nissan,Xterra Pro-4X,13,90000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17599
+43229,Nissan,Armada SV,13,187141,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,8999
+44013,Nissan,Versa 1.8 S,13,120000,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6750
+44055,Nissan,Armada LE,13,87130,317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,20000
+46786,Nissan,Frontier SV,13,103000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10900
+47318,Nissan,Armada Platinum,13,92000,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,38000
+47346,Nissan,Xterra S,13,110000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7900
+47654,Nissan,Xterra S,13,120000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12975
+49415,Nissan,Versa 1.8 S,13,109902,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+49548,Nissan,Armada LE,13,148000,317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9900
+49723,Nissan,Juke SV,13,137483,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,5500
+50372,Nissan,Xterra S,13,134000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+51367,Nissan,Quest SL,13,163500,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16700
+51721,Nissan,Pathfinder SL,13,48000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,24999
+51967,Nissan,Frontier SV,13,103400,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,13500
+52229,Nissan,Versa 1.8 S,13,99600,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+52266,Nissan,Versa 1.8 S,13,109902,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,4500
+53372,Nissan,Armada LE,13,107000,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,22000
+53631,Nissan,Altima 2.5 SL,13,159870,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,7500
+53802,Nissan,Armada LE,13,99000,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6000

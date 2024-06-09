@@ -1,0 +1,44 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+2370,BMW,M3 Base,20,152000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,5999
+4659,BMW,325 i,20,143000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,16250
+5808,BMW,330 i,20,114323,225.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,8000
+6213,BMW,Z4 2.5i Roadster,20,138000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7500
+7434,BMW,Z4 2.5i,20,94500,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,10900
+7658,BMW,Z4 3.0i Roadster,20,170000,215.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4500
+8750,BMW,325 i,20,83000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,21900
+8933,BMW,328 i,20,107818,230.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,11495
+12062,BMW,Z4 2.5i Roadster,20,114287,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9900
+12229,BMW,325 Ci,20,178000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,5750
+12441,BMW,X5 xDrive50i,20,60000,300.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+12563,BMW,650 i,20,74500,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,14500
+13094,BMW,M3 Base,20,127273,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+16339,BMW,M3 Base,20,52744,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,22500
+16518,BMW,X5 3.0i,20,140000,225.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,6730
+17293,BMW,Z4 2.5i,20,116000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,10500
+18872,BMW,Z4 2.5i,20,134000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,8500
+19520,BMW,325 i,20,152000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,8500
+22026,BMW,325 Ci,20,178000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,5750
+22542,BMW,Z4 2.5i Roadster,20,131000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,15500
+25077,BMW,325 xi,20,171000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,10500
+28481,BMW,325 i,20,132000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,8500
+32430,BMW,X5 3.0i,20,140000,225.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6730
+34152,BMW,X5 3.0i,20,212000,225.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7950
+34643,BMW,325 Ci,20,126000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+35076,BMW,Z4 2.5i,20,69750,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,10299
+38082,BMW,Type 57 Base,20,34254,543.0HP 5.5L 12 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,64250
+38790,BMW,330 i,20,63500,225.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21000
+39395,BMW,X5 3.0i,20,140000,225.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,22500
+40001,BMW,Z4 2.5i Roadster,20,199296,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,10300
+41403,BMW,M5 Base,20,103000,500.0HP 5.0L 10 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,20999
+41588,BMW,M3 Base,20,70000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,20900
+43120,BMW,325 xi,20,110250,215.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,11000
+43618,BMW,M3 Base,20,60000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,23000
+43900,BMW,325 Ci,20,78414,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,12500
+46682,BMW,Z4 2.5i Roadster,20,94500,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,12000
+47003,BMW,325 Ci,20,178000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,7500
+48201,BMW,X5 3.0si,20,110000,260.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,8500
+49261,BMW,Z3 3.0i Roadster,20,140000,225.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,7200
+49650,BMW,TT 1.8T,20,92500,180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+49685,BMW,Z4 3.0i Roadster,20,171000,215.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11500
+51055,BMW,CR-V EX,20,156350,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3990
+52144,BMW,325 i,20,201000,180.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500

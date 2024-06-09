@@ -1,0 +1,56 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+760,Kia,Sorento LX V6,5,99686,3.3L V6 24V GDI DOHC,8-Speed Automatic,At least 1 accident or damage reported,20708
+1119,Kia,Stinger GT1,5,89000,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,31900
+1553,Kia,Sorento SX Prestige,5,48200,281.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,131999
+2989,Kia,Sorento EX V6,5,66075,3.3L V6 24V GDI DOHC,6-Speed Automatic,At least 1 accident or damage reported,18387
+3298,Kia,Sorento SX Prestige,5,111650,281.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17816
+5145,Kia,Sorento LX,5,78110,191.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,21000
+5585,Kia,Stinger GT1,5,84100,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41500
+7085,Kia,Forte GT-Line,5,14950,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,17995
+7283,Kia,Sorento LX V6,5,54259,191.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,33200
+8420,Kia,Optima EX,5,56300,192.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,42500
+11383,Kia,Stinger GT2,5,49814,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,31500
+13622,Kia,Stinger GT2,5,69100,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29999
+13638,Kia,Sorento SXL,5,43850,290.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,40999
+14409,Kia,Stinger GT2,5,7982,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,17390
+15105,Kia,Stinger GT1,5,8288,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29000
+17233,Kia,Sorento EX V6,5,108559,3.3L V6 24V GDI DOHC,8-Speed Automatic,None reported,26772
+18152,Kia,Sorento LX,5,54200,191.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,33900
+18442,Kia,Optima LX,5,100331,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,24998
+18720,Kia,Stinger GT2,5,57500,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,21500
+21018,Kia,Sorento SX Prestige,5,66075,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,None reported,30510
+22330,Kia,Optima EX,5,45468,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,19599
+22562,Kia,K5 EX,5,18362,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,43499
+27663,Kia,Niro Plug-In Hybrid EX Premium,5,41997,180.0HP 1.6L 4 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,At least 1 accident or damage reported,25695
+29393,Kia,Forte GT-Line,5,267000,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13999
+30656,Kia,Telluride SX,5,38612,3.8L V6 24V GDI DOHC,8-Speed Automatic,None reported,36880
+30721,Kia,Sorento EX V6,5,66075,3.3L V6 24V GDI DOHC,6-Speed Automatic,None reported,17816
+30935,Kia,Stinger GT2,5,69100,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,29999
+32324,Kia,Sorento LX,5,54000,191.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,33000
+33551,Kia,Forte GT-Line,5,50000,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,25500
+34300,Kia,Sorento LX V6,5,69289,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,At least 1 accident or damage reported,39951
+36180,Kia,Optima LX,5,62660,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,18500
+39672,Kia,Stinger GT2,5,56300,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39900
+40095,Kia,Sorento SXL,5,43850,290.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,28000
+41336,Kia,Optima LX,5,62660,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,18500
+41405,Kia,Sorento LX V6,5,54200,290.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,23900
+41410,Kia,Forte GT-Line,5,24534,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,36900
+42165,Kia,K5 GT-Line,5,22101,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,At least 1 accident or damage reported,19425
+42421,Kia,Stinger GT1,5,51984,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,45750
+42620,Kia,Stinger GT2,5,29850,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31950
+43694,Kia,Optima LX,5,103400,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16500
+44702,Kia,Optima LX,5,62660,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+45392,Kia,Sorento Hybrid EX,5,53750,227.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid,6-Speed A/T,At least 1 accident or damage reported,26500
+45435,Kia,Optima LX,5,69100,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18795
+47210,Kia,Stinger GT2,5,51850,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,35500
+47380,Kia,Stinger GT2,5,10339,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41000
+48255,Kia,Optima LX,5,108000,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15900
+49509,Kia,Optima LX,5,51300,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23900
+49727,Kia,Seltos S,5,53500,146.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19750
+50174,Kia,Forte GT-Line,5,39000,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,33500
+50891,Kia,Forte GT-Line,5,24534,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,17500
+51200,Kia,Sorento SX Prestige,5,79422,281.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18500
+51357,Kia,Stinger GT2,5,56300,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44800
+51437,Kia,Forte GT-Line,5,56300,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15495
+52161,Kia,Optima SX Turbo,5,62660,192.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,24500
+52555,Kia,Stinger GT2,5,60000,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38000

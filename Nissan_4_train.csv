@@ -1,0 +1,44 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1172,Nissan,Altima 2.5 S,4,30900,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,28000
+5763,Nissan,Rogue SV,4,23131,2.5L I4 16V MPFI DOHC,Automatic CVT,None reported,45277
+6998,Nissan,Maxima SV,4,52000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,27000
+7554,Nissan,Armada SL,4,67800,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,36500
+9281,Nissan,M4 Base,4,25300,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,40000
+9822,Nissan,Altima 2.5 S,4,30900,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,28500
+13099,Nissan,Pathfinder SL,4,41200,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,49950
+13973,Nissan,GT-R Premium,4,37800,565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,146000
+14706,Nissan,GT-R Premium,4,16010,565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,112500
+14810,Nissan,Pathfinder SL,4,45000,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,28999
+15126,Nissan,NV Passenger NV3500 HD SL V8,4,46496,375.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,28999
+16154,Nissan,Armada Platinum,4,56578,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,37999
+18785,Nissan,NV Passenger NV3500 HD SL V8,4,46496,375.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,45000
+22121,Nissan,NV Passenger NV3500 HD SL V8,4,14353,317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,54900
+23365,Nissan,Rogue SV,4,25352,1.5L I3 12V GDI DOHC Turbo,Automatic CVT,None reported,28979
+23557,Nissan,Murano SV,4,27404,3.5L V6 24V MPFI DOHC,Automatic CVT,None reported,43837
+23897,Nissan,Maxima SV,4,26100,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,35500
+24087,Nissan,Pathfinder S,4,12000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,39900
+24351,Nissan,GT-R Premium,4,16002,565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,78900
+25006,Nissan,Pathfinder S,4,137000,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,14950
+25369,Nissan,Altima 2.5 S,4,124000,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15900
+25853,Nissan,Pathfinder Silver,4,44261,3.5L V6 24V MPFI DOHC,Automatic CVT,None reported,42599
+29861,Nissan,Titan SL,4,21214,5.6L V8 32V GDI DOHC,9-Speed Automatic,None reported,49936
+30519,Nissan,Titan XD SV,4,49131,5.6L V8 32V GDI DOHC,9-Speed Automatic,None reported,34700
+31157,Nissan,GT-R Premium,4,16000,565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,55000
+34721,Nissan,Juke SL,4,76296,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,41999
+35454,Nissan,Titan XD SV,4,10001,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,38900
+36415,Nissan,GT-R Premium,4,22185,3.8L V6 24V MPFI DOHC Twin Turbo,6-Speed Automatic with Auto-Shift,None reported,71999
+36784,Nissan,Armada Platinum,4,5400,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,39500
+37283,Nissan,Altima 2.5 S,4,29000,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14900
+39428,Nissan,Pathfinder S,4,41250,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+41981,Nissan,Altima 2.5 S,4,16700,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10900
+42819,Nissan,Altima 2.5 S,4,45000,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,20900
+44315,Nissan,Xterra S,4,10500,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,40000
+44650,Nissan,NV Passenger NV3500 HD SL V8,4,27981,375.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,47500
+45936,Nissan,Land Cruiser Base,4,269885,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,46000
+47280,Nissan,Titan XD SV,4,27989,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,64600
+48621,Nissan,Pathfinder S,4,60000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,36000
+50769,Nissan,Armada SL,4,26600,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+50999,Nissan,Armada SV,4,20172,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+51125,Nissan,Altima 2.5 S,4,35700,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14900
+51753,Nissan,Pathfinder S,4,45000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,41000
+53417,Nissan,Murano SV,4,47147,3.5L V6 24V PDI DOHC,6-Speed Automatic,None reported,23625

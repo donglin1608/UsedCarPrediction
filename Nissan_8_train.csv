@@ -1,0 +1,49 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+980,Nissan,Maxima SV,8,82900,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,23000
+1656,Nissan,Pathfinder SL,8,117000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,26500
+1744,Nissan,370Z NISMO,8,90000,350.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,24700
+3567,Nissan,Juke SL,8,74750,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,15999
+3811,Nissan,Pathfinder SL,8,135000,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,41100
+4267,Nissan,NV200 S,8,52000,131.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19500
+4745,Nissan,Frontier SV,8,60000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,18000
+7645,Nissan,Juke SL,8,95798,170.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,16500
+10351,Nissan,Rogue SL,8,68860,170.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+11779,Nissan,NV Passenger NV3500 HD SV V8,8,38000,317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,35000
+12507,Nissan,Pathfinder Platinum,8,87009,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,30000
+13193,Nissan,Juke NISMO RS,8,30700,215.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,21500
+13557,Nissan,370Z NISMO Tech,8,49000,350.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,42000
+13656,Nissan,Juke SL,8,71273,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,17899
+16352,Nissan,Juke NISMO RS,8,30700,215.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,23000
+19007,Nissan,Pathfinder SL,8,95271,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,18900
+20423,Nissan,Pathfinder SL,8,135000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,14500
+20989,Nissan,370Z NISMO Tech,8,90000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,33000
+21510,Nissan,Maxima 3.5 SR,8,87001,300.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,20399
+22635,Nissan,GT-R Premium,8,70582,545.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,30000
+25866,Nissan,Rogue SL,8,148000,170.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19500
+26928,Nissan,Titan XD SV,8,59980,5.6L V8 32V GDI DOHC,7-Speed Automatic with Auto-Shift,None reported,128995
+28282,Nissan,Pathfinder SL,8,96653,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17999
+29082,Nissan,Rogue SL,8,127558,2.5L I4 16V MPFI DOHC,Automatic CVT,None reported,13715
+30697,Nissan,Rogue SL,8,98313,170.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,117000
+30971,Nissan,Armada Platinum,8,92000,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,23999
+30973,Nissan,Pathfinder SL,8,167000,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+33732,Nissan,Rogue SL,8,161000,170.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13999
+34038,Nissan,Juke SL,8,87000,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15499
+35033,Nissan,350Z NISMO,8,76500,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,21000
+35064,Nissan,Rogue SL,8,132252,2.5L I4 16V MPFI DOHC,Automatic CVT,At least 1 accident or damage reported,21375
+35913,Nissan,Pathfinder SL,8,137000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,150000
+36698,Nissan,Juke NISMO RS,8,30700,215.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,21500
+36741,Nissan,370Z Touring,8,71400,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,23500
+36788,Nissan,Juke SV,8,76170,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,15995
+37728,Nissan,Rogue SL,8,91545,170.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,173995
+39695,Nissan,Pathfinder SL,8,54000,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,18500
+43082,Nissan,Highlander Hybrid Limited Platinum,8,53000,306.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,25500
+45534,Nissan,Juke SL,8,96476,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,8500
+46689,Nissan,Pathfinder S,8,62500,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19500
+46889,Nissan,370Z NISMO Tech,8,61773,350.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,20490
+48133,Nissan,Frontier SV,8,82900,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,29950
+50062,Nissan,Maxima SV,8,96476,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,18500
+50701,Nissan,370Z NISMO Tech,8,37500,350.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,21500
+51181,Nissan,Juke SL,8,74750,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,18000
+52239,Nissan,Titan XD SV,8,80000,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,19000
+53207,Nissan,Titan SV,8,79635,5.6L V8 32V GDI DOHC,7-Speed Automatic with Auto-Shift,None reported,28895
+53999,Nissan,Juke NISMO RS,8,30700,215.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,21500

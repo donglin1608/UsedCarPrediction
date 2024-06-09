@@ -1,0 +1,64 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+10,Maserati,Quattroporte S Q4 GranLusso,6,34920,405.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,124995
+279,Maserati,Ghibli S Q4,6,53500,404.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35999
+3352,Maserati,Ghibli S Q4,6,12118,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,399950
+5652,Maserati,Ghibli S Q4,6,33300,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34500
+6003,Maserati,Ghibli S Q4 GranSport,6,22500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,28999
+6412,Maserati,Ghibli S Q4,6,55000,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34700
+6486,Maserati,Ghibli Base,6,48000,345.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42800
+8432,Maserati,Ghibli S Q4,6,70891,3.0L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,15051
+9164,Maserati,Ghibli S Q4 GranSport,6,53000,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,96500
+9758,Maserati,Quattroporte S GranLusso,6,55000,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,40000
+9974,Maserati,Levante S,6,72000,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,47850
+13428,Maserati,Ghibli S Q4 GranSport,6,72922,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39900
+16102,Maserati,Ghibli S Q4 GranSport,6,92000,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+16176,Maserati,GranTurismo MC,6,18000,454.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,99900
+17436,Maserati,Ghibli Base,6,24989,345.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42800
+19536,Maserati,Ghibli S Q4,6,13250,404.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37000
+19773,Maserati,Ghibli S Q4,6,20000,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,51000
+20601,Maserati,Quattroporte S Q4 GranLusso,6,23230,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,75000
+21232,Maserati,Quattroporte S Q4 GranLusso,6,57500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45000
+21254,Maserati,Quattroporte S,6,9670,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,49990
+22490,Maserati,Ghibli S Q4 GranSport,6,73500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29995
+24018,Maserati,Ghibli S Q4 GranSport,6,54423,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,34950
+25713,Maserati,GranTurismo Sport,6,35000,454.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,54999
+26943,Maserati,Quattroporte S Q4 GranLusso,6,53500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24500
+27880,Maserati,Ghibli S Q4,6,20000,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,48500
+29597,Maserati,GranTurismo MC,6,14993,454.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44900
+29672,Maserati,Ghibli S Q4 GranSport,6,28700,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,68750
+32519,Maserati,Ghibli S Q4,6,62662,404.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27450
+33153,Maserati,Ghibli S Q4 GranSport,6,80500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27000
+33229,Maserati,Ghibli S Q4,6,20000,404.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44596
+33628,Maserati,Ghibli S Q4,6,20000,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,28890
+34384,Maserati,Ghibli S Q4 GranSport,6,52300,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47800
+35238,Maserati,Quattroporte S Q4 GranLusso,6,21240,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54900
+35992,Maserati,Quattroporte S GranLusso,6,61300,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,28000
+36162,Maserati,Quattroporte S GranLusso,6,57500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,489000
+36736,Maserati,Ghibli S Q4 GranSport,6,52300,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32900
+37155,Maserati,Ghibli S Q4,6,55000,404.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,36880
+37349,Maserati,Ghibli S Q4 GranSport,6,25721,3.0L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,37995
+38137,Maserati,Ghibli S Q4,6,53500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,69999
+40282,Maserati,Quattroporte S Q4 GranLusso,6,57500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48500
+40770,Maserati,GranTurismo Base,6,34920,440.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38900
+40859,Maserati,Ghibli S Q4,6,1000,404.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32300
+42591,Maserati,Ghibli S Q4,6,1000,404.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37000
+42938,Maserati,Levante S,6,61549,2.9L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,33889
+43995,Maserati,Quattroporte S Q4 GranLusso,6,57500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,23000
+45361,Maserati,Ghibli S GranLusso,6,49814,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,61350
+46020,Maserati,Ghibli S Q4,6,61000,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26500
+46112,Maserati,Ghibli S Q4 GranSport,6,54423,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,54900
+46211,Maserati,GranTurismo Sport,6,72000,454.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,42850
+46601,Maserati,Ghibli S Q4 GranSport,6,25721,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45899
+47415,Maserati,Ghibli S Q4 GranSport,6,25721,3.0L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,24440
+47731,Maserati,Ghibli S Q4 GranSport,6,80500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24999
+49003,Maserati,Ghibli S Q4 GranSport,6,58500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,51499
+49237,Maserati,Ghibli S Q4,6,20000,404.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,28500
+50487,Maserati,Ghibli S Q4,6,20623,330.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,42500
+50698,Maserati,Ghibli S Q4 GranSport,6,50000,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,65000
+50789,Maserati,Ghibli S Q4 GranSport,6,80500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34500
+50917,Maserati,Ghibli S Q4,6,1000,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+50945,Maserati,Ghibli S Q4,6,28700,404.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+51066,Maserati,Levante GTS,6,15761,3.8L V6 24V MPFI DOHC Twin Turbo,8-Speed Automatic,None reported,18853
+51075,Maserati,Ghibli S Q4,6,70582,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,33000
+51141,Maserati,Quattroporte S Q4 GranLusso,6,7751,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,171900
+52065,Maserati,Ghibli S Q4 GranSport,6,57500,424.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,59950

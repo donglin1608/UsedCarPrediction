@@ -1,0 +1,64 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+450,Dodge,Ram 1500 ST,13,36500,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7000
+3201,Dodge,Ram 1500 ST,13,143000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9400
+4177,Dodge,Ram 1500 ST,13,139355,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4495
+5534,Dodge,Ram Van 1500,13,110000,175.0HP 3.9L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+5557,Dodge,Challenger SRT8,13,132000,425.0HP 6.1L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,7300
+6452,Dodge,Caliber Express,13,161000,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,172000
+6949,Dodge,Ram 2500 ST,13,185000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9950
+7424,Dodge,Ram 1500 ST,13,121630,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8900
+7642,Dodge,Ram 1500 ST,13,170000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5000
+7762,Dodge,Grand Caravan R/T,13,82975,283.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+8171,Dodge,Ram 1500 ST,13,110000,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,20500
+9198,Dodge,Ram 1500 ST,13,102000,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,23000
+9297,Dodge,Ram Van 1500,13,70000,175.0HP 3.9L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,23995
+9347,Dodge,Charger GT,13,143346,300.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,3000
+9499,Dodge,Charger R/T,13,98231,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,28000
+10559,Dodge,Ram 1500 ST,13,188000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,6500
+12737,Dodge,Ram 1500 ST,13,187000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+13902,Dodge,Ram 1500 ST,13,148000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+13934,Dodge,Ram 1500 ST,13,138450,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8000
+14899,Dodge,Ram 1500 ST,13,172024,310.0HP 4.7L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,15999
+16023,Dodge,Ram 1500 ST,13,134000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4900
+18540,Dodge,Ram 1500 ST,13,160900,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,16000
+18568,Dodge,Ram 1500 ST,13,134000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9500
+19181,Dodge,Ram 1500 ST,13,36500,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+20349,Dodge,Charger R/T,13,97579,370.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32000
+21664,Dodge,Charger Base,13,75000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9500
+21957,Dodge,Ram 1500 ST,13,153000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+22303,Dodge,Ram 1500 ST,13,36500,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,35000
+25379,Dodge,Ram 1500 ST,13,188000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8995
+27066,Dodge,Ram 1500 ST,13,185000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+27878,Dodge,Charger Scat Pack,13,175000,485.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,4000
+29591,Dodge,Ram 1500 ST,13,146500,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+29867,Dodge,Ram 1500 ST,13,188000,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16900
+30017,Dodge,Ram 1500 ST,13,134000,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15000
+30640,Dodge,Challenger SRT8 392,13,43000,–,6-Speed M/T,None reported,35000
+30924,Dodge,Ram 1500 ST,13,188000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+35690,Dodge,Ram 1500 ST,13,170000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,16700
+35862,Dodge,Ram 1500 ST,13,188000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+36631,Dodge,Ram 1500 ST,13,134000,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+36969,Dodge,Ram 1500 ST,13,136000,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14000
+38619,Dodge,Ram Van 1500,13,174000,175.0HP 3.9L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,35000
+39092,Dodge,Ram 1500 Laramie Mega Cab,13,162000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+39637,Dodge,Ram 1500 ST,13,137000,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,20900
+39855,Dodge,Ram 1500 ST,13,70968,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,39000
+39991,Dodge,Challenger SRT8 392,13,33700,–,5-Speed A/T,None reported,7899
+40154,Dodge,Dakota SLT Quad Cab,13,81696,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,13310
+40355,Dodge,Dakota SLT Quad Cab,13,137825,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7000
+40635,Dodge,Challenger SE,13,137200,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8300
+43256,Dodge,Ram 1500 ST,13,152520,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,13000
+43908,Dodge,Cube 1.8 S,13,117000,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,12000
+44243,Dodge,Ram 1500 ST,13,36500,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+44349,Dodge,Ram 1500 ST,13,36500,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5900
+45971,Dodge,Challenger SRT8,13,87500,–,A/T,None reported,21500
+46444,Dodge,Ram 1500 ST,13,188000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+46922,Dodge,Ram 1500 ST,13,129000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12980
+47243,Dodge,Ram 1500 ST,13,172024,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+48651,Dodge,Ram 3500 Quad Cab DRW,13,97615,305.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+49841,Dodge,Ram 1500 ST,13,134000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11000
+50139,Dodge,Challenger SRT8,13,102000,425.0HP 6.1L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,23000
+50148,Dodge,Dakota SLT Quad Cab,13,138700,4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,5800
+51488,Dodge,Ram 1500 ST,13,139000,390.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14000
+52861,Dodge,Durango GT,13,187883,295.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9950
+53642,Dodge,Dakota Big Horn/Lone Star,13,179700,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,7500

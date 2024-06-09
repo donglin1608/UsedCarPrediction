@@ -1,0 +1,70 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+54810,Audi,Q7 45 Premium Plus,4,68000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+55023,Audi,Q7 55 Prestige,4,39000,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+55438,Audi,SQ5 3.0T Prestige,4,35289,3.0L V6 24V GDI DOHC Turbo,8-Speed Automatic,None reported,0
+55781,Audi,A8 L 55,4,35580,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,0
+56234,Audi,A5 2.0T Premium,4,69000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+56408,Audi,R8 5.2 V10,4,5718,5.2L V10 40V PDI DOHC,7-Speed Automatic with Auto-Shift,None reported,0
+58015,Audi,A6 3.0T Prestige,4,5989,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+58166,Audi,S7 2.9T Prestige,4,45000,444.0HP 2.9L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+58560,Audi,A5 2.0T Premium Plus,4,45090,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+59683,Audi,RS 5 2.9T,4,12118,444.0HP 2.9L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+60324,Audi,A6 55 Prestige,4,25013,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,None reported,0
+60387,Audi,S4 3.0T Premium,4,23823,3.0L V6 24V GDI DOHC Turbo,8-Speed Automatic,None reported,0
+61366,Audi,S4 3.0T Premium Plus,4,12500,349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+61512,Audi,RS 7 4.0T,4,4100,591.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,0
+62639,Audi,A6 55 Premium Plus,4,54300,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,None reported,0
+63658,Audi,A7 55 Premium Plus,4,13700,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,0
+64033,Audi,A7 55 Premium Plus,4,35580,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,0
+64368,Audi,A6 2.0T Premium Plus,4,59250,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,0
+64963,Audi,A7 55 Premium Plus,4,22500,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+65098,Audi,S5 3.0T Prestige,4,54259,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,0
+65505,Audi,RS 5 4.2,4,49098,450.0HP 4.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+66615,Audi,A7 55 Premium Plus,4,33000,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,0
+67080,Audi,A5 2.0T Premium,4,26000,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+67317,Audi,A6 55 Premium,4,19000,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,0
+67449,Audi,A6 55 Premium,4,25300,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,None reported,0
+67583,Audi,RS 7 4.0T Performance Prestige,4,54300,605.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+67610,Audi,A8 L 55,4,12000,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,0
+68215,Audi,A7 55 Premium Plus,4,25000,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+68395,Audi,RS Q8 4.0T,4,41856,591.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+68545,Audi,SQ5 3.0T Premium Plus,4,22300,349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+70131,Audi,S7 2.9T Prestige,4,14360,444.0HP 2.9L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,0
+70420,Audi,A7 Premium Plus,4,14206,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,0
+70773,Audi,A6 55 Premium,4,33400,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,0
+71228,Audi,A7 55 Premium,4,15000,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+71248,Audi,R8 5.2 V10 performance,4,15109,5.2L V10 40V PDI DOHC,7-Speed Automatic with Auto-Shift,None reported,0
+72436,Audi,750 i xDrive,4,25108,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+72563,Audi,A7 55 Premium Plus,4,33000,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,0
+72609,Audi,Q8 55 Premium Plus,4,33000,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,0
+73269,Audi,S3 2.0T Premium Plus,4,19000,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+73555,Audi,S4 3.0T Premium Plus,4,14220,349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+73964,Audi,RS 7 4.0T Performance Prestige,4,40000,605.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+74001,Audi,A8 L 55,4,39000,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,0
+74138,Audi,RS 7 4.0T Performance Prestige,4,39071,4.0L V8 32V GDI DOHC Twin Turbo,8-Speed A/T,None reported,0
+74310,Audi,S4 3.0T Premium,4,22000,349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+75343,Audi,S3 2.0T Premium Plus,4,78124,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+76626,Audi,A8 L 55,4,37500,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,0
+76798,Audi,Atlas 3.6L SEL Premium,4,60942,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,0
+77487,Audi,A7 55 Premium,4,39000,355.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,10-Speed A/T,None reported,0
+77852,Audi,SQ5 3.0T Prestige,4,45253,349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,0
+78450,Audi,SQ5 3.0T Prestige,4,37000,354.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+78499,Audi,A7 55 Premium Plus,4,27100,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,0
+79522,Audi,SQ5 3.0T Prestige,4,43000,349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,0
+79646,Audi,A7 55 Premium,4,14280,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,0
+79944,Audi,A6 45 Premium Plus,4,68000,248.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,0
+80498,Audi,RS Q8 4.0T,4,41856,591.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+81554,Audi,A7 55 Premium,4,34322,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,Automatic,None reported,0
+83044,Audi,Q5 2.0T Premium Plus,4,40000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+83927,Audi,A6 55 Premium,4,25300,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,None reported,0
+84624,Audi,A7 3.0T Premium Plus,4,23230,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,0
+85061,Audi,A7 55 Premium,4,24300,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,0
+86204,Audi,A6 45 Premium Plus,4,33000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+86392,Audi,RS Q8 4.0T,4,3158,591.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+86555,Audi,Q7 55 Prestige,4,41000,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+87838,Audi,RS 5 4.2,4,49098,450.0HP 4.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+87929,Audi,A6 55 Premium,4,25300,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,None reported,0
+88180,Audi,A7 55 Premium,4,34300,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,0
+88708,Audi,Q8 55 Premium Plus,4,51984,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,0
+89195,Audi,Q7 55 Prestige,4,32500,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,0
+89519,Audi,Q5 40 Premium,4,21832,201.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,None reported,0

@@ -1,0 +1,49 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+358,Honda,Pilot EX-L,4,19500,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,28500
+564,Honda,Pilot EX-L,4,18500,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,29000
+955,Honda,Civic EX,4,62000,174.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,24000
+4671,Honda,Civic Sport,4,53000,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,24899
+9402,Honda,Insight EX,4,64200,151.0HP 1.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,20499
+10131,Honda,Pilot EX-L,4,44000,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,33999
+11115,Honda,Hardtop Cooper S,4,44362,1.5L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,25215
+11974,Honda,Civic Sport,4,61341,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,25995
+13119,Honda,Civic EX,4,112180,174.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,13599
+13442,Honda,Civic Sport,4,22227,2.0L I4 16V MPFI DOHC,Automatic CVT,At least 1 accident or damage reported,27671
+15564,Honda,Civic EX,4,13935,174.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,18500
+16874,Honda,Pilot EX-L,4,45000,3.5L V6 24V GDI SOHC,6-Speed Automatic,None reported,28999
+17727,Honda,Civic Sport,4,45303,1.5L I4 16V GDI DOHC Turbo,Automatic CVT,None reported,33687
+20401,Honda,Civic Sport,4,23162,174.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,37500
+20514,Honda,Civic Sport,4,19700,174.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,29990
+20681,Honda,Civic Sport,4,103332,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,26500
+21438,Honda,Civic Sport,4,128000,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,27633
+22364,Honda,Civic EX,4,82500,174.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,29994
+23356,Honda,Passat 2.0T SE,4,49400,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,26900
+23598,Honda,Civic Type R Touring,4,72900,306.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,36999
+23780,Honda,Ridgeline RTL-E,4,53600,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,25980
+24314,Honda,Passat 2.0T SE,4,50000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+27006,Honda,Odyssey Elite,4,74381,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,37500
+28343,Honda,Accord EX-L,4,57500,185.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,15363
+30220,Honda,Civic Sport,4,52300,187.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,49900
+30982,Honda,Pilot EX-L,4,44000,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,37999
+32048,Honda,Civic Sport,4,74725,1.5L I4 16V GDI DOHC Turbo,Automatic CVT,None reported,21612
+32244,Honda,Civic Si Base,4,7666,205.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18795
+32755,Honda,Civic Si,4,42125,2.0L I4 16V MPFI DOHC,Automatic CVT,None reported,30919
+33813,Honda,Pilot EX-L,4,44000,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,34000
+35218,Honda,Civic Sport,4,6025,205.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15995
+36026,Honda,Pilot EX-L,4,64800,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,35000
+36132,Honda,Pilot EX-L,4,19000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,25500
+36491,Honda,Insight EX,4,64200,151.0HP 1.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,At least 1 accident or damage reported,20499
+42459,Honda,Civic Sport,4,38100,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,35500
+42729,Honda,Civic EX,4,20675,174.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,32000
+44554,Honda,Civic Si,4,37100,205.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,26990
+46629,Honda,Civic Sport,4,20909,1.5L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,18387
+47540,Honda,Pathfinder SL,4,45000,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,28999
+47541,Honda,Civic EX,4,13935,174.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,26990
+48592,Honda,Civic Sport,4,44261,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,32000
+48717,Honda,Civic Sport,4,22227,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,25980
+48838,Honda,Pilot EX-L,4,23442,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,36995
+49228,Honda,Civic Sport,4,26000,174.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,38900
+50374,Honda,Civic Si Base,4,16200,205.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,62500
+51030,Honda,Civic Si Base,4,6025,205.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27500
+51302,Honda,Civic Sport,4,22227,2.0L I4 16V MPFI DOHC,Automatic CVT,None reported,25980
+52732,Honda,Pilot EX-L,4,44000,280.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,41900

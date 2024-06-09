@@ -1,0 +1,41 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+55951,Ford,E350 Super Duty Base,19,172600,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+56070,Ford,GTI Base,19,160000,130.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0
+56319,Ford,F-250 XLT Crew Cab Super Duty,19,190321,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+58246,Ford,F-150 XLT SuperCab,19,97146,275.0HP 4.2L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+59656,Ford,F-150 XLT SuperCab,19,220000,292.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+63184,Ford,4Runner Sport,19,186117,245.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+63702,Ford,F-350 Lariat Super Duty Crew Cab,19,67500,350.0HP 6.4L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,0
+64464,Ford,Mustang GT,19,57000,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,0
+64471,Ford,Taurus X Limited,19,159890,245.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+64585,Ford,F-350 Lariat Crew Cab Super Duty DRW,19,176691,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+64609,Ford,Focus RS Base,19,114000,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,0
+64936,Ford,Excursion XLT 4WD,19,94200,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,0
+65375,Ford,GTO Base,19,66200,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+67115,Ford,Thunderbird Deluxe,19,150000,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+68315,Ford,F-150 Heritage XL SuperCab Flareside,19,27600,380.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+70493,Ford,F-150 Heritage XL SuperCab Flareside,19,126500,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+70625,Ford,F-150 Lariat SuperCrew,19,271000,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+71222,Ford,F-250 XLT SuperCab Super Duty,19,191500,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+71965,Ford,Thunderbird Premium,19,104000,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+72388,Ford,Thunderbird Deluxe,19,143390,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+72425,Ford,Ranger Sport SuperCab,19,141800,207.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+74387,Ford,F-350 Lariat Crew Cab Super Duty DRW,19,176691,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,0
+74413,Ford,911 Carrera 4S,19,11500,350.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+74873,Ford,Ranger XLT SuperCab,19,155000,255.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+75231,Ford,Thunderbird Premium,19,82000,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+77965,Ford,E250 Cargo,19,87501,225.0HP 4.6L 8 Cylinder Engine Flex Fuel Capability,4-Speed A/T,None reported,0
+78908,Ford,Excursion Limited,19,149961,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0
+79289,Ford,Tundra SR5 Double Cab,19,199400,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+79901,Ford,Thunderbird Deluxe,19,170000,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+82277,Ford,Excursion XLS,19,169613,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+82726,Ford,Thunderbird Deluxe,19,190395,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+82933,Ford,F-150 XLT SuperCab,19,68575,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+83410,Ford,Mustang Shelby GT500,19,38800,500.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+83926,Ford,F-350 Lariat Crew Cab Super Duty DRW,19,153818,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+84583,Ford,Excursion Limited Ultimate,19,137333,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+84932,Ford,E350 Super Duty Base,19,67500,275.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+89513,Ford,Excursion Limited Ultimate,19,163000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,None reported,0
+89933,Ford,Mustang GT,19,64000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+90055,Ford,F-150 XLT SuperCab,19,147589,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+90058,Ford,Excursion Limited,19,119000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,5-Speed A/T,None reported,0

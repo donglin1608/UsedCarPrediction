@@ -1,0 +1,55 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1098,Volvo,XC60 T6 Inscription,5,24280,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36740
+2127,Volvo,XC90 T6 Inscription,5,22500,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,33000
+3212,Volvo,S60 T5 Premier Plus,5,57300,250.0HP 2.5L 5 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,44990
+3930,Volvo,XC60 T6 Inscription,5,20623,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,34000
+4539,Volvo,XC60 T6 Inscription,5,58600,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26000
+5019,Volvo,XC60 T6 Inscription,5,44486,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,26000
+5727,Volvo,XC60 T5 R-Design,5,56578,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,19500
+7971,Volvo,XC60 T6 Inscription,5,22500,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,48190
+8105,Volvo,XC60 T6 Inscription,5,19000,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,29999
+8165,Volvo,XC60 T6 Inscription,5,20623,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36800
+8169,Volvo,XC60 T6 Inscription,5,50000,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32500
+8808,Volvo,XC60 T6 Inscription,5,29294,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,37000
+10429,Volvo,XC60 T6 Inscription,5,31000,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,38000
+11927,Volvo,XC60 T5 R-Design,5,43500,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,39900
+13034,Volvo,XC60 T6 Inscription,5,60000,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,28900
+13236,Volvo,XC60 T6 Inscription,5,58600,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,29000
+13774,Volvo,XC60 T6 Inscription,5,35580,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19000
+15847,Volvo,XC90 T6 Momentum,5,40000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27700
+15976,Volvo,XC60 T6 Inscription,5,51000,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,28890
+17681,Volvo,XC90 T6 Inscription,5,20675,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,41000
+21103,Volvo,XC60 T6 Inscription,5,63398,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,29000
+22978,Volvo,XC90 T6 Inscription,5,57912,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,32990
+24066,Volvo,XC60 T6 Inscription,5,53500,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27500
+24361,Volvo,XC60 T6 Inscription,5,58000,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,55000
+25559,Volvo,XC90 T6 Inscription,5,60000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24000
+26427,Volvo,XC90 T6 Inscription,5,10500,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36000
+28639,Volvo,XC60 T6 Inscription,5,20623,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,49500
+30499,Volvo,XC60 T6 Inscription,5,22500,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+30615,Volvo,XC90 T6 Inscription,5,60000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,42000
+31872,Volvo,XC60 T6 Inscription,5,63400,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11000
+32206,Volvo,XC60 T6 Inscription,5,63300,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+33178,Volvo,XC70 T6 Platinum,5,50000,300.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,28700
+33822,Volvo,XC60 T6 Inscription,5,119500,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,17000
+35496,Volvo,XC90 T6 Inscription,5,22500,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,50000
+35981,Volvo,XC60 T6 Inscription,5,90000,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,24000
+36006,Volvo,XC60 T6 Inscription,5,20623,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,34500
+36711,Volvo,XC90 Hybrid T8 R-Design,5,40000,400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,Transmission w/Dual Shift Mode,None reported,42000
+37284,Volvo,XC90 T6 Inscription,5,50000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26497
+39266,Volvo,XC90 T6 Inscription,5,65000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,40500
+39659,Volvo,XC90 T6 Inscription,5,60000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8900
+40612,Volvo,XC90 Hybrid T8 Inscription,5,74600,400.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,35800
+41352,Volvo,XC90 T6 Inscription,5,77500,300.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,19975
+41656,Volvo,XC60 T6 Inscription,5,63496,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,24350
+41755,Volvo,XC90 T6 Inscription,5,20623,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14900
+43031,Volvo,XC60 T6 Inscription,5,20623,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,26000
+43824,Volvo,XC60 T5 R-Design,5,43500,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,14999
+45937,Volvo,XC60 T6 Inscription,5,58600,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,41999
+46962,Volvo,XC90 T6 Inscription,5,50000,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17900
+47395,Volvo,S60 B5 Inscription,5,14280,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+48644,Volvo,XC60 T6 Inscription,5,80000,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22000
+49865,Volvo,XC60 T6 Inscription,5,22500,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+50061,Volvo,C70 T5,5,61000,227.0HP 2.5L 5 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,27500
+51691,Volvo,XC70 T6 Platinum,5,59271,325.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,48600
+53713,Volvo,XC60 T6 Inscription,5,150000,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17000

@@ -1,0 +1,50 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+2645,RAM,ProMaster 2500 Window Van High Roof,8,135465,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,21500
+3756,RAM,ProMaster 2500 Window Van High Roof,8,91140,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12500
+4400,RAM,2500 Big Horn,8,44741,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,65000
+6574,RAM,ProMaster 2500 Window Van High Roof,8,67289,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16995
+7299,RAM,ProMaster 2500 Window Van High Roof,8,48000,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,24500
+7819,RAM,ProMaster 2500 Window Van High Roof,8,91140,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,29500
+8620,RAM,1500 Tradesman/Express,8,107750,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26000
+8725,RAM,ProMaster 2500 Window Van High Roof,8,92421,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18999
+11012,RAM,2500 Big Horn,8,113500,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,32850
+11915,RAM,2500 SLT,8,84500,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,35800
+12637,RAM,2500 SLT,8,85325,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,30000
+13896,RAM,ProMaster 2500 Window Van High Roof,8,75000,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16995
+14666,RAM,2500 Big Horn,8,73690,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,36995
+16298,RAM,1500 Limited,8,74850,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,32000
+16360,RAM,ProMaster 2500 Window Van High Roof,8,99450,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21000
+16963,RAM,2500 Tradesman,8,63750,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,38000
+17113,RAM,3500 SLT,8,167500,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,16500
+17480,RAM,1500 Limited,8,76495,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,17500
+19265,RAM,2500 Tradesman,8,51000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,62000
+20455,RAM,1500 Laramie,8,124838,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,39500
+25080,RAM,1500 Classic Tradesman,8,12466,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,24950
+25688,RAM,2500 SLT,8,60000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,24950
+26234,RAM,1500 Tradesman/Express,8,25000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,23500
+27943,RAM,3500 Laramie,8,97700,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,30000
+28293,RAM,ProMaster 2500 Window Van High Roof,8,57800,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19995
+30144,RAM,2500 SLT,8,74122,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,37500
+30754,RAM,ProMaster 2500 High Roof,8,62662,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,27000
+32185,RAM,1500 SLT,8,8974,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30500
+32694,RAM,2500 Big Horn,8,89500,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+36019,RAM,1500 Big Horn,8,70968,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,24995
+37103,RAM,1500 Longhorn,8,74864,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,25995
+39286,RAM,2500 Tradesman,8,114500,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21000
+39543,RAM,1500 SLT,8,72465,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,35999
+40499,RAM,2500 Big Horn,8,198868,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,25000
+40791,RAM,1500 Rebel,8,63875,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,20999
+42625,RAM,1500 Sport,8,40000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,25800
+45144,RAM,1500 Longhorn,8,48842,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,20950
+45717,RAM,2500 Big Horn,8,89500,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+47188,RAM,1500 Rebel,8,57300,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,31900
+48244,RAM,2500 SLT,8,89500,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+49430,RAM,ProMaster 2500 High Roof,8,144000,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,18400
+50164,RAM,ProMaster 2500 Window Van High Roof,8,49750,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27000
+51565,RAM,2500 Big Horn,8,124700,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,39000
+51567,RAM,ProMaster 2500 High Roof,8,31681,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19500
+52669,RAM,1500 Limited,8,45867,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,34084
+53683,RAM,1500 Tradesman/Express,8,40200,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,25000
+53915,RAM,1500 Classic SLT,8,72060,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,24590
+53969,RAM,2500 Big Horn,8,89500,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,2990
+54248,RAM,1500 SLT,8,106731,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,18700

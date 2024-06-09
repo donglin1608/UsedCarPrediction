@@ -1,0 +1,88 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1807,Subaru,Crosstrek 2.0i Limited,7,84054,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,21000
+2246,Subaru,WRX STI Base,7,55000,305.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,40000
+2479,Subaru,WRX Base,7,162000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,6600
+2516,Subaru,Impreza 2.0i Sport,7,90000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,18000
+4586,Subaru,Outback 3.6R Touring,7,98385,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,15900
+4694,Subaru,WRX Limited,7,58664,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,30000
+5929,Subaru,WRX Premium,7,68000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,21500
+6257,Subaru,Crosstrek 2.0i Premium,7,111000,148.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13000
+6320,Subaru,Outback 3.6R Touring,7,147191,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+6560,Subaru,Impreza 2.0i Premium,7,93000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,21900
+7463,Subaru,WRX Base,7,60930,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,20500
+8521,Subaru,Impreza 2.0i Premium,7,44000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,23500
+8923,Subaru,Outback 2.5i Limited,7,66200,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,23995
+9142,Subaru,Outback 3.6R Limited,7,112000,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15400
+9194,Subaru,Outback 2.5i Premium,7,68000,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,19800
+9469,Subaru,WRX Base,7,62662,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,33000
+9510,Subaru,WRX Limited,7,36700,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,26000
+11443,Subaru,Impreza 2.0i Premium,7,122000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,15000
+12400,Subaru,WRX Premium,7,77000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,36990
+12757,Subaru,Outback 3.6R Touring,7,100680,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,18000
+12932,Subaru,WRX Premium,7,62662,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,24000
+13266,Subaru,WRX Limited,7,76000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21000
+13389,Subaru,Impreza 2.0i,7,74000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,20000
+13422,Subaru,Impreza 2.0i Premium,7,160000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,16500
+13628,Subaru,Impreza 2.0i Sport,7,30000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,20000
+17287,Subaru,Impreza 2.0i Premium,7,111000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,13000
+18948,Subaru,Ascent Touring 7-Passenger,7,71273,260.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,19000
+19584,Subaru,WRX STI Base,7,84100,305.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,27000
+19612,Subaru,WRX Limited,7,90000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,20900
+20008,Subaru,WRX Base,7,102000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,18000
+20356,Subaru,Impreza 2.0i,7,93000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,12500
+20650,Subaru,Impreza WRX STI,7,77000,305.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,30000
+20661,Subaru,Crosstrek 2.0i Limited,7,74600,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,20000
+20813,Subaru,Outback 3.6R Touring,7,162000,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4500
+21107,Subaru,WRX Premium,7,93000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,24000
+23150,Subaru,WRX Limited,7,91000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,13500
+23200,Subaru,Outback 3.6R Touring,7,100680,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,24200
+24268,Subaru,WRX Limited,7,62662,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+24528,Subaru,Outback 3.6R Touring,7,88049,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,10995
+26171,Subaru,Impreza WRX Sti,7,104000,305.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,20500
+26833,Subaru,WRX Base,7,90000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,35500
+27480,Subaru,WRX Premium,7,55000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,32324
+27665,Subaru,WRX Limited,7,92000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,20900
+27775,Subaru,Legacy 2.5i Premium,7,78007,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,34000
+28239,Subaru,WRX Base,7,102000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+28830,Subaru,WRX Premium,7,63400,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+29208,Subaru,Impreza 2.0i Premium,7,112000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,19000
+29455,Subaru,Outback Touring XT,7,121525,170.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,8900
+29523,Subaru,Impreza 2.0i Sport,7,90601,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,17550
+32386,Subaru,Outback 3.6R Touring,7,103466,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,12995
+32398,Subaru,WRX Premium,7,62662,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,27500
+33037,Subaru,Impreza 2.0i Sport,7,17500,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15100
+34331,Subaru,WRX Limited,7,32000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+34609,Subaru,Outback 3.6R Touring,7,87092,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13600
+34708,Subaru,WRX Base,7,87009,305.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,17500
+34790,Subaru,WRX Limited,7,24500,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,35000
+34929,Subaru,Impreza 2.0i Premium,7,95212,306.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,34950
+35530,Subaru,BRZ Limited,7,77000,228.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,32500
+35624,Subaru,WRX Premium,7,36000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+35938,Subaru,WRX Limited,7,73120,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,23000
+36283,Subaru,Outback 3.6R Touring,7,100680,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+37259,Subaru,Impreza 2.0i Premium,7,160000,148.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,9995
+37425,Subaru,Outback 3.6R Touring,7,100680,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,9995
+39345,Subaru,WRX Base,7,62662,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,26000
+40724,Subaru,Outback 2.5i Premium,7,77000,173.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+42260,Subaru,Impreza 2.0i,7,14684,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,46999
+44212,Subaru,WRX Limited,7,62662,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,18000
+45213,Subaru,WRX Limited,7,70891,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15900
+45627,Subaru,WRX STI Base,7,37800,305.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,37899
+45887,Subaru,WRX Limited,7,83298,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,18300
+46046,Subaru,Impreza 2.0i Sport,7,118000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,15000
+46323,Subaru,Outback 3.6R Touring,7,122000,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,11200
+46856,Subaru,Impreza 2.0i Sport,7,96000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,18000
+47498,Subaru,Outback Limited XT,7,122961,2.5L H4 16V GDI DOHC,Automatic CVT,None reported,18688
+47833,Subaru,WRX Premium,7,199000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,19900
+48246,Subaru,Impreza 2.0i Premium,7,90601,148.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,13500
+48257,Subaru,Ascent Touring 7-Passenger,7,77000,260.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,31300
+49287,Subaru,Outback Limited XT,7,98888,182.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16500
+50036,Subaru,Impreza 2.0i Premium,7,112000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,11499
+51345,Subaru,Crosstrek 2.0i Limited,7,50011,148.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,21495
+51552,Subaru,WRX Premium,7,36812,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,33200
+51701,Subaru,WRX Limited,7,77000,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,26800
+52602,Subaru,Outback 3.6R Touring,7,97700,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+53810,Subaru,Impreza 2.0i Sport,7,44000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,23500
+53958,Subaru,Impreza 2.0i Premium,7,68000,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,19500
+54028,Subaru,WRX Base,7,62662,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,27000
+54218,Subaru,Outback 3.6R Touring,7,82984,256.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,14000

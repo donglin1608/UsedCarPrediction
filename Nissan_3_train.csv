@@ -1,0 +1,39 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+202,Nissan,Titan SV,3,27598,5.6L V8 32V GDI DOHC,9-Speed Automatic,None reported,49273
+2101,Nissan,GT-R Premium,3,8681,565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,59900
+6522,Nissan,Titan SL,3,22457,5.6L V8 32V GDI DOHC,9-Speed Automatic,None reported,41900
+7208,Nissan,GT-R Premium,3,16010,565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,92500
+7459,Nissan,NV200 SV,3,52000,131.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,18500
+7705,Nissan,Murano SV,3,15198,3.5L V6 24V MPFI DOHC,Automatic CVT,None reported,29510
+7784,Nissan,GT-R Premium,3,15600,485.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,84999
+7824,Nissan,Armada SL,3,36000,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,40995
+9379,Nissan,Titan SV,3,26300,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,46199
+10446,Nissan,GT-R Premium,3,9612,565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,162500
+10451,Nissan,Murano SL,3,46707,2.5L I4 16V MPFI DOHC,Automatic CVT,At least 1 accident or damage reported,32541
+15859,Nissan,GT-R Premium,3,10101,545.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,79999
+16043,Nissan,Altima 2.5 SV,3,22295,2.5L I4 16V GDI DOHC,Automatic CVT,None reported,30775
+16131,Nissan,Armada SL,3,100312,5.6L V8 32V GDI DOHC,7-Speed Automatic with Auto-Shift,None reported,209995
+16478,Nissan,Rogue SL,3,20497,1.5L I3 12V GDI DOHC Turbo,Automatic CVT,None reported,28196
+16835,Nissan,Titan SV,3,15183,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,71900
+18543,Nissan,Murano SL,3,18385,245.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,29500
+20499,Nissan,Armada SL,3,67800,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,36500
+23892,Nissan,Rogue SL,3,10400,265.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,143900
+23994,Nissan,Titan SV,3,7250,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,53500
+24116,Nissan,Armada SL,3,67800,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,64250
+25966,Nissan,Murano SV,3,47147,3.5L V6 24V MPFI DOHC,Automatic CVT,None reported,32541
+27764,Nissan,Murano SL,3,23677,3.5L V6 24V MPFI DOHC,Automatic CVT,None reported,35619
+31322,Nissan,Rogue SL,3,16156,2.5L I4 16V MPFI DOHC,Automatic CVT,None reported,39995
+34468,Nissan,Titan SV,3,6200,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,53000
+35058,Nissan,Sportage Nightfall,3,15198,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,5949
+36789,Nissan,Titan SV,3,9330,5.6L V8 32V GDI DOHC,9-Speed Automatic,None reported,97555
+37748,Nissan,Armada SL,3,67800,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,234000
+37781,Nissan,Armada SL,3,15198,5.6 Liter,Automatic,None reported,49999
+40318,Nissan,GT-R Premium,3,18000,565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,61000
+41394,Nissan,Titan SV,3,10001,5.6L V8 32V GDI DOHC,9-Speed Automatic,None reported,54543
+42663,Nissan,GT-R Premium,3,22185,3.8L V6 24V MPFI DOHC Twin Turbo,6-Speed M/T,None reported,131999
+43963,Nissan,Xterra S,3,54900,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+44865,Nissan,Armada SL,3,67800,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,43500
+45732,Nissan,Forte GT-Line,3,24534,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,21900
+47443,Nissan,Kicks S,3,36100,181.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37899
+50933,Nissan,GT-R Premium,3,31150,565.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,215000
+52199,Nissan,Armada Platinum,3,70500,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,78990

@@ -1,0 +1,50 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1931,Cadillac,CTS-V Base,17,113000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6950
+2536,Cadillac,Escalade EXT Base,17,51338,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,21500
+3679,Cadillac,Escalade ESV Base,17,191900,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,6730
+4358,Cadillac,Escalade EXT Base,17,100100,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,26000
+4811,Cadillac,SRX Performance Collection,17,153800,265.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,5990
+4996,Cadillac,Escalade ESV Sport,17,150000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,8900
+10163,Cadillac,Escalade EXT Base,17,150000,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,8900
+10546,Cadillac,Escalade EXT Base,17,99000,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,22999
+11029,Cadillac,DTS Base,17,49620,275.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10499
+11346,Cadillac,CTS-V Base,17,123000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,10995
+11879,Cadillac,CTS Performance,17,105760,270.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12900
+12991,Cadillac,CTS Base,17,89987,272.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6399
+13766,Cadillac,Escalade Sport Platinum,17,188000,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,5990
+14165,Cadillac,Escalade EXT Base,17,155000,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,16900
+15948,Cadillac,DTS Luxury II,17,94155,275.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,9599
+18477,Cadillac,Escalade ESV Platinum,17,75000,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16700
+19052,Cadillac,Escalade ESV Base,17,191900,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8300
+19363,Cadillac,Escalade EXT Base,17,155000,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18995
+19744,Cadillac,DTS Luxury,17,122000,275.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,7999
+23608,Cadillac,Escalade EXT Base,17,155000,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,16900
+24130,Cadillac,Escalade ESV Base,17,152068,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12250
+25441,Cadillac,DTS Luxury II,17,165000,275.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,4200
+25609,Cadillac,DTS Luxury II,17,102681,275.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,20000
+27468,Cadillac,Escalade ESV Base,17,191900,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12850
+27811,Cadillac,Escalade ESV Platinum,17,151600,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,6880
+28315,Cadillac,Escalade EXT Base,17,99000,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16900
+29426,Cadillac,CTS Performance,17,122770,270.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,10900
+29668,Cadillac,Escalade Base,17,149000,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10099
+30389,Cadillac,Escalade EXT Base,17,99000,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,9999
+30432,Cadillac,Escalade ESV Base,17,35566,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,26000
+35527,Cadillac,Escalade ESV Base,17,192100,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,12350
+35882,Cadillac,CTS Performance,17,116451,270.0HP 3.2L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12900
+37117,Cadillac,ATS 2.5L Luxury,17,63496,202.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12900
+38176,Cadillac,Escalade ESV Base,17,160249,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,22000
+38217,Cadillac,CTS Performance,17,105760,270.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12900
+41611,Cadillac,CTS Luxury,17,199000,270.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,9250
+42207,Cadillac,CTS Base,17,70000,255.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12499
+43443,Cadillac,Escalade ESV Platinum,17,86000,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,10750
+44257,Cadillac,CTS Luxury,17,111300,270.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7900
+46793,Cadillac,Escalade EXT Base,17,153600,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,20000
+46797,Cadillac,Escalade Base,17,150000,403.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16800
+47315,Cadillac,CTS-V Base,17,113000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,10000
+49714,Cadillac,CTS-V Base,17,66500,400.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27950
+50640,Cadillac,CTS Base,17,228000,255.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,3850
+51571,Cadillac,CTS-V Base,17,123000,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+52160,Cadillac,Odyssey EX-L,17,170000,244.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,3850
+52789,Cadillac,Escalade EXT Base,17,95000,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,10995
+53198,Cadillac,DTS Luxury,17,150000,275.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8900
+54026,Cadillac,Escalade EXT Base,17,155000,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,8300

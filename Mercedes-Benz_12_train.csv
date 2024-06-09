@@ -1,0 +1,162 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+240,Mercedes-Benz,SL-Class SL500 Roadster,12,151400,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,155700
+379,Mercedes-Benz,GL-Class GL 450,12,93000,335.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16500
+403,Mercedes-Benz,SL-Class SL 550,12,76857,429.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,14900
+668,Mercedes-Benz,Sprinter 2500,12,81696,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,5-Speed A/T,None reported,15900
+1013,Mercedes-Benz,C-Class C 63 AMG,12,54000,451.0HP 6.3L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,37000
+1412,Mercedes-Benz,GL-Class GL 450 4MATIC,12,174000,335.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,11999
+1602,Mercedes-Benz,C-Class C 250 Luxury,12,122000,201.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,12500
+1937,Mercedes-Benz,SLK-Class SLK 350,12,93400,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+2175,Mercedes-Benz,E-Class E 350,12,93000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,14500
+2235,Mercedes-Benz,E-Class E 350,12,59600,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,19900
+2553,Mercedes-Benz,E-Class E 350,12,130000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8900
+2588,Mercedes-Benz,SL-Class SL500 Roadster,12,28950,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,9950
+3447,Mercedes-Benz,GL-Class GL 450 4MATIC,12,90400,335.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,8999
+3453,Mercedes-Benz,E-Class E 350 4MATIC,12,95816,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,17000
+3705,Mercedes-Benz,CLS-Class CLS 550,12,83000,402.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,15500
+3768,Mercedes-Benz,C-Class C 250 Luxury,12,36905,201.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,35000
+3791,Mercedes-Benz,E-Class E 350,12,59600,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,22500
+4123,Mercedes-Benz,C-Class C 63 AMG,12,84500,451.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,41500
+4277,Mercedes-Benz,E-Class E 350,12,82046,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,17999
+5042,Mercedes-Benz,E-Class E 350,12,95816,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+5503,Mercedes-Benz,E-Class E 350 4MATIC,12,83765,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,18000
+5712,Mercedes-Benz,SL-Class SL 550,12,24500,382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,44000
+6479,Mercedes-Benz,SL-Class SL 550,12,49000,382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,49900
+6655,Mercedes-Benz,E-Class E 350 4MATIC,12,91700,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,12800
+6791,Mercedes-Benz,SL-Class SL500 Roadster,12,80081,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+7310,Mercedes-Benz,SL-Class SL 63 AMG,12,47400,518.0HP 6.3L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,22500
+7423,Mercedes-Benz,S-Class S 550 4MATIC,12,156350,382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,4750
+7614,Mercedes-Benz,E-Class E 350 4MATIC,12,76850,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,21500
+8229,Mercedes-Benz,E-Class E 350 4MATIC,12,75539,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,14980
+8867,Mercedes-Benz,E350 Super Duty XLT,12,75200,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,17999
+8896,Mercedes-Benz,E-Class E 350,12,53500,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,20500
+8901,Mercedes-Benz,C-Class C 300 Luxury,12,122000,228.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,10000
+9436,Mercedes-Benz,E-Class E 350 4MATIC,12,58375,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,19550
+9513,Mercedes-Benz,SL-Class SL 550,12,21300,382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,38500
+9785,Mercedes-Benz,E-Class E 350,12,63000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,35000
+10710,Mercedes-Benz,C-Class C 63 AMG,12,79876,451.0HP 6.3L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,7500
+10911,Mercedes-Benz,G-Class G 550 4MATIC,12,130000,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3950
+11319,Mercedes-Benz,E-Class E 350,12,140000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+11902,Mercedes-Benz,C-Class C 250 Luxury,12,138000,201.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,10000
+12309,Mercedes-Benz,GLK-Class GLK 350,12,186000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,33700
+12471,Mercedes-Benz,G-Class G 550 4MATIC,12,76100,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,14500
+13467,Mercedes-Benz,M-Class ML 350,12,99200,302.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,A/T,None reported,11900
+13536,Mercedes-Benz,C-Class C 300 4MATIC Sport,12,95500,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+13556,Mercedes-Benz,S-Class S 63 AMG,12,93000,518.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,17800
+15138,Mercedes-Benz,E-Class E 350 4MATIC,12,93000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15500
+15624,Mercedes-Benz,Sprinter 2500,12,124630,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,None reported,75000
+15933,Mercedes-Benz,C-Class C 63 AMG,12,103000,451.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,70000
+15962,Mercedes-Benz,A-Class A 220 4MATIC,12,53500,188.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,13000
+16283,Mercedes-Benz,GL-Class GL 550,12,138000,429.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,13750
+16800,Mercedes-Benz,E-Class E 350 4MATIC,12,59700,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,23000
+16805,Mercedes-Benz,CLS-Class CLS 63 AMG S-Model 4MATIC,12,28211,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,75499
+16916,Mercedes-Benz,E-Class E500,12,175722,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,18955
+17030,Mercedes-Benz,C-Class C 300 4MATIC Sport,12,120000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,3600
+17192,Mercedes-Benz,CLS-Class CLS 550,12,68325,402.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,16750
+17341,Mercedes-Benz,C-Class C 250 Luxury,12,95500,201.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,10500
+17570,Mercedes-Benz,E-Class E 350,12,57000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17800
+17636,Mercedes-Benz,E-Class E 350 4MATIC,12,155000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,2500
+17773,Mercedes-Benz,E-Class E 400 4MATIC,12,178000,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,3850
+18829,Mercedes-Benz,Sprinter 2500,12,153818,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,6500
+18904,Mercedes-Benz,Sprinter Normal Roof,12,120000,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,14945
+19558,Mercedes-Benz,Sprinter Normal Roof,12,175000,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,7-Speed A/T,None reported,10995
+21163,Mercedes-Benz,SL-Class SL 550,12,130000,429.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,172000
+21284,Mercedes-Benz,E-Class E 350,12,58375,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,35000
+21480,Mercedes-Benz,E-Class E 350,12,13777,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,36750
+21845,Mercedes-Benz,SLK-Class SLK 350,12,73000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,49900
+22196,Mercedes-Benz,E-Class E 350,12,59600,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19500
+22301,Mercedes-Benz,C-Class C 250 Luxury,12,122000,201.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,16000
+22476,Mercedes-Benz,C-Class C 300 4MATIC Sport,12,45000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22000
+22482,Mercedes-Benz,GL-Class GL 450,12,120000,335.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,6000
+22513,Mercedes-Benz,E-Class E 350,12,59600,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,19500
+22607,Mercedes-Benz,Sprinter 2500,12,120000,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,None reported,14500
+22726,Mercedes-Benz,C-Class C 250 Luxury,12,90000,201.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,15900
+22924,Mercedes-Benz,CLA-Class CLA 250,12,88600,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,17800
+23050,Mercedes-Benz,Sprinter 2500,12,100245,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,None reported,15000
+23695,Mercedes-Benz,E-Class E 350,12,160000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,14490
+23968,Mercedes-Benz,GL-Class GL 450,12,99200,335.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,11999
+24371,Mercedes-Benz,E-Class E 350 4MATIC,12,110000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,9000
+24948,Mercedes-Benz,E-Class E 350 4MATIC,12,31130,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,23000
+24960,Mercedes-Benz,C-Class C 300 Luxury,12,89500,248.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,20000
+25638,Mercedes-Benz,E-Class E 350,12,67350,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,16000
+25679,Mercedes-Benz,C-Class C 300 4MATIC Sport,12,103272,248.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,17000
+25930,Mercedes-Benz,E-Class E 350,12,170000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,8950
+27160,Mercedes-Benz,SLK-Class SLK 350,12,44000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,14500
+27794,Mercedes-Benz,SLS AMG Base,12,17941,6.2L V8 32V MPFI DOHC,7-Speed Automatic with Auto-Shift,None reported,226000
+27850,Mercedes-Benz,G-Class G 550 4MATIC,12,110000,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,7000
+28625,Mercedes-Benz,C-Class C 300 4MATIC Sport,12,60000,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,17500
+29216,Mercedes-Benz,GL-Class GL 450,12,82046,335.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,21900
+29273,Mercedes-Benz,E-Class E 350,12,58375,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,20199
+31674,Mercedes-Benz,E-Class E 350 4MATIC,12,93000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,16000
+32003,Mercedes-Benz,C-Class C 63 AMG,12,103000,451.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,52500
+32369,Mercedes-Benz,SL-Class SL600 Roadster,12,76100,510.0HP 5.5L 12 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,40000
+33067,Mercedes-Benz,E-Class E 350,12,27000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,22500
+33359,Mercedes-Benz,E-Class E 350,12,67350,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,21500
+33379,Mercedes-Benz,M-Class ML 350 4MATIC,12,88000,302.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,A/T,None reported,19500
+34206,Mercedes-Benz,E-Class E 350 4MATIC,12,67250,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19500
+34332,Mercedes-Benz,E-Class E 350,12,67250,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11900
+34960,Mercedes-Benz,E-Class E 350,12,89563,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,20995
+34996,Mercedes-Benz,E-Class E 350,12,174000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+35691,Mercedes-Benz,E-Class E 350 4MATIC,12,90400,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,10500
+35774,Mercedes-Benz,E-Class E 350,12,89000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19950
+35848,Mercedes-Benz,Sprinter 2500,12,16175,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,9950
+35958,Mercedes-Benz,E-Class E 350,12,95816,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,14999
+36155,Mercedes-Benz,SL-Class SL 550,12,21300,382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,38500
+36587,Mercedes-Benz,SL-Class SL 550,12,60000,429.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,52500
+36655,Mercedes-Benz,E-Class E 350,12,31130,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,18000
+37358,Mercedes-Benz,C-Class C 300 Luxury,12,66500,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,19000
+37725,Mercedes-Benz,E-Class E 400 4MATIC,12,15000,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,10999
+38372,Mercedes-Benz,S-Class S 63 AMG,12,131986,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+38540,Mercedes-Benz,E-Class E 350 4MATIC,12,105760,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12400
+38686,Mercedes-Benz,E-Class E 350,12,23900,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42900
+38901,Mercedes-Benz,E-Class E 350,12,95816,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,15999
+38951,Mercedes-Benz,E-Class E 350,12,157405,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5900
+39457,Mercedes-Benz,SL-Class SL 550,12,76850,429.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,10750
+39656,Mercedes-Benz,E-Class E 350,12,73000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,12500
+39904,Mercedes-Benz,S-Class S 63 AMG,12,68500,518.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,17800
+40166,Mercedes-Benz,CLS-Class CLS 550,12,98000,382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,18500
+40294,Mercedes-Benz,CLS-Class CLS 550,12,60000,402.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,22000
+40342,Mercedes-Benz,E-Class E 350,12,53500,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,23977
+40679,Mercedes-Benz,C-Class C 300 4MATIC Sport,12,102200,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,12599
+40775,Mercedes-Benz,C-Class C 63 AMG,12,84500,451.0HP 6.3L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,14500
+40915,Mercedes-Benz,GLK-Class GLK 350,12,99200,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,13999
+41082,Mercedes-Benz,C-Class C 63 AMG,12,23152,451.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,84620
+41406,Mercedes-Benz,C-Class C 63 AMG,12,84500,451.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,41500
+41841,Mercedes-Benz,SL-Class SL 550,12,21300,382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,38500
+41884,Mercedes-Benz,GL-Class GL 450 4MATIC,12,46100,335.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,55000
+42899,Mercedes-Benz,CLA-Class CLA 250,12,76753,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,15999
+42995,Mercedes-Benz,C-Class C 300 4MATIC Sport,12,94500,228.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+43628,Mercedes-Benz,E-Class E 350,12,215000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,7500
+44403,Mercedes-Benz,SL-Class SL 550,12,127000,429.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,20000
+44537,Mercedes-Benz,E-Class E 350,12,99700,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,23500
+44792,Mercedes-Benz,S-Class S 550 4MATIC,12,149800,449.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,17900
+45224,Mercedes-Benz,S-Class S 450,12,125000,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12599
+45486,Mercedes-Benz,CLS-Class CLS 550,12,79000,402.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,19999
+45690,Mercedes-Benz,E-Class E 350,12,95816,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,16000
+45956,Mercedes-Benz,SL-Class SL500 Roadster,12,120000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,16800
+46267,Mercedes-Benz,Sprinter Normal Roof,12,13344,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,None reported,9999
+47493,Mercedes-Benz,CLA-Class CLA 250,12,72329,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19550
+47627,Mercedes-Benz,E-Class E 350,12,131200,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,17900
+47766,Mercedes-Benz,E-Class E 350,12,125559,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,7000
+47779,Mercedes-Benz,E-Class E 350,12,125800,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11499
+47966,Mercedes-Benz,E-Class E 350 4MATIC,12,91420,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,3999
+47985,Mercedes-Benz,SLK-Class SLK 350,12,44000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,22222
+48481,Mercedes-Benz,E-Class E 350,12,89563,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,16800
+48542,Mercedes-Benz,GL-Class GL 450 4MATIC,12,93000,335.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,28000
+48714,Mercedes-Benz,E-Class E 350,12,49000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,19995
+48850,Mercedes-Benz,GL-Class GL 450 4MATIC,12,174000,335.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,11999
+48912,Mercedes-Benz,S-Class S 63 AMG,12,10500,536.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,129000
+49319,Mercedes-Benz,E-Class E 350 4MATIC,12,167500,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,13500
+49360,Mercedes-Benz,C-Class C 63 AMG,12,103000,451.0HP 6.3L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,49900
+49566,Mercedes-Benz,GL-Class GL 450 4MATIC,12,174000,335.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,15499
+50173,Mercedes-Benz,AMG G 63 Base,12,2950,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,172900
+50248,Mercedes-Benz,C-Class C 300 4MATIC Sport,12,77000,248.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,22500
+50261,Mercedes-Benz,CLA-Class CLA 250,12,76170,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17500
+50330,Mercedes-Benz,E-Class E 350,12,93500,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16900
+50898,Mercedes-Benz,E-Class E 350,12,95816,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,12000
+51089,Mercedes-Benz,C-Class C 300,12,92225,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11400
+51507,Mercedes-Benz,CLK-Class CLK 350,12,41500,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,11900
+52511,Mercedes-Benz,S-Class S 63 AMG,12,93000,536.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+52522,Mercedes-Benz,E-Class E 350,12,94448,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,16000
+53308,Mercedes-Benz,C-Class C 300 4MATIC Sport,12,90189,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,11800
+53698,Mercedes-Benz,E-Class E 350,12,77300,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,22500

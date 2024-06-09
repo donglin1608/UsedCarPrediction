@@ -1,0 +1,22 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1168,Acura,TLX A-Spec,4,32500,206.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,33500
+1813,Acura,TLX V6 Tech,4,38000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,35900
+2574,Acura,TLX PMC Edition,4,6900,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,43500
+3835,Acura,RDX Technology Package,4,46707,3.5L V6 24V GDI SOHC,Automatic,None reported,32541
+4444,Acura,RDX Technology Package,4,23100,272.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,36495
+4911,Acura,TLX PMC Edition,4,6900,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,57999
+7369,Acura,TLX A-Spec,4,20622,2.0L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,43663
+7712,Acura,TLX PMC Edition,4,37900,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,23999
+9727,Acura,NSX Base,4,77856,6.2L V8 16V GDI OHV,10-Speed Automatic,None reported,31985
+9762,Acura,TLX Type S w/Performance Tire,4,33080,355.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,59400
+11434,Acura,Boxster S,4,25000,280.0HP 3.2L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,35999
+13067,Acura,TLX Tech,4,14586,2.0L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,18051
+25244,Acura,RDX Base,4,107380,2.0L I4 16V GDI DOHC Turbo,10-Speed Automatic,At least 1 accident or damage reported,20499
+34145,Acura,TLX A-Spec,4,48000,206.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,32000
+34541,Acura,RDX Technology Package,4,26465,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,26288
+34801,Acura,RDX Technology Package,4,39071,2.0L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,35900
+37339,Acura,TLX A-Spec,4,38400,206.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+40379,Acura,ILX Premium Package,4,69300,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,25500
+42648,Acura,RDX Base,4,25420,279.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,24500
+45177,Acura,TLX A-Spec,4,22039,2.0L I4 16V GDI DOHC Turbo,10-Speed Automatic,None reported,33687
+48232,Acura,TLX Type S w/Performance Tire,4,14586,355.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,60500

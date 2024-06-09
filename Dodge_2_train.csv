@@ -1,0 +1,39 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+790,Dodge,Durango R/T,2,23700,360.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,40950
+2314,Dodge,Durango SRT 392,2,7500,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44999
+2704,Dodge,Durango GT,2,14684,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,49500
+3474,Dodge,Challenger SRT Hellcat,2,7458,797.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,85500
+5307,Dodge,Charger SRT Hellcat Widebody,2,5000,717.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42000
+7368,Dodge,Durango SRT 392,2,31917,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,64683
+8060,Dodge,Durango R/T,2,14976,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,79999
+8410,Dodge,Durango SRT 392,2,31917,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,64000
+9063,Dodge,Challenger R/T Scat Pack,2,398,6.4L V8 16V MPFI OHV,8-Speed Automatic,None reported,74500
+9097,Dodge,Challenger SRT Hellcat,2,6400,717.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49000
+10823,Dodge,Durango GT,2,8700,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,22500
+11291,Dodge,Charger GT,2,27000,300.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37500
+12794,Dodge,Durango SRT 392,2,31917,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,103000
+14098,Dodge,Durango SRT 392,2,28000,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44999
+14509,Dodge,Durango SRT 392,2,4514,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,43449
+15143,Dodge,Challenger SRT Hellcat,2,8237,707.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,79500
+16910,Dodge,Durango SRT 392,2,15443,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46500
+17561,Dodge,Durango SRT 392,2,31917,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,64683
+19624,Dodge,Durango GT,2,27352,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,48995
+23681,Dodge,Durango SRT 392,2,4500,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,89999
+23771,Dodge,Challenger SRT Hellcat,2,6483,707.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,71000
+23976,Dodge,Durango R/T,2,7751,360.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,52500
+24888,Dodge,Durango SRT 392,2,31917,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,24999
+26796,Dodge,Durango GT,2,14684,295.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,46500
+30600,Dodge,Durango R/T,2,12000,370.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,64683
+30995,Dodge,Durango GT,2,24778,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,48459
+32366,Dodge,Charger SRT Hellcat,2,12500,707.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,104999
+33135,Dodge,Durango GT,2,9642,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,41900
+35782,Dodge,Charger GT,2,15592,300.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44999
+37545,Dodge,Durango SLT,2,34672,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,130000
+39359,Dodge,Durango R/T,2,49899,360.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,40995
+42997,Dodge,Durango SRT 392,2,15500,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,99750
+45217,Dodge,Challenger SRT Hellcat,2,1550,707.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,209900
+47418,Dodge,Challenger R/T Scat Pack,2,1240,6.4L V8 16V MPFI OHV,Automatic,None reported,76740
+47584,Dodge,Challenger SRT Hellcat,2,28399,707.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,40999
+50848,Dodge,Challenger SXT,2,29500,303.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+51592,Dodge,Durango R/T,2,19376,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,47541
+52427,Dodge,Challenger SE,2,2019,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,42500

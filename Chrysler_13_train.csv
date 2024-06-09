@@ -1,0 +1,8 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1990,Chrysler,300 Touring,13,149000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,3500
+3231,Chrysler,300M Base,13,45000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6000
+3389,Chrysler,300 Touring,13,134207,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9200
+4854,Chrysler,300 S,13,173452,363.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,6500
+7867,Chrysler,300 Base,13,53000,292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,12000
+19987,Chrysler,300C Base,13,200000,292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8500
+49174,Chrysler,300 Touring,13,134602,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,8500

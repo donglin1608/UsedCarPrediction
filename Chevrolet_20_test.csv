@@ -1,0 +1,50 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+54739,Chevrolet,Corvette Base,20,143250,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+56202,Chevrolet,Corvette Base,20,42000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+57281,Chevrolet,Corvette Base,20,40011,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0
+57438,Chevrolet,Corvette Base,20,43705,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,0
+58414,Chevrolet,Impala Base,20,64500,180.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+59583,Chevrolet,Corvette Base,20,8800,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+60622,Chevrolet,Express 1500 Cargo,20,142215,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+61916,Chevrolet,Silverado 1500 Z71 Extended Cab,20,185000,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,Transmission Overdrive Switch,None reported,0
+63858,Chevrolet,Silverado 1500 Z71 Extended Cab,20,248000,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+64333,Chevrolet,Express 1500 Cargo,20,245000,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,0
+64459,Chevrolet,Monte Carlo SS,20,66840,303.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+64493,Chevrolet,Camaro Base,20,170000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+65467,Chevrolet,Silverado 1500 Z71 Extended Cab,20,188000,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0
+66947,Chevrolet,Express 1500 Cargo,20,172024,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0
+67544,Chevrolet,Corvette Base,20,40011,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+67756,Chevrolet,Corvette Base,20,37622,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+68187,Chevrolet,Tahoe LS,20,170000,285.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+69058,Chevrolet,Avalanche 1500 LS,20,149000,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,Transmission Overdrive Switch,At least 1 accident or damage reported,0
+69669,Chevrolet,Corvette Base,20,37622,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+70567,Chevrolet,Corvette Base,20,123921,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+71068,Chevrolet,Corvette Base,20,39132,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+72093,Chevrolet,Silverado 1500 LT,20,163000,160.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+72326,Chevrolet,Monte Carlo SS,20,184000,240.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+72543,Chevrolet,Trailblazer SS,20,130000,390.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+73281,Chevrolet,Camaro Base,20,130000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+74350,Chevrolet,Monte Carlo SS,20,75000,240.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+74786,Chevrolet,Camaro Z28,20,170000,305.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+75158,Chevrolet,Silverado 1500 Z71 Extended Cab,20,185000,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+75264,Chevrolet,Corvette Base,20,104000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+75503,Chevrolet,Corvette Base,20,146000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+77155,Chevrolet,Silverado 1500 Z71 Extended Cab,20,139000,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+77801,Chevrolet,Corvette Base,20,130000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+78984,Chevrolet,Corvette Base,20,134000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+80310,Chevrolet,Impala Base,20,170000,180.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+81939,Chevrolet,Corvette Base,20,51855,400.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+84440,Chevrolet,Corvette Base,20,161000,340.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+84580,Chevrolet,Impala Base,20,64500,180.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+84964,Chevrolet,Suburban 1500 LS,20,131800,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+85920,Chevrolet,Corvette Base,20,40011,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+86036,Chevrolet,Silverado 1500 Z71 Extended Cab,20,185000,295.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,4-Speed A/T,At least 1 accident or damage reported,0
+86630,Chevrolet,SSR Base,20,94500,300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+87109,Chevrolet,Corvette Base,20,65000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+87111,Chevrolet,Tahoe LS,20,171750,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+87314,Chevrolet,Impala Base,20,170000,180.0HP 3.4L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+87496,Chevrolet,Corvette Base,20,54500,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+88619,Chevrolet,Corvette Base,20,64500,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,0
+90138,Chevrolet,S-10 LS Crew Cab,20,139000,190.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+90399,Chevrolet,Avalanche 1500 LS,20,130000,295.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,0
+90452,Chevrolet,Silverado 1500 Z71 Extended Cab,20,185000,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0

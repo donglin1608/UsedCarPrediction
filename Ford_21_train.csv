@@ -1,0 +1,68 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1676,Ford,Mustang GT,21,61595,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,22000
+2589,Ford,Mustang SVT Cobra,21,83858,390.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,19795
+4068,Ford,Thunderbird Deluxe,21,39000,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,22000
+4396,Ford,F-150 XLT SuperCab,21,60000,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,24500
+4519,Ford,Mustang GT,21,83000,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,18800
+5950,Ford,Excursion Limited,21,315000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,26999
+8082,Ford,Excursion Limited,21,333361,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,22500
+10338,Ford,Mustang GT,21,130000,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16500
+10560,Ford,Excursion XLS,21,189887,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,3995
+12149,Ford,Mustang GT,21,53000,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,10500
+13525,Ford,Excursion Limited 4WD,21,245000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,37999
+14198,Ford,Thunderbird Deluxe,21,110000,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8000
+14743,Ford,Mustang Base,21,119000,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8250
+14744,Ford,Mustang Premium,21,150000,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+14924,Ford,Excursion Limited 4WD,21,256000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,20900
+14946,Ford,Mustang GT,21,87092,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,23000
+15179,Ford,Mustang Premium,21,199000,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9950
+18291,Ford,Thunderbird Deluxe,21,58800,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+18374,Ford,Excursion Limited 4WD,21,245000,325.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7999
+19051,Ford,Thunderbird Deluxe,21,230000,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+19614,Ford,Mustang GT,21,83000,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+19929,Ford,Mustang GT,21,96000,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,10995
+20685,Ford,Mustang SVT Cobra,21,16100,390.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,13715
+20983,Ford,Excursion XLT 4WD,21,245000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,5-Speed A/T,At least 1 accident or damage reported,16900
+21449,Ford,Excursion Limited,21,55000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,At least 1 accident or damage reported,30000
+21973,Ford,Thunderbird Deluxe,21,16000,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,22000
+22589,Ford,Ranger XLT SuperCab,21,186117,152.0HP 3.0L V6 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,4500
+23080,Ford,Excursion Limited,21,170000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,4500
+23645,Ford,Explorer XLT,21,170000,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5990
+24001,Ford,Thunderbird Deluxe,21,39000,252.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,5200
+24205,Ford,F-250 XLT Super Duty,21,79635,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,10500
+24400,Ford,Fusion SE,21,114323,175.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,2899
+25133,Ford,Excursion Limited,21,67550,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,None reported,32850
+25139,Ford,Mustang Base,21,148000,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7200
+26721,Ford,Mustang Premium,21,170000,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4700
+28431,Ford,Mustang GT,21,164500,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+28826,Ford,Mustang GT,21,162000,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,13995
+31424,Ford,Mustang SVT Cobra,21,33000,390.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,M/T,None reported,14999
+31538,Ford,Mustang SVT Cobra,21,16100,390.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,77999
+32892,Ford,F-150 XLT SuperCab,21,223600,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,25500
+33790,Ford,F-150 Lariat,21,245000,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,3750
+33959,Ford,Excursion Limited,21,245000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,5-Speed A/T,At least 1 accident or damage reported,55000
+34883,Ford,Mustang GT,21,10000,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,11500
+36617,Ford,Mustang SVT Cobra,21,101900,390.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,34000
+37337,Ford,Mustang GT,21,116000,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12500
+37602,Ford,Mustang Base,21,126000,150.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+38456,Ford,Thunderbird Deluxe,21,40110,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+38571,Ford,E350 Super Duty Base,21,93000,305.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10990
+38872,Ford,Mustang GT,21,64500,225.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,2300
+38911,Ford,Excursion Limited,21,53000,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,None reported,10900
+38949,Ford,Mustang GT,21,136500,315.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,21000
+41644,Ford,Mustang GT,21,138700,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+41717,Ford,F-150 XLT SuperCab,21,149000,300.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10499
+42226,Ford,Excursion Limited,21,155000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,5000
+42239,Ford,Mustang GT,21,64500,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,20000
+42875,Ford,Excursion Limited,21,138071,250.0HP 7.3L 8 Cylinder Engine Diesel Fuel,A/T,None reported,17000
+44307,Ford,Excursion Limited,21,145000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,4495
+44694,Ford,Mustang GT,21,49170,225.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,12500
+46059,Ford,Excursion Limited 4WD,21,119500,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,None reported,17000
+46447,Ford,Mustang Premium,21,140000,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+46860,Ford,Mustang GT,21,74500,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,16000
+47949,Ford,Mustang GT,21,112180,300.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12599
+48414,Ford,Excursion Limited 4WD,21,91500,325.0HP 6.0L 8 Cylinder Engine Diesel Fuel,A/T,None reported,9499
+52103,Ford,Town Car Signature,21,142215,220.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,4750
+52582,Ford,Mustang SVT Cobra,21,97496,390.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12000
+53361,Ford,Shelby GT350 Base,21,18515,526.0HP 5.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,31999
+53993,Ford,Mustang GT,21,79500,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15999

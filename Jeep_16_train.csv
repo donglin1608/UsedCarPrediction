@@ -1,0 +1,120 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+210,Jeep,Wrangler Sahara,16,144770,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,6500
+2311,Jeep,Liberty Sport,16,141485,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+2498,Jeep,Wrangler Sahara,16,130000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+2952,Jeep,Wrangler X,16,146000,190.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,4200
+3219,Jeep,Liberty Sport,16,170000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5500
+3919,Jeep,Wrangler Sahara,16,149460,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,10200
+5107,Jeep,Liberty Renegade,16,135465,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,7500
+5626,Jeep,Wrangler Sahara,16,52000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17500
+6572,Jeep,Liberty Limited,16,186117,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+7380,Jeep,Wrangler Unlimited X,16,136731,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11800
+7675,Jeep,Wrangler Sahara,16,60000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,35000
+8279,Jeep,Liberty Sport,16,141485,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+8720,Jeep,Liberty Sport,16,141485,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4900
+8847,Jeep,Liberty Limited,16,64500,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5900
+9399,Jeep,Liberty Sport,16,140401,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+9772,Jeep,Wrangler Sahara,16,130000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,215000
+9780,Jeep,Liberty Limited,16,120000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,10000
+10003,Jeep,Routan SE,16,73948,283.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17900
+10854,Jeep,Liberty Renegade,16,144770,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,7000
+11506,Jeep,Wrangler Unlimited Sahara,16,180036,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9500
+11671,Jeep,Liberty Sport,16,141485,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+11781,Jeep,Wrangler Sport,16,170000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15100
+11808,Jeep,Wrangler Sahara,16,120000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+11949,Jeep,Wrangler Unlimited,16,95000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12999
+13217,Jeep,Liberty Sport,16,103000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+13233,Jeep,Compass Sport,16,109000,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4100
+13998,Jeep,Liberty Sport,16,160000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9250
+14434,Jeep,Wrangler Unlimited Rubicon,16,175722,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,2500
+14542,Jeep,Liberty Sport,16,172600,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+14684,Jeep,Liberty Sport,16,116157,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,3200
+14916,Jeep,Wrangler Sahara,16,180036,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,9500
+14932,Jeep,Liberty Limited,16,132000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,8999
+15146,Jeep,Wrangler Sport,16,130000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6000
+15253,Jeep,Wrangler Sport,16,136731,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,17900
+16913,Jeep,Liberty Sport,16,167300,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6250
+17944,Jeep,Wrangler Sahara,16,161000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,22000
+18475,Jeep,Liberty Sport,16,141485,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,6500
+19317,Jeep,Liberty Sport,16,170000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9000
+19585,Jeep,Wrangler S,16,141800,181.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,4700
+19657,Jeep,Wrangler Sport,16,120000,181.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,9000
+19858,Jeep,Liberty Renegade,16,160000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,14250
+20887,Jeep,Liberty Limited,16,153000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+21275,Jeep,Wrangler Unlimited Sahara,16,122971,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,10999
+21464,Jeep,Wrangler Sahara,16,149460,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,10500
+21483,Jeep,Wrangler Sahara,16,54000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,20000
+21677,Jeep,Wrangler Sport,16,191775,181.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,11250
+21685,Jeep,Wrangler Unlimited Sport,16,107000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22000
+22015,Jeep,Liberty Limited,16,15020,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,4500
+22473,Jeep,Wrangler Unlimited Sahara,16,170000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8950
+22535,Jeep,Wrangler Sport,16,131000,181.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,6500
+23690,Jeep,Wrangler Sahara,16,149460,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,7500
+23724,Jeep,Liberty Renegade,16,144770,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,10500
+23912,Jeep,Wrangler Sahara,16,78000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,12000
+25323,Jeep,Wrangler Sahara,16,100500,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9499
+25509,Jeep,Wrangler Sahara,16,161000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6250
+25732,Jeep,Wrangler Sahara,16,149460,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3200
+26021,Jeep,Wrangler Sahara,16,151896,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,6000
+27304,Jeep,Wrangler Sport,16,149460,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,35000
+28261,Jeep,Wrangler Sahara,16,63000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+28287,Jeep,Wrangler Sport,16,141800,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,4900
+28813,Jeep,Wrangler Sahara,16,78000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+29026,Jeep,Wrangler Sahara,16,130000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,6500
+29415,Jeep,Wrangler SE,16,146500,150.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,11500
+29688,Jeep,Wrangler Sahara,16,70000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9995
+30103,Jeep,Wrangler Sahara,16,54000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+30354,Jeep,Wrangler Sahara,16,130000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+30723,Jeep,Liberty Sport,16,107000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+30758,Jeep,Wrangler Sahara,16,120000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+31234,Jeep,Wrangler Sahara,16,130000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,8995
+31440,Jeep,Liberty Sport,16,158000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11500
+31751,Jeep,Liberty Sport,16,141485,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7200
+31877,Jeep,Liberty Sport,16,141485,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+32125,Jeep,Wrangler Sahara,16,170000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+32227,Jeep,Wrangler Sahara,16,58500,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,20000
+32312,Jeep,Wrangler Sahara,16,79893,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,14750
+33001,Jeep,Wrangler Unlimited X,16,136731,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5800
+33027,Jeep,Liberty Renegade,16,151896,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8900
+33505,Jeep,Wrangler Rubicon,16,140401,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4400
+34084,Jeep,Wrangler Sport,16,143000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,3200
+34401,Jeep,Wrangler Unlimited X,16,135465,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+35407,Jeep,Liberty Sport,16,150000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9500
+35950,Jeep,Wrangler Sahara,16,55000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15900
+36425,Jeep,Wrangler Sahara,16,144770,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8900
+37163,Jeep,Wrangler Rubicon,16,74000,285.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28500
+37229,Jeep,Wrangler Sport,16,136731,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,18000
+38244,Jeep,Wrangler Sahara,16,54000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,20000
+38544,Jeep,Wrangler Unlimited X,16,122961,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13999
+39102,Jeep,Wrangler Sahara,16,140000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7000
+39514,Jeep,Wrangler Unlimited Sport,16,136731,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10700
+40242,Jeep,Wrangler Sahara,16,130000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,13500
+40664,Jeep,Wrangler Sahara,16,150000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6300
+41014,Jeep,Liberty Renegade,16,124747,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,6900
+42152,Jeep,Wrangler Sahara,16,111000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+42475,Jeep,Wrangler Sahara,16,149460,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,16900
+44547,Jeep,Compass Limited,16,145000,172.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9400
+45489,Jeep,Liberty Sport,16,149000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,6800
+46705,Jeep,Wrangler Unlimited Sport,16,96653,205.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+47231,Jeep,Liberty Sport,16,153000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+47721,Jeep,Liberty Sport,16,144770,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+47967,Jeep,Liberty Renegade,16,172024,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,13500
+48078,Jeep,Wrangler Unlimited Sport,16,146700,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6999
+49015,Jeep,Wrangler Sport,16,121800,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,4400
+49151,Jeep,Wrangler Unlimited X,16,107000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16499
+49217,Jeep,Wrangler Unlimited Rubicon,16,136731,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,10700
+49278,Jeep,Liberty Sport,16,120000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,14500
+49937,Jeep,Wrangler Sahara,16,154860,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,9995
+50178,Jeep,Wrangler Sahara,16,55000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+50662,Jeep,Wrangler Sahara,16,149460,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6000
+50737,Jeep,Liberty Limited,16,106000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5900
+51897,Jeep,Wrangler X,16,116157,210.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,14250
+51928,Jeep,Wrangler Unlimited Rubicon,16,60000,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,23800
+52278,Jeep,Wrangler Sahara,16,123600,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,18500
+52731,Jeep,Wrangler Unlimited Rubicon,16,74582,285.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,41329
+53523,Jeep,Compass Sport,16,137000,172.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+53539,Jeep,Liberty Renegade,16,123620,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,17000
+53653,Jeep,Liberty Sport,16,134207,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+53721,Jeep,Wrangler Sport,16,220450,172.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,3900
+53734,Jeep,Compass Sport,16,111300,172.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,2900
+54120,Jeep,Wrangler Sahara,16,138050,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7900

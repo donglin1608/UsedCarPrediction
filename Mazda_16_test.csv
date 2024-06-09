@@ -1,0 +1,46 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+55867,Mazda,MX-5 Miata Base,16,125800,–,5-Speed M/T,None reported,0
+55946,Mazda,Mazda3 s Sport,16,91700,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,0
+55948,Mazda,Mazda6 iSport VE,16,106000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+56928,Mazda,RX-8 Sport,16,165520,212.0HP 1.3L Rotary engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+57405,Mazda,Mazda3 s Sport,16,118000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,0
+57526,Mazda,MX-5 Miata Sport,16,39800,142.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,0
+62904,Mazda,Mazda6 iSport VE,16,105000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+63503,Mazda,Mazda6 iSport VE,16,186117,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+63723,Mazda,Mazda6 iSport VE,16,106000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+63762,Mazda,Mazda3 s Sport,16,162000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+64505,Mazda,MX-5 Miata RF Club,16,94000,235.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+64924,Mazda,CX-7 Grand Touring,16,73000,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+65145,Mazda,RX-8 Grand Touring,16,81219,232.0HP 1.3L Rotary engine Gasoline Fuel,6-Speed M/T,None reported,0
+65364,Mazda,MX-5 Miata Sport,16,141485,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,0
+65379,Mazda,MX-5 Miata Shinsen,16,46873,142.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,0
+65809,Mazda,MX-5 Miata Sport,16,39800,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+65953,Mazda,CX-7 Sport,16,66770,244.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+66219,Mazda,Mazda6 iSport VE,16,106000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+66377,Mazda,MazdaSpeed3 Grand Touring,16,163000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,0
+66654,Mazda,Mazda3 i Sport,16,137200,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+67683,Mazda,Mazda6 iSport VE,16,106000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,0
+67871,Mazda,RX-8 Sport,16,160000,212.0HP 1.3L Rotary engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+69538,Mazda,Mazda3 i Sport,16,123000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,0
+69902,Mazda,Mazda3 s Sport,16,116000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+70487,Mazda,MX-5 Miata Base,16,138450,158.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+70785,Mazda,Mazda3 s Grand Touring,16,81219,232.0HP 1.3L Rotary engine Gasoline Fuel,6-Speed M/T,None reported,0
+70894,Mazda,RX-8 Sport,16,81219,232.0HP 1.3L Rotary engine Gasoline Fuel,A/T,None reported,0
+71402,Mazda,MX-5 Miata Grand Touring,16,94000,166.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,0
+72265,Mazda,RX-8 Sport,16,1340,232.0HP 1.3L Rotary engine Gasoline Fuel,A/T,None reported,0
+75538,Mazda,Mazda3 s Sport,16,120010,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,0
+76556,Mazda,MazdaSpeed3 Grand Touring,16,170552,–,6-Speed M/T,At least 1 accident or damage reported,0
+77564,Mazda,Mazda6 iSport VE,16,57000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,0
+78051,Mazda,MX-5 Miata Grand Touring,16,106000,166.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+78405,Mazda,Mazda3 i Touring,16,118500,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+79377,Mazda,MazdaSpeed Miata MX-5 Base,16,33362,178.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,0
+80064,Mazda,CX-30 Base,16,103000,244.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+80568,Mazda,Mazda3 s Sport,16,77700,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,0
+82269,Mazda,MazdaSpeed3 Grand Touring,16,162000,263.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,0
+83470,Mazda,Mazda6 iSport VE,16,106000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+83657,Mazda,Mazda6 iSport VE,16,201000,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,1-Speed A/T,None reported,0
+85712,Mazda,RX-8 Grand Touring,16,81219,232.0HP 1.3L Rotary engine Gasoline Fuel,6-Speed M/T,None reported,0
+88121,Mazda,RX-8 R3,16,57000,232.0HP 1.3L Rotary engine Gasoline Fuel,6-Speed M/T,None reported,0
+89072,Mazda,Mazda6 iSport VE,16,186268,156.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+89409,Mazda,MX-5 Miata Base,16,159890,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,0
+89448,Mazda,Mazda3 i Sport,16,149000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,0

@@ -1,0 +1,80 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+968,Dodge,Ram 1500 Quad Cab,18,118000,245.0HP 5.9L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17900
+1872,Dodge,Ram 1500 Laramie,18,120000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+3729,Dodge,Dakota SLT Quad Cab,18,165520,4.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,5200
+3767,Dodge,Charger Base,18,134602,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+3907,Dodge,Magnum Base,18,133255,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7000
+4066,Dodge,Ram 1500 SRT-10 Quad Cab,18,13232,500.0HP 8.3L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,215000
+4175,Dodge,Ram 1500 Laramie Mega Cab,18,300183,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8000
+4381,Dodge,Ram 1500 Quad Cab,18,188000,245.0HP 5.9L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7100
+4462,Dodge,Magnum Base,18,170000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,4000
+4466,Dodge,Charger Base,18,145565,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,3600
+4624,Dodge,Ram 1500 SLT Mega Cab,18,67000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,11500
+5909,Dodge,Ram 1500 Laramie Mega Cab,18,256000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+6081,Dodge,Magnum Base,18,133255,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+6796,Dodge,Challenger SRT8,18,53600,425.0HP 6.1L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,34500
+6842,Dodge,Dakota Big Horn/Lone Star,18,172024,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,5500
+8232,Dodge,Ram 1500 SLT Mega Cab,18,201509,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,15000
+8240,Dodge,Ram 1500 SLT Mega Cab,18,148000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,11500
+9941,Dodge,Ram 1500 SLT Mega Cab,18,201509,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14900
+10613,Dodge,Charger R/T,18,98231,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,10750
+11697,Dodge,Magnum Base,18,120000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,8500
+13460,Dodge,Ram 1500 SRT-10,18,16100,500.0HP 8.3L 10 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,243900
+13597,Dodge,Challenger GT,18,67499,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,37900
+13726,Dodge,Dakota Sport,18,285000,230.0HP 5.2L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,6399
+15045,Dodge,Ram 1500 Laramie Mega Cab,18,134000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+16061,Dodge,Ram 2500 Laramie Quad Cab,18,138450,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,15500
+16677,Dodge,Charger Base,18,131000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+17219,Dodge,Ram 2500 SLT Quad Cab,18,114000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,12999
+17250,Dodge,Ram 2500 Laramie Quad Cab,18,188000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,8700
+17729,Dodge,Ram 1500 Laramie Mega Cab,18,300183,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+18172,Dodge,Ram 1500 Laramie Mega Cab,18,207000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+18952,Dodge,Ram 1500 Laramie Mega Cab,18,151095,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+19369,Dodge,Ram 1500 Laramie Mega Cab,18,70000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,115000
+19930,Dodge,Ram 2500 Laramie Quad Cab,18,138000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,14490
+22691,Dodge,Magnum R/T,18,133255,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+25199,Dodge,Magnum Base,18,133255,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,4000
+26290,Dodge,Ram 1500 Quad Cab,18,135603,245.0HP 5.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9985
+27456,Dodge,Ram 1500 ST,18,148000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+28177,Dodge,Ram 1500 ST,18,165454,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,4000
+28241,Dodge,Ram 1500 SLT Mega Cab,18,149460,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,10500
+28280,Dodge,Dakota SLT Quad Cab,18,256000,4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,5000
+28507,Dodge,Ram 1500 Laramie Mega Cab,18,131100,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16500
+29669,Dodge,Ram 1500 Laramie Mega Cab,18,201509,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5700
+30082,Dodge,Ram 1500 Laramie Mega Cab,18,300183,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+30196,Dodge,Dakota SLT Quad Cab,18,170000,4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+30324,Dodge,Charger Base,18,145565,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+32335,Dodge,Ram 1500 Laramie Mega Cab,18,300183,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,10900
+32682,Dodge,Ram 1500 Laramie Mega Cab,18,133255,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6000
+32687,Dodge,Ram 2500 Laramie Quad Cab,18,148000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,4000
+32786,Dodge,Charger Base,18,170000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+33201,Dodge,Ram 1500 ST,18,120000,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+33283,Dodge,Ram 1500 Laramie Mega Cab,18,76163,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15900
+33538,Dodge,Charger Base,18,145565,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+34124,Dodge,Ram 2500 Laramie Quad Cab,18,148000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,15000
+34874,Dodge,Ram 2500 Laramie Quad Cab,18,170000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,9000
+35567,Dodge,Dakota SLT Quad Cab,18,194454,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6500
+37963,Dodge,Ram 1500 ST,18,300183,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10995
+39055,Dodge,Ram 2500 Laramie Quad Cab,18,188000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+40602,Dodge,Charger R/T,18,91300,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,4500
+41503,Dodge,Charger SRT8,18,165454,390.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,4000
+41654,Dodge,Dakota Sport,18,76163,230.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,18500
+41698,Dodge,Dakota SLT Quad Cab,18,201509,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,6500
+42137,Dodge,Dakota SLT Quad Cab,18,232492,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,6500
+42898,Dodge,Magnum Base,18,133255,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4000
+44730,Dodge,Ram 1500 Laramie Mega Cab,18,300183,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3000
+45527,Dodge,Ram 1500 Laramie,18,114000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9950
+45533,Dodge,Ram 1500 ST,18,144770,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,6500
+46041,Dodge,Charger SRT8,18,107800,425.0HP 6.1L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,17500
+46928,Dodge,Ram 2500 Laramie Quad Cab,18,185000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,7100
+47616,Dodge,Ram 2500 Laramie Quad Cab,18,124747,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,4000
+48265,Dodge,Ram 2500 SLT Quad Cab,18,114000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10700
+49315,Dodge,Durango R/T,18,96000,355.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,34900
+50070,Dodge,Challenger SRT8,18,27407,425.0HP 6.1L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,22550
+50340,Dodge,Ram 2500 Laramie Quad Cab,18,218000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,13500
+50751,Dodge,Ram 1500 Laramie Mega Cab,18,148000,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9900
+50800,Dodge,Ram 1500 Laramie,18,140450,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+50903,Dodge,Ram 2500 Laramie Quad Cab,18,134000,330.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9500
+51431,Dodge,Charger R/T,18,130000,350.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,7200
+51793,Dodge,Ram 1500 Laramie Mega Cab,18,300183,325.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16900
+53204,Dodge,Ram 1500 Laramie Mega Cab,18,300183,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6995

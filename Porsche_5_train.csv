@@ -1,0 +1,116 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1939,Porsche,911 Turbo S,5,22000,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,136900
+2568,Porsche,911 GT3,5,1568,475.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,1599000
+2629,Porsche,Cayenne E-Hybrid S,5,31000,416.0HP 3.0L V6 Cylinder Engine Plug-In Electric/Gas,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,89750
+3929,Porsche,Macan S,5,50000,348.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,28500
+4880,Porsche,911 GT3 RS,5,1750,4.0L H6 24V GDI DOHC,7-Speed Automatic with Auto-Shift,None reported,89995
+5684,Porsche,911 Carrera 4S,5,31654,3.0L H6 24V GDI DOHC Twin Turbo,7-Speed Manual,None reported,23754
+5830,Porsche,Macan S,5,17000,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,None reported,33400
+6084,Porsche,911 Carrera,5,15509,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44400
+7002,Porsche,Cayenne Platinum Edition,5,50166,300.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,43500
+8145,Porsche,Navigator Reserve,5,17500,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,105000
+8174,Porsche,Panamera Base,5,22500,330.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,78000
+8470,Porsche,Cayenne Platinum Edition,5,52744,420.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39799
+8788,Porsche,Panamera 2,5,67499,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,34900
+9009,Porsche,Cayenne Platinum Edition,5,81880,3.0L V6 24V GDI DOHC Turbo,8-Speed Automatic with Auto-Shift,None reported,21375
+9195,Porsche,Cayenne Base,5,59338,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,42499
+9808,Porsche,Cayenne Base,5,45900,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37500
+10842,Porsche,Macan S,5,50000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,55999
+12159,Porsche,911 Turbo S,5,45000,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,209000
+12301,Porsche,911 Carrera S,5,28500,443.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,67900
+12431,Porsche,718 Boxster GTS,5,6700,365.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,65000
+12473,Porsche,911 Carrera,5,28000,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,56900
+12761,Porsche,Cayenne AWD,5,23230,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,42500
+12823,Porsche,911 Turbo S,5,22500,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,154900
+12872,Porsche,911 Carrera S,5,28470,385.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,179900
+14237,Porsche,911 Carrera S,5,60000,400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,48990
+14419,Porsche,Cayenne E-Hybrid S Platinum Edition,5,74000,416.0HP 3.0L V6 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,None reported,49900
+14818,Porsche,740e xDrive iPerformance,5,36700,322.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,A/T,At least 1 accident or damage reported,48990
+15884,Porsche,718 Boxster S,5,7000,350.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,48000
+16680,Porsche,Cayenne Base,5,59338,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,49936
+16945,Porsche,Panamera Platinum Edition,5,13500,325.0HP 2.9L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,22999
+17015,Porsche,Macan S,5,25520,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,73900
+18002,Porsche,Cayenne Base,5,69100,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36500
+18868,Porsche,718 Boxster GTS,5,9500,350.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32000
+18869,Porsche,718 Boxster S,5,6700,350.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,23999
+18932,Porsche,A-Class A 220 4MATIC,5,30300,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29000
+19840,Porsche,Cayenne Base,5,33000,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,34999
+19851,Porsche,911 GT3,5,2165,4.0L H6 24V GDI DOHC,8-Speed Automatic,None reported,279950
+19852,Porsche,Cayenne AWD,5,52149,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,57500
+20296,Porsche,Macan S,5,40600,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,65000
+20513,Porsche,Macan Base,5,19800,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,53800
+21420,Porsche,Panamera 4,5,42526,330.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,56900
+21725,Porsche,718 Boxster GTS,5,10400,572.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,99750
+21834,Porsche,Panamera 4S,5,41515,3.0L V6 24V GDI DOHC Twin Turbo,7-Speed Automatic with Auto-Shift,None reported,33591
+22044,Porsche,911 Turbo S,5,18000,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,49500
+22148,Porsche,Macan S,5,30000,348.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,27500
+22895,Porsche,718 Cayman GT4,5,29850,414.0HP 4.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29000
+24015,Porsche,911 Carrera 4S,5,3369,3.0L H6 24V GDI DOHC Twin Turbo,7-Speed Automatic with Auto-Shift,None reported,179900
+24826,Porsche,911 Carrera,5,19800,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,47500
+24903,Porsche,Macan S,5,25108,348.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,50000
+24964,Porsche,718 Cayman S,5,9500,350.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,66000
+25076,Porsche,911 Carrera,5,29500,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34000
+25540,Porsche,Macan Base,5,22354,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,None reported,38999
+26521,Porsche,Cayenne Base,5,41500,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,44800
+27037,Porsche,718 Boxster Base,5,49899,350.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,112500
+27982,Porsche,Cayenne Base,5,59338,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37500
+28143,Porsche,Macan S,5,82300,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,34600
+28772,Porsche,911 Turbo S,5,21165,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,None reported,61350
+29553,Porsche,718 Boxster Base,5,6700,300.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,67000
+29828,Porsche,911 Turbo S,5,30200,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,129000
+30137,Porsche,Macan S,5,24500,348.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,38500
+30868,Porsche,Cayenne Base,5,39611,3.0L V6 24V GDI DOHC Turbo,8-Speed Automatic,None reported,29255
+30892,Porsche,911 Turbo Cabriolet,5,88000,480.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,54000
+31054,Porsche,Cayenne AWD,5,21450,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,At least 1 accident or damage reported,36000
+32145,Porsche,911 Turbo S,5,1912,640.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,279000
+32835,Porsche,911 Turbo S,5,79635,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,19995
+33266,Porsche,911 Carrera 4S,5,42635,355.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,52590
+33349,Porsche,Taycan Base,5,25000,Electric Motor Electric Fuel System,2-Speed A/T,None reported,51000
+33769,Porsche,911 Turbo S,5,22000,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,234900
+33875,Porsche,Panamera Turbo,5,42596,520.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32000
+34018,Porsche,Cayenne Base,5,24000,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38000
+34566,Porsche,Cayenne AWD,5,54423,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43250
+35088,Porsche,Macan S,5,49000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,32999
+35823,Porsche,Cayenne AWD,5,6900,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,None reported,76500
+35998,Porsche,Cayenne Base,5,58664,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32999
+36349,Porsche,Cayenne E-Hybrid S Platinum Edition,5,69404,416.0HP 3.0L V6 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,None reported,61000
+36993,Porsche,911 Carrera,5,19800,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,76900
+37809,Porsche,Cayenne AWD,5,48500,420.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,41000
+37860,Porsche,911 Turbo S,5,22000,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,56900
+38049,Porsche,Macan S,5,108000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,34995
+38252,Porsche,Cayenne AWD,5,49899,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30000
+38369,Porsche,911 GT3 RS,5,23700,475.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,99800
+38478,Porsche,911 Turbo S,5,15000,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,129000
+38574,Porsche,Panamera Turbo,5,6200,520.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,99750
+38961,Porsche,911 Turbo S,5,12088,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,169000
+40066,Porsche,911 Carrera,5,28000,379.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,53950
+40195,Porsche,911 Turbo S,5,31000,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed M/T,None reported,149900
+40307,Porsche,Panamera Base,5,69000,330.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,42500
+40577,Porsche,Macan Base,5,82300,330.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,35500
+41042,Porsche,A4 2.0T Titanium Premium,5,27532,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,27900
+41843,Porsche,Macan Base,5,40600,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41500
+43287,Porsche,911 Carrera S,5,30000,400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,78500
+43691,Porsche,Cayenne Platinum Edition,5,43534,300.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43500
+45231,Porsche,Macan S,5,55000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,69500
+45265,Porsche,Cayenne Base,5,36000,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,41995
+45301,Porsche,Macan S,5,36700,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,44999
+45459,Porsche,Macan S,5,31681,348.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,44400
+46159,Porsche,Panamera 4 Edition,5,56846,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28000
+46493,Porsche,911 Turbo S,5,31000,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,179900
+46494,Porsche,718 Boxster S,5,6700,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,46900
+46861,Porsche,Macan S,5,20250,375.0HP 2.9L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,79950
+47018,Porsche,Cayenne GTS,5,21600,440.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41000
+47218,Porsche,718 Cayman S,5,9500,350.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,56000
+47780,Porsche,Macan S,5,72329,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,36000
+48120,Porsche,Cayenne AWD,5,29850,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,61350
+48713,Porsche,718 Cayman S,5,9500,350.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,69000
+48947,Porsche,911 Turbo S,5,22000,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,174900
+48964,Porsche,Cayenne S,5,18000,420.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,124000
+51326,Porsche,911 GT3 RS,5,20561,4.0L H6 24V GDI DOHC,7-Speed A/T,None reported,215000
+51585,Porsche,911 Turbo S,5,12088,580.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,129000
+51695,Porsche,Macan S,5,20500,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,63000
+51760,Porsche,Taycan Base,5,63250,375.0HP Electric Motor Electric Fuel System,1-Speed A/T,At least 1 accident or damage reported,55999
+51930,Porsche,Cayenne Turbo S,5,56000,550.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42000
+52415,Porsche,Cayenne AWD,5,45090,335.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,63999
+53980,Porsche,911 GT3,5,4000,475.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,99000
+54118,Porsche,911 Carrera S,5,46000,420.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,48000

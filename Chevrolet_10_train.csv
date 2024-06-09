@@ -1,0 +1,79 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1087,Chevrolet,Silverado 1500 2LT,10,102604,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,25000
+2696,Chevrolet,Tahoe LT,10,103814,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,34000
+2823,Chevrolet,Cruze LT Automatic,10,134602,1.4L I4 16V GDI DOHC Turbo,6-Speed Automatic,None reported,9995
+2941,Chevrolet,Camaro 2LT,10,69000,323.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+3829,Chevrolet,Malibu Limited LT,10,89148,2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18995
+4198,Chevrolet,Tahoe LTZ,10,104000,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,13500
+5656,Chevrolet,Suburban LT,10,92700,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19975
+6621,Chevrolet,Malibu Limited LT,10,110000,2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,10500
+7042,Chevrolet,Equinox 2LT,10,91420,264.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19000
+7217,Chevrolet,Suburban 1500 LT,10,171750,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,13000
+7945,Chevrolet,Cruze LS,10,118700,153.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,11800
+8437,Chevrolet,Camaro ZL1,10,51850,650.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,44800
+8577,Chevrolet,Camaro 1SS,10,92500,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,46000
+9972,Chevrolet,Silverado 1500 1LZ,10,111095,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,Transmission Overdrive Switch,None reported,32000
+11881,Chevrolet,Suburban LT,10,125575,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,27999
+14675,Chevrolet,Silverado 1500 2LT,10,102604,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,26500
+14796,Chevrolet,Camaro 1LT,10,97579,323.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15000
+15071,Chevrolet,Cruze LTZ,10,87000,138.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+15893,Chevrolet,Cruze LS,10,125559,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,11250
+16033,Chevrolet,Suburban 1500 LTZ,10,140000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,14500
+16326,Chevrolet,Suburban 1500 LTZ,10,96653,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,11000
+16586,Chevrolet,Camaro 2LT,10,97579,323.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,15000
+16803,Chevrolet,Cruze LTZ,10,122971,138.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17900
+16893,Chevrolet,Silverado 1500 W/T,10,110000,285.0HP 4.3L V6 Cylinder Engine Flex Fuel Capability,A/T,None reported,16000
+16901,Chevrolet,Cruze LTZ,10,148000,138.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,14500
+17043,Chevrolet,Camaro 1LT,10,74000,323.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,12995
+18082,Chevrolet,Silverado 2500 LT,10,71924,360.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,15599
+19791,Chevrolet,Express 2500 Work Van,10,11806,324.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,10700
+20307,Chevrolet,Express 1500 Work Van,10,134602,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,9995
+23789,Chevrolet,Camaro 2SS,10,6600,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,64000
+24043,Chevrolet,Express 1500 Work Van,10,110000,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11499
+24248,Chevrolet,Silverado 2500 LT,10,92700,360.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,15995
+25643,Chevrolet,Suburban 1500 LTZ,10,162750,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12995
+26781,Chevrolet,Suburban 1500 LT,10,169500,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,14000
+27382,Chevrolet,Cruze LTZ,10,126000,138.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11495
+27475,Chevrolet,Camaro 2SS,10,90360,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17500
+27697,Chevrolet,Impala 2LZ,10,122961,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,17100
+28145,Chevrolet,Silverado 2500 LT,10,118000,360.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,17500
+28637,Chevrolet,Tahoe LTZ,10,110000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17000
+28873,Chevrolet,Camaro 1LT,10,67800,323.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21500
+29206,Chevrolet,Camaro 2LT,10,122971,312.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,17500
+29410,Chevrolet,Silverado 1500 1LT,10,102604,285.0HP 4.3L V6 Cylinder Engine Flex Fuel Capability,A/T,None reported,15000
+29470,Chevrolet,Avalanche 1500 LT,10,98000,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,16995
+31883,Chevrolet,Colorado ZR2,10,84352,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,23000
+31911,Chevrolet,Camaro 2SS,10,88000,426.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,44800
+32067,Chevrolet,Silverado 1500 1LZ,10,111095,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,16000
+33167,Chevrolet,Silverado 1500 LTZ,10,58800,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,27500
+33827,Chevrolet,Suburban 1500 LT,10,169500,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,18000
+34784,Chevrolet,Suburban 1500 LTZ,10,54000,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,20000
+34795,Chevrolet,Tahoe LTZ,10,162731,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,64000
+35432,Chevrolet,Silverado 1500 1LT,10,88000,285.0HP 4.3L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,27000
+35744,Chevrolet,Camaro 1LT,10,75000,323.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,18500
+35969,Chevrolet,Express 2500 Work Van,10,144000,324.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,24500
+36712,Chevrolet,Camaro 2LT,10,87500,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,29500
+36724,Chevrolet,Suburban LTZ,10,67500,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,18000
+37183,Chevrolet,Cruze LS,10,110000,136.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+37197,Chevrolet,Corvette Base,10,139804,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,47500
+37296,Chevrolet,Tahoe LT,10,113395,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,18500
+37913,Chevrolet,Silverado 1500 1LT,10,142792,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,24850
+37984,Chevrolet,Suburban 1500 LTZ,10,113395,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,31900
+38691,Chevrolet,Camaro 2SS,10,92000,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18000
+39599,Chevrolet,Express 1500 Work Van,10,116226,195.0HP 4.3L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,13000
+40030,Chevrolet,Avalanche 1500 LT,10,170000,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,22500
+40240,Chevrolet,Suburban 1500 LTZ,10,95500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,14995
+40481,Chevrolet,Cruze LS,10,100000,153.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+42130,Chevrolet,Tahoe LTZ,10,134500,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,At least 1 accident or damage reported,17000
+42218,Chevrolet,Camaro 2LT,10,97579,323.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,28000
+44050,Chevrolet,Tahoe LTZ,10,105100,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22500
+46004,Chevrolet,Suburban 1500 LTZ,10,163000,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,17500
+47036,Chevrolet,Suburban Z71,10,134655,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,21800
+47263,Chevrolet,Tahoe LTZ,10,129000,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,40500
+47866,Chevrolet,Suburban 1500 LTZ,10,80150,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+49099,Chevrolet,Suburban 1500 LTZ,10,111095,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,20900
+50462,Chevrolet,Malibu Limited LT,10,104000,2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15500
+53480,Chevrolet,Suburban 1500 LT,10,142400,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,At least 1 accident or damage reported,13500
+53812,Chevrolet,Silverado 1500 LT,10,49620,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,51900
+53901,Chevrolet,Tahoe LTZ,10,500,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,37000
+54126,Chevrolet,Camaro 2LT,10,86170,323.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,18000

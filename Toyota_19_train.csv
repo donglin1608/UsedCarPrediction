@@ -1,0 +1,118 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1345,Toyota,Tundra SR5 Double Cab,19,135000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+2040,Toyota,Camry XLE,19,98528,158.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7450
+2424,Toyota,Camry Solara SLE V6,19,245000,225.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3750
+2499,Toyota,Camry Solara SLE,19,208864,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7300
+2819,Toyota,Tundra SR5 Access Cab,19,138000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7750
+3763,Toyota,Tundra SR5 Double Cab,19,235000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,29999
+4231,Toyota,Tundra SR5 Access Cab,19,159500,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,14000
+4384,Toyota,Tundra SR5 Double Cab,19,229450,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,11000
+4389,Toyota,Tundra SR5 Double Cab,19,2894,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,65700
+4535,Toyota,Tundra SR5 Double Cab,19,67400,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,59980
+4648,Toyota,Tundra SR5 Access Cab,19,201509,240.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15000
+4769,Toyota,Matrix XR,19,186040,130.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+4898,Toyota,Sequoia Limited,19,86000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+5513,Toyota,Camry Solara SLE V6,19,138000,225.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9950
+5758,Toyota,Tundra SR5 Double Cab,19,201509,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+5875,Toyota,Yaris L,19,173452,106.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+6946,Toyota,Tacoma Double Cab,19,264893,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6950
+7372,Toyota,Avalon Limited,19,156111,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,9999
+7541,Toyota,Highlander XLE,19,152270,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6900
+7839,Toyota,Camry LE,19,227010,133.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,3850
+7923,Toyota,Tundra SR5 Double Cab,19,116320,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,23977
+8659,Toyota,Sequoia SR5,19,244200,240.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3950
+9015,Toyota,Land Cruiser Base,19,142215,230.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,10000
+9589,Toyota,Camry LE,19,108000,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,7850
+10006,Toyota,Tundra SR5 Double Cab,19,199400,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4500
+10294,Toyota,Tundra SR5 Double Cab,19,199400,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9950
+10471,Toyota,Sequoia SR5,19,131800,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,5800
+10616,Toyota,Tacoma Double Cab,19,24985,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,33580
+11897,Toyota,Tundra SR5 Double Cab,19,123500,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7900
+13338,Toyota,Corolla LE,19,200000,130.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,5200
+13513,Toyota,4Runner Limited,19,205000,245.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,9950
+14806,Toyota,Tundra SR5 Double Cab,19,199296,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,25000
+15231,Toyota,Tundra SR5 Double Cab,19,24933,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+15381,Toyota,Tundra SR5 Access Cab,19,99000,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3500
+15583,Toyota,Corolla LE,19,173452,130.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,3950
+16377,Toyota,Camry LE,19,190640,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,9500
+18005,Toyota,Tundra SR5 Double Cab,19,186117,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,21500
+18081,Toyota,Camry LE,19,108000,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9599
+18322,Toyota,Tundra SR5 Access Cab,19,110897,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,12980
+18344,Toyota,Tundra SR5 Access Cab,19,209500,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,7500
+18443,Toyota,Tundra SR5 Double Cab,19,199400,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+18571,Toyota,Camry LE,19,130921,225.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+19343,Toyota,Tundra SR5 Double Cab,19,130307,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+19413,Toyota,Tundra SR5 Access Cab,19,229450,240.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,3500
+19605,Toyota,Tundra SR5 Double Cab,19,256000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+20187,Toyota,Tundra SR5 Access Cab,19,170000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+21365,Toyota,Tundra SR5 Double Cab,19,228000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3850
+21696,Toyota,Tundra SR5 Access Cab,19,156350,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3990
+21737,Toyota,Camry LE,19,160000,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,6500
+22340,Toyota,Camry LE,19,76170,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,19500
+22930,Toyota,Tundra SR5 Access Cab,19,153000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,2900
+22952,Toyota,Tundra SR5 Double Cab,19,130000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,29500
+23727,Toyota,Matrix XRS,19,143600,180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,6250
+24027,Toyota,Avalon Limited,19,170000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,4900
+24222,Toyota,Camry LE,19,108000,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7850
+24522,Toyota,Camry Solara SLE,19,138000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,9950
+25270,Toyota,Camry Solara SLE V6,19,97700,225.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3995
+25924,Toyota,Tundra SR5 Double Cab,19,199296,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,3550
+26488,Toyota,Camry LE,19,173452,133.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+26704,Toyota,Sequoia Limited,19,136000,273.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,23500
+27140,Toyota,Camry LE,19,27989,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,32850
+27416,Toyota,Tundra SR5 Access Cab,19,209500,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,6450
+27490,Toyota,4Runner Limited,19,186117,245.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,29895
+27790,Toyota,Sequoia Limited,19,109499,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,109499
+28171,Toyota,Tundra SR5 Double Cab,19,75000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,19500
+28195,Toyota,Tundra SR5 Double Cab,19,145000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+28351,Toyota,Sequoia SR5,19,170000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7900
+28885,Toyota,Tundra SR5 Double Cab,19,133510,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+29044,Toyota,Sienna XLE Limited,19,112630,266.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,22500
+29653,Toyota,Tundra SR5 Double Cab,19,229450,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,34995
+29839,Toyota,Tundra SR5 Double Cab,19,201509,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11000
+29855,Toyota,FJ Cruiser Base,19,229450,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6750
+30046,Toyota,325 i,19,130307,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9950
+30467,Toyota,Sequoia SR5,19,141800,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4800
+30774,Toyota,Corolla LE,19,124756,130.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,12499
+32382,Toyota,Corolla LE,19,100100,130.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,4999
+32802,Toyota,Tundra SR5 Access Cab,19,152520,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,26500
+34691,Toyota,Camry LE,19,108000,132.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6700
+34946,Toyota,Tundra SR5 Access Cab,19,209500,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7900
+36238,Toyota,Tundra SR5 Double Cab,19,199400,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,23500
+36382,Toyota,Tundra SR5 Access Cab,19,170000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,29800
+36899,Toyota,Tundra SR5 Double Cab,19,199400,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,8500
+37093,Toyota,Sequoia Limited,19,86000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,28500
+37147,Toyota,Tundra SR5 Access Cab,19,209500,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,4700
+37222,Toyota,Yaris Base,19,148800,115.0HP 1.7L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,8250
+37401,Toyota,Camry Solara SLE V6,19,123921,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,4400
+37569,Toyota,Tundra SR5 Double Cab,19,91545,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10900
+37791,Toyota,Tundra SR5,19,99000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8900
+38438,Toyota,Sequoia Limited,19,89700,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,10500
+40717,Toyota,Camry LE,19,108000,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6800
+40856,Toyota,Tundra SR5 Double Cab,19,229450,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6950
+42116,Toyota,Avalon Limited,19,133255,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7900
+42793,Toyota,Sequoia SR5,19,244200,240.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,3950
+42893,Toyota,Tundra SR5 Double Cab,19,229450,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,30000
+42982,Toyota,Tundra SR5 Double Cab,19,170000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7600
+43072,Toyota,Tundra SR5 Double Cab,19,167500,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,28900
+43235,Toyota,Sequoia Limited,19,151896,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9100
+43899,Toyota,Tundra SR5 Double Cab,19,170000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6700
+44129,Toyota,4Runner SR5,19,220450,245.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7945
+44207,Toyota,Corolla LE,19,170000,130.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,4500
+44240,Toyota,Camry LE,19,109000,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,7850
+45366,Toyota,Camry LE,19,158000,133.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,4750
+47232,Toyota,Tundra SR5 Access Cab,19,229450,240.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,2800
+48563,Toyota,Tundra SR5 Double Cab,19,199400,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8995
+49730,Toyota,Tundra SR5 Double Cab,19,112630,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,30000
+50795,Toyota,Tundra SR5 Double Cab,19,209500,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,26599
+50796,Toyota,Tundra SR5 Double Cab,19,199400,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,18900
+51032,Toyota,Sequoia Limited,19,170000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9500
+51213,Toyota,Sequoia SR5,19,141800,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4900
+51833,Toyota,Matrix XRS,19,173452,180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,7200
+51950,Toyota,Tundra SR5 Double Cab,19,201509,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,35300
+51983,Toyota,Camry LE,19,108000,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,7900
+52648,Toyota,Tundra SR5 Double Cab,19,135000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8250
+52687,Toyota,Tundra Limited,19,138000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6499
+53015,Toyota,Tundra SR5 Access Cab,19,170000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,9750
+53900,Toyota,Tundra SR5 Access Cab,19,227010,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,5750
+54249,Toyota,Matrix XRS,19,143600,180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12000

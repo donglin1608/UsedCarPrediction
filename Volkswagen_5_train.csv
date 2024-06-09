@@ -1,0 +1,55 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+672,Volkswagen,Beetle 2.0T S,5,35340,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23900
+2042,Volkswagen,Golf GTI 2.0T SE 4-Door,5,67400,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,34500
+2529,Volkswagen,Beetle 2.0T S,5,36824,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,26000
+3412,Volkswagen,Beetle 2.0T S,5,46000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,35000
+5367,Volkswagen,Golf GTI 2.0T Autobahn 4-Door,5,6400,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,33500
+8871,Volkswagen,Golf GTI 2.0T SE 4-Door,5,72000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,30000
+9463,Volkswagen,Beetle 2.0T Final Edition SE,5,32000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28000
+10169,Volkswagen,Beetle 2.0T Final Edition SE,5,48000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,72000
+10411,Volkswagen,Jetta 1.4T R-Line,5,71000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16100
+13348,Volkswagen,Jetta 1.4T R-Line,5,53452,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+13551,Volkswagen,Beetle 2.0T Final Edition SE,5,32000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32750
+13639,Volkswagen,Beetle 2.0T Final Edition SE,5,32000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,32750
+14295,Volkswagen,Beetle 2.0T Final Edition SE,5,85000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32750
+14467,Volkswagen,Golf GTI 2.0T SE 4-Door,5,67800,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,35900
+15563,Volkswagen,Jetta 1.4T S,5,59000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+18237,Volkswagen,Beetle 2.0T S,5,69750,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,30999
+18288,Volkswagen,Beetle 2.0T Final Edition SE,5,19000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,33500
+19334,Volkswagen,Atlas 3.6L SEL Premium R-Line,5,14000,276.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30900
+19501,Volkswagen,Jetta 1.4T SE,5,59257,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,18200
+20059,Volkswagen,A3 2.0T Premium,5,28211,184.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,27500
+21227,Volkswagen,Beetle 2.0T S,5,36824,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,26000
+21267,Volkswagen,Golf GTI 2.0T S 4-Door,5,73500,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18749
+21562,Volkswagen,Jetta 1.4T S,5,55000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,25000
+22125,Volkswagen,Tiguan 2.0T SEL Premium R-Line,5,49500,184.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,25000
+23269,Volkswagen,Golf GTI 2.0T SE 4-Door,5,25000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,31500
+24105,Volkswagen,Tiguan 2.0T SEL Premium R-Line,5,36500,184.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,25500
+25493,Volkswagen,Golf GTI 2.0T SE 4-Door,5,38360,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,None reported,54599
+25817,Volkswagen,Touareg V6 Executive,5,48000,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,31995
+26183,Volkswagen,Jetta 1.4T S,5,59000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17500
+26419,Volkswagen,Golf R 4-Door w/DCC & Navigation,5,29400,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29000
+26480,Volkswagen,Jetta 1.4T S,5,61000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,35900
+27040,Volkswagen,Golf GTI 2.0T SE w/Performance Package 4-Door,5,59250,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,18999
+27109,Volkswagen,Jetta 1.4T R-Line,5,96000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14980
+27581,Volkswagen,Beetle 2.0T S,5,35340,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,26500
+27975,Volkswagen,Golf GTI 2.0T SE 4-Door,5,9400,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,29000
+29281,Volkswagen,Golf GTI 2.0T SE 4-Door,5,33000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,27500
+31356,Volkswagen,Tiguan 2.0T SEL Premium R-Line,5,74000,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,25500
+31511,Volkswagen,Jetta 1.4T S,5,59000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+32483,Volkswagen,Atlas 3.6L SE w/Technology,5,24108,276.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,44870
+32922,Volkswagen,Beetle 2.0T S,5,33000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23999
+33681,Volkswagen,Arteon 2.0T SEL Premium R-Line,5,42125,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,32750
+37689,Volkswagen,Arteon 2.0T SEL R-Line,5,36824,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27500
+38482,Volkswagen,Jetta 1.4T S,5,87000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,21495
+38700,Volkswagen,Jetta 1.4T S,5,71669,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23400
+39224,Volkswagen,Jetta 1.4T S,5,59000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+39590,Volkswagen,Golf GTI 2.0T SE 4-Door,5,29000,210.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29500
+40165,Volkswagen,Eos 2.0T,5,58000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,32900
+41401,Volkswagen,Beetle 2.0T Final Edition SE,5,32000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32750
+42055,Volkswagen,CC 2.0T Sport,5,1685,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,15550
+44680,Volkswagen,Jetta 1.4T S,5,52744,180.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,25800
+45904,Volkswagen,Jetta 1.4T R-Line,5,61000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13500
+48741,Volkswagen,Jetta 1.4T SE,5,61000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27899
+51752,Volkswagen,Jetta 1.4T S,5,59000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,21499
+53978,Volkswagen,Beetle 2.0T S,5,26000,174.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,36500

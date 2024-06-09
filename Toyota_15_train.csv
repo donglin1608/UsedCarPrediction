@@ -1,0 +1,43 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1029,Toyota,FJ Cruiser Base,15,193827,239.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,23500
+2752,Toyota,Corolla LE,15,184421,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8100
+3451,Toyota,GR86 Premium,15,76000,228.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18000
+4588,Toyota,Tundra SR5 Double Cab,15,100900,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6999
+5823,Toyota,Corolla LE,15,57939,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,5899
+7699,Toyota,RAV4 Base,15,177702,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,8500
+10898,Toyota,Tacoma Base,15,48750,159.0HP 2.7L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,15900
+11550,Toyota,Corolla LE,15,96800,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+12688,Toyota,Camry Solara SLE,15,96653,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12500
+14256,Toyota,Venza XLE,15,102000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,39000
+15716,Toyota,Camry SE,15,139804,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5800
+16790,Toyota,4Runner Trail,15,137000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,14500
+18091,Toyota,RAV4 Base,15,123620,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,9950
+18411,Toyota,Camry XLE,15,98528,158.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7450
+20063,Toyota,Corolla LE,15,176702,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,3850
+21984,Toyota,Tacoma Base,15,48750,159.0HP 2.7L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,17900
+23008,Toyota,Tacoma Base,15,36000,159.0HP 2.7L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,40500
+23861,Toyota,RAV4 Base,15,123620,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,14000
+24516,Toyota,Tundra SR5 Double Cab,15,201000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7200
+24977,Toyota,Tacoma Base,15,24985,159.0HP 2.7L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,2500
+27400,Toyota,4Runner SR5 Premium,15,91900,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7599
+33461,Toyota,Sequoia SR5,15,196300,381.0HP 5.7L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,8995
+33860,Toyota,Tundra SR5 Access Cab,15,179200,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,11000
+34377,Toyota,Corolla LE,15,143346,132.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,10000
+34615,Toyota,Tacoma PreRunner,15,87500,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12900
+34629,Toyota,Camry Hybrid Base,15,133121,147.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,9500
+34764,Toyota,Camry Solara SLE,15,159890,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,6500
+35684,Toyota,Camry Hybrid Base,15,90367,147.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,9499
+35857,Toyota,RAV4 Base,15,68200,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,16900
+36535,Toyota,FJ Cruiser Base,15,193827,239.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+37592,Toyota,Camry SE,15,194000,133.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3900
+38652,Toyota,RAV4 Base,15,142314,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,8450
+41201,Toyota,Sequoia Limited,15,123500,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17900
+41425,Toyota,Avalon Limited,15,125500,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,8950
+41661,Toyota,Highlander Base,15,170000,130.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+43044,Toyota,Camry Solara SLE,15,73000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16600
+47288,Toyota,Sequoia Limited,15,158564,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,6250
+47675,Toyota,Sequoia SR5,15,154860,273.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+47886,Toyota,Camry Solara SLE,15,92861,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9250
+48418,Toyota,Prius Touring,15,92500,76.0HP 1.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,12000
+51260,Toyota,Sequoia SR5,15,51400,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,20000
+52710,Toyota,Camry Solara SLE V6,15,159870,225.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15600

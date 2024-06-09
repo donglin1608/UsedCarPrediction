@@ -1,0 +1,59 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+360,Mazda,Mazda3 i Touring,9,72000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,18900
+4686,Mazda,Mazda3 i SV,9,124000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,21900
+5575,Mazda,Mazda6 i Touring,9,124000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,11990
+5966,Mazda,Mazda3 i Touring,9,124000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12500
+6360,Mazda,CX-30 Premium Package,9,62200,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21500
+7764,Mazda,Mazda3 FWD w/Preferred Package,9,51300,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,25980
+8337,Mazda,Mazda6 i Touring,9,119500,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,17000
+8537,Mazda,Mazda6 i Touring,9,119500,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,13000
+9811,Mazda,Mazda3 i SV,9,72000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,23000
+10260,Mazda,Mazda3 s Sport,9,107500,187.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,10500
+11202,Mazda,Mazda6 i Touring,9,74000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23300
+11758,Mazda,Mazda6 i Touring,9,91700,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,17000
+12570,Mazda,Mazda6 i Touring,9,120000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,11500
+12806,Mazda,Mazda6 i Touring,9,124000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,34500
+14148,Mazda,Mazda6 i Touring,9,64532,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,21000
+15984,Mazda,Mazda6 i Touring,9,85385,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15550
+16270,Mazda,Mazda3 i Sport,9,122000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11500
+16278,Mazda,Mazda6 i Grand Touring,9,124000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19000
+16551,Mazda,Mazda3 i Touring,9,134000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,19900
+18184,Mazda,Mazda3 i Touring,9,119500,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,22999
+18655,Mazda,Mazda3 i SV,9,126700,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,14000
+18701,Mazda,Mazda3 i SV,9,92000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15500
+18996,Mazda,Mazda3 i Touring,9,124000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,25000
+19384,Mazda,Mazda3 i SV,9,72700,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,26500
+19532,Mazda,Mazda3 i Touring,9,118500,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+20317,Mazda,Mazda3 i Sport,9,72784,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,21000
+21202,Mazda,Mazda3 i Touring,9,119500,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,12000
+21402,Mazda,Mazda3 s Sport,9,77000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,21900
+22179,Mazda,MX-5 Miata RF Grand Touring,9,155000,181.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,22500
+22347,Mazda,Mazda3 i Touring,9,119500,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,9500
+22652,Mazda,CX-9 Grand Touring,9,26339,2.5L I4 16V GDI DOHC,6-Speed Automatic,At least 1 accident or damage reported,7945
+23581,Mazda,Mazda6 i Grand Touring,9,135000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,6499
+23812,Mazda,Mazda3 i SV,9,91500,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17599
+25455,Mazda,Mazda6 i Touring,9,124000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12900
+27705,Mazda,Mazda3 i Touring,9,119500,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,17500
+29136,Mazda,Mazda6 i Touring,9,124000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10900
+29803,Mazda,Mazda6 i Touring,9,124000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19995
+35406,Mazda,Mazda6 i Touring,9,119500,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,16750
+36660,Mazda,Mazda6 i Touring,9,124000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,12900
+37056,Mazda,CX-5 Grand Touring,9,73948,2.5L I4 16V GDI DOHC,6-Speed Automatic,None reported,35690
+37182,Mazda,Mazda3 i Touring,9,119000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,12000
+39237,Mazda,Mazda6 i Touring,9,45000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,21995
+39299,Mazda,Mazda6 i Touring,9,67482,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,22800
+39448,Mazda,Mazda3 i Touring,9,21500,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,21500
+39722,Mazda,Mazda3 i Sport,9,24850,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,9000
+41328,Mazda,Mazda3 i Touring,9,118500,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,11500
+43395,Mazda,Mazda3 i Sport,9,122000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11500
+45047,Mazda,Mazda3 i Sport,9,118500,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11500
+45663,Mazda,Mazda3 i Touring,9,119900,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,17000
+46397,Mazda,Mazda3 i Sport,9,162000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11500
+48677,Mazda,Mazda3 i Sport,9,162000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11500
+49170,Mazda,Mazda6 i Touring,9,124000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,13000
+51244,Mazda,Mazda3 i Sport,9,137273,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,8500
+51749,Mazda,Mazda6 i Touring,9,76000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,17000
+51955,Mazda,Mazda6 i Touring,9,124000,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,12900
+52834,Mazda,Mazda3 i SV,9,52000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,17500
+53141,Mazda,Mazda6 i Touring,9,120250,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,13000
+54150,Mazda,Mazda3 i Sport,9,162000,155.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,11500

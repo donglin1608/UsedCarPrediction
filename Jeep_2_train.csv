@@ -1,0 +1,204 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+64,Jeep,Gladiator Rubicon,2,24500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,39500
+189,Jeep,Gladiator Mojave,2,24850,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,50000
+211,Jeep,Gladiator Rubicon,2,8794,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,63000
+380,Jeep,Grand Cherokee Laredo,2,17000,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,39500
+395,Jeep,Gladiator Willys,2,8400,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,53000
+448,Jeep,Wrangler Sport,2,8794,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,95000
+532,Jeep,Gladiator Sport S,2,43000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46500
+699,Jeep,Wagoneer Series III,2,47907,5.7L V8 32V MPFI DOHC,8-Speed Automatic,None reported,40368
+951,Jeep,Wagoneer Series III,2,30301,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,31599
+990,Jeep,Wrangler Unlimited Sahara,2,7102,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,244896
+1156,Jeep,Gladiator Rubicon,2,25250,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46500
+1511,Jeep,Gladiator Rubicon,2,10500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,59000
+1708,Jeep,Gladiator Overland,2,16500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43999
+1947,Jeep,Grand Wagoneer Series III,2,10971,6.4L V8 16V MPFI OHV,8-Speed Automatic,None reported,144664
+2155,Jeep,Gladiator Rubicon,2,24213,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46500
+2340,Jeep,Grand Cherokee WK Laredo X,2,11164,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35900
+2560,Jeep,Grand Wagoneer Series III,2,19500,471.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48999
+2735,Jeep,Grand Cherokee L Limited,2,7652,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31000
+2743,Jeep,Gladiator Sport S,2,1750,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,55000
+3134,Jeep,Grand Cherokee Limited,2,26800,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,57000
+3626,Jeep,Wrangler Rubicon,2,22000,285.0HP 3.6L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,46000
+3649,Jeep,Grand Cherokee WK Laredo X,2,8400,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,68500
+4041,Jeep,Grand Cherokee L Limited,2,8400,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,33000
+4643,Jeep,Gladiator Rubicon,2,48200,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27900
+4721,Jeep,Grand Wagoneer Series III,2,71536,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,49685
+4942,Jeep,Grand Wagoneer Series III,2,18428,4.0L V8 32V MPFI DOHC Twin Turbo,8-Speed Automatic,None reported,53568
+5119,Jeep,Wrangler Unlimited Sport,2,9642,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,34500
+5317,Jeep,Gladiator Overland,2,15000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,51900
+5420,Jeep,Wrangler Unlimited Sahara,2,22187,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,54995
+5533,Jeep,Gladiator Rubicon,2,27300,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,47500
+5685,Jeep,Gladiator Rubicon,2,12500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,45000
+5884,Jeep,Wrangler 80th Anniversary,2,22000,285.0HP 3.6L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,45000
+6035,Jeep,Wrangler Unlimited Rubicon,2,9642,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,40999
+6119,Jeep,Gladiator Overland,2,10000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,77999
+7070,Jeep,Gladiator Sport S,2,23000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,43000
+7229,Jeep,Gladiator Overland,2,4500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,78999
+7322,Jeep,Gladiator Rubicon,2,27300,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,48500
+7527,Jeep,Gladiator Mojave,2,18000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49000
+8550,Jeep,Gladiator Overland,2,13000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,58000
+8951,Jeep,Gladiator Sport,2,15520,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,65688
+9010,Jeep,Wrangler Unlimited 4xe Sahara,2,57000,375.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,None reported,54000
+9051,Jeep,Gladiator Rubicon,2,15600,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,71999
+9126,Jeep,Wrangler Sport,2,17467,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,72777
+9287,Jeep,Gladiator Mojave,2,24500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49900
+9486,Jeep,Gladiator Mojave,2,24500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24500
+9614,Jeep,Grand Cherokee Limited,2,31700,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46500
+9740,Jeep,Gladiator Overland,2,24500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,61000
+9840,Jeep,Gladiator Mojave,2,24500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46000
+10058,Jeep,Gladiator Overland,2,4900,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44000
+10240,Jeep,Wagoneer Series III,2,2978,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,67900
+10425,Jeep,Grand Cherokee L Limited,2,15741,3.6L V6 24V MPFI DOHC,Automatic,None reported,34645
+10447,Jeep,Gladiator Overland,2,4100,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,62000
+10485,Jeep,Grand Cherokee L Limited,2,10232,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,33687
+10792,Jeep,Gladiator Rubicon,2,27981,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46500
+10933,Jeep,Grand Cherokee L Limited,2,18333,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,69685
+11099,Jeep,Gladiator Sport,2,66015,3.6L V6 24V MPFI DOHC,8-Speed Automatic,At least 1 accident or damage reported,42691
+11227,Jeep,Grand Cherokee L Overland,2,31804,3.6L V6 24V MPFI DOHC,Automatic,At least 1 accident or damage reported,46199
+11447,Jeep,Wagoneer Series III,2,9099,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,104999
+11882,Jeep,Wrangler Unlimited Sahara,2,11459,3.6L V6 24V MPFI DOHC Flexible Fuel,8-Speed Automatic,None reported,93999
+12046,Jeep,Wrangler Unlimited Rubicon 392,2,17000,470.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,46500
+13158,Jeep,Gladiator Sport S,2,44000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43000
+13393,Jeep,Gladiator Rubicon,2,23000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,47500
+13593,Jeep,Gladiator Willys,2,8400,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47000
+13698,Jeep,Gladiator Rubicon,2,20472,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,41999
+13960,Jeep,Gladiator Sport S,2,23600,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,42500
+15027,Jeep,Gladiator Overland,2,7800,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,42000
+15342,Jeep,Grand Cherokee WK Laredo X,2,8794,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,48000
+15486,Jeep,Wrangler Unlimited Rubicon,2,1750,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,53000
+15552,Jeep,Grand Cherokee WK Laredo X,2,26500,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35900
+15638,Jeep,Gladiator Overland,2,15882,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,74995
+15727,Jeep,Wagoneer Series III,2,9099,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,28991
+16585,Jeep,Gladiator Mojave,2,1750,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46000
+17072,Jeep,Grand Wagoneer Series III,2,1090,471.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54500
+17180,Jeep,Gladiator Rubicon,2,9100,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44000
+17239,Jeep,Wagoneer Series III,2,10458,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,69685
+17434,Jeep,Grand Cherokee L Limited,2,22588,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,93999
+17471,Jeep,Grand Cherokee L Limited,2,17381,3.6L V6 24V MPFI DOHC Flexible Fuel,8-Speed Automatic,None reported,30500
+17808,Jeep,Grand Cherokee L Limited,2,24115,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46500
+17832,Jeep,Gladiator Sport S,2,20472,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,31755
+17874,Jeep,Wrangler Unlimited Rubicon 392,2,26500,470.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27500
+17973,Jeep,Gladiator Rubicon,2,17000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,59000
+18238,Jeep,Wagoneer Series III,2,3552,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,20708
+18399,Jeep,Grand Wagoneer Series III,2,14220,6.4L V8 16V MPFI OHV,8-Speed Automatic,None reported,229000
+18789,Jeep,Grand Cherokee L Limited,2,31804,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,43449
+19061,Jeep,Gladiator Overland,2,4100,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,57000
+19088,Jeep,Grand Cherokee L Limited,2,28105,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,32455
+19273,Jeep,Grand Cherokee L Limited,2,1275,3.6L V6 24V MPFI DOHC,Automatic,None reported,67190
+19346,Jeep,Gladiator Mojave,2,13000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,69000
+19634,Jeep,Wrangler Rubicon Hard Rock,2,13000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,65999
+19730,Jeep,Gladiator Sport,2,26716,3.6L V6 24V MPFI DOHC,Automatic,None reported,47541
+19778,Jeep,Wagoneer Series III,2,12209,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,41741
+20027,Jeep,Gladiator Mojave,2,14676,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,48000
+20497,Jeep,Grand Cherokee L Laredo,2,19376,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,45861
+20826,Jeep,Grand Cherokee L Limited,2,25968,3.6L V6 24V MPFI DOHC,Automatic,None reported,41741
+20939,Jeep,Gladiator Rubicon,2,12500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,46000
+21088,Jeep,Wrangler Unlimited Rubicon,2,9000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,44800
+21092,Jeep,Grand Wagoneer Series III,2,4451,6.4L V8 16V MPFI OHV,8-Speed Automatic,None reported,38000
+21277,Jeep,Wrangler Unlimited 4xe Sahara,2,10500,375.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,79999
+21380,Jeep,Wrangler Unlimited 4xe Sahara,2,9888,375.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,None reported,13888
+21621,Jeep,Gladiator Rubicon,2,1240,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,68362
+21622,Jeep,Grand Wagoneer Base,2,2823,6.4L V8 16V MPFI OHV,8-Speed Automatic,None reported,69685
+21750,Jeep,Wagoneer Series III,2,10232,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,47214
+22135,Jeep,Gladiator Rubicon,2,13000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,34000
+22266,Jeep,Grand Cherokee WK Laredo X,2,11164,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47500
+22361,Jeep,Gladiator Sport S,2,23000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,73000
+23000,Jeep,Gladiator Rubicon,2,27981,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,42999
+23231,Jeep,Grand Cherokee L Limited,2,41515,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,69685
+23353,Jeep,Grand Cherokee L Limited,2,12875,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46900
+24570,Jeep,Wrangler Unlimited Rubicon 392,2,17900,470.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,67800
+24651,Jeep,Gladiator Willys,2,27300,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+25948,Jeep,Grand Cherokee L Laredo,2,31804,3.6L V6 24V MPFI DOHC,Automatic,None reported,43147
+26196,Jeep,Gladiator Overland,2,7500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26900
+26446,Jeep,Gladiator Rubicon,2,23400,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,48000
+26605,Jeep,Gladiator Overland,2,1750,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48000
+27269,Jeep,Gladiator Willys,2,23000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49999
+28073,Jeep,Grand Cherokee L Limited,2,18333,3.6L V6 24V MPFI DOHC,Automatic,None reported,64288
+28131,Jeep,Grand Cherokee Laredo,2,14353,4.7L 8 Cylinder Engine Gasoline Fuel,Automatic,None reported,43663
+28369,Jeep,Gladiator Rubicon,2,8794,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46000
+28479,Jeep,Wrangler Unlimited Sahara,2,22169,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,68750
+28562,Jeep,Gladiator Mojave,2,13000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,60000
+28973,Jeep,Grand Cherokee L Laredo,2,19291,3.6L V6 24V MPFI DOHC,Automatic,None reported,45861
+29446,Jeep,Gladiator Rubicon,2,14100,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,67000
+29504,Jeep,Wrangler Unlimited Sahara,2,66107,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,33687
+29995,Jeep,Wrangler Unlimited Rubicon,2,20172,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,47500
+30094,Jeep,Gladiator Rubicon,2,14000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,49000
+30160,Jeep,Wrangler Sahara Altitude,2,15000,285.0HP 3.6L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,64000
+30290,Jeep,Grand Wagoneer Series III,2,18428,4.4 Liter Twin Turbo,Automatic,None reported,99750
+30409,Jeep,Gladiator Rubicon,2,27981,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,41000
+31294,Jeep,Gladiator Willys,2,8400,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,47000
+32591,Jeep,Grand Wagoneer Series III,2,9099,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,78350
+32718,Jeep,Gladiator Overland,2,16100,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46000
+32942,Jeep,Grand Cherokee L Limited,2,25968,3.6L V6 24V MPFI DOHC,Automatic,None reported,58504
+33077,Jeep,Gladiator Rubicon,2,13250,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,63100
+33451,Jeep,Wagoneer Series III,2,17381,6.2L V8 16V GDI OHV,8-Speed Automatic,None reported,69685
+33816,Jeep,Gladiator Overland,2,4200,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+33980,Jeep,Wrangler Unlimited Rubicon 392,2,13300,470.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,61500
+34165,Jeep,Grand Cherokee L Limited,2,13275,1.5L I3 12V PDI DOHC Turbo,8-Speed Automatic,None reported,29182
+34381,Jeep,Gladiator Rubicon,2,13400,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,49000
+34712,Jeep,Gladiator Overland,2,40000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,65000
+35137,Jeep,Gladiator Mojave,2,8794,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,64000
+35350,Jeep,Grand Cherokee L Limited,2,14627,3.6L V6 24V MPFI DOHC,Automatic,None reported,30510
+35516,Jeep,Grand Cherokee L Limited,2,13000,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43500
+36003,Jeep,Grand Wagoneer Series III,2,18185,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,39687
+36479,Jeep,Wrangler Unlimited Rubicon,2,15500,285.0HP 3.6L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,33000
+36677,Jeep,Gladiator Sport S,2,10400,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,108000
+36986,Jeep,Gladiator Rubicon,2,16800,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,45000
+37302,Jeep,Grand Cherokee L Limited,2,31700,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39500
+38132,Jeep,Gladiator Overland,2,24001,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,57352
+39435,Jeep,Gladiator Rubicon,2,8400,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,76000
+39499,Jeep,Wrangler Sahara Altitude,2,12500,285.0HP 3.6L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,68500
+39993,Jeep,Grand Cherokee Limited,2,20678,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46000
+40057,Jeep,Gladiator Rubicon,2,17000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36000
+40246,Jeep,Wrangler Unlimited Sahara,2,12172,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,48219
+41499,Jeep,Gladiator Mojave,2,24500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,64000
+41633,Jeep,Wrangler Unlimited Sport,2,13400,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,33499
+42335,Jeep,Grand Wagoneer Series III,2,31112,471.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,62890
+42440,Jeep,Gladiator Sport S,2,23000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,44000
+42786,Jeep,Grand Cherokee L Limited,2,14976,3.6L V6 24V MPFI DOHC,Automatic,None reported,29994
+42939,Jeep,Wrangler Rubicon,2,15000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,67000
+43034,Jeep,Wagoneer Series III,2,9099,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,28991
+44448,Jeep,Gladiator Overland,2,4100,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,44000
+44544,Jeep,Gladiator Rubicon,2,38000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,54000
+44780,Jeep,Grand Cherokee Limited,2,31700,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,32900
+44795,Jeep,Gladiator Rubicon,2,10400,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47000
+45059,Jeep,Grand Cherokee L Laredo,2,10232,3.6L V6 24V MPFI DOHC,Automatic,None reported,14311
+45209,Jeep,Gladiator Rubicon,2,20678,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46000
+45240,Jeep,Gladiator Overland,2,16500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+45508,Jeep,Gladiator Rubicon,2,18100,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,47500
+45811,Jeep,Wrangler Unlimited Sahara,2,18500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,48000
+46432,Jeep,Wrangler Unlimited Sahara,2,6785,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,46105
+47311,Jeep,Gladiator Rubicon,2,8000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,50000
+47342,Jeep,Wrangler Sahara Altitude,2,1563,285.0HP 3.6L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,62500
+47881,Jeep,Gladiator Rubicon,2,3000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,54999
+48068,Jeep,Grand Wagoneer Base,2,25968,6.4L V8 16V MPFI OHV,8-Speed Automatic,None reported,449991
+48183,Jeep,Gladiator Sport,2,3158,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,28535
+48413,Jeep,Wrangler Unlimited Rubicon,2,20172,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,47500
+48674,Jeep,Gladiator Rubicon,2,50000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,65000
+48676,Jeep,Wrangler Unlimited Rubicon 392,2,8794,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,M/T,None reported,31000
+49581,Jeep,Gladiator Sport,2,30630,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,28535
+49755,Jeep,Wrangler Sahara Altitude,2,13000,285.0HP 3.6L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,48000
+49785,Jeep,Gladiator Rubicon,2,13000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,34000
+49804,Jeep,Gladiator Rubicon,2,87009,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,72000
+49858,Jeep,Grand Cherokee Limited,2,47500,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31000
+50052,Jeep,Wrangler Unlimited Rubicon 392,2,38000,470.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,72980
+50060,Jeep,Gladiator Rubicon,2,27300,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,47500
+50151,Jeep,Gladiator Sport S,2,28000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46500
+50473,Jeep,Compass Limited,2,16120,2.4L I4 16V MPFI SOHC,9-Speed Automatic,None reported,11970
+50616,Jeep,Gladiator Overland,2,124630,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,6880
+50747,Jeep,Gladiator Overland,2,8025,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,17816
+51064,Jeep,Gladiator Mojave,2,24500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,64000
+51097,Jeep,Gladiator Willys,2,44000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,53000
+51385,Jeep,Gladiator Rubicon,2,14000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,40000
+52319,Jeep,Gladiator Overland,2,1750,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,57000
+52708,Jeep,Wrangler Unlimited 4xe Sahara,2,10500,375.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,Transmission w/Dual Shift Mode,None reported,46000
+52753,Jeep,Gladiator Mojave,2,12500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,128900
+52924,Jeep,Wrangler Sport,2,14976,2.0L I4 16V MPFI DOHC,Automatic CVT,None reported,26691
+53290,Jeep,Gladiator Rubicon,2,24500,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48000
+53376,Jeep,Gladiator Sport S,2,23000,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,44000
+53542,Jeep,Grand Cherokee L Laredo,2,38612,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,35645
+53652,Jeep,Gladiator Rubicon,2,8794,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,229000
+53919,Jeep,Grand Cherokee L Limited,2,24114,3.6L V6 24V MPFI DOHC,Automatic,None reported,57352
+53945,Jeep,Wrangler Unlimited Rubicon 392,2,38000,470.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,76700
+54036,Jeep,Gladiator Mojave,2,4100,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54000

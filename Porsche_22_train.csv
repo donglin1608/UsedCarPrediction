@@ -1,0 +1,9 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+2834,Porsche,911 Carrera C4S,22,125470,355.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27000
+3846,Porsche,911 Carrera,22,72000,350.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,22500
+9718,Porsche,911 Carrera 4S,22,75000,315.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18500
+12325,Porsche,911 Carrera 4S,22,232000,320.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,A/T,None reported,11500
+13471,Porsche,Boxster S,22,83000,280.0HP 3.2L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15500
+21514,Porsche,Boxster Base,22,148800,201.0HP 2.5L Flat 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,3900
+21938,Porsche,911 Carrera 4S Cabriolet,22,92008,315.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,24999
+48267,Porsche,Cayenne Diesel,22,110000,240.0HP 3.0L V6 Cylinder Engine Diesel Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,4200

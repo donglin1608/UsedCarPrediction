@@ -1,0 +1,64 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1396,Nissan,370Z Touring,15,79893,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27500
+2633,Nissan,370Z Base,15,106700,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+2677,Nissan,Juke SL,15,180036,202.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,9100
+2812,Nissan,GT-R Premium,15,88000,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,61000
+3119,Nissan,Armada LE,15,67800,317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,21500
+3364,Nissan,GT-R Premium,15,60747,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,50999
+3568,Nissan,GT-R Premium,15,60747,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,37000
+4743,Nissan,Versa 1.8 S,15,90200,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9499
+5076,Nissan,350Z Touring,15,135603,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,7500
+5153,Nissan,370Z Touring,15,122000,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,13500
+5368,Nissan,Frontier SV,15,106350,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7200
+6516,Nissan,350Z Enthusiast,15,130307,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,9950
+7057,Nissan,GT-R Premium,15,185000,485.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,7500
+7239,Nissan,GT-R Premium,15,46100,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,30000
+7503,Nissan,Xterra S,15,100900,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,11000
+7629,Nissan,Versa 1.8 S,15,67303,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,5000
+8922,Nissan,GT-R Premium,15,88000,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,279000
+10184,Nissan,370Z Touring,15,70000,350.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,7-Speed M/T,At least 1 accident or damage reported,20000
+11479,Nissan,370Z Touring,15,133409,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,15999
+11627,Nissan,370Z Touring,15,106700,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18500
+11867,Nissan,370Z Touring,15,62500,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+15963,Nissan,Armada LE,15,87130,317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,37900
+16471,Nissan,370Z Touring,15,134500,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,7300
+17526,Nissan,Frontier SL,15,152000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7999
+18915,Nissan,350Z Touring,15,120000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,20000
+19764,Nissan,GT-R Premium,15,88000,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,95999
+21257,Nissan,370Z Base,15,72500,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,3550
+21824,Nissan,Juke SV,15,115359,188.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,188500
+24229,Nissan,Armada LE,15,206000,317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15000
+24626,Nissan,350Z Touring,15,90000,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,18500
+24946,Nissan,350Z Enthusiast,15,100900,287.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+25388,Nissan,Cube 1.8 S,15,72500,122.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6750
+25407,Nissan,Armada SL,15,120000,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,23977
+27149,Nissan,Frontier SV,15,96653,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,14000
+28664,Nissan,GT-R Premium,15,49000,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,72999
+29000,Nissan,Quest SL,15,186000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6500
+29048,Nissan,370Z Touring,15,79893,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15500
+30310,Nissan,GT-R Premium,15,135000,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,15000
+31621,Nissan,Armada SL,15,107000,390.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,6900
+32411,Nissan,Xterra S,15,40000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,17899
+33072,Nissan,Armada LE,15,87130,317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+33295,Nissan,GT-R Premium,15,102000,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,36000
+33602,Nissan,350Z Touring,15,84200,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,M/T,At least 1 accident or damage reported,18500
+34513,Nissan,Titan SL,15,27363,317.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,29990
+34953,Nissan,370Z Base,15,154860,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12980
+36562,Nissan,370Z Touring,15,78110,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+37139,Nissan,370Z Touring,15,133409,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,15500
+37162,Nissan,370Z Touring,15,92008,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12750
+37448,Nissan,GT-R Premium,15,244000,480.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,24900
+37467,Nissan,Pathfinder S,15,134000,260.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,7500
+40128,Nissan,Maxima SL,15,134000,255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4700
+40388,Nissan,370Z Touring,15,72393,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,24995
+40445,Nissan,GT-R Premium,15,13250,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,41986
+42210,Nissan,Xterra S,15,113000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10700
+44887,Nissan,Frontier SE Crew Cab,15,134000,265.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+46948,Nissan,370Z Touring,15,133409,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,10500
+47261,Nissan,Xterra S,15,100900,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6999
+48053,Nissan,Xterra S,15,100900,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,19000
+48566,Nissan,Frontier SE Crew Cab,15,134000,265.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7500
+49365,Nissan,370Z Touring,15,138000,350.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,M/T,None reported,23000
+52059,Nissan,Xterra S,15,126000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+53317,Nissan,Xterra S,15,65750,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,12500
+53766,Nissan,370Z Touring,15,75000,332.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21500

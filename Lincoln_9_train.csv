@@ -1,0 +1,83 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+22,Lincoln,MKZ Base,9,106000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,9500
+1089,Lincoln,MKC Base,9,111000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8900
+1788,Lincoln,MKZ Base,9,102000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,18999
+2303,Lincoln,MKZ Base,9,120000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,14500
+4085,Lincoln,MKZ Reserve I,9,56000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,33000
+4164,Lincoln,MKZ Base,9,83315,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,23000
+5355,Lincoln,MKZ Base,9,71964,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,18400
+5400,Lincoln,MKZ Base,9,73500,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,23400
+5731,Lincoln,MKZ Base,9,117292,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,12000
+6400,Lincoln,MKZ Base,9,117292,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14950
+6654,Lincoln,Navigator Select,9,158000,380.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,19780
+7476,Lincoln,MKZ Select,9,91700,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17900
+8071,Lincoln,MKZ Base,9,87500,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12750
+9957,Lincoln,MKZ Base,9,57800,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,33800
+10356,Lincoln,MKZ Base,9,117292,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15000
+10734,Lincoln,Navigator Premiere,9,25000,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,63000
+11411,Lincoln,MKZ Base,9,101600,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,16000
+13133,Lincoln,MKS EcoBoost,9,57000,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,17000
+16141,Lincoln,MKC Base,9,95000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,14900
+16549,Lincoln,MKC Base,9,95000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15500
+16783,Lincoln,MKZ Base,9,117292,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,9975
+16812,Lincoln,MKZ Reserve,9,119000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15500
+17374,Lincoln,MKC Base,9,104000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,25995
+17945,Lincoln,MKS Base,9,124400,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,10500
+19830,Lincoln,MKZ Hybrid Base,9,82963,188.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,15100
+19859,Lincoln,MKZ Base,9,106335,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,10700
+19920,Lincoln,MKZ Base,9,97300,300.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,18000
+20463,Lincoln,MKZ Select,9,70000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+20974,Lincoln,MKZ Base,9,67500,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,15999
+21111,Lincoln,MKS Base,9,68200,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15000
+21196,Lincoln,MKZ Base,9,107543,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19000
+24014,Lincoln,MKZ Base,9,194277,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,7500
+24040,Lincoln,MKZ Select,9,83420,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,19500
+24606,Lincoln,MKZ Base,9,135603,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,9500
+24658,Lincoln,MKC Base,9,140500,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16999
+24663,Lincoln,MKC Base,9,87000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15900
+27265,Lincoln,MKC Reserve,9,65800,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,24999
+27542,Lincoln,MKZ Base,9,87500,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15900
+27999,Lincoln,MKZ Base,9,67482,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,22999
+28185,Lincoln,MKS Base,9,126760,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17999
+28540,Lincoln,MKZ Base,9,86818,300.0HP 3.7L V6 Cylinder Engine Flex Fuel Capability,7-Speed A/T,None reported,69995
+28575,Lincoln,MKZ Base,9,117292,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+29647,Lincoln,MKC Base,9,87500,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,14750
+31245,Lincoln,MKZ Base,9,84786,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17995
+31384,Lincoln,MKC Base,9,39000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27500
+31711,Lincoln,MKZ Reserve I,9,107543,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19900
+31998,Lincoln,MKC Select,9,131200,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,11995
+32568,Lincoln,Navigator Reserve,9,144770,440.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,4500
+33573,Lincoln,MKZ Base,9,71964,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,13500
+33756,Lincoln,MKS Base,9,124400,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,9500
+35142,Lincoln,MKZ Base,9,110000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10500
+36378,Lincoln,MKZ Select,9,108045,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,14490
+36459,Lincoln,MKC Base,9,95000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18900
+37586,Lincoln,MKZ Base,9,117292,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,12000
+37754,Lincoln,MKS EcoBoost,9,134500,–,A/T,None reported,5995
+37916,Lincoln,MKC Base,9,74500,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+38101,Lincoln,MKS Base,9,124400,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,10500
+38253,Lincoln,Fit Sport,9,109000,109.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14200
+38441,Lincoln,MKZ Base,9,117292,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+38442,Lincoln,MKZ Base,9,183000,240.0HP 3.0L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,15000
+38764,Lincoln,MKZ Base,9,112000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,16000
+39161,Lincoln,MKZ Select,9,71964,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,19995
+39819,Lincoln,MKC Reserve,9,71964,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,17500
+40373,Lincoln,MKZ Reserve,9,78049,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,13980
+40555,Lincoln,MKC Base,9,95000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,14900
+41438,Lincoln,MKZ Base,9,70000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,22000
+42016,Lincoln,MKC Base,9,122000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15000
+43809,Lincoln,MKZ Base,9,68200,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12500
+43910,Lincoln,MKZ Reserve I,9,36000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,11995
+45831,Lincoln,MKZ Base,9,123400,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,15500
+45838,Lincoln,MKX Black Label,9,132200,335.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,7100
+45980,Lincoln,MKC Base,9,156000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,6500
+46056,Lincoln,MKC Reserve,9,123200,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12449
+47171,Lincoln,MKZ Select,9,140800,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,9888
+47485,Lincoln,MKS EcoBoost,9,68871,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,29990
+47763,Lincoln,MKZ Select,9,82900,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18000
+48784,Lincoln,Navigator Select,9,89150,380.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,31900
+50256,Lincoln,MKZ Base,9,95170,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,12500
+50451,Lincoln,MKX Black Label,9,94448,335.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,24000
+51960,Lincoln,MKX Base,9,148740,265.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,14500
+52605,Lincoln,MKZ Base,9,96653,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,13000
+53855,Lincoln,Rover LR2 Base,9,112465,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,11995

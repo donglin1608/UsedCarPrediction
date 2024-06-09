@@ -1,0 +1,54 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1272,INFINITI,Q50 3.0t Signature Edition,4,18000,300.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32000
+2102,INFINITI,QX80 Luxe,4,69000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,31450
+3260,INFINITI,QX60 Pure,4,39000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,43500
+5491,INFINITI,QX80 Luxe,4,69000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,42250
+6999,INFINITI,QX60 Luxe,4,49000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,65000
+8119,INFINITI,QX60 Luxe,4,51000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,43500
+10755,INFINITI,QX60 Base,4,39000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,56999
+10932,INFINITI,QX80 Luxe,4,69000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,32000
+13753,INFINITI,QX60 Luxe,4,51000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,21000
+16046,INFINITI,QX80 Luxe,4,51000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,33500
+17624,INFINITI,QX60 Base,4,39000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,64500
+18174,INFINITI,QX80 Luxe,4,5182,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17777
+18795,INFINITI,QX60 Pure,4,39000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,40000
+18862,INFINITI,QX60 Pure,4,46000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,229900
+19012,INFINITI,QX80 Luxe,4,69000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,31450
+19248,INFINITI,QX60 Pure,4,63400,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,29900
+19731,INFINITI,QX60 Luxe,4,38400,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,22945
+19911,INFINITI,QX60 Luxe,4,43500,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,32500
+20824,INFINITI,QX60 Luxe,4,40000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35750
+21808,INFINITI,QX80 Luxe,4,68000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,58000
+22975,INFINITI,QX60 Luxe,4,41000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,32400
+24311,INFINITI,QX80 Luxe,4,76009,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,128995
+25469,INFINITI,QX60 Luxe,4,51000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,29950
+27280,INFINITI,QX80 Luxe,4,18300,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,54000
+27658,INFINITI,QX80 Luxe,4,72500,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,31450
+29201,INFINITI,QX80 Luxe,4,49860,5.6L V8 32V GDI DOHC,7-Speed Automatic,None reported,38500
+31975,INFINITI,QX60 Luxe,4,60251,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,27499
+33016,INFINITI,QX80 Luxe,4,69000,420.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,32450
+34667,INFINITI,Q50 3.0t Red Sport 400,4,23344,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,35999
+35594,INFINITI,QX80 Luxe,4,40000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,48995
+35890,INFINITI,Q50 3.0t Red Sport 400,4,51850,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28500
+37112,INFINITI,QX80 Luxe,4,136390,5.6L V8 32V GDI DOHC,7-Speed Automatic,At least 1 accident or damage reported,39951
+37938,INFINITI,Q50 3.0t Red Sport 400,4,29800,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,54900
+38731,INFINITI,Q60 3.0t Red Sport 400,4,36900,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,55000
+39333,INFINITI,QX60 Pure,4,25000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46000
+39357,INFINITI,QX60 Luxe,4,69000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,42000
+40739,INFINITI,QX60 Luxe,4,38400,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,32000
+42107,INFINITI,QX60 Luxe,4,38400,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,29600
+42785,INFINITI,QX60 Luxe,4,22564,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,53999
+43614,INFINITI,QX60 Luxe,4,38400,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,32100
+45172,INFINITI,QX80 Luxe,4,67686,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,78000
+46185,INFINITI,QX80 Luxe,4,6900,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32500
+46877,INFINITI,QX80 Luxe,4,51000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,38000
+48218,INFINITI,QX60 Base,4,35000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,59335
+48711,INFINITI,QX60 Base,4,989,3.5L V6 24V GDI SOHC,9-Speed Automatic,None reported,25495
+48807,INFINITI,Q60 3.0t Red Sport 400,4,18362,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,62000
+49084,INFINITI,QX60 Luxe,4,38400,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,35000
+49992,INFINITI,Q60 3.0t Red Sport 400,4,54000,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+50156,INFINITI,QX30 Premium,4,69000,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,31500
+51193,INFINITI,QX60 Luxe,4,95450,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,36000
+51697,INFINITI,QX60 Luxe,4,31000,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32900
+52364,INFINITI,QX80 Luxe,4,26000,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,38500
+53741,INFINITI,QX80 SENSORY,4,42125,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,38999

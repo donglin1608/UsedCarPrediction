@@ -1,0 +1,64 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1,BMW,335 i,17,80000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,8250
+1327,BMW,X5 M50i,17,91900,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,18900
+1993,BMW,X5 xDrive50i,17,199296,400.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,6700
+2103,BMW,M3 Base,17,122650,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6100
+2597,BMW,740 iL,17,176261,282.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,3850
+4135,BMW,M3 Base,17,133500,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,3999
+5273,BMW,X5 xDrive50i,17,120000,400.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,5700
+7008,BMW,525 i,17,91420,215.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,6399
+7165,BMW,X5 3.0si,17,99700,260.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,16000
+7975,BMW,M3 Base,17,95798,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,9875
+8239,BMW,X5 xDrive35i,17,152270,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7700
+8798,BMW,335 i,17,90000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14900
+9368,BMW,X5 3.0si,17,99700,260.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,7500
+10346,BMW,335 i,17,90000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,6730
+11206,BMW,328 i,17,57918,230.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,3990
+11207,BMW,535 i,17,135000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,5699
+11556,BMW,650 i,17,98000,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9998
+11659,BMW,X5 3.0si,17,94500,260.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,8000
+11792,BMW,325 i,17,92500,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,13599
+11923,BMW,X6 xDrive35i,17,153843,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3600
+12221,BMW,650 i,17,106700,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,21590
+12426,BMW,328 i xDrive,17,116000,230.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+14000,BMW,335 i,17,91545,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,9500
+14945,BMW,650 i,17,98413,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,13349
+15023,BMW,X5 xDrive35i,17,90000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+16107,BMW,X5 xDrive50i,17,101800,400.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9499
+16925,BMW,M3 Base,17,129000,420.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,7750
+16947,BMW,650 i,17,75000,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,18500
+17568,BMW,750 Li,17,148000,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10000
+19752,BMW,X5 3.0si,17,99700,260.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,4500
+19794,BMW,M5 Base,17,132269,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,10000
+20096,BMW,X6 xDrive35i,17,90000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21000
+20614,BMW,335 i,17,87000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,15300
+20867,BMW,335 i,17,127273,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,17950
+21574,BMW,328 i xDrive,17,143250,230.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,6950
+24317,BMW,M3 Base,17,80000,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,135000
+26160,BMW,X6 M Base,17,130000,555.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4900
+26620,BMW,X6 M Base,17,125450,555.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,8900
+28001,BMW,325 i,17,142500,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,4399
+28030,BMW,M3 Base,17,98200,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,27000
+28724,BMW,750 i,17,154000,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12000
+30260,BMW,335 i,17,92008,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12500
+31448,BMW,X5 xDrive50i,17,140000,400.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9900
+35941,BMW,Z4 3.0si,17,106000,255.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,M/T,None reported,3500
+36357,BMW,M5 Base,17,49899,500.0HP 5.0L 10 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,50000
+36862,BMW,335 i,17,97700,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,9875
+37370,BMW,X5 3.0i,17,121800,225.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,6700
+37620,BMW,335 i,17,91420,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11900
+38341,BMW,335 i,17,153843,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,6250
+38830,BMW,M3 Base,17,71962,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,44950
+39920,BMW,340 i,17,123000,320.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,4999
+41139,BMW,M5 Base,17,185000,500.0HP 5.0L 10 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,8750
+45316,BMW,535 i xDrive,17,95000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,12999
+45349,BMW,M3 Base,17,99769,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,4999
+46524,BMW,X5 xDrive50i,17,7200,400.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,229900
+46853,BMW,X5 xDrive50i,17,131000,400.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,5750
+48140,BMW,650 i,17,109762,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,12468
+49935,BMW,X5 xDrive50i,17,142215,400.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9750
+49963,BMW,M5 Base,17,15698,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,29600
+50776,BMW,335 i,17,169000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,6800
+51635,BMW,650 i,17,85000,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,23500
+51858,BMW,X6 xDrive35i,17,96653,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+52750,BMW,650 i,17,109000,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14950

@@ -1,0 +1,450 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+31,BMW,M340 i xDrive,3,9000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,50000
+119,BMW,X6 M50i,3,2800,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,72900
+125,BMW,X5 xDrive40i,3,60000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,37000
+183,BMW,740 i,3,18000,320.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,69000
+203,BMW,X5 xDrive40i,3,41000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,57999
+338,BMW,M4 Competition xDrive,3,12088,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37500
+796,BMW,M440 i,3,244000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,3750
+892,BMW,X3 xDrive30i,3,13000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,91000
+1187,BMW,M440 i,3,13700,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,55000
+1350,BMW,X6 M Base,3,24000,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39999
+1560,BMW,X5 xDrive40i,3,46000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,68000
+1675,BMW,X6 M Base,3,11102,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,55000
+1688,BMW,X1 xDrive28i,3,26000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38900
+1729,BMW,M550 i xDrive,3,10900,456.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,73600
+1773,BMW,X6 M Base,3,13000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,75000
+1793,BMW,X5 PHEV xDrive45e,3,8000,389.0HP 3.0L Straight 6 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,85000
+1797,BMW,X3 M AWD,3,33500,473.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,81900
+1835,BMW,X6 M Base,3,13000,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,50000
+1951,BMW,X3 M40i,3,120000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,55000
+2009,BMW,X3 xDrive30i,3,39000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29800
+2150,BMW,X1 xDrive28i,3,52253,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37000
+2245,BMW,M3 Competition,3,10558,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,55000
+2279,BMW,X7 xDrive40i,3,35000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,70000
+2335,BMW,M340 i xDrive,3,15000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,34000
+2596,BMW,X5 xDrive40i,3,10500,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,69000
+2653,BMW,X5 xDrive40i,3,53782,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,49995
+2739,BMW,X7 xDrive40i,3,14360,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,40000
+2845,BMW,M8 Gran Coupe Competition,3,3000,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,76500
+2967,BMW,540 i xDrive,3,22000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,38999
+3014,BMW,X7 xDrive40i,3,24108,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,52000
+3065,BMW,X4 M Competition,3,13000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,69000
+3220,BMW,X6 M Base,3,13700,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38700
+3227,BMW,X1 xDrive28i,3,25786,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,38900
+3253,BMW,X3 xDrive30i,3,13500,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,63000
+3284,BMW,M4 Competition xDrive,3,22000,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46500
+3792,BMW,X1 xDrive28i,3,27000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,29990
+3832,BMW,X4 xDrive30i,3,36000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43000
+3852,BMW,X3 xDrive30i,3,29000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,105000
+3877,BMW,430 i xDrive,3,29000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,78000
+4184,BMW,M340 i xDrive,3,34967,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,30000
+4395,BMW,X3 xDrive30i,3,13000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,71200
+4626,BMW,M440 i,3,24300,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,At least 1 accident or damage reported,32500
+4628,BMW,X6 xDrive40i,3,24500,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,73900
+4647,BMW,X6 M Base,3,18000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,68000
+4918,BMW,M3 Competition,3,16478,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,82000
+4958,BMW,X6 xDrive40i,3,16307,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,71000
+5082,BMW,430 i,3,9472,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,41000
+5117,BMW,X7 xDrive40i,3,41000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+5224,BMW,X7 xDrive40i,3,24108,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,47500
+5459,BMW,M4 Competition,3,19300,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,63900
+5754,BMW,M440 i xDrive,3,49208,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,47850
+5815,BMW,X5 xDrive40i,3,41000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,50000
+5980,BMW,X5 PHEV xDrive45e,3,24158,389.0HP 3.0L Straight 6 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,None reported,32999
+5994,BMW,X5 xDrive40i,3,24108,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54900
+6314,BMW,M240 i,3,33000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,53000
+6371,BMW,M6 Base,3,48613,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,52500
+6426,BMW,M440 i xDrive,3,24900,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,26900
+6729,BMW,X7 xDrive40i,3,9200,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,64000
+6757,BMW,X5 M50i,3,28898,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,69000
+6878,BMW,X6 M Base,3,7000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,50000
+6964,BMW,X6 M Base,3,18000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,71000
+7047,BMW,X6 M Base,3,41000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+7307,BMW,M240 i,3,19300,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,51800
+7443,BMW,X3 M40i,3,25786,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,53500
+7637,BMW,X6 M Base,3,35938,4.4L V8 32V GDI DOHC Twin Turbo,Automatic,None reported,92000
+7688,BMW,M4 Competition xDrive,3,7600,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,92500
+7841,BMW,X6 M Base,3,11102,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,64000
+7856,BMW,X7 xDrive40i,3,29000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,28000
+7901,BMW,X3 xDrive30i,3,29000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,38500
+7968,BMW,X3 M40i,3,38000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,60500
+8589,BMW,X3 sDrive30i,3,6090,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,39900
+8762,BMW,X3 sDrive30i,3,12800,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,39990
+8831,BMW,X6 M Base,3,18000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,73000
+9043,BMW,M5 Base,3,33500,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,71000
+9229,BMW,X5 xDrive40i,3,14360,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,49000
+9457,BMW,740 i,3,5093,320.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,52000
+9622,BMW,M340 i xDrive,3,42000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Automatic,At least 1 accident or damage reported,61998
+9679,BMW,M240 i xDrive,3,19250,3.0L I6 24V GDI DOHC Turbo,8-Speed Automatic,None reported,38383
+9715,BMW,X3 M40i,3,31350,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,64250
+9930,BMW,M6 Gran Coupe Base,3,27965,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,38700
+10038,BMW,X6 M Base,3,54320,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,72000
+10088,BMW,M4 Base,3,12500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,81000
+10123,BMW,M3 Competition,3,33500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,71000
+10291,BMW,X6 xDrive40i,3,7400,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,62999
+10549,BMW,840 i xDrive,3,13700,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,75000
+10581,BMW,X5 xDrive40i,3,12500,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38000
+10605,BMW,X6 xDrive40i,3,13000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,69000
+10660,BMW,M3 Competition,3,13700,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,60000
+10918,BMW,X5 xDrive40i,3,52253,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,23300
+10988,BMW,M3 Base,3,13554,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,52590
+11055,BMW,X1 xDrive28i,3,33000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26999
+11253,BMW,M440 i,3,8500,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,73600
+11380,BMW,M3 CS,3,10950,543.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,77500
+11653,BMW,X6 M Base,3,28000,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,65990
+11655,BMW,M5 Base,3,7600,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,52500
+11692,BMW,X4 M40i,3,46100,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,38000
+11742,BMW,750 i xDrive,3,14280,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,469900
+11973,BMW,i8 Base,3,52694,369.0HP 1.5L 3 Cylinder Engine Plug-In Electric/Gas,Transmission w/Dual Shift Mode,None reported,43000
+12411,BMW,X5 xDrive40i,3,46000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37400
+12610,BMW,430 i xDrive,3,9472,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,79999
+12622,BMW,M3 Competition,3,13500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,69900
+12847,BMW,650 Gran Coupe i xDrive,3,41000,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,67500
+12860,BMW,X5 xDrive40i,3,9989,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,61500
+13015,BMW,X3 xDrive30i,3,48000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,128000
+13079,BMW,M4 Competition,3,12500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,81500
+13439,BMW,X6 M Base,3,37777,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38978
+13572,BMW,M2 Competition,3,500,405.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,45000
+13575,BMW,X5 xDrive40i,3,60000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,51000
+13894,BMW,M8 Gran Coupe Competition,3,19987,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,84900
+14030,BMW,X7 xDrive40i,3,57785,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37995
+14050,BMW,430 430i,3,22185,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,38005
+14061,BMW,M4 Competition xDrive,3,13500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,81500
+14163,BMW,X3 xDrive30i,3,60942,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,34599
+14420,BMW,X7 xDrive40i,3,9200,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,71200
+14470,BMW,X3 sDrive30i,3,12800,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,39990
+14502,BMW,X3 xDrive30i,3,42000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,38500
+14667,BMW,M4 Base,3,78980,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,43000
+15427,BMW,X4 M Competition,3,8237,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,53000
+15568,BMW,M4 Competition,3,15882,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,90000
+15617,BMW,X5 xDrive40i,3,41000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,38000
+15654,BMW,M440 i xDrive,3,35250,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,83499
+15895,BMW,X5 xDrive40i,3,19000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,53000
+16109,BMW,X3 M AWD,3,16900,563.0HP Electric Motor Electric Fuel System,8-Speed A/T,None reported,61000
+16318,BMW,430 i xDrive,3,16900,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43000
+16429,BMW,X3 xDrive30i,3,25000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31000
+16458,BMW,A5 2.0T Premium Plus,3,47523,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,31000
+16500,BMW,X3 M AWD,3,9142,473.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,41688
+16612,BMW,X3 M AWD,3,15000,473.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,83000
+16787,BMW,X3 xDrive30i,3,63400,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28000
+16824,BMW,M340 i xDrive,3,9000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,71000
+16847,BMW,M440 i,3,24300,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,34900
+16866,BMW,X6 M Base,3,17900,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,70000
+16968,BMW,M3 Competition,3,12500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41400
+17004,BMW,X7 xDrive40i,3,45000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,52000
+17163,BMW,M340 i xDrive,3,41906,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31450
+17273,BMW,430 i,3,9472,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36000
+17513,BMW,X6 M Base,3,13000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,60000
+17585,BMW,X5 xDrive40i,3,64957,3.0L I6 24V GDI DOHC Turbo,8-Speed Automatic,None reported,25215
+17635,BMW,X3 sDrive30i,3,18000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+17691,BMW,M4 Competition,3,13554,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,61059
+17745,BMW,X3 xDrive30i,3,27000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38900
+17780,BMW,X5 M50i,3,13000,456.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,71000
+17829,BMW,X5 xDrive40i,3,29558,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,99999
+17916,BMW,M4 Competition xDrive,3,20500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,135000
+17919,BMW,X5 xDrive40i,3,27000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,32000
+18037,BMW,M240 i,3,12500,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43000
+18104,BMW,X3 xDrive30i,3,28000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,42500
+18132,BMW,X5 M Base,3,13000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,60000
+18267,BMW,M5 Competition,3,13700,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,75000
+18300,BMW,M340 i xDrive,3,34967,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,73000
+18314,BMW,X3 M AWD,3,31500,473.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,28900
+18494,BMW,M5 Competition,3,18500,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,66500
+18522,BMW,750 i xDrive,3,24300,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54900
+18546,BMW,X6 xDrive40i,3,23647,3.0 Liter Turbo,SCHEDULED FOR OR IN PRODUCTION,None reported,29500
+18580,BMW,M4 Competition xDrive,3,15882,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,51900
+18706,BMW,X6 M50i,3,28898,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,78999
+18729,BMW,X3 xDrive30i,3,38352,2.0L I4 16V GDI DOHC Turbo,8-Speed A/T,None reported,37499
+18921,BMW,X6 M Base,3,11102,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,53600
+19387,BMW,X7 xDrive40i,3,25793,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,86900
+19524,BMW,X5 xDrive40i,3,7388,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,61900
+19623,BMW,M4 Competition xDrive,3,18500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37500
+19665,BMW,X3 xDrive30i,3,33000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,34000
+19673,BMW,M340 i xDrive,3,34967,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,46900
+19780,BMW,M4 Competition xDrive,3,13650,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+19981,BMW,S-Class S 580 4MATIC,3,13000,496.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,99950
+20004,BMW,X7 xDrive40i,3,12500,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,110000
+20141,BMW,X5 xDrive40i,3,67874,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,21900
+20186,BMW,430 i xDrive,3,76500,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,41500
+20357,BMW,X1 xDrive28i,3,49700,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27700
+20446,BMW,X3 xDrive30i,3,27000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+20467,BMW,X7 xDrive40i,3,50000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,52500
+20523,BMW,X5 xDrive40i,3,31000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,38500
+20962,BMW,M440 i xDrive,3,2235,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,115000
+21182,BMW,X5 xDrive40i,3,37000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,65000
+21520,BMW,X1 xDrive28i,3,27989,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,44000
+21583,BMW,X6 xDrive40i,3,67874,3.0L I6 24V GDI DOHC Turbo,8-Speed Automatic,None reported,38383
+21615,BMW,X6 M Base,3,18362,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+21741,BMW,M440 i xDrive,3,9200,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,55000
+21853,BMW,X7 xDrive40i,3,35000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,37499
+22225,BMW,X6 M Base,3,25108,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49000
+22261,BMW,440 i xDrive,3,31100,320.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,32500
+22409,BMW,430 i xDrive,3,24850,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24000
+22416,BMW,M8 Gran Coupe Competition,3,21100,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,57500
+22634,BMW,X5 xDrive40i,3,28000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,67000
+22694,BMW,M3 Competition,3,33500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,75500
+22704,BMW,X6 xDrive35i,3,25000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,40500
+22815,BMW,M440 i xDrive,3,24300,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,52000
+22925,BMW,X4 M Competition,3,29500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38000
+23152,BMW,X3 xDrive30i,3,24500,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,38000
+23314,BMW,X6 M Base,3,28000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,41999
+23369,BMW,X3 xDrive30i,3,27000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,33000
+23521,BMW,X1 xDrive28i,3,50000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,37500
+23527,BMW,330 i,3,24300,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42000
+23607,BMW,X3 xDrive30i,3,40000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+23788,BMW,X5 xDrive40i,3,19000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29000
+23916,BMW,X6 xDrive40i,3,54320,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,38900
+23926,BMW,330 i,3,23600,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,22999
+24022,BMW,X3 xDrive30i,3,29000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34999
+24138,BMW,M3 CS,3,456,543.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,99999
+24175,BMW,X6 M Base,3,11102,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54500
+24341,BMW,X7 xDrive40i,3,29140,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,29000
+24508,BMW,X5 M50i,3,28898,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45999
+24536,BMW,X6 xDrive40i,3,19300,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38500
+24592,BMW,X7 xDrive40i,3,41000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38500
+24701,BMW,X3 xDrive30i,3,38900,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,29998
+24895,BMW,X6 xDrive40i,3,27000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,35000
+25175,BMW,M5 Competition,3,26500,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,61000
+25297,BMW,X7 xDrive40i,3,41000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,54500
+25329,BMW,X7 xDrive40i,3,24500,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,63500
+25706,BMW,X6 xDrive40i,3,60000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,36000
+25845,BMW,X6 xDrive40i,3,31000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31450
+25955,BMW,X1 xDrive28i,3,24000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32000
+26149,BMW,750 i xDrive,3,9200,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,71200
+26226,BMW,X6 xDrive40i,3,13000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,80000
+26345,BMW,X5 M Base,3,48291,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,63900
+26355,BMW,M5 Base,3,24500,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,117000
+26634,BMW,X6 xDrive40i,3,11102,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,48000
+26640,BMW,X5 xDrive40i,3,18000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,59000
+26803,BMW,M5 Competition,3,35400,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,69995
+26808,BMW,X6 M Base,3,13000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,91900
+26946,BMW,X5 xDrive40i,3,7600,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,65000
+26973,BMW,M2 Competition,3,33000,405.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,65000
+26987,BMW,X1 xDrive28i,3,27000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32000
+27039,BMW,430 i xDrive,3,16900,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43000
+27116,BMW,X3 xDrive30i,3,13000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,399950
+27193,BMW,X6 xDrive40i,3,26000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,38500
+27238,BMW,X6 M Base,3,4880,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47000
+27535,BMW,750 i xDrive,3,19300,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,73500
+27605,BMW,X1 xDrive 28i,3,52000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,119500
+27636,BMW,M5 Base,3,41000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,78000
+27654,BMW,X7 xDrive40i,3,2437,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,113990
+27715,BMW,M6 Gran Coupe Base,3,31678,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,67000
+28065,BMW,X3 xDrive30i,3,50000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,23999
+28129,BMW,M440 i xDrive,3,24300,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,52500
+28175,BMW,750 750i xDrive,3,7388,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38000
+28310,BMW,750 i xDrive,3,49000,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,150000
+28526,BMW,X5 xDrive40i,3,13700,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+28594,BMW,X5 M50i,3,28898,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,491836
+28695,BMW,X5 M50i,3,51351,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,43775
+28902,BMW,X6 M50i,3,40000,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,57500
+28993,BMW,X1 xDrive28i,3,41000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,50000
+29416,BMW,X5 xDrive40i,3,52253,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,37000
+29462,BMW,X6 xDrive40i,3,26000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,38500
+29482,BMW,X3 xDrive30i,3,43000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38500
+29578,BMW,M440 i xDrive,3,24300,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30500
+29610,BMW,M550 i xDrive,3,13000,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,150000
+29622,BMW,X6 M Base,3,12500,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,77999
+29631,BMW,330 i,3,9472,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28000
+29687,BMW,X6 M Base,3,2021,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,69000
+29709,BMW,X7 M50i,3,17500,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,195000
+29743,BMW,X5 PHEV xDrive45e,3,14361,389.0HP 3.0L Straight 6 Cylinder Engine Plug-In Electric/Gas,8-Speed A/T,None reported,80000
+29793,BMW,X5 xDrive40i,3,7100,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,25500
+29823,BMW,M4 Competition,3,2950,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,90788
+29884,BMW,M2 CS,3,98981,444.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,85495
+29965,BMW,M340 i xDrive,3,9000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,40750
+29982,BMW,X6 xDrive40i,3,2437,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,92500
+30031,BMW,X5 xDrive35i,3,28000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,104900
+30045,BMW,X3 sDrive30i,3,12800,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+30052,BMW,M440 i xDrive,3,24300,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,39900
+30064,BMW,X3 xDrive30i,3,27000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,28000
+30203,BMW,X6 M Base,3,18362,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,67900
+30277,BMW,M4 Competition xDrive,3,15882,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,97500
+30406,BMW,X3 xDrive30i,3,38352,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,75499
+30536,BMW,M440 i,3,24300,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,29000
+30672,BMW,X3 xDrive30i,3,38352,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,38532
+30763,BMW,X6 xDrive40i,3,25000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,37000
+30767,BMW,X7 xDrive40i,3,4880,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,34999
+30829,BMW,X7 xDrive40i,3,26600,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48000
+30910,BMW,M3 CS,3,124,543.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,79999
+31020,BMW,X5 xDrive40i,3,46000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36950
+31032,BMW,X3 xDrive30i,3,90000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,37500
+31102,BMW,X1 xDrive28i,3,25000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32000
+31264,BMW,M4 Competition xDrive,3,13500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,130000
+31561,BMW,X1 xDrive28i,3,52253,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,52000
+31624,BMW,M4 Competition xDrive,3,11102,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,61059
+31704,BMW,M240 i,3,17000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,28000
+31735,BMW,X5 M Base,3,24213,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,72995
+32217,BMW,X6 M Base,3,13700,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,76000
+32354,BMW,M5 Base,3,13300,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,78999
+32454,BMW,X5 xDrive40i,3,19300,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,64000
+32498,BMW,X6 M Base,3,25420,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,104000
+32747,BMW,X7 xDrive40i,3,72903,3.0 Liter Turbo,Automatic,At least 1 accident or damage reported,29993
+32816,BMW,M4 Competition xDrive,3,38686,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,52590
+33038,BMW,X6 M Base,3,12000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,78000
+33316,BMW,M3 Base,3,11078,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,226000
+33497,BMW,750 i xDrive,3,23842,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,38781
+33719,BMW,X7 xDrive40i,3,9200,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,42500
+33912,BMW,X3 xDrive30i,3,24500,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,61000
+33993,BMW,X7 xDrive40i,3,41500,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,44000
+34202,BMW,M440 i,3,24300,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,62000
+34321,BMW,X6 M Base,3,39000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48000
+34763,BMW,X1 xDrive28i,3,11650,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+34766,BMW,M340 i xDrive,3,34967,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,At least 1 accident or damage reported,58000
+34770,BMW,X3 xDrive30i,3,28000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,29998
+34982,BMW,M340 i xDrive,3,18000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,29000
+35252,BMW,X3 xDrive30i,3,38400,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,45000
+35253,BMW,X3 xDrive30i,3,33576,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,21800
+35524,BMW,M6 Gran Coupe Base,3,17900,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,59900
+35572,BMW,X6 M Base,3,12758,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,67000
+35780,BMW,530e Base,3,33400,247.0HP 2.0L 4 Cylinder Engine Plug-In Electric/Gas,CVT Transmission,None reported,44000
+36069,BMW,M3 Competition,3,13500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,105000
+36103,BMW,M4 Competition,3,3400,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,86500
+36239,BMW,X6 M Base,3,9000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,86999
+36242,BMW,M4 Base,3,19500,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,89999
+36257,BMW,530 i,3,43000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,25800
+36276,BMW,X5 M Base,3,57352,6.6L V8 32V DDI OHV Turbo Diesel,6-Speed Automatic,None reported,49273
+36434,BMW,X7 xDrive40i,3,12000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,37000
+36596,BMW,X3 xDrive30i,3,24300,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28900
+36723,BMW,M550 i xDrive,3,12700,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,90000
+36745,BMW,X4 M Competition,3,3213,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+36803,BMW,M2 Competition,3,41500,405.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,37000
+36925,BMW,X5 xDrive40i,3,28260,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,73900
+37290,BMW,M2 CS,3,9670,444.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,93500
+37654,BMW,M4 Competition xDrive,3,17900,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,59900
+37746,BMW,X6 xDrive40i,3,19700,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,41000
+37770,BMW,X6 M Base,3,18000,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,65000
+37927,BMW,X7 xDrive40i,3,9200,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,110000
+38087,BMW,X6 xDrive40i,3,13000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,90000
+38193,BMW,X7 xDrive40i,3,50000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,37500
+38205,BMW,X3 xDrive30i,3,52000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,25000
+38267,BMW,X5 xDrive40i,3,15000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,23999
+38304,BMW,X1 xDrive28i,3,13200,228.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,40000
+38322,BMW,M440 i,3,33000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,69500
+38591,BMW,X6 xDrive40i,3,18000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,62000
+38900,BMW,X3 M AWD,3,31500,473.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,57500
+38936,BMW,X3 xDrive30i,3,34800,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+39007,BMW,X5 xDrive40i,3,69300,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,41000
+39049,BMW,X6 xDrive50i,3,9200,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,71200
+39107,BMW,X7 xDrive40i,3,27000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,50000
+39276,BMW,X7 xDrive40i,3,14360,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,75500
+39587,BMW,X5 M50i,3,28898,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,52900
+39719,BMW,M3 Competition,3,13500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,150000
+39802,BMW,X6 M Base,3,18000,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,57500
+39933,BMW,X7 xDrive40i,3,24500,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,36900
+39950,BMW,M4 Competition,3,25500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,79995
+39972,BMW,X6 xDrive40i,3,36000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,48000
+40032,BMW,X6 xDrive40i,3,31850,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,60500
+40109,BMW,M3 Competition xDrive,3,9200,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,64250
+40227,BMW,X1 xDrive28i,3,26000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,34000
+40293,BMW,X5 xDrive35i,3,49899,3.0L I6 24V GDI DOHC Turbo,8-Speed Automatic,None reported,55655
+40425,BMW,X3 xDrive30i,3,27000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,51900
+40432,BMW,X5 xDrive40i,3,41000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,41000
+40503,BMW,X4 xDrive30i,3,22500,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,44000
+40701,BMW,X7 xDrive40i,3,50000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,30000
+40710,BMW,X6 M Base,3,1966,4.0L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,72980
+40737,BMW,X6 xDrive40i,3,27000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,36990
+40738,BMW,X6 xDrive40i,3,32000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,50927
+40838,BMW,X3 xDrive30i,3,27000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,42000
+40905,BMW,330 i xDrive,3,23600,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,48000
+41075,BMW,X3 xDrive30i,3,24500,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,49999
+41133,BMW,X3 xDrive30i,3,23600,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,22999
+41380,BMW,X3 xDrive30i,3,73837,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,60995
+41496,BMW,X7 xDrive40i,3,41000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,51500
+41542,BMW,M4 Competition,3,12500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,130000
+41739,BMW,M8 Gran Coupe Competition,3,2800,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,68000
+41783,BMW,M4 Competition,3,33500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,70000
+41790,BMW,M4 Competition xDrive,3,17000,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54000
+42018,BMW,X7 xDrive40i,3,46000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,54500
+42046,BMW,X7 M50i,3,20598,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,33591
+42229,BMW,M3 Base,3,13250,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,88900
+42309,BMW,X5 xDrive40i,3,18500,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,133000
+42407,BMW,X6 M Base,3,3708,5.0L V8 32V GDI DOHC Supercharged,8-Speed Automatic,None reported,52590
+42597,BMW,X7 xDrive40i,3,2950,375.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,62500
+42605,BMW,X5 xDrive40i,3,24000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,72000
+42655,BMW,330 i,3,31600,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41000
+42981,BMW,718 Cayman GT4,3,2100,414.0HP 4.0L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,59900
+43018,BMW,X6 xDrive40i,3,24300,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,30000
+43104,BMW,X7 M50i,3,22354,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,73897
+43555,BMW,M6 Gran Coupe Base,3,18000,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,71900
+43649,BMW,X7 xDrive40i,3,27000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,75000
+43942,BMW,X6 xDrive40i,3,40000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,42000
+43960,BMW,M340 i xDrive,3,4102,591.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,92500
+44342,BMW,750 i xDrive,3,33548,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,63000
+44366,BMW,X6 xDrive40i,3,27000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,37999
+44471,BMW,M440 i,3,12500,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,19500
+44743,BMW,X1 xDrive28i,3,91420,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,33999
+44985,BMW,X3 xDrive30i,3,27000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37999
+45083,BMW,X7 xDrive40i,3,16000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,75500
+45163,BMW,X3 M40i,3,120000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,55000
+45228,BMW,M8 Competition,3,2284,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,157500
+45451,BMW,M440 i,3,13700,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,60000
+45463,BMW,M4 Base,3,11102,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,117000
+45569,BMW,X5 xDrive40i,3,27000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37999
+45837,BMW,M3 Base,3,12209,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,85500
+45870,BMW,X5 M50i,3,10950,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37400
+46147,BMW,X6 xDrive40i,3,27000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,45000
+46293,BMW,X6 xDrive40i,3,45000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,38000
+46446,BMW,X6 xDrive40i,3,52000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,62000
+46632,BMW,430 i xDrive,3,16900,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30000
+46646,BMW,X5 xDrive40i,3,50000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41000
+46679,BMW,330 i xDrive,3,34365,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,72980
+46933,BMW,X7 xDrive40i,3,20000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,59000
+46985,BMW,330 i,3,16900,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43000
+47178,BMW,X5 xDrive40i,3,24000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+47209,BMW,X1 xDrive28i,3,25918,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+47278,BMW,X5 xDrive40i,3,22000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45000
+47343,BMW,X7 xDrive40i,3,45241,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54500
+47390,BMW,M4 Competition xDrive,3,12500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47124
+47428,BMW,X3 M40i,3,72393,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,20599
+47574,BMW,M340 i xDrive,3,24360,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,24440
+47783,BMW,X5 M50i,3,14993,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,43860
+48102,BMW,X3 xDrive30i,3,72903,2.0L I4 16V GDI DOHC Turbo Hybrid,SCHEDULED FOR OR IN PRODUCTION,None reported,56750
+48259,BMW,M4 Competition,3,12500,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,80000
+49013,BMW,M550 i xDrive,3,7400,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,61900
+49260,BMW,X7 xDrive40i,3,48500,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,51000
+49371,BMW,M440 i,3,15000,375.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,None reported,38000
+49408,BMW,M440 i,3,44000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,23999
+49426,BMW,X7 xDrive40i,3,60000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,72000
+49431,BMW,X1 xDrive28i,3,25918,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,29000
+49482,BMW,X3 xDrive30i,3,25793,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,43499
+49561,BMW,M3 Competition xDrive,3,26000,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,54500
+49573,BMW,M3 CS,3,3213,543.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,90200
+49724,BMW,X5 xDrive40i,3,25000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48000
+50027,BMW,X7 xDrive40i,3,13000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,50000
+50134,BMW,X3 xDrive30i,3,24300,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42000
+50289,BMW,X5 M Base,3,18000,567.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,53900
+50602,BMW,X2 xDrive28i,3,44000,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,52000
+50675,BMW,X3 xDrive30i,3,43000,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+50902,BMW,X5 xDrive40i,3,24108,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,36950
+50990,BMW,X2 xDrive28i,3,25300,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49900
+51044,BMW,X7 xDrive40i,3,13000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,43900
+51320,BMW,X7 xDrive40i,3,30309,3.0 Liter Turbo,Automatic,None reported,61995
+51499,BMW,M240 i,3,120000,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,55000
+51519,BMW,M440 i xDrive,3,24300,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,19000
+51589,BMW,X5 xDrive40i,3,41000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,39900
+51603,BMW,430 i,3,9472,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36000
+51684,BMW,X3 xDrive30i,3,2492,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,46105
+51708,BMW,840 Gran Coupe i xDrive,3,25793,3.0L I6 24V GDI DOHC Turbo,8-Speed Automatic,None reported,34645
+51722,BMW,X5 xDrive40i,3,13000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,81900
+51849,BMW,X4 M Competition,3,18362,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,60000
+51941,BMW,750 i xDrive,3,20000,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,85000
+52095,BMW,X6 M Base,3,41000,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,94000
+52158,BMW,X2 xDrive28i,3,16900,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,42000
+52198,BMW,X3 xDrive30i,3,27989,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,28700
+52665,BMW,M8 Competition,3,19000,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,92000
+52827,BMW,X3 sDrive30i,3,12800,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,52000
+52923,BMW,M8 Gran Coupe Competition,3,21057,617.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,92888
+53037,BMW,M2 Competition,3,25013,405.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,103000
+53152,BMW,Corsair Grand Touring,3,1850,266.0HP 2.5L 4 Cylinder Engine Plug-In Electric/Gas,A/T,None reported,44990
+53269,BMW,X5 xDrive50i,3,13000,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49000
+53375,BMW,X1 xDrive 28i,3,25918,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36800
+53445,BMW,X6 xDrive40i,3,16307,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,53000
+53556,BMW,330 i,3,19300,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36000
+53790,BMW,M5 Base,3,19200,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,56000
+53903,BMW,X7 xDrive40i,3,9000,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,91995
+53914,BMW,X5 M50i,3,28898,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,71000
+54115,BMW,M2 Competition,3,12000,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,99900
+54180,BMW,X4 M Competition,3,19000,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,75500
+54186,BMW,M5 Base,3,11102,600.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,86900

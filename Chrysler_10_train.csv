@@ -1,0 +1,15 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+2063,Chrysler,300 Base,10,71000,292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,18200
+4007,Chrysler,300 Base,10,67000,292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,15750
+10067,Chrysler,300 S,10,100574,363.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,17500
+11409,Chrysler,300 S,10,121500,363.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,17900
+26343,Chrysler,300 Base,10,70700,292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,15750
+31760,Chrysler,300 Base,10,81400,292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26000
+35926,Chrysler,300 S,10,121500,363.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,34995
+36428,Chrysler,300 S,10,62950,292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17498
+36730,Chrysler,300 S,10,55000,292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,53000
+40605,Chrysler,300 S,10,123500,363.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,17000
+44453,Chrysler,300 Base,10,85000,292.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11250
+45947,Chrysler,Town & Country Touring-L,10,95271,283.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,48000
+48584,Chrysler,200 Limited,10,123000,–,A/T,None reported,13000
+51731,Chrysler,Town & Country Touring-L,10,171750,283.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,12500

@@ -1,0 +1,236 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+246,Land,Rover Range Rover Velar P250 S R-Dynamic,5,29500,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,34900
+343,Land,Rover Range Rover Sport HSE,5,55900,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42000
+357,Land,Rover Range Rover Velar P380 S,5,59271,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35750
+1034,Land,Rover Range Rover Sport HSE Dynamic,5,20500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,77999
+1043,Land,Rover Range Rover Sport HSE Dynamic,5,47000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30900
+1265,Land,Rover Range Rover Sport SVR Carbon Edition,5,19200,510.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,129000
+1382,Land,Rover Range Rover Sport HSE,5,41200,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,65000
+1760,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,47779,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31906
+2334,Land,Rover Range Rover Sport HSE,5,52300,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,57000
+2466,Land,Rover Range Rover Sport HSE,5,54225,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,75000
+2668,Land,Rover Range Rover Evoque SE Premium,5,42125,237.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,38999
+2685,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,45000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,39000
+2734,Land,Rover Range Rover Sport HSE,5,58000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,25500
+2975,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,29500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,39999
+3067,Land,Rover Range Rover Sport HSE,5,57000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,49900
+3559,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,58000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,38000
+3796,Land,Rover Range Rover 3.0L Supercharged HSE,5,73101,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,38000
+4217,Land,Rover Range Rover Sport HSE,5,41500,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,42900
+4522,Land,Rover Defender S,5,46000,296.0HP 2.0L 4 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,26500
+4872,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,35650,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,53999
+5442,Land,Rover Range Rover Sport HSE,5,63295,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,35300
+5573,Land,Rover Range Rover P525 HSE SWB,5,54225,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45900
+5817,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,58000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+6244,Land,Rover Range Rover Sport HST MHEV,5,4126,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,31500
+6288,Land,Rover Range Rover Sport HSE,5,75500,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,21250
+6470,Land,Rover Range Rover Sport HSE Dynamic,5,20500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47000
+6865,Land,Rover Range Rover Sport HSE Dynamic,5,77690,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,40000
+7173,Land,Rover Range Rover Sport HSE,5,35340,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39000
+7355,Land,Rover Range Rover HSE,5,11649,385.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,71999
+7640,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,23131,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,45950
+8327,Land,Rover Range Rover 3.0L Supercharged HSE,5,28000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,40500
+8425,Land,Rover Range Rover Sport HSE Dynamic,5,20500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,55000
+8494,Land,Rover Range Rover 3.0L Supercharged HSE,5,51335,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,28995
+8814,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,33000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,57000
+9203,Land,Rover Range Rover Velar P250 S R-Dynamic,5,59980,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+9327,Land,Rover Range Rover Sport HSE Dynamic,5,55700,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,51500
+9335,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,59271,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,33490
+9461,Land,Rover Range Rover Sport HSE,5,57785,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,55000
+9537,Land,Rover Range Rover Sport HSE,5,65019,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,27500
+10082,Land,Rover Range Rover Sport Supercharged HSE,5,49799,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,43000
+10099,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,58000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,62000
+10193,Land,Rover Range Rover Velar P250 S R-Dynamic,5,29500,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44999
+10235,Land,Rover Range Rover Sport HSE,5,46000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,45999
+10507,Land,Rover Range Rover Sport HSE,5,52300,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37500
+10971,Land,Rover Range Rover Sport HSE Dynamic,5,30450,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,33580
+11126,Land,Rover Range Rover Velar R-Dynamic SE,5,19850,2.0 Liter,Automatic,None reported,44990
+11452,Land,Rover Range Rover Sport HSE,5,42000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,48990
+11563,Land,Rover Range Rover Sport HSE Dynamic,5,80124,355.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36950
+11579,Land,Rover Range Rover P525 HSE SWB,5,10500,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,59500
+11607,Land,Rover Range Rover Sport HSE Dynamic,5,20500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,67000
+11613,Land,Rover Range Rover Sport HSE,5,64300,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,43000
+11684,Land,Rover Range Rover Velar P380 SE R-Dynamic,5,12118,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39000
+11837,Land,Rover Range Rover Sport 3.0L Supercharged HSE,5,35650,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,55999
+12365,Land,Rover Range Rover Sport HSE,5,67000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30500
+12475,Land,Rover Range Rover Sport HSE Dynamic,5,35250,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,46000
+12552,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,30500,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,72995
+12615,Land,Rover Range Rover Sport HSE Dynamic,5,115550,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,36000
+12724,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,52300,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,39900
+13074,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,18800,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+13423,Land,Rover Range Rover Velar P250 S R-Dynamic,5,58000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,50000
+13626,Land,Rover Range Rover Sport HSE Dynamic,5,54500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39500
+14070,Land,Rover Range Rover Sport HST MHEV,5,64800,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,33500
+14393,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,29500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,79500
+14591,Land,Rover Range Rover Sport HSE,5,77000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,30000
+14866,Land,Rover Range Rover 3.0L Supercharged HSE,5,65019,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,279950
+14876,Land,Rover Range Rover Velar P380 SE R-Dynamic,5,19813,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,59200
+15449,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,55621,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,32400
+15508,Land,Rover Range Rover Sport HSE Dynamic,5,20500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,73000
+15599,Land,Rover Range Rover Sport HSE,5,39000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,48990
+16074,Land,Rover Discovery HSE LUXURY,5,47200,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,29000
+16083,Land,Rover Range Rover Sport HST MHEV,5,19000,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,74900
+16221,Land,Rover Range Rover Sport HSE Dynamic,5,65019,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,41500
+16726,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,30300,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38000
+16760,Land,Rover Range Rover Sport HSE Dynamic,5,50000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,38500
+16767,Land,Rover Range Rover Sport HSE,5,6200,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,98000
+16938,Land,Rover Range Rover Sport HSE,5,57918,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,27500
+17265,Land,Rover Range Rover Sport HSE,5,73837,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39990
+17810,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,55000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,50000
+17850,Land,Rover Range Rover Sport HSE Dynamic,5,25786,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,58900
+17878,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,58000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,28000
+17952,Land,Rover Range Rover Sport HSE,5,115550,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,38000
+17977,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,19500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,489000
+17994,Land,Rover Range Rover Sport HSE Dynamic,5,40000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,45000
+18679,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,78124,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,24998
+19135,Land,Rover Range Rover Sport HSE Dynamic,5,77690,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,55000
+19259,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,29000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+19335,Land,Rover Range Rover Velar P380 SE R-Dynamic,5,19813,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Automatic,None reported,42850
+19669,Land,Rover Range Rover Sport HSE Dynamic,5,81000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,38500
+20039,Land,Rover Range Rover Velar P380 SE R-Dynamic,5,19813,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30000
+20500,Land,Rover Range Rover Velar P250 S R-Dynamic,5,58000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,18000
+20987,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,58000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+21162,Land,Rover Range Rover Sport HSE,5,50000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,69500
+21289,Land,Rover Range Rover Sport HSE,5,43000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,50000
+21462,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,54500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,43000
+21826,Land,Rover Range Rover Sport HSE Dynamic,5,49814,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,33500
+22000,Land,Rover Range Rover HSE SWB,5,41500,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,80300
+22835,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,57785,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,63995
+23164,Land,Rover Range Rover Sport HSE,5,33000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34000
+23424,Land,Rover Range Rover Velar R-Dynamic S,5,29558,I4,Automatic,None reported,29995
+24132,Land,Rover Range Rover Sport HSE,5,50340,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41000
+24484,Land,Rover Discovery LSE,5,28755,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,59950
+24578,Land,Rover Range Rover Westminster SWB,5,22000,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,47850
+25547,Land,Rover Range Rover 5.0L Supercharged,5,56842,510.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,25999
+25567,Land,Rover Range Rover Velar P380 SE R-Dynamic,5,19813,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,38500
+25574,Land,Rover Range Rover P525 Westminster,5,4500,5.0L V8 32V GDI DOHC Supercharged,8-Speed Automatic,None reported,159500
+25986,Land,Rover Range Rover Velar P380 SE R-Dynamic,5,19813,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,51900
+26019,Land,Rover Range Rover Sport HSE Dynamic,5,115550,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32999
+26067,Land,Rover Range Rover 5.0L V8 Supercharged,5,3000,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,70000
+26315,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,29000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,33800
+26388,Land,Rover Range Rover Sport 3.0L Supercharged HSE,5,51850,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,62900
+26980,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,65680,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,44870
+27247,Land,Rover Range Rover Sport SVR,5,59000,575.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,74900
+27482,Land,Rover Range Rover HSE SWB,5,79000,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,51900
+27795,Land,Rover Range Rover Sport HST MHEV,5,27000,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,49500
+27839,Land,Rover Range Rover Sport HSE,5,106000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,37900
+28757,Land,Rover Range Rover P525 Westminster,5,49814,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,47850
+28782,Land,Rover Range Rover Sport Supercharged,5,35566,510.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,26000
+29377,Land,Rover Range Rover Velar P380 SE R-Dynamic,5,45203,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Automatic,None reported,39848
+29431,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,58000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,38000
+29487,Land,Rover Range Rover Sport HSE Dynamic,5,50000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,75000
+29493,Land,Rover Discovery HSE LUXURY,5,47200,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29000
+29532,Land,Rover Range Rover Sport HSE,5,4700,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,65000
+29834,Land,Rover Range Rover Sport HSE,5,65019,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,39000
+29838,Land,Rover Range Rover Sport HSE Dynamic,5,77690,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,59400
+30253,Land,Rover Range Rover Sport Supercharged HSE,5,50340,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,57850
+30583,Land,Rover Range Rover Sport HSE,5,52300,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,87500
+30715,Land,Rover Range Rover P525 Westminster,5,28500,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,42500
+30830,Land,Rover Range Rover Sport SVR Carbon Edition,5,25000,575.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,59000
+30873,Land,Rover Range Rover Sport Supercharged Dynamic,5,58100,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,55999
+31053,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,50340,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,38999
+31087,Land,Rover Range Rover Sport HSE,5,63295,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,56000
+31240,Land,Rover Range Rover HSE,5,73101,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,28900
+31259,Land,Rover Range Rover Sport HSE,5,76500,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+31292,Land,Rover Range Rover Sport HSE,5,65000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,65000
+31715,Land,Rover Range Rover Sport HSE,5,19500,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,149000
+31878,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,43000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,32999
+32212,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,49208,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,33500
+32334,Land,Rover Range Rover Sport HSE,5,35200,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,27500
+32403,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,45000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,26900
+32440,Land,Rover Range Rover Evoque SE Premium,5,74860,246.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,90000
+32752,Land,Rover Range Rover Sport HSE,5,55000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,3499
+32796,Land,Rover Range Rover Sport SE MHEV,5,84000,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,22450
+33118,Land,Rover Range Rover 5.0L Supercharged Autobiography LWB,5,5500,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39900
+33389,Land,Rover Range Rover 5.0L Supercharged Autobiography LWB,5,56006,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,55000
+33627,Land,Rover Range Rover Sport HSE,5,40000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,64000
+33942,Land,Rover Range Rover Sport HSE Dynamic,5,58000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,38700
+34253,Land,Rover Range Rover Sport HST MHEV,5,41500,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,32000
+35007,Land,Rover Range Rover 3.0L Supercharged HSE,5,59338,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,59900
+35461,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,59271,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,54995
+35705,Land,Rover Range Rover Sport HSE,5,37248,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,54500
+35715,Land,Rover Range Rover Sport HSE Dynamic,5,79089,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,39990
+35813,Land,Rover Range Rover 5.0L V8 Supercharged,5,44101,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,47999
+35993,Land,Rover Range Rover Sport HSE,5,50361,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,77999
+36096,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,52284,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,36500
+36344,Land,Rover Range Rover Sport HSE Dynamic,5,77690,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39995
+36492,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,41200,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,63999
+36982,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,90000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,2990
+37258,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,51850,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,96850
+37371,Land,Rover Range Rover Sport HSE Dynamic,5,77690,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,75500
+37659,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,59500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,24900
+37851,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,35650,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,57999
+37943,Land,Rover Range Rover Sport HSE,5,42000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,54999
+38145,Land,Rover Range Rover Sport HSE Dynamic,5,57000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37400
+38405,Land,Rover Range Rover Velar SVAutobiography Dynamic Edition,5,17500,550.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,67900
+38437,Land,Rover Range Rover Sport HSE,5,102370,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,45000
+38518,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,41200,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,48000
+38620,Land,Rover Range Rover Sport HSE Dynamic,5,40000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,76000
+38959,Land,Rover Range Rover Sport SE MHEV,5,64000,355.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,44950
+39715,Land,Rover Range Rover Sport HSE Dynamic,5,77690,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,28900
+39737,Land,Rover Range Rover Sport HSE,5,61000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32000
+39859,Land,Rover Range Rover Sport HSE Dynamic,5,20500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,75000
+40076,Land,Rover Range Rover Sport HSE Dynamic,5,40000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,53000
+40130,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,51335,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,39950
+40131,Land,Rover Range Rover Sport HSE,5,65019,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,39000
+40611,Land,Rover Range Rover Velar P380 SE R-Dynamic,5,73101,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34900
+40779,Land,Rover Range Rover Sport HSE,5,52300,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,75000
+41120,Land,Rover Range Rover Sport HSE,5,52300,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,63000
+42011,Land,Rover Range Rover 3.0L Supercharged HSE,5,54225,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,84900
+42261,Land,Rover Range Rover Sport HSE Dynamic,5,25997,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,72995
+42787,Land,Rover Range Rover Sport HSE,5,54300,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,65000
+42792,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,65680,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49900
+42935,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,52300,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,49900
+43080,Land,Rover Range Rover Sport HSE,5,65019,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,42000
+43102,Land,Rover Range Rover Velar P250 S R-Dynamic,5,75600,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,42950
+43169,Land,Rover Discovery HSE,5,41000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43000
+43218,Land,Rover Range Rover Sport HSE Dynamic,5,58000,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,52000
+43442,Land,Rover Range Rover Sport HSE Dynamic,5,55000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30500
+43466,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,40000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,40500
+43586,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,59271,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,39000
+43738,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,31500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,60500
+44202,Land,Rover Range Rover Sport HSE,5,500,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,87000
+44413,Land,Rover Range Rover Sport Supercharged HSE,5,54225,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,98000
+44524,Land,Rover Range Rover Sport HSE,5,28399,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,45950
+44868,Land,Rover Range Rover Sport HSE,5,41000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,99900
+44899,Land,Rover Range Rover Sport HSE,5,59000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,40999
+44984,Land,Rover Range Rover Sport HSE,5,52300,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,75000
+45011,Land,Rover Range Rover Velar P250 S R-Dynamic,5,54800,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,31000
+45199,Land,Rover Range Rover Sport HSE,5,59000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,85000
+45272,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,57800,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,69500
+45347,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,56006,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,29995
+45380,Land,Rover Range Rover Sport HSE Dynamic,5,20500,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,74900
+45582,Land,Rover Range Rover Sport First Edition,5,39785,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,27785
+45675,Land,Rover Range Rover Sport HSE,5,59000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,100000
+45911,Land,Rover Range Rover Sport HSE,5,59271,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+46212,Land,Rover Range Rover Sport HSE,5,42000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,48990
+46534,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,49208,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,53600
+46558,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,41200,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,60500
+46630,Land,Rover Range Rover Velar P250 S R-Dynamic,5,29000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+46904,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,35650,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,57999
+47017,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,35650,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,60500
+47104,Land,Rover Range Rover Sport HSE,5,42000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,17000
+47530,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,50340,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24999
+47662,Land,Rover Range Rover Sport Supercharged Dynamic,5,58100,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,53800
+48378,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,19800,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,129000
+48522,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,149000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,7899
+48687,Land,Rover Range Rover 3.0L Supercharged HSE,5,72900,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,34700
+48751,Land,Rover Range Rover Sport HSE,5,59000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,75000
+48886,Land,Rover Range Rover Sport 3.0L Supercharged HSE,5,73101,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37499
+49492,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,70500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,31500
+49984,Land,Rover Range Rover Sport HSE,5,40200,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,36900
+50032,Land,Rover Range Rover Sport HSE Dynamic,5,12500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,40999
+50387,Land,Rover Discovery HSE LUXURY,5,14993,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,98900
+50472,Land,Rover Range Rover Sport HSE Dynamic,5,67000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,10300
+50854,Land,Rover Range Rover HSE,5,53500,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,32850
+51158,Land,Rover Range Rover Sport HSE,5,39000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,27000
+51249,Land,Rover Range Rover Velar P250 SE R-Dynamic,5,29500,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+51458,Land,Rover Range Rover 5.0L V8 Supercharged,5,67000,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50900
+51683,Land,Rover Range Rover Sport HSE,5,101800,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+51751,Land,Rover Range Rover Velar P250 S R-Dynamic,5,58000,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,52000
+52324,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,39000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,28000
+52614,Land,Rover Range Rover Sport HSE Dynamic,5,53600,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30500
+53486,Land,Rover Range Rover Sport HSE Dynamic,5,77000,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,39900
+53784,Land,Rover Range Rover Velar P250 S R-Dynamic,5,59500,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,17900
+53803,Land,Rover Range Rover 3.0L V6 Supercharged HSE,5,29500,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46750
+53910,Land,Rover Range Rover Velar P380 S,5,24000,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,41500

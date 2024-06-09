@@ -1,0 +1,10 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+365,BMW,323 Ci,24,239000,170.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,6000
+6944,BMW,86 Base,24,171750,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,5000
+7215,BMW,M5 Base,24,33000,400.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,69500
+31031,BMW,323 Ci,24,177700,170.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+33587,BMW,323 Ci,24,220000,170.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,5500
+40084,BMW,M5 Base,24,60000,400.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,27500
+44184,BMW,323 Ci,24,177700,170.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,2500
+49684,BMW,323 Ci,24,90200,170.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9499
+53145,BMW,328 i,24,73000,190.0HP 2.8L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,13900

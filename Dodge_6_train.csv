@@ -1,0 +1,52 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+873,Dodge,Charger R/T Scat Pack,6,16000,485.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,18000
+1665,Dodge,Charger GT,6,62197,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,26691
+3854,Dodge,Durango GT,6,49000,295.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,33500
+4119,Dodge,Challenger R/T,6,54000,372.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+4240,Dodge,Charger GT,6,71962,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,42850
+5474,Dodge,Charger Base,6,65000,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,25900
+6316,Dodge,Grand Caravan SE,6,81000,283.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability,A/T,None reported,26500
+7885,Dodge,Challenger SXT,6,60000,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45000
+8136,Dodge,Challenger R/T,6,54000,372.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35000
+10774,Dodge,Challenger SXT,6,29500,303.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,51900
+12106,Dodge,Challenger SRT Demon,6,2620,808.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,41500
+13046,Dodge,Grand Caravan SE,6,92000,283.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability,A/T,None reported,51500
+13169,Dodge,Challenger R/T Scat Pack,6,62000,–,6-Speed M/T,None reported,28000
+14320,Dodge,Challenger SRT Hellcat,6,29475,717.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,53500
+16277,Dodge,Durango R/T,6,65000,360.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,25500
+16724,Dodge,Charger SRT Hellcat Widebody,6,12000,707.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,46999
+18637,Dodge,Charger R/T Scat Pack,6,33100,485.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,49999
+25437,Dodge,Charger Scat Pack,6,40208,485.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,38000
+26062,Dodge,Challenger SXT,6,76500,303.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35750
+26389,Dodge,Charger GT,6,61341,300.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,26750
+27085,Dodge,Durango GT,6,5779,3.6L V6 24V MPFI DOHC,8-Speed Automatic,At least 1 accident or damage reported,35557
+29117,Dodge,Durango SRT 392,6,71669,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,28450
+29341,Dodge,F-150 XLT,6,63496,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,34000
+30958,Dodge,Dart SE,6,76249,160.0HP 1.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,19500
+31622,Dodge,Durango GT,6,70000,295.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,28000
+32348,Dodge,Durango SRT 392,6,31917,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,54000
+33222,Dodge,Challenger SRT Demon,6,2620,808.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,52000
+34216,Dodge,Charger Scat Pack,6,75600,485.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,32500
+34829,Dodge,Durango SRT 392,6,78000,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,44700
+35237,Dodge,Durango SRT,6,78000,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,10500
+36731,Dodge,Charger R/T 392,6,52750,485.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27599
+37909,Dodge,Dart SE,6,67303,160.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+39058,Dodge,Dart SE,6,49000,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,13000
+39356,Dodge,Challenger SRT 392,6,37700,–,8-Speed A/T,At least 1 accident or damage reported,38000
+40124,Dodge,Durango SRT 392,6,26000,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,22000
+40316,Dodge,Challenger SRT Hellcat,6,26800,717.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,51750
+43374,Dodge,Charger SRT Hellcat,6,29475,707.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,68750
+43729,Dodge,Durango SRT 392,6,72000,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,42995
+45485,Dodge,Challenger SRT 392,6,54000,–,8-Speed A/T,At least 1 accident or damage reported,37000
+45798,Dodge,Charger R/T,6,67500,370.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26999
+47452,Dodge,Charger Scat Pack,6,58816,485.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,44800
+47462,Dodge,Durango SRT 392,6,78000,475.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,44700
+48844,Dodge,Challenger R/T Scat Pack,6,17000,375.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,38500
+48849,Dodge,Charger R/T Scat Pack,6,37777,485.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32500
+49776,Dodge,Durango GT,6,68816,295.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39750
+49884,Dodge,Challenger R/T,6,78110,372.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,20999
+50239,Dodge,Challenger R/T,6,74000,375.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32000
+50628,Dodge,Durango R/T,6,54000,360.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,60995
+52655,Dodge,Challenger R/T Scat Pack,6,92861,–,A/T,None reported,53000
+52866,Dodge,Challenger SRT Demon,6,2620,808.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,155700
+54227,Dodge,Grand Caravan SE,6,29400,283.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,29000

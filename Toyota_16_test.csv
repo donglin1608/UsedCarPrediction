@@ -1,0 +1,93 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+55602,Toyota,Camry Solara SLE V6,16,100000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+56517,Toyota,Tacoma PreRunner,16,202055,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+56996,Toyota,Camry Solara SLE,16,138000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+57045,Toyota,Avalon XLS,16,170000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+57264,Toyota,Highlander Base,16,231581,220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+57301,Toyota,Sequoia SR5,16,86000,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+57773,Toyota,Tacoma PreRunner,16,149000,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+57796,Toyota,Avalon XLS,16,141525,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,0
+57809,Toyota,Tacoma PreRunner,16,68750,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+57900,Toyota,Sequoia SR5,16,235000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+57960,Toyota,Highlander Limited,16,162750,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+58088,Toyota,Camry Solara SLE V6,16,58800,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+58126,Toyota,RAV4 Base,16,149000,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0
+58292,Toyota,Avalon Limited,16,111300,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+58743,Toyota,Tacoma PreRunner,16,24985,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+58818,Toyota,Avalon Limited,16,90000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+59208,Toyota,4Runner SR5 Premium,16,135000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+59361,Toyota,Land Cruiser Base,16,151896,230.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+59495,Toyota,Camry XLE,16,199400,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+59553,Toyota,Celica GT,16,122000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+59770,Toyota,Land Cruiser Base,16,40000,230.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+59848,Toyota,Sequoia SR5,16,154860,273.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+60744,Toyota,4Runner SR5,16,162000,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+61254,Toyota,Camry Solara SLE,16,82963,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+61262,Toyota,Tacoma PreRunner,16,107818,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+61282,Toyota,FJ Cruiser Base,16,193827,239.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+61453,Toyota,Camry Solara SLE V6,16,96653,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+61750,Toyota,Avalon Touring,16,89148,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+61993,Toyota,Camry Solara SLE V6,16,139105,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0
+62504,Toyota,Tacoma PreRunner,16,202055,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+62731,Toyota,Camry Solara SLE V6,16,199400,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+63087,Toyota,Camry Solara SLE V6,16,149800,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+63255,Toyota,Avalon Limited,16,128000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+63382,Toyota,Highlander XLE,16,61454,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+64345,Toyota,RAV4 Base,16,123500,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+64378,Toyota,Camry Solara SLE V6,16,199000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+64729,Toyota,Camry Solara SLE V6,16,122000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+64931,Toyota,Camry Hybrid Base,16,133121,147.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,0
+65166,Toyota,Tacoma PreRunner,16,202055,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+65807,Toyota,Tacoma PreRunner,16,170000,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+66473,Toyota,Avalon Limited,16,207000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+66901,Toyota,Celica GT,16,120000,158.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+67006,Toyota,Corolla CE,16,170000,126.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,M/T,None reported,0
+67774,Toyota,Camry Solara SLE V6,16,109000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+68760,Toyota,Avalon Limited,16,130000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+68795,Toyota,Avalon Limited,16,102000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+68854,Toyota,Highlander Limited,16,165520,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+68930,Toyota,FJ Cruiser Base,16,193827,239.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+69230,Toyota,Camry Solara SLE,16,132269,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0
+70159,Toyota,Camry Solara SLE,16,123500,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,0
+71029,Toyota,Camry Solara SLE V6,16,140000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+71203,Toyota,Tacoma PreRunner,16,202055,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+71274,Toyota,Camry LE,16,107000,136.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+71736,Toyota,Avalon Limited,16,115000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+72754,Toyota,Avalon Limited,16,47700,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+75409,Toyota,Sequoia Limited,16,185000,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+75489,Toyota,Avalon Limited,16,111300,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+77709,Toyota,Tundra SR5 Double Cab,16,199400,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+77863,Toyota,RAV4 Base,16,123620,179.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,0
+77982,Toyota,Tacoma PreRunner,16,130000,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+78680,Toyota,Camry Solara SLE,16,116157,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+79120,Toyota,Highlander Limited,16,209500,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+80710,Toyota,Avalon XLS,16,202000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+80911,Toyota,Camry Solara SLE V6,16,89400,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+81085,Toyota,Sequoia Limited,16,154860,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+81251,Toyota,Camry Solara SLE V6,16,222600,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+81569,Toyota,Avalon XLS,16,122000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+81814,Toyota,Land Cruiser Base,16,213000,–,A/T,At least 1 accident or damage reported,0
+81944,Toyota,Tacoma PreRunner,16,179700,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,0
+82282,Toyota,Highlander Limited,16,165520,270.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+82284,Toyota,Avalon Touring,16,89148,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+82745,Toyota,Avalon Limited,16,111000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+82972,Toyota,Camry SE,16,27000,237.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,0
+82997,Toyota,Avalon Limited,16,90000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+83058,Toyota,Avalon Limited,16,111564,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,0
+83595,Toyota,Avalon Limited,16,89988,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+83664,Toyota,Camry Solara SLE V6,16,245000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+84205,Toyota,Tacoma PreRunner,16,91545,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+84468,Toyota,Avalon Limited,16,111300,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+85417,Toyota,Camry Solara SLE V6,16,122000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+85545,Toyota,Land Cruiser Base,16,209193,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+85585,Toyota,Tundra SR5 Access Cab,16,209500,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+87338,Toyota,Tacoma PreRunner,16,160000,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+87796,Toyota,Corolla CE,16,231581,126.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+88030,Toyota,Tacoma PreRunner,16,202055,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+88356,Toyota,Camry Solara SLE,16,160000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+88880,Toyota,Camry Solara SLE,16,37216,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,0
+89230,Toyota,Avalon XLE,16,90000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,0
+89766,Toyota,Avalon Limited,16,111300,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+90034,Toyota,Sequoia Limited,16,150900,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+90088,Toyota,Avalon Limited,16,100500,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,0
+90366,Toyota,Camry Solara SLE,16,138000,210.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,0

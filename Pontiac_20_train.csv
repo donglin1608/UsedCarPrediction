@@ -1,0 +1,5 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+12050,Pontiac,Solstice GXP,20,131800,260.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,12900
+20173,Pontiac,Firebird Trans Am,20,140000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+33110,Pontiac,Firebird Trans Am,20,61450,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3500
+45302,Pontiac,Firebird Base,20,170000,200.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6500

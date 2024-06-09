@@ -1,0 +1,139 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1153,Cadillac,SRX Standard,5,72329,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,33500
+1157,Cadillac,Escalade Platinum,5,29500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,89750
+1212,Cadillac,XT5 Luxury,5,44692,3.6L V6 24V GDI DOHC,8-Speed Automatic,None reported,42433
+1495,Cadillac,XTS Luxury,5,76170,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,19000
+2359,Cadillac,CTS 3.6L Premium Luxury,5,89000,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,119500
+2518,Cadillac,XT5 Base,5,51300,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35000
+3091,Cadillac,XT5 Premium Luxury,5,62950,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,36599
+3378,Cadillac,Escalade ESV Premium Luxury,5,94650,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,34000
+3475,Cadillac,XT5 Base,5,75466,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29800
+3946,Cadillac,Escalade ESV Sport,5,31804,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,45023
+4046,Cadillac,XTS Luxury,5,80000,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,30000
+4091,Cadillac,XTS Luxury,5,54002,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,33995
+4472,Cadillac,CTS 2.0L Turbo Luxury,5,55000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,19750
+4722,Cadillac,Escalade Luxury,5,30700,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,46999
+4955,Cadillac,CTS 3.6L Premium Luxury,5,54000,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21500
+6521,Cadillac,XT5 Base,5,43000,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,35000
+6622,Cadillac,Escalade ESV Sport,5,42780,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,52500
+6930,Cadillac,CTS 2.0L Turbo Luxury,5,19162,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39000
+8627,Cadillac,XTS Luxury,5,60930,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,49999
+8927,Cadillac,Escalade Platinum,5,39250,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,28900
+9464,Cadillac,XT5 Base,5,57918,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,28000
+9691,Cadillac,XT5 Base,5,58700,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,45899
+10423,Cadillac,XTS Luxury,5,59000,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22500
+11010,Cadillac,XTS Luxury,5,87500,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,417500
+11361,Cadillac,XT5 Premium Luxury,5,44373,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,24999
+11395,Cadillac,CTS 2.0L Turbo Luxury,5,43000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37000
+11598,Cadillac,SRX Luxury Collection,5,81880,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26900
+11934,Cadillac,CTS 2.0L Turbo Luxury,5,40600,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32000
+13121,Cadillac,Escalade ESV Platinum,5,66500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,34700
+13201,Cadillac,XTS Luxury,5,54000,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,37995
+13436,Cadillac,Escalade Luxury,5,94634,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,49500
+13720,Cadillac,Escalade ESV Platinum,5,37375,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32300
+13738,Cadillac,XT4 Sport,5,44500,237.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,33500
+14578,Cadillac,XT5 Base,5,74414,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27000
+14886,Cadillac,XT5 Premium Luxury,5,112000,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31950
+15135,Cadillac,CTS 2.0L Turbo Luxury,5,35400,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,34999
+15522,Cadillac,XT5 Base,5,67499,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,43500
+16563,Cadillac,XTS Luxury,5,59000,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17000
+16622,Cadillac,Escalade ESV Platinum,5,55000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,38900
+16836,Cadillac,XT5 Base,5,49000,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,39000
+17548,Cadillac,CTS 2.0L Turbo Luxury,5,46000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,15995
+17660,Cadillac,Escalade ESV Platinum,5,48613,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,30500
+17962,Cadillac,CTS 2.0L Turbo Luxury,5,26000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26500
+18365,Cadillac,CTS 2.0L Turbo Luxury,5,35500,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32300
+18383,Cadillac,Escalade ESV Platinum,5,43500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,32300
+18497,Cadillac,Sierra 1500 AT4,5,52673,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,43500
+18643,Cadillac,Escalade ESV Platinum,5,74150,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,28000
+18700,Cadillac,Escalade ESV Platinum,5,92000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,30000
+19069,Cadillac,CTS 2.0L Turbo Luxury,5,40000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32500
+19289,Cadillac,XTS Luxury,5,69289,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+19355,Cadillac,XTS Luxury,5,20296,3.6L V6 24V GDI DOHC,8-Speed Automatic,None reported,37950
+19788,Cadillac,CTS 2.0L Turbo Luxury,5,225000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,17999
+20214,Cadillac,CTS 2.0L Turbo Luxury,5,39000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,28900
+21276,Cadillac,CTS 2.0L Turbo Luxury,5,225000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,16000
+21528,Cadillac,CT4 Luxury,5,35200,237.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29000
+22604,Cadillac,CTS 3.6L Premium Luxury,5,54259,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,20850
+22651,Cadillac,XTS Luxury,5,46711,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,18500
+22888,Cadillac,XT5 Premium Luxury,5,54000,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,33000
+23399,Cadillac,CTS 2.0L Turbo Luxury,5,46000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39000
+24990,Cadillac,Escalade Platinum,5,119000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,28000
+25116,Cadillac,CTS 2.0L Turbo Luxury,5,35566,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,26000
+25771,Cadillac,XTS Luxury,5,64500,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,37500
+26998,Cadillac,SRX Standard,5,16000,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,29500
+27306,Cadillac,Escalade ESV Platinum,5,11459,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,36500
+27320,Cadillac,XTS Luxury,5,62950,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,26500
+27932,Cadillac,Escalade Platinum,5,38360,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,53722
+29342,Cadillac,XT5 Base,5,74414,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26000
+29731,Cadillac,Escalade ESV Luxury,5,719,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,49500
+30384,Cadillac,XTS Luxury,5,66770,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,19500
+30410,Cadillac,CT5-V V-Series,5,45203,3.0L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,At least 1 accident or damage reported,45423
+30418,Cadillac,CT4 Luxury,5,51300,237.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,26500
+30562,Cadillac,CTS 3.6L Premium Luxury,5,69001,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,33000
+31330,Cadillac,Escalade ESV Luxury,5,26000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,110000
+31494,Cadillac,Escalade ESV Luxury,5,66500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,35700
+31627,Cadillac,XTS Luxury,5,54002,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,18795
+32415,Cadillac,ATS 3.6L Luxury,5,38100,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34700
+32748,Cadillac,Escalade Platinum,5,10400,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,34600
+32749,Cadillac,XT5 Base,5,66500,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,27000
+32884,Cadillac,ATS 3.6L Luxury,5,20750,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30950
+32924,Cadillac,XTS Luxury,5,20200,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,71400
+33142,Cadillac,CTS 3.6L Luxury,5,53607,3.6L V6 24V GDI DOHC,8-Speed Automatic,At least 1 accident or damage reported,19425
+33435,Cadillac,XT5 Luxury,5,55403,3.6L V6 24V GDI DOHC,10-Speed Automatic,None reported,47950
+33773,Cadillac,CT6 Luxury,5,150000,237.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,48815
+33780,Cadillac,XTS Luxury,5,54002,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,30000
+34033,Cadillac,Escalade ESV Sport,5,52775,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,35900
+34155,Cadillac,Escalade ESV Luxury,5,5844,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,53000
+34156,Cadillac,Escalade ESV Premium Luxury Platinum,5,31500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,95000
+34264,Cadillac,Escalade Platinum,5,48613,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,At least 1 accident or damage reported,28700
+34459,Cadillac,Escalade Platinum,5,74150,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,39750
+34585,Cadillac,SRX Luxury Collection,5,87500,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,33900
+35293,Cadillac,Escalade ESV Luxury,5,168600,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,41950
+36031,Cadillac,F-250 XLT,5,69423,385.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,None reported,39900
+36329,Cadillac,XTS Luxury,5,54002,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,25980
+36947,Cadillac,XTS Luxury,5,45979,3.6L V6 24V GDI DOHC,8-Speed Automatic,None reported,36999
+37488,Cadillac,Escalade Platinum,5,92000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,51999
+37940,Cadillac,CTS 3.6L Premium Luxury,5,136150,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,39777
+38358,Cadillac,CTS 3.6L Premium,5,60251,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,28499
+38605,Cadillac,Escalade Platinum,5,92000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,26000
+39053,Cadillac,CTS 2.0L Turbo Luxury,5,59000,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,24000
+39335,Cadillac,CTS 2.0L Turbo Luxury,5,56910,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,23000
+39915,Cadillac,ATS 2.0L Turbo Luxury,5,34000,184.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,25000
+40502,Cadillac,Escalade ESV Premium Luxury Platinum,5,36500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,69900
+40977,Cadillac,XTS Luxury,5,54002,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,30000
+41666,Cadillac,XTS Luxury,5,27000,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,40888
+41820,Cadillac,Escalade ESV Platinum,5,54320,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,73300
+41997,Cadillac,Escalade ESV Premium Luxury,5,74150,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,42800
+42177,Cadillac,XT5 Luxury,5,5779,3.6L V6 24V GDI DOHC,8-Speed Automatic,None reported,26772
+42182,Cadillac,XT5 Base,5,58000,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,35500
+42318,Cadillac,XT5 Luxury,5,43500,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44750
+42361,Cadillac,CTS 3.6L Premium Luxury,5,20490,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,65000
+42828,Cadillac,CT6-V 4.2L Blackwing Twin Turbo,5,4451,4.2L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,57850
+43316,Cadillac,Escalade ESV Platinum,5,48613,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,57000
+43670,Cadillac,XTS Luxury,5,46711,304.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,21500
+44369,Cadillac,XT5 Base,5,48619,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37000
+44957,Cadillac,CTS 2.0L Turbo Luxury,5,49650,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,61000
+45414,Cadillac,XT5 Base,5,69771,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,36000
+45441,Cadillac,CTS 2.0L Turbo Luxury,5,35566,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,18999
+45843,Cadillac,Escalade ESV Luxury,5,93971,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39000
+46043,Cadillac,Escalade ESV Platinum,5,43500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,32300
+46327,Cadillac,SRX Luxury Collection,5,70503,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,33900
+46944,Cadillac,XT5 Base,5,54500,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,36750
+46987,Cadillac,Escalade ESV Luxury,5,52500,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,36000
+47587,Cadillac,CTS-V Base,5,42626,556.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,61500
+47854,Cadillac,CTS 3.6L Premium Luxury,5,25000,335.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,33900
+48228,Cadillac,CTS 2.0L Turbo Luxury,5,68816,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,29182
+48745,Cadillac,SRX Standard,5,44000,308.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,37000
+48980,Cadillac,XT5 Base,5,74414,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27500
+49364,Cadillac,CTS 2.0L Turbo Luxury,5,19162,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,26000
+49795,Cadillac,CTS 3.6L Premium Luxury,5,225000,321.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36000
+49924,Cadillac,XT4 Sport,5,44500,237.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,28900
+50160,Cadillac,XT5 Base,5,74414,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32000
+50763,Cadillac,Escalade ESV Premium Luxury Platinum,5,52744,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,62499
+52429,Cadillac,Escalade Premium Luxury,5,76422,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,84997
+52619,Cadillac,Escalade ESV Platinum,5,135000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,51900
+52685,Cadillac,CTS 2.0L Turbo Luxury,5,35850,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,26990
+52703,Cadillac,Escalade Luxury,5,36526,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,None reported,45950
+52892,Cadillac,CTS 2.0L Turbo Luxury,5,54000,265.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,20989
+53822,Cadillac,ATS 2.0L Turbo Luxury,5,99600,272.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,26000

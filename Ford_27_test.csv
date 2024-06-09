@@ -1,0 +1,5 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+67453,Ford,Mustang Base,27,149000,210.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,0
+70890,Ford,E250 Cargo,27,170000,225.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,0
+72919,Ford,Thunderbird Deluxe,27,92500,280.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,0
+80530,Ford,Wrangler Sport,27,132900,181.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,0

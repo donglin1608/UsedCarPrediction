@@ -1,0 +1,11 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+11878,GMC,Sierra 1500 SL Crew Cab,15,137000,295.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+24839,GMC,Sierra 1500 SLT,15,113000,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,3850
+25701,GMC,Sierra 1500 SLE Crew Cab,15,167500,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6500
+29413,GMC,Acadia SLT-1,15,134000,288.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14000
+30123,GMC,Yukon SLE,15,1837,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,164725
+30516,GMC,Yukon SLT,15,94500,320.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,11990
+38458,GMC,Acadia SLT-1,15,119000,288.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,12900
+41914,GMC,Avalanche 1500 LT,15,244000,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,16900
+42109,GMC,Sierra 2500 SLE H/D Extended Cab,15,129000,360.0HP 6.0L 8 Cylinder Engine Flex Fuel Capability,A/T,None reported,9500
+50505,GMC,Terrain SLT-1,15,116226,182.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8500

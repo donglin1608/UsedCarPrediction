@@ -1,0 +1,138 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+184,RAM,1500 Laramie,4,51105,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,38880
+791,RAM,1500 Big Horn,4,54200,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,39500
+995,RAM,1500 Big Horn,4,35003,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,37405
+1027,RAM,1500 Rebel,4,7396,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,29999
+1573,RAM,1500 Big Horn,4,61802,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39900
+1687,RAM,1500 Laramie,4,24114,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,29645
+2636,RAM,1500 Big Horn,4,70968,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,35273
+3142,RAM,1500 Laramie,4,10458,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,84500
+3538,RAM,1500 Rebel,4,57300,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,43500
+5111,RAM,1500 Limited,4,31654,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,39985
+5975,RAM,1500 Rebel,4,69423,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36500
+5989,RAM,2500 Tradesman,4,41000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43500
+6293,RAM,1500 Big Horn,4,48879,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,43775
+6569,RAM,2500 Tradesman,4,41000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45515
+6608,RAM,1500 Laramie,4,21165,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,29614
+6768,RAM,2500 Tradesman,4,37000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,30000
+7772,RAM,1500 Laramie,4,107714,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,45423
+7935,RAM,2500 Laramie,4,117878,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,48500
+8139,RAM,1500 Rebel,4,4200,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,49999
+8887,RAM,1500 Limited,4,29800,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,49500
+10588,RAM,1500 Rebel,4,87768,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,23000
+10977,RAM,1500 SLT,4,52000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+11176,RAM,1500 Limited,4,25352,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,31621
+11412,RAM,1500 Rebel,4,54800,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,36740
+12017,RAM,2500 SLT,4,38000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,31900
+12184,RAM,ProMaster 2500 High Roof,4,88000,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,29900
+12395,RAM,1500 Classic SLT,4,26177,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,19290
+13283,RAM,1500 Limited,4,22000,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,32999
+13602,RAM,1500 Laramie,4,58816,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,36791
+13806,RAM,1500 Big Horn,4,54423,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,59900
+13876,RAM,1500 Laramie,4,39105,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,62425
+13899,RAM,2500 Tradesman,4,31600,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,32600
+14232,RAM,2500 Tradesman,4,53750,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,35700
+15573,RAM,2500 Tradesman,4,32000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,68000
+16026,RAM,1500 Laramie,4,24500,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,49900
+16079,RAM,1500 Laramie,4,17377,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,45423
+16180,RAM,2500 Tradesman,4,51000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,68000
+16870,RAM,1500 Laramie,4,38012,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,32063
+16935,RAM,1500 Laramie,4,37366,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,85000
+17860,RAM,1500 Limited,4,38200,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37400
+18178,RAM,2500 Big Horn,4,51000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,46500
+18229,RAM,1500 SLT,4,4000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,50000
+18404,RAM,2500 Tradesman,4,41000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,41950
+18617,RAM,1500 Rebel,4,54800,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,42000
+19075,RAM,1500 Rebel,4,57300,305.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,49900
+19337,RAM,1500 Big Horn,4,38383,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,68995
+19420,RAM,1500 Rebel,4,40000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46000
+19540,RAM,ProMaster 2500 High Roof,4,56578,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,39900
+19700,RAM,1500 Limited,4,22000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44900
+19847,RAM,1500 Big Horn,4,9099,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,35273
+19848,RAM,1500 Big Horn,4,44362,5.7L V8 16V MPFI OHV,Automatic,None reported,49573
+21710,RAM,1500 Big Horn,4,25990,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49895
+22357,RAM,1500 Rebel,4,54800,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,41500
+22405,RAM,ProMaster 2500 High Roof,4,18500,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,50000
+23158,RAM,1500 Limited,4,57300,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,46900
+23194,RAM,1500 Classic Warlock,4,61802,3.6L V6 24V MPFI DOHC Flexible Fuel,8-Speed Automatic,At least 1 accident or damage reported,19500
+23227,RAM,1500 Laramie,4,18526,5.7L V8 16V MPFI OHV,Automatic,None reported,33490
+23443,RAM,1500 Limited,4,32000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,46000
+24675,RAM,1500 Rebel,4,41800,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,47500
+26187,RAM,ProMaster 3500 High Roof,4,44362,1.5L I3 12V PDI DOHC Turbo,8-Speed Automatic,None reported,31621
+27699,RAM,1500 Rebel,4,57300,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,46500
+27720,RAM,2500 Tradesman,4,86500,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,31450
+28586,RAM,1500 Rebel,4,54800,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39500
+29701,RAM,1500 Rebel,4,54320,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,69500
+30210,RAM,1500 Laramie,4,49105,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,44596
+30302,RAM,1500 Laramie,4,107714,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,47214
+30360,RAM,1500 Limited,4,25396,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,55655
+30487,RAM,1500 Rebel,4,43850,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,25695
+30582,RAM,1500 Laramie,4,107714,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,17816
+30932,RAM,1500 Laramie,4,45979,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,50658
+31036,RAM,1500 Big Horn,4,24778,3.6L V6 24V MPFI DOHC,8-Speed Automatic,None reported,49273
+31374,RAM,2500 Big Horn,4,51000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,45900
+31418,RAM,1500 Laramie,4,45468,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,39900
+32408,RAM,2500 Laramie,4,67483,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,46500
+32553,RAM,1500 Rebel,4,54800,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,27500
+32901,RAM,1500 Big Horn,4,14920,5.7L V8 32V MPFI DOHC,8-Speed Automatic,None reported,62450
+32943,RAM,ProMaster 3500 High Roof,4,73043,3.6L V6 24V GDI DOHC,8-Speed Automatic,None reported,50658
+33125,RAM,3500 Tradesman,4,49000,400.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,None reported,41500
+33313,RAM,1500 Rebel,4,40000,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,47500
+33515,RAM,1500 Big Horn,4,49000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44900
+33556,RAM,2500 Tradesman,4,63875,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,41900
+34196,RAM,1500 Rebel,4,57300,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,39000
+34688,RAM,1500 Rebel,4,54800,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,113990
+35028,RAM,1500 Rebel,4,57300,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,43500
+35118,RAM,1500 Big Horn,4,45867,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,18987
+36000,RAM,1500 Limited,4,43534,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,65990
+36173,RAM,1500 TRX,4,15592,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,37400
+36244,RAM,1500 Big Horn,4,39960,5.7L V8 16V MPFI OHV,A/T,None reported,29950
+37053,RAM,1500 Laramie,4,11756,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,44950
+37335,RAM,1500 Rebel,4,28690,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,49990
+37387,RAM,1500 Limited,4,29000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49995
+37416,RAM,1500 Longhorn,4,49583,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,49685
+37696,RAM,1500 Laramie,4,21165,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,62999
+38321,RAM,1500 Laramie,4,45000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46999
+38350,RAM,3500 Tradesman,4,2990,400.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,69900
+38457,RAM,1500 Rebel,4,63875,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,46500
+38902,RAM,1500 Laramie,4,21165,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,45500
+39212,RAM,1500 Rebel,4,59500,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,At least 1 accident or damage reported,15000
+40520,RAM,ProMaster 2500 High Roof,4,19700,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,38500
+41465,RAM,1500 Tradesman/Express,4,41000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,29999
+41521,RAM,1500 Laramie,4,21165,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,35273
+42225,RAM,1500 Big Horn,4,54225,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,49685
+42553,RAM,ProMaster 3500 High Roof,4,41000,280.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,29500
+42624,RAM,1500 Big Horn,4,31349,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,34250
+42714,RAM,1500 Big Horn,4,4451,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,56515
+43132,RAM,1500 Rebel,4,42728,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34600
+43285,RAM,1500 Rebel,4,63875,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,47500
+43501,RAM,1500 Rebel,4,54800,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,36800
+43715,RAM,1500 Laramie,4,48641,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,41999
+44167,RAM,2500 Big Horn,4,63750,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,54900
+44507,RAM,1500 TRX,4,21100,702.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,90000
+45282,RAM,2500 Big Horn,4,51000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,45900
+45523,RAM,1500 Limited,4,19200,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44900
+45699,RAM,1500 Rebel,4,57300,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,43500
+46179,RAM,1500 Rebel,4,54800,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39500
+46368,RAM,Suburban RST,4,33100,277.0HP 3.0L Straight 6 Cylinder Engine Diesel Fuel,10-Speed A/T,None reported,27800
+46631,RAM,1500 Longhorn,4,76249,5.7L V8 16V MPFI OHV,6-Speed Automatic,At least 1 accident or damage reported,41741
+47367,RAM,1500 Rebel,4,53500,395.0HP 5.7L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,None reported,43500
+47907,RAM,1500 Laramie,4,2905,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,68995
+48067,RAM,1500 Limited,4,26000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,92500
+48353,RAM,1500 Rebel,4,31250,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,42500
+48819,RAM,1500 Laramie,4,35003,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,54490
+49923,RAM,1500 Laramie,4,10458,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,42886
+50065,RAM,2500 Laramie,4,67726,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,30499
+50369,RAM,ProMaster 3500 High Roof,4,76249,3.6L V6 24V MPFI DOHC,8-Speed Automatic,At least 1 accident or damage reported,32541
+51123,RAM,1500 Big Horn,4,25108,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,47500
+51402,RAM,1500 Laramie,4,38012,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,52590
+51766,RAM,1500 Limited,4,45468,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,55999
+52277,RAM,2500 Big Horn,4,51000,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,45900
+52567,RAM,1500 Rebel,4,25000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,39500
+52716,RAM,1500 Laramie,4,16744,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,43550
+52734,RAM,1500 Rebel,4,57300,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,25695
+52865,RAM,1500 Rebel,4,4000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,48000
+53107,RAM,1500 Laramie,4,4285,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,185000
+53503,RAM,1500 Big Horn,4,49000,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,44900
+53575,RAM,1500 Laramie,4,13464,5.7L V8 16V MPFI OHV,8-Speed Automatic,None reported,29182
+53602,RAM,1500 Rebel,4,63875,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,41900

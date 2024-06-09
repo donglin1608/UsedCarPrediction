@@ -1,0 +1,31 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1783,Toyota,4Runner SR5,23,220000,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9499
+2092,Toyota,4Runner SR5,23,98313,245.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9999
+2843,Toyota,Sequoia SR5,23,244200,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+6652,Toyota,Highlander Base,23,231581,220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4400
+8444,Toyota,Celica GT,23,181000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,5500
+8741,Toyota,Excursion Limited,23,205000,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,A/T,None reported,4900
+10553,Toyota,Highlander Base,23,231581,220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,6000
+12709,Toyota,Celica GT,23,55000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,41500
+18447,Toyota,Highlander Base,23,231581,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,2900
+21767,Toyota,Camry LE,23,86111,220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5500
+21996,Toyota,Celica GT,23,124747,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,3850
+22882,Toyota,Celica GT,23,151600,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6500
+24072,Toyota,FJ Cruiser Base,23,119500,260.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+24533,Toyota,Camry Solara SLE,23,37216,225.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,4200
+25768,Toyota,Celica GT,23,103000,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,5-Speed M/T,None reported,15999
+25822,Toyota,Celica GT,23,122000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,6500
+25835,Toyota,Celica GT,23,122000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,7800
+31115,Toyota,Camry LE,23,103000,133.0HP 2.2L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+32520,Toyota,Highlander Base,23,231581,220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000
+36780,Toyota,Camry Solara SLE V6,23,245000,200.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3500
+37848,Toyota,Sequoia SR5,23,120000,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,22000
+41817,Toyota,Highlander Base,23,231581,220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,4300
+42751,Toyota,Highlander Base,23,231581,220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,5000
+46731,Toyota,Camry LE,23,153350,160.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,5000
+47373,Toyota,Highlander Base,23,231581,220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,4300
+50389,Toyota,Corolla LE,23,231581,130.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+50688,Toyota,Celica GT,23,122000,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,6500
+51020,Toyota,Excursion Limited,23,109357,310.0HP 6.8L 10 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,12749
+52473,Toyota,F-250 XLT Super Duty,23,64309,260.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,7500
+53704,Toyota,Highlander Base,23,231581,220.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,9000

@@ -1,0 +1,435 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+271,Mercedes-Benz,Metris Base,5,17000,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,72900
+337,Mercedes-Benz,E-Class E 300 4MATIC,5,19500,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,81330
+452,Mercedes-Benz,AMG GLE 43 4MATIC Coupe,5,23900,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,41000
+519,Mercedes-Benz,C-Class C 300 4MATIC,5,23083,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,33500
+623,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,57000
+739,Mercedes-Benz,AMG G 63 Base,5,35943,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,69500
+878,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,At least 1 accident or damage reported,82499
+963,Mercedes-Benz,C-Class C 300 4MATIC,5,28663,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,45950
+1293,Mercedes-Benz,E-Class E 300 4MATIC,5,49899,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,52500
+1359,Mercedes-Benz,S-Class S 560 4MATIC,5,45791,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,55000
+1683,Mercedes-Benz,C-Class C 300 4MATIC Sport,5,49626,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,43000
+1745,Mercedes-Benz,GLS 450 Base 4MATIC,5,6600,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,28995
+1919,Mercedes-Benz,C-Class C 300 4MATIC,5,59500,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,25980
+1956,Mercedes-Benz,E-Class E 350,5,13700,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,33500
+2036,Mercedes-Benz,AMG GT 63 S 4-Door,5,9500,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,135000
+2038,Mercedes-Benz,AMG E 63 S 4MATIC,5,49872,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,75000
+2060,Mercedes-Benz,AMG C 63 Base,5,44800,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,52500
+2071,Mercedes-Benz,S-Class S 63 AMG,5,40900,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,59750
+2216,Mercedes-Benz,A-Class A 220 4MATIC,5,30300,188.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,40500
+2276,Mercedes-Benz,E-Class E 550,5,19300,402.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,69000
+2810,Mercedes-Benz,AMG GLE AMG GLE 63 S-Model 4MATIC,5,19000,550.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,54490
+2870,Mercedes-Benz,AMG C 43 Base 4MATIC,5,33548,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,57999
+3030,Mercedes-Benz,C-Class C 300 4MATIC,5,55403,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,32324
+3081,Mercedes-Benz,AMG C 63 Base,5,49626,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,64995
+3160,Mercedes-Benz,GL-Class GL 450 4MATIC,5,53500,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,35300
+3324,Mercedes-Benz,C-Class C 300,5,72836,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+3383,Mercedes-Benz,AMG G 63 Base,5,39800,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,48000
+3391,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,44000,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,43500
+3395,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,33500,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,42500
+3403,Mercedes-Benz,AMG C 43 Base 4MATIC,5,51400,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46850
+3551,Mercedes-Benz,S-Class S 560 4MATIC,5,4700,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,43500
+3629,Mercedes-Benz,Metris Base,5,46250,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,At least 1 accident or damage reported,36994
+3783,Mercedes-Benz,E-Class E 300 4MATIC,5,28886,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,49995
+3784,Mercedes-Benz,AMG G 63 Base,5,19593,4.0L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,None reported,69995
+3864,Mercedes-Benz,S-Class S 450,5,7300,188.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,15900
+4026,Mercedes-Benz,S-Class S 560 4MATIC,5,17500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,79990
+4141,Mercedes-Benz,AMG S 63 Base 4MATIC,5,81778,4.0L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,At least 1 accident or damage reported,34918
+4209,Mercedes-Benz,C-Class C 300 4MATIC,5,73500,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31700
+4215,Mercedes-Benz,AMG GT 53 Base,5,15000,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,77900
+4238,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,33088,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,57999
+4644,Mercedes-Benz,C-Class C 300 4MATIC,5,70000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+4805,Mercedes-Benz,C-Class C 300 4MATIC,5,53900,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,29800
+4884,Mercedes-Benz,E-Class E 300 4MATIC,5,88161,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,48950
+4929,Mercedes-Benz,SLC 300 Base,5,23900,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,49950
+5051,Mercedes-Benz,S-Class S 560 4MATIC,5,10500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,75500
+5110,Mercedes-Benz,AMG G 63 Base,5,21300,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,74500
+5211,Mercedes-Benz,AMG GLE 43 4MATIC Coupe,5,23300,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,47500
+5213,Mercedes-Benz,GLE 350 Base 4MATIC,5,39102,302.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,99750
+5316,Mercedes-Benz,Metris Base,5,16000,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,38999
+5347,Mercedes-Benz,C-Class C 300 4MATIC,5,62808,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,At least 1 accident or damage reported,34700
+5388,Mercedes-Benz,AMG S 63 Base 4MATIC,5,13700,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,39995
+5500,Mercedes-Benz,S-Class S 560 4MATIC,5,10500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,27599
+5647,Mercedes-Benz,S-Class S 560 4MATIC,5,49626,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,65900
+5863,Mercedes-Benz,Metris Base,5,61000,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,188500
+5914,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,15500
+6273,Mercedes-Benz,Sprinter 2500 Standard Roof,5,132200,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,7-Speed A/T,None reported,32000
+6535,Mercedes-Benz,Metris Base,5,45900,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,52900
+6552,Mercedes-Benz,AMG C 63 S,5,17000,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,62499
+7080,Mercedes-Benz,C-Class C 300 4MATIC,5,24500,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,31900
+7232,Mercedes-Benz,SLC 300 Base,5,33000,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,38000
+7329,Mercedes-Benz,AMG G 63 Base,5,71962,4.0L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,At least 1 accident or damage reported,48815
+7348,Mercedes-Benz,Sprinter 2500 Standard Roof,5,65000,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,9-Speed A/T,None reported,65000
+7582,Mercedes-Benz,Sprinter 3500 High Roof,5,110000,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,None reported,39990
+7605,Mercedes-Benz,AMG C 43 Base 4MATIC,5,40000,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,48000
+7612,Mercedes-Benz,Sprinter 2500 Standard Roof,5,42750,161.0HP 2.1L 4 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,45750
+7785,Mercedes-Benz,GLC 300 Base 4MATIC,5,41997,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,24995
+7788,Mercedes-Benz,SLC 300 Base,5,37100,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,49750
+7805,Mercedes-Benz,AMG C 63 Base,5,33500,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,67800
+7818,Mercedes-Benz,S-Class S 560 4MATIC,5,49626,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,36000
+7907,Mercedes-Benz,AMG C 63 Base,5,41500,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,65000
+7997,Mercedes-Benz,AMG E 63 S 4MATIC,5,13000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,75000
+8037,Mercedes-Benz,AMG GT 63 S 4-Door,5,40000,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,62000
+8113,Mercedes-Benz,AMG GT 53 Base,5,38718,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,49000
+8188,Mercedes-Benz,E-Class E 300 4MATIC,5,33000,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,29000
+8305,Mercedes-Benz,AMG C 43 Base 4MATIC,5,33500,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,46900
+8306,Mercedes-Benz,GLS 450 Base 4MATIC,5,33481,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,37500
+8441,Mercedes-Benz,SLC 300 Base,5,54300,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,51899
+8474,Mercedes-Benz,E-Class E 400,5,28690,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,38880
+8583,Mercedes-Benz,GLS 450 Base 4MATIC,5,34068,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,46900
+8888,Mercedes-Benz,AMG GT 63 S 4-Door,5,9500,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,82150
+8979,Mercedes-Benz,AMG E 53 Base 4MATIC,5,10400,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,None reported,99750
+8995,Mercedes-Benz,AMG GT AMG GT S,5,23230,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,72900
+9156,Mercedes-Benz,E-Class E 300 4MATIC,5,48000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,24000
+9470,Mercedes-Benz,G-Class G 550 4MATIC,5,32376,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,27000
+9539,Mercedes-Benz,AMG GLE 43 4MATIC Coupe,5,49000,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,28900
+9865,Mercedes-Benz,C-Class C 300 4MATIC,5,40000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,58000
+9917,Mercedes-Benz,AMG GLC 43 AMG GLC 43,5,40906,3.0 Liter Twin Turbo,Automatic,None reported,67190
+10022,Mercedes-Benz,C-Class C 300 4MATIC Sport,5,95212,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,34995
+10031,Mercedes-Benz,AMG C 63 S,5,79000,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,48000
+10053,Mercedes-Benz,S-Class S 560 4MATIC,5,49500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,71900
+10057,Mercedes-Benz,G-Class G 550 4MATIC,5,22480,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,64000
+10074,Mercedes-Benz,A-Class A 220 4MATIC,5,45468,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,None reported,45999
+10389,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,67000
+10763,Mercedes-Benz,Metris Base,5,10500,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,79500
+10938,Mercedes-Benz,AMG G 63 Base,5,41000,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,28890
+10996,Mercedes-Benz,S-Class S 560 4MATIC,5,71962,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,47800
+11023,Mercedes-Benz,AMG GT 63 S 4-Door,5,47907,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,40999
+11079,Mercedes-Benz,GLS 450 Base 4MATIC,5,33500,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,22000
+11172,Mercedes-Benz,AMG C 43 Base 4MATIC,5,41500,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,46000
+11270,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,95000
+11398,Mercedes-Benz,AMG S 63 Base 4MATIC,5,124705,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,20999
+11476,Mercedes-Benz,GLA-Class GLA 250 4MATIC,5,17900,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,48995
+11483,Mercedes-Benz,C-Class C 300 4MATIC,5,44500,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,38900
+11727,Mercedes-Benz,AMG E 63 S 4MATIC,5,49000,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,63000
+11901,Mercedes-Benz,S-Class S 63 AMG,5,48600,518.0HP 6.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,46900
+11955,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,32500,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,43500
+11975,Mercedes-Benz,G-Class G 550 4MATIC,5,59000,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,27000
+12351,Mercedes-Benz,AMG C 63 S,5,28399,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,56900
+12569,Mercedes-Benz,E-Class E 400 4MATIC,5,73800,3.0L V6 24V GDI DOHC Twin Turbo,9-Speed Automatic,None reported,45999
+12598,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,53500,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,22500
+12669,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,41000
+12839,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,33000,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,44990
+12866,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,86900
+13065,Mercedes-Benz,C-Class C 300,5,24850,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,19395
+13298,Mercedes-Benz,AMG GT 53 Base,5,33500,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,54999
+13316,Mercedes-Benz,S-Class S 560 4MATIC,5,49500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,85000
+13359,Mercedes-Benz,AMG GLE AMG GLE 63 S-Model 4MATIC,5,35943,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,51700
+13379,Mercedes-Benz,E-Class E 300 4MATIC,5,34068,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,47999
+13501,Mercedes-Benz,C-Class C 300 4MATIC,5,48000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,20500
+13647,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,1750,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,61059
+13701,Mercedes-Benz,G-Class G 550 4MATIC,5,81000,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32750
+13861,Mercedes-Benz,G-Class G 550 4MATIC,5,32376,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+14021,Mercedes-Benz,C-Class C 300,5,40000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,28000
+14032,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,48000
+14034,Mercedes-Benz,AMG C 43 Base 4MATIC,5,34068,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,54500
+14143,Mercedes-Benz,G-Class G 550 4MATIC,5,42728,450.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,45950
+14307,Mercedes-Benz,S-Class S 560,5,45791,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,48000
+14457,Mercedes-Benz,C-Class C 300 4MATIC,5,23083,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,38999
+14573,Mercedes-Benz,G-Class G 550 4MATIC,5,75151,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,130000
+14623,Mercedes-Benz,GLS 450 Base 4MATIC,5,33481,3.0L V6 24V GDI DOHC Twin Turbo,9-Speed Automatic,At least 1 accident or damage reported,46900
+14646,Mercedes-Benz,AMG GT 53 Base,5,8603,3.0L V6 24V GDI DOHC Turbo,9-Speed Automatic,None reported,128900
+14792,Mercedes-Benz,C-Class C 300 4MATIC,5,42717,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,37500
+14809,Mercedes-Benz,S-Class S 560 4MATIC,5,24500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,99750
+14978,Mercedes-Benz,AMG GT 63 S 4-Door,5,40000,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,27200
+15256,Mercedes-Benz,AMG E 63 S 4MATIC,5,13700,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,75000
+15269,Mercedes-Benz,AMG E 53 Base 4MATIC,5,33500,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,59000
+15708,Mercedes-Benz,C-Class C 300,5,54002,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,32999
+15786,Mercedes-Benz,S-Class S 560 4MATIC,5,22000,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,78900
+15883,Mercedes-Benz,AMG E 63 S 4MATIC,5,41500,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,45000
+15885,Mercedes-Benz,E-Class E 350 4MATIC,5,48613,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,43860
+16044,Mercedes-Benz,AMG GLS 63 4MATIC,5,19200,603.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,65000
+16287,Mercedes-Benz,E-Class E 300 4MATIC,5,36900,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,28500
+16507,Mercedes-Benz,AMG G 63 Base,5,26000,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,39390
+16606,Mercedes-Benz,AMG C 43 Base 4MATIC,5,15000,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,84000
+16892,Mercedes-Benz,S-Class S 560 4MATIC,5,77648,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,49900
+17199,Mercedes-Benz,AMG C 63 S,5,13650,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,48000
+17266,Mercedes-Benz,GLE 350 Base 4MATIC,5,49899,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,42500
+17375,Mercedes-Benz,GLS 450 Base 4MATIC,5,41500,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,68500
+17381,Mercedes-Benz,AMG C 63 S,5,12985,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,59000
+17705,Mercedes-Benz,AMG GT 63 S 4-Door,5,28755,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,67250
+17757,Mercedes-Benz,AMG E 53 Base 4MATIC,5,55600,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,36000
+17835,Mercedes-Benz,S-Class S 560 4MATIC,5,22000,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,47000
+18797,Mercedes-Benz,S-Class S 560 4MATIC,5,989,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,53500
+19104,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,32300,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,31900
+19470,Mercedes-Benz,S-Class S 560 4MATIC,5,45791,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,52500
+19636,Mercedes-Benz,A-Class A 220 4MATIC,5,30300,188.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,35500
+19828,Mercedes-Benz,AMG E 53 Base 4MATIC,5,41000,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,38000
+19842,Mercedes-Benz,AMG C 63 Base,5,28399,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,56900
+20126,Mercedes-Benz,GLC 300 GLC 300,5,23430,3.0 Liter Turbo,Automatic,None reported,43250
+20294,Mercedes-Benz,AMG C 43 Base 4MATIC,5,51400,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,28900
+20377,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,47000
+20454,Mercedes-Benz,S-Class S 560 4MATIC,5,73500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,73500
+20459,Mercedes-Benz,AMG C 63 Base,5,40000,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,57000
+20462,Mercedes-Benz,GLS 450 Base 4MATIC,5,12088,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,129000
+20504,Mercedes-Benz,AMG E 63 S 4MATIC,5,4102,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,149000
+20519,Mercedes-Benz,Sprinter 3500 High Roof,5,93400,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,7-Speed A/T,None reported,75000
+20578,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,54500
+20619,Mercedes-Benz,AMG GLS 63 4MATIC,5,28200,603.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,63500
+20728,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,89900
+20753,Mercedes-Benz,C-Class C 300 4MATIC,5,42200,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,27500
+21106,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,69995
+21138,Mercedes-Benz,SLC 300 Base,5,72784,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,40999
+21253,Mercedes-Benz,GLS 450 Base 4MATIC,5,19800,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,30000
+21301,Mercedes-Benz,G-Class G 550 4MATIC,5,49626,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,54000
+21419,Mercedes-Benz,S-Class S 560 4MATIC,5,45000,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,49995
+21567,Mercedes-Benz,GLS 450 Base 4MATIC,5,33400,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,55000
+21645,Mercedes-Benz,AMG G 63 Base,5,1750,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,96000
+21666,Mercedes-Benz,C-Class C 300 4MATIC Sport,5,46000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,40000
+21937,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,32500,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,43500
+22011,Mercedes-Benz,C-Class C 300 4MATIC,5,57300,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,36500
+22680,Mercedes-Benz,AMG GT C,5,6600,550.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,41500
+22706,Mercedes-Benz,AMG S 63 Base 4MATIC,5,67280,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,99999
+23154,Mercedes-Benz,C-Class C 300 4MATIC Sport,5,45900,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,38000
+23176,Mercedes-Benz,E-Class E 350,5,15000,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,31300
+23211,Mercedes-Benz,AMG G 63 Base,5,67100,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,135800
+23225,Mercedes-Benz,S-Class S 560 4MATIC,5,40000,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,72000
+23229,Mercedes-Benz,C-Class C 300 4MATIC,5,70582,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,59000
+23284,Mercedes-Benz,S-Class S 560 4MATIC,5,7388,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,95000
+23313,Mercedes-Benz,AMG GT 63 S 4-Door,5,4457,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,125900
+23341,Mercedes-Benz,AMG GT 63 S 4-Door,5,40000,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,32500
+23343,Mercedes-Benz,GLC 300 Base 4MATIC,5,10400,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,37900
+23406,Mercedes-Benz,AMG GT 63 S 4-Door,5,9500,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,135000
+23522,Mercedes-Benz,AMG E 63 S 4MATIC,5,49899,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,60500
+23541,Mercedes-Benz,A-Class A 220 4MATIC,5,28663,3.0L V6 24V GDI DOHC Twin Turbo,7-Speed Automatic with Auto-Shift,None reported,62450
+23590,Mercedes-Benz,E-Class E 350,5,72500,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,31450
+23672,Mercedes-Benz,E-Class E 300,5,32580,2.0 Liter Turbo,Automatic,None reported,24998
+23824,Mercedes-Benz,SLC 300 Base,5,23900,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,17999
+23839,Mercedes-Benz,S-Class S 560 4MATIC,5,71962,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,64500
+23919,Mercedes-Benz,SLC 300 Base,5,23900,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,35999
+23998,Mercedes-Benz,C-Class C 300 4MATIC,5,59400,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,24995
+24032,Mercedes-Benz,C-Class C 300 4MATIC,5,59600,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29900
+24093,Mercedes-Benz,GLE 350 Base 4MATIC,5,57785,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,89900
+24157,Mercedes-Benz,AMG G 63 Base,5,32936,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,65900
+24221,Mercedes-Benz,AMG E 63 S 4MATIC,5,33000,603.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,74000
+24397,Mercedes-Benz,AMG E 63 S 4MATIC,5,12985,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,96000
+24495,Mercedes-Benz,E-Class E 400 4MATIC,5,4590,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,47500
+24555,Mercedes-Benz,S-Class S 560 4MATIC,5,10500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,53900
+24577,Mercedes-Benz,AMG GT 53 Base,5,30000,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,90000
+24581,Mercedes-Benz,AMG G 63 Base,5,2000,577.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,92500
+24712,Mercedes-Benz,C-Class C 300,5,102000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+24795,Mercedes-Benz,S-Class S 560 4MATIC,5,10500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,45950
+25012,Mercedes-Benz,S-Class S 560 4MATIC,5,48613,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,61500
+25092,Mercedes-Benz,AMG GT 63 S 4-Door,5,40000,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,54900
+25188,Mercedes-Benz,GLS 550 Base 4MATIC,5,20500,449.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37700
+25368,Mercedes-Benz,C-Class C 300,5,41515,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,36949
+25826,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,72000
+25837,Mercedes-Benz,S-Class S 560 4MATIC,5,51700,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,27900
+25984,Mercedes-Benz,C-Class C 300 4MATIC,5,49814,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,At least 1 accident or damage reported,26545
+26122,Mercedes-Benz,AMG GT 63 S 4-Door,5,9500,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,59000
+26177,Mercedes-Benz,S-Class S 560 4MATIC,5,76474,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,42950
+26199,Mercedes-Benz,AMG GLE 43 Coupe 4MATIC,5,28755,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,53800
+26445,Mercedes-Benz,C-Class C 300 4MATIC,5,40000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,60000
+26469,Mercedes-Benz,C-Class C 300 4MATIC,5,29800,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,36969
+26921,Mercedes-Benz,AMG GLE AMG GLE 63 S-Model 4MATIC,5,49899,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,47500
+27024,Mercedes-Benz,Maybach S 580 4MATIC,5,489,3.0L V6 24V GDI DOHC Twin Turbo,9-Speed Automatic,None reported,43837
+27094,Mercedes-Benz,C-Class C 300 4MATIC,5,73500,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+27370,Mercedes-Benz,S-Class S 560 4MATIC,5,47000,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,41500
+27384,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,135000
+27407,Mercedes-Benz,AMG GLE 63 S Coupe 4MATIC,5,71500,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,57000
+27627,Mercedes-Benz,AMG S 63 Base 4MATIC,5,12985,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,174900
+27702,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,75000
+27808,Mercedes-Benz,GLS 450 Base 4MATIC,5,34068,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,28995
+27947,Mercedes-Benz,Sprinter 2500 Standard Roof,5,41500,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,7-Speed A/T,None reported,47000
+28319,Mercedes-Benz,S-Class S 560 4MATIC,5,72500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,45000
+28342,Mercedes-Benz,AMG GLE 43 Coupe 4MATIC,5,59400,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,27500
+28380,Mercedes-Benz,Metris Base,5,31500,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,67900
+28393,Mercedes-Benz,AMG C 43 Base 4MATIC,5,41500,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,45900
+28489,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,38000,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,63995
+28545,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,33500,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,36500
+28776,Mercedes-Benz,C-Class C 300 4MATIC,5,59400,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36000
+28823,Mercedes-Benz,GLE 350 Base 4MATIC,5,48000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27000
+29007,Mercedes-Benz,AMG C 63 S,5,58375,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,49900
+29148,Mercedes-Benz,C-Class C 63 AMG,5,19162,451.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,85500
+29150,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,33500,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,32500
+29283,Mercedes-Benz,AMG C 63 S,5,19590,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,93999
+29290,Mercedes-Benz,AMG GT 53 Base,5,35000,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,50900
+29361,Mercedes-Benz,SL-Class SL 550,5,67500,429.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,34999
+29593,Mercedes-Benz,E-Class E 300 4MATIC,5,37900,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,26500
+29751,Mercedes-Benz,C-Class C 300 4MATIC,5,81301,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,26691
+29821,Mercedes-Benz,C-Class C 300 4MATIC,5,10500,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,30000
+29945,Mercedes-Benz,AMG GT C,5,6600,550.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,110000
+29956,Mercedes-Benz,G-Class G 550 4MATIC,5,13900,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,47000
+30231,Mercedes-Benz,AMG E 63 S 4MATIC,5,4279,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,185000
+30304,Mercedes-Benz,AMG C 63 S,5,3077,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,99750
+30495,Mercedes-Benz,Metris Base,5,56536,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,At least 1 accident or damage reported,20818
+30621,Mercedes-Benz,G-Class G 550 4MATIC,5,49899,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,54500
+30667,Mercedes-Benz,C-Class C 300,5,73549,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,27671
+30671,Mercedes-Benz,SLC 300 Base,5,7600,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,113000
+30710,Mercedes-Benz,S-Class S 560 4MATIC,5,22000,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,45000
+30744,Mercedes-Benz,S-Class S 560 4MATIC,5,45791,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,59203
+30759,Mercedes-Benz,C-Class C 300 4MATIC Sport,5,61773,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,41000
+30986,Mercedes-Benz,AMG E 53 Base 4MATIC,5,32000,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,41000
+31256,Mercedes-Benz,AMG E 63 S 4MATIC,5,12985,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,96000
+31287,Mercedes-Benz,C-Class C 300,5,17900,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31000
+31324,Mercedes-Benz,GLS 450 Base 4MATIC,5,34068,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,46900
+31420,Mercedes-Benz,AMG GLE 43 Coupe 4MATIC,5,28755,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,79950
+31832,Mercedes-Benz,AMG E 63 S 4MATIC,5,77690,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,47500
+31842,Mercedes-Benz,S-Class S 560 4MATIC,5,52100,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,39900
+31890,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,75000
+31964,Mercedes-Benz,E-Class E 350,5,21300,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,38000
+32153,Mercedes-Benz,AMG GT 53 Base,5,16000,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,63000
+32218,Mercedes-Benz,S-Class S 560 4MATIC,5,10500,4.0L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,None reported,45861
+32260,Mercedes-Benz,Metris Base,5,17340,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,25900
+32284,Mercedes-Benz,AMG GT C,5,35580,550.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,78990
+32288,Mercedes-Benz,S-Class S 560 4MATIC,5,45791,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,29000
+32301,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,59500,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,24995
+32326,Mercedes-Benz,AMG C 43 Base 4MATIC,5,40000,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,41000
+32396,Mercedes-Benz,C-Class C 300 4MATIC,5,96343,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,At least 1 accident or damage reported,33242
+32409,Mercedes-Benz,AMG GT C,5,40000,550.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,48500
+32428,Mercedes-Benz,GLS 450 Base 4MATIC,5,33500,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,26000
+32565,Mercedes-Benz,GLA 250 Base 4MATIC,5,654,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic,None reported,22999
+32566,Mercedes-Benz,S-Class S 560 4MATIC,5,45791,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,72567
+32761,Mercedes-Benz,GLE 450 GLE 450,5,49899,3.0L V6 24V GDI DOHC Twin Turbo,9-Speed Automatic,None reported,41995
+33478,Mercedes-Benz,AMG G 63 Base,5,7856,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,69500
+33666,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,32500,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,40500
+33915,Mercedes-Benz,AMG GLC 43 AMG GLC 43,5,33500,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,45000
+33939,Mercedes-Benz,SLC 300 Base,5,42717,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,32300
+34188,Mercedes-Benz,E-Class E 350,5,70582,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,17500
+34399,Mercedes-Benz,G-Class G 550 4MATIC,5,46102,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,69500
+34546,Mercedes-Benz,Metris Base,5,19500,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,48000
+34621,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,33523,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,94900
+34755,Mercedes-Benz,C-Class C 300 4MATIC,5,59400,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,33700
+34803,Mercedes-Benz,AMG GLE 43 Coupe 4MATIC,5,17000,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,50000
+34858,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,72000
+34944,Mercedes-Benz,S-Class S 550 4MATIC,5,13250,449.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,134900
+35020,Mercedes-Benz,S-Class S 63 AMG,5,41500,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,46999
+35083,Mercedes-Benz,AMG C 63 Base,5,28399,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,55600
+35107,Mercedes-Benz,AMG C 43 Base 4MATIC,5,46500,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,46500
+35842,Mercedes-Benz,AMG S 63 Base 4MATIC,5,16876,4.0L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,None reported,179900
+36008,Mercedes-Benz,S-Class S 560 4MATIC,5,39000,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,69500
+36127,Mercedes-Benz,AMG C 63 Base,5,19800,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,55600
+36633,Mercedes-Benz,AMG GLE AMG GLE 63 S-Model 4MATIC,5,49899,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,99750
+36637,Mercedes-Benz,C-Class C 300 4MATIC Sport,5,41515,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,None reported,22945
+36675,Mercedes-Benz,GLS 450 Base 4MATIC,5,40000,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+36764,Mercedes-Benz,GLS 450 Base 4MATIC,5,46100,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,48500
+36792,Mercedes-Benz,S-Class S 550 4MATIC,5,53500,449.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,43500
+36797,Mercedes-Benz,AMG C 63 S,5,10500,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,77900
+36849,Mercedes-Benz,G-Class G 550 4MATIC,5,45000,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,135000
+37145,Mercedes-Benz,AMG C 43 Base 4MATIC,5,4200,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,54999
+37493,Mercedes-Benz,CLA-Class CLA 250,5,58880,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,26000
+37515,Mercedes-Benz,S-Class S 560 4MATIC,5,10500,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,77900
+37865,Mercedes-Benz,S-Class S 560 4MATIC,5,45791,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,46900
+38067,Mercedes-Benz,G-Class G 550 4MATIC,5,45900,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,45985
+38208,Mercedes-Benz,AMG C 43 Base 4MATIC,5,33060,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,33500
+38242,Mercedes-Benz,S-Class S 560 4MATIC,5,28755,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,64600
+38424,Mercedes-Benz,AMG C 63 Base,5,42626,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,63999
+38538,Mercedes-Benz,S-Class S 560 4MATIC,5,37000,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,46850
+38594,Mercedes-Benz,E-Class E 400,5,28690,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,38880
+38750,Mercedes-Benz,A-Class A 220 4MATIC,5,30300,188.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29000
+38781,Mercedes-Benz,AMG G 63 Base,5,10500,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,31500
+38963,Mercedes-Benz,A-Class A 220 4MATIC,5,93400,188.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,36999
+39177,Mercedes-Benz,C-Class C 300,5,4590,189.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27900
+39285,Mercedes-Benz,AMG C 43 Base 4MATIC,5,63000,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,42000
+39323,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,33500,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,36950
+39380,Mercedes-Benz,AMG C 63 Base,5,49899,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,59500
+39673,Mercedes-Benz,Metris Base,5,36000,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,27900
+39734,Mercedes-Benz,GLS 450 Base 4MATIC,5,19800,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,31995
+40051,Mercedes-Benz,AMG GT 63 S 4-Door,5,67250,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,45950
+40116,Mercedes-Benz,AMG C 43 Base 4MATIC,5,47400,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,157500
+40281,Mercedes-Benz,AMG E 63 S 4MATIC,5,48750,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,71995
+40332,Mercedes-Benz,AMG G 63 Base,5,39800,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,59000
+40376,Mercedes-Benz,AMG GT C,5,28182,550.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,35900
+40956,Mercedes-Benz,C-Class C 300 4MATIC,5,14220,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,39000
+40984,Mercedes-Benz,AMG E 53 Base 4MATIC,5,35000,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,73000
+41653,Mercedes-Benz,AMG GT 53 Base,5,17500,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,45000
+41672,Mercedes-Benz,AMG C 43 Base 4MATIC,5,28399,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,55900
+41872,Mercedes-Benz,S-Class S 560 4MATIC,5,72784,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,27800
+42178,Mercedes-Benz,AMG C 63 Base,5,72500,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,43000
+42278,Mercedes-Benz,S-Class S 560 4MATIC,5,89150,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,40999
+42708,Mercedes-Benz,C-Class C 300,5,62285,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,32999
+42711,Mercedes-Benz,E-Class E 450 4MATIC,5,63160,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,26500
+42783,Mercedes-Benz,C-Class C 300 4MATIC,5,59600,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,31900
+42954,Mercedes-Benz,S-Class S 560 4MATIC,5,10500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,71000
+43038,Mercedes-Benz,AMG E 63 S 4MATIC,5,10500,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,65500
+43095,Mercedes-Benz,GLS 450 Base 4MATIC,5,33548,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,53800
+43190,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,72000
+43230,Mercedes-Benz,AMG GT C,5,21214,4.0L V8 32V GDI DOHC Twin Turbo,7-Speed Automatic with Auto-Shift,None reported,138999
+43299,Mercedes-Benz,AMG GLS 63 4MATIC,5,20678,603.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,34500
+43485,Mercedes-Benz,AMG GT 53 Base,5,2235,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,40000
+43517,Mercedes-Benz,AMG E 63 S 4MATIC,5,41856,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,61059
+43567,Mercedes-Benz,C-Class C 300 4MATIC,5,40000,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,62999
+43841,Mercedes-Benz,C-Class C 300 4MATIC,5,71750,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,28900
+44080,Mercedes-Benz,GLS 450 Base 4MATIC,5,17500,362.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,96500
+44273,Mercedes-Benz,E-Class E 300 4MATIC,5,58375,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30500
+44296,Mercedes-Benz,AMG GT 63 S 4-Door,5,40000,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,45000
+44525,Mercedes-Benz,G-Class G 550 4MATIC,5,16800,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,44000
+44572,Mercedes-Benz,GLS 450 Base 4MATIC,5,39000,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,54500
+44651,Mercedes-Benz,S-Class S 560 4MATIC,5,10500,4.0L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,None reported,67900
+44716,Mercedes-Benz,Metris Base,5,10500,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,79500
+44759,Mercedes-Benz,AMG GT 53 Base,5,28182,3.0L I6 24V GDI DOHC Turbo,9-Speed Automatic,None reported,48950
+44775,Mercedes-Benz,AMG C 63 Base,5,33548,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,48990
+44950,Mercedes-Benz,RS 7 4.0T Performance Prestige,5,59715,605.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,1-Speed A/T,At least 1 accident or damage reported,40500
+44960,Mercedes-Benz,C-Class C 300,5,49000,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,28900
+45246,Mercedes-Benz,AMG C 63 S,5,45000,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,72000
+45452,Mercedes-Benz,S-Class S 560 4MATIC,5,64957,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,29950
+45615,Mercedes-Benz,C-Class C 300 4MATIC Sport,5,49626,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,37500
+45766,Mercedes-Benz,E-Class E 400,5,49500,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30000
+45896,Mercedes-Benz,GLS 450 Base 4MATIC,5,88161,3.0L V6 24V GDI DOHC Twin Turbo,9-Speed A/T,None reported,199991
+45946,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,33500,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,45999
+46072,Mercedes-Benz,C-Class C 250 Sport,5,61308,201.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,35200
+46119,Mercedes-Benz,AMG C 43 Base 4MATIC,5,11249,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,54599
+46181,Mercedes-Benz,C-Class C 63 AMG,5,19800,451.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,32500
+46401,Mercedes-Benz,E-Class E 300 4MATIC,5,23083,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,33500
+46442,Mercedes-Benz,G-Class G 550 4MATIC,5,51354,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,55000
+46745,Mercedes-Benz,AMG GT C,5,1750,550.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,89750
+46763,Mercedes-Benz,E-Class E 350,5,56837,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,36950
+46823,Mercedes-Benz,S-Class S 560 4MATIC,5,9500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,84000
+47106,Mercedes-Benz,GLS 450 Base 4MATIC,5,48000,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,52999
+47130,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,73000
+47245,Mercedes-Benz,Metris Base,5,57550,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,32999
+47760,Mercedes-Benz,AMG C 43 Base 4MATIC,5,40000,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,36000
+47775,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,95000
+48011,Mercedes-Benz,E-Class E 400,5,44000,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,26000
+48300,Mercedes-Benz,AMG GT 63 S 4-Door,5,20500,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,78500
+48313,Mercedes-Benz,GLS 450 Base 4MATIC,5,59338,3.0L V6 24V GDI DOHC Twin Turbo,9-Speed Automatic,None reported,32999
+48364,Mercedes-Benz,GLC 300 Base 4MATIC,5,33300,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,45900
+48607,Mercedes-Benz,AMG GT AMG GT S,5,4457,4.0L V8 32V GDI DOHC Twin Turbo,7-Speed Automatic with Auto-Shift,None reported,75900
+48632,Mercedes-Benz,C-Class C 300 4MATIC Sport,5,70500,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,24995
+48775,Mercedes-Benz,C-Class C 300 4MATIC,5,49500,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,24500
+48801,Mercedes-Benz,S-Class S 560 4MATIC,5,10500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,73500
+49080,Mercedes-Benz,SLC 300 Base,5,36900,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,39990
+49118,Mercedes-Benz,AMG GLA 45 Base 4MATIC,5,4500,375.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,83000
+49467,Mercedes-Benz,S-Class S 560 4MATIC,5,45791,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,59500
+49481,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,51850,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,46900
+49666,Mercedes-Benz,AMG GT 53 Base,5,30000,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,None reported,52500
+49997,Mercedes-Benz,S-Class S 560 4MATIC,5,71962,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+50204,Mercedes-Benz,G-Class G 550 4MATIC,5,47800,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,46900
+50288,Mercedes-Benz,Sprinter 2500 Standard Roof,5,41500,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,9-Speed A/T,None reported,52000
+50382,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,33548,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,53999
+50607,Mercedes-Benz,CLS 450 Base,5,41500,369.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,At least 1 accident or damage reported,36950
+50668,Mercedes-Benz,AMG C 63 S,5,40000,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,48000
+50683,Mercedes-Benz,AMG E 63 S 4MATIC,5,51850,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,56500
+50808,Mercedes-Benz,AMG C 63 S,5,33000,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,66500
+50864,Mercedes-Benz,S-Class S 560 4MATIC,5,10500,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,52999
+50982,Mercedes-Benz,C-Class C 300 Luxury,5,63460,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,26500
+50986,Mercedes-Benz,C-Class C 300 4MATIC Sport,5,56578,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,29000
+51034,Mercedes-Benz,CLS-Class CLS 400 4MATIC,5,52284,329.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,36500
+51506,Mercedes-Benz,GLS 450 Base 4MATIC,5,17340,362.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,At least 1 accident or damage reported,29500
+51555,Mercedes-Benz,GLE 450 GLE 450,5,33705,3.0 Liter GTDI,Automatic,None reported,24991
+51762,Mercedes-Benz,GLE 350 Base 4MATIC,5,52673,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,27900
+51827,Mercedes-Benz,AMG E 63 S 4MATIC,5,17000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,54000
+51978,Mercedes-Benz,E-Class E 350,5,23151,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,30750
+52290,Mercedes-Benz,G-Class G 550 4MATIC,5,50000,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,27900
+52301,Mercedes-Benz,AMG GLE AMG GLE 63 S-Model 4MATIC,5,29558,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46999
+52306,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,At least 1 accident or damage reported,28250
+52451,Mercedes-Benz,AMG GT C,5,9400,550.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,45999
+52519,Mercedes-Benz,S-Class S 560 4MATIC,5,22000,463.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,81000
+52640,Mercedes-Benz,C-Class C 300 4MATIC,5,61675,255.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,32999
+52728,Mercedes-Benz,AMG E 63 S 4MATIC,5,41500,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,179900
+52807,Mercedes-Benz,C-Class C 300 4MATIC,5,29000,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29800
+52957,Mercedes-Benz,AMG C 43 AMG C 43 4MATIC,5,54900,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,31300
+52975,Mercedes-Benz,AMG GT 63 S 4-Door,5,9500,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,101000
+53090,Mercedes-Benz,C-Class C 300,5,53500,2.0L I4 16V GDI DOHC Turbo,7-Speed A/T,None reported,18749
+53095,Mercedes-Benz,C-Class C 300 4MATIC Sport,5,29500,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+53120,Mercedes-Benz,AMG C 63 S,5,58375,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,51500
+53192,Mercedes-Benz,Sprinter 3500 High Roof,5,39000,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,695000
+53199,Mercedes-Benz,AMG E 53 Base 4MATIC,5,15615,429.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,None reported,76400
+53256,Mercedes-Benz,GLS 450 Base 4MATIC,5,32376,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,38000
+53498,Mercedes-Benz,Metris Base,5,10500,228.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,33999
+53640,Mercedes-Benz,M-Class ML 350 4MATIC,5,49000,302.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,7-Speed A/T,None reported,37999
+53787,Mercedes-Benz,AMG E 63 S 4MATIC,5,40000,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,52000
+54098,Mercedes-Benz,AMG C 63 S,5,34500,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,55000
+54166,Mercedes-Benz,AMG C 43 Base 4MATIC,5,22000,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,At least 1 accident or damage reported,97555
+54214,Mercedes-Benz,AMG GT 63 S 4-Door,5,9500,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,None reported,93999

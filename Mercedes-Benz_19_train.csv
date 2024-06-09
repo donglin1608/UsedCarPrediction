@@ -1,0 +1,85 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+177,Mercedes-Benz,CLK-Class 550,19,149465,382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,18800
+4106,Mercedes-Benz,E-Class D 2.5 Turbo,19,151896,–,A/T,None reported,7900
+4490,Mercedes-Benz,SL-Class SL600 Roadster,19,78200,493.0HP 5.5L 12 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,16900
+4514,Mercedes-Benz,CLK-Class 500 Cabriolet,19,123500,302.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,11900
+4679,Mercedes-Benz,G-Class G 550 4MATIC,19,90189,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,29895
+5279,Mercedes-Benz,E-Class E500,19,153460,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9950
+5927,Mercedes-Benz,SL-Class SL600 Roadster,19,73000,510.0HP 5.5L 12 Cylinder Engine Gasoline Fuel,A/T,None reported,20000
+6259,Mercedes-Benz,SL-Class SL500 Roadster,19,120000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,14490
+6968,Mercedes-Benz,E-Class E55 AMG,19,131000,469.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,8500
+7039,Mercedes-Benz,SL-Class SL500 Roadster,19,131500,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,12990
+7563,Mercedes-Benz,SL-Class SL500 Roadster,19,127000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10900
+7610,Mercedes-Benz,SL-Class SL500 Roadster,19,77000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,15500
+8151,Mercedes-Benz,E-Class E500,19,120000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9995
+9623,Mercedes-Benz,E-Class E55 AMG,19,131000,469.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,15500
+9997,Mercedes-Benz,S-Class S500,19,224000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,3900
+10720,Mercedes-Benz,SL-Class SL500 Roadster,19,63000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,17995
+11606,Mercedes-Benz,S-Class S500,19,175722,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8995
+11677,Mercedes-Benz,SL-Class SL500 Roadster,19,138000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,2300
+11701,Mercedes-Benz,S-Class S500,19,145000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,4200
+12103,Mercedes-Benz,E-Class E500,19,69423,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,24500
+13641,Mercedes-Benz,SL-Class SL600 Roadster,19,93000,493.0HP 5.5L 12 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,22500
+13796,Mercedes-Benz,E-Class E 350,19,133255,255.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3500
+15034,Mercedes-Benz,SL-Class SL500 Roadster,19,33300,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,4000
+15213,Mercedes-Benz,E-Class E500,19,185000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9950
+15271,Mercedes-Benz,SL-Class SL500 Roadster,19,137333,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,10999
+19821,Mercedes-Benz,CLK-Class 500 Cabriolet,19,64000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,11999
+20934,Mercedes-Benz,SLK-Class SLK320,19,60100,215.0HP 3.2L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6900
+21128,Mercedes-Benz,SL-Class SL500 Roadster,19,127000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+21401,Mercedes-Benz,SL-Class SL63 AMG Roadster,19,56000,518.0HP 6.3L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,44850
+22619,Mercedes-Benz,E-Class E55 AMG,19,131000,510.0HP 5.5L 12 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,15500
+22999,Mercedes-Benz,SL-Class SL550 Roadster,19,3000,382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,95580
+23026,Mercedes-Benz,E-Class E55 AMG,19,93000,469.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,22500
+23073,Mercedes-Benz,E-Class E500,19,131000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,16250
+24525,Mercedes-Benz,E-Class E 350 4MATIC,19,91491,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,15500
+24908,Mercedes-Benz,SL-Class SL600 Roadster,19,93000,493.0HP 5.5L 12 Cylinder Engine Gasoline Fuel,A/T,None reported,22500
+24957,Mercedes-Benz,S-Class S500,19,92203,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+25134,Mercedes-Benz,SL-Class SL500 Roadster,19,150000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10499
+25795,Mercedes-Benz,E-Class E55 AMG,19,82000,469.0HP 5.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,16995
+25807,Mercedes-Benz,SL-Class SL500 Roadster,19,150000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,2500
+25919,Mercedes-Benz,E-Class E500,19,153460,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,12350
+26061,Mercedes-Benz,GL-Class GL 450,19,148000,335.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9900
+26926,Mercedes-Benz,SL-Class SL600 Roadster,19,78200,493.0HP 5.5L 12 Cylinder Engine Gasoline Fuel,A/T,None reported,15000
+27422,Mercedes-Benz,SL-Class SL500 Roadster,19,118000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10500
+27425,Mercedes-Benz,SLK-Class SLK320,19,152000,215.0HP 3.2L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,8999
+27647,Mercedes-Benz,SL-Class SL500 Roadster,19,189719,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,14000
+27743,Mercedes-Benz,SL-Class SL500 Roadster,19,96000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,13500
+27897,Mercedes-Benz,CLK-Class 500 Cabriolet,19,160000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,10199
+29609,Mercedes-Benz,CLK-Class 500 Cabriolet,19,160000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+29805,Mercedes-Benz,325 Ci,19,178000,184.0HP 2.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,5750
+32360,Mercedes-Benz,E-Class E500,19,153460,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5800
+32947,Mercedes-Benz,E-Class E 350 4MATIC,19,18815,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,11900
+33006,Mercedes-Benz,E-Class E500,19,162000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5900
+33749,Mercedes-Benz,SLK-Class SLK 350,19,120800,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,13900
+34149,Mercedes-Benz,E-Class E500,19,154000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,8500
+34352,Mercedes-Benz,E-Class E 350 4MATIC,19,91900,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9950
+34853,Mercedes-Benz,E-Class E500,19,70015,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,None reported,15500
+35280,Mercedes-Benz,SL-Class SL500 Roadster,19,80081,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,8950
+36202,Mercedes-Benz,SL-Class SL500 Roadster,19,78124,425.0HP 6.1L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,22000
+36293,Mercedes-Benz,CLK-Class CLK 350,19,190656,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+36307,Mercedes-Benz,SL-Class SL500 Roadster,19,190120,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,At least 1 accident or damage reported,17000
+37016,Mercedes-Benz,S-Class S500,19,175722,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+37498,Mercedes-Benz,S-Class S500,19,149000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,10099
+37564,Mercedes-Benz,E-Class E500,19,91900,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9950
+38172,Mercedes-Benz,SL-Class SL500 Roadster,19,160000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,At least 1 accident or damage reported,15500
+38741,Mercedes-Benz,E-Class E500,19,175722,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,12350
+38835,Mercedes-Benz,S-Class S500,19,167000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8000
+39572,Mercedes-Benz,E-Class E 350 4MATIC,19,191900,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,9750
+39713,Mercedes-Benz,S-Class S500,19,24500,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,38490
+39858,Mercedes-Benz,SL-Class SL500 Roadster,19,80081,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,29800
+40292,Mercedes-Benz,CLK-Class 500 Cabriolet,19,64000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,12999
+40528,Mercedes-Benz,E-Class E500,19,159890,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,8500
+41196,Mercedes-Benz,E-Class E 350 4MATIC,19,120000,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,8100
+41607,Mercedes-Benz,SL-Class SL500 Roadster,19,27407,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,27890
+43810,Mercedes-Benz,SL-Class SL500 Roadster,19,127000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,12000
+44726,Mercedes-Benz,E-Class E500,19,167506,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,9950
+45835,Mercedes-Benz,SL-Class SL500 Roadster,19,175722,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,11995
+46521,Mercedes-Benz,SL-Class SL500 Roadster,19,26190,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,11100
+46938,Mercedes-Benz,SL-Class SL500 Roadster,19,26190,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,22500
+51096,Mercedes-Benz,SL-Class SL500 Roadster,19,126700,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,None reported,13500
+51341,Mercedes-Benz,E-Class E500,19,67350,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,17900
+51911,Mercedes-Benz,SLK-Class SLK320,19,146000,190.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,4495
+52256,Mercedes-Benz,CLK-Class 500 Cabriolet,19,64000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,16000
+52891,Mercedes-Benz,E-Class E 350,19,174000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,7350
+54134,Mercedes-Benz,S-Class S500,19,99000,302.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,None reported,18000

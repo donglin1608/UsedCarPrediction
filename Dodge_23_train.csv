@@ -1,0 +1,12 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+2010,Dodge,Dakota Sport,23,285000,230.0HP 5.2L 8 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,7500
+21585,Dodge,Ram 2500 Quad Cab,23,171079,245.0HP 5.9L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,18000
+22744,Dodge,Ram 2500 Quad Cab,23,171079,245.0HP 5.9L Straight 6 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,18000
+24057,Dodge,Ram 2500 Quad Cab,23,171079,245.0HP 5.9L Straight 6 Cylinder Engine Diesel Fuel,A/T,At least 1 accident or damage reported,12000
+26711,Dodge,Sprinter 2500,23,242000,154.0HP 2.7L 5 Cylinder Engine Diesel Fuel,A/T,None reported,13995
+33977,Dodge,Ram 3500 Quad Cab DRW,23,188000,–,A/T,At least 1 accident or damage reported,8000
+34579,Dodge,Ram 2500 Quad Cab,23,171079,245.0HP 5.9L Straight 6 Cylinder Engine Diesel Fuel,A/T,None reported,6750
+39442,Dodge,Ram 2500 Quad Cab,23,67550,245.0HP 5.9L Straight 6 Cylinder Engine Diesel Fuel,5-Speed A/T,None reported,12000
+45378,Dodge,Ram 2500 Quad Cab,23,102750,345.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,None reported,13900
+51537,Dodge,Ram 1500 SRT-10 Quad Cab,23,73000,500.0HP 8.3L 10 Cylinder Engine Gasoline Fuel,4-Speed A/T,At least 1 accident or damage reported,12000
+52076,Dodge,Ram 2500 Quad Cab,23,171079,245.0HP 5.9L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,9500

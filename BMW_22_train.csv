@@ -1,0 +1,66 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+1945,BMW,M3 Base,22,194000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,4800
+2161,BMW,M3 Base,22,117200,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,10299
+6073,BMW,M3 Base,22,106000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,3499
+7282,BMW,M3 Base,22,118500,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,15000
+7672,BMW,M3 Base,22,155000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,16900
+8981,BMW,Wrangler X,22,162482,190.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,3999
+9430,BMW,M3 Base,22,204884,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15000
+10998,BMW,M3 Base,22,99500,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,29995
+11110,BMW,M3 Base,22,91600,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,10199
+11127,BMW,M3 Base,22,95450,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6099
+11930,BMW,M3 Base,22,110250,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,3990
+12240,BMW,750 Li,22,125470,360.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,28000
+12406,BMW,M3 Base,22,204884,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,21500
+13657,BMW,M3 Base,22,106000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,24000
+15086,BMW,M3 Base,22,52500,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,16000
+15516,BMW,M3 Base,22,117200,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,21000
+18420,BMW,M3 Base,22,131000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,7500
+18660,BMW,M3 Base,22,127273,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,13500
+18910,BMW,M3 Base,22,114500,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,8900
+21919,BMW,M3 Base,22,117200,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,None reported,11500
+22222,BMW,M3 Base,22,60000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,24000
+22705,BMW,M3 Base,22,95450,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,15000
+23937,BMW,M3 Base,22,81000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,9999
+24218,BMW,M3 Base,22,117292,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12300
+25796,BMW,M3 Base,22,141800,240.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,5900
+26958,BMW,M3 Base,22,123500,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12500
+27100,BMW,M3 Base,22,117200,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+27452,BMW,M3 Base,22,204884,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,21500
+28592,BMW,328 i,22,187000,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,5500
+28740,BMW,M3 Base,22,123000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,15999
+29958,BMW,M3 Base,22,117200,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+30326,BMW,M3 Base,22,95450,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,5800
+30478,BMW,340 i,22,80000,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,8500
+30512,BMW,M3 Base,22,117200,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18000
+30762,BMW,M3 Base,22,117200,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,At least 1 accident or damage reported,18000
+34051,BMW,M3 Base,22,95450,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18000
+34554,BMW,M3 Base,22,95450,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,28000
+34595,BMW,M3 Base,22,60000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,24950
+35011,BMW,M3 Base,22,103000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,10900
+37412,BMW,Z4 3.0i Roadster,22,122000,215.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15500
+39353,BMW,M3 Base,22,66500,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,24999
+39679,BMW,M3 Base,22,7800,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28750
+40449,BMW,M3 Base,22,124000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12999
+41357,BMW,M3 Base,22,109000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,12599
+41603,BMW,M3 Base,22,117200,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,2300
+42005,BMW,M3 Base,22,60000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,42000
+43212,BMW,335 i,22,208321,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,At least 1 accident or damage reported,6750
+43706,BMW,M3 Base,22,150000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,18000
+44106,BMW,M3 Base,22,83000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,41400
+44338,BMW,M3 Base,22,98000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,15900
+44353,BMW,M3 Base,22,119900,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28750
+44582,BMW,M3 Base,22,129999,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,4999
+44874,BMW,M3 Base,22,149460,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,12490
+46371,BMW,M3 Base,22,79893,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,33333
+47736,BMW,M3 Base,22,80000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,34000
+47814,BMW,M3 Base,22,204884,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,At least 1 accident or damage reported,21500
+48094,BMW,M3 Base,22,60255,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,28750
+48111,BMW,M3 Base,22,42000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,A/T,None reported,8000
+48571,BMW,M3 Base,22,204884,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,11900
+49016,BMW,M3 Base,22,41000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,50000
+50297,BMW,Z4 3.0i Roadster,22,46508,215.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,None reported,11500
+51036,BMW,M3 Base,22,117200,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,None reported,15000
+51794,BMW,M3 Base,22,184700,240.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,6750
+52769,BMW,M3 Base,22,81000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,4800
+52770,BMW,M3 Base,22,103000,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,None reported,14000

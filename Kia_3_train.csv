@@ -1,0 +1,52 @@
+id,brand,model,model_year,milage,engine,transmission,accident,price
+243,Kia,Sorento SX Prestige,3,41000,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,42500
+1734,Kia,Telluride SX,3,45815,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,37900
+2652,Kia,Telluride SX,3,5541,3.8L V6 24V GDI DOHC,8-Speed Automatic,None reported,90200
+4513,Kia,Stinger GT1,3,8288,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,34500
+4590,Kia,Sorento LX,3,45303,191.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,31750
+6520,Kia,Sorento LX,3,51105,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,42700
+8495,Kia,Sorento SXL,3,54000,290.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,32100
+8842,Kia,Telluride SX,3,100312,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,99900
+9415,Kia,Forte GT-Line,3,24534,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,36500
+10378,Kia,Forte GT-Line,3,14950,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,24000
+11188,Kia,K5 GT-Line,3,22101,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,At least 1 accident or damage reported,21590
+12463,Kia,Sorento LX,3,54200,191.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,21000
+13650,Kia,Telluride EX,3,22101,3.8L V6 24V GDI DOHC,8-Speed Automatic,At least 1 accident or damage reported,47645
+14846,Kia,Sportage SX Turbo,3,1335,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,37405
+14896,Kia,Telluride S,3,14700,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,51000
+15290,Kia,Forte GT-Line,3,17000,147.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,28000
+16603,Kia,Sorento Hybrid EX,3,18500,227.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,41950
+16779,Kia,Sorento LX,3,54200,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,At least 1 accident or damage reported,20800
+17608,Kia,K5 EX,3,5400,180.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,18900
+19023,Kia,Telluride SX,3,13700,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,46995
+20120,Kia,Seltos S,3,16100,146.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,33000
+20585,Kia,Telluride SX,3,13344,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,At least 1 accident or damage reported,41999
+21862,Kia,Forte GT-Line,3,24534,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,25500
+23721,Kia,Sorento LX,3,54200,191.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,None reported,38500
+25267,Kia,Telluride SX,3,61830,3.8L V6 24V GDI DOHC,8-Speed Automatic,None reported,39687
+26463,Kia,Sorento EX,3,53433,191.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,None reported,33900
+27111,Kia,Sportage Nightfall,3,83853,2.4L I4 16V GDI DOHC,8-Speed Automatic,At least 1 accident or damage reported,42242
+28059,Kia,Sorento S,3,22101,2.5L I4 16V PDI DOHC,8-Speed Automatic,None reported,47645
+28780,Kia,Telluride S,3,25500,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,52000
+30068,Kia,Sportage S,3,16949,2.4L I4 16V GDI DOHC,6-Speed Automatic,None reported,23995
+30175,Kia,Seltos S,3,16100,146.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,29999
+32195,Kia,Stinger GT1,3,104000,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,36495
+32308,Kia,Stinger GT1,3,22200,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,44400
+34834,Kia,Sorento Hybrid EX,3,11102,227.0HP 1.6L 4 Cylinder Engine Gas/Electric Hybrid,8-Speed A/T,None reported,59800
+35138,Kia,K5 GT-Line,3,100312,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,14980
+36033,Kia,Telluride SX,3,24423,3.6L V6 24V GDI DOHC,8-Speed Automatic,None reported,44315
+39606,Kia,Telluride SX,3,55400,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,None reported,35000
+39914,Kia,Stinger GT1,3,69100,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,19995
+41967,Kia,Sorento SXL,3,77522,3.3L V6 24V GDI DOHC,8-Speed Automatic,None reported,39995
+42036,Kia,K5 EX,3,69185,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,30919
+44557,Kia,Telluride EX X-Line,3,4820,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,49999
+45983,Kia,Sportage LX,3,8727,2.4L I4 16V GDI DOHC,6-Speed Automatic,None reported,25987
+47460,Kia,Sportage S,3,25240,2.4L I4 16V GDI DOHC,6-Speed Automatic,None reported,39951
+47992,Kia,Forte GT-Line,3,24534,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,At least 1 accident or damage reported,15999
+48487,Kia,K5 GT-Line,3,19877,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,None reported,26990
+49078,Kia,Forte GT-Line,3,14950,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,24999
+49271,Kia,Sorento LX,3,27123,191.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,38200
+51630,Kia,Forte GT-Line,3,24534,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,17000
+52854,Kia,Seltos S,3,5182,146.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,None reported,23000
+53438,Kia,Forte GT-Line,3,24534,147.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,At least 1 accident or damage reported,32750
+53924,Kia,Stinger GT2,3,16100,365.0HP 3.3L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,None reported,36500
